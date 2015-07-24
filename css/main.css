@@ -1,0 +1,85 @@
+html, body {
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+.header {
+  background-color: #fff;
+  padding: 15px;
+}
+
+.header a,
+.header a:visited {
+  color: #444;
+  text-decoration: none;
+}
+
+.header .logo,
+.header .menu li {
+  color: #444;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.header .logo span {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.header .menu {
+  text-align: right;
+}
+
+.header .menu ul {
+  line-height: 34px;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.header .menu li {
+  display: inline;
+  line-height: 34px;
+  margin-left: 20px;
+}
+
+.header .menu i.fa {
+  vertical-align: middle;
+}
+
+/* Main */
+.main {
+  margin-top: 50px;
+}
+
+.main img {
+  width: 100%;
+}
+
+.main .site-name {
+  color: #444;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.main .col-md-4 {
+  margin-bottom: 40px;
+}
+
+@media (min-width:640px) {
+  .main .col-md-4 {
+    margin-bottom: 45px;
+  }
+}
+
+@media (min-width:1020px) {
+  .main .col-md-4 {
+    margin-bottom: 68px;
+  }
+}
