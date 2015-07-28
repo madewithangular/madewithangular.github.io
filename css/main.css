@@ -51,6 +51,16 @@ html, body {
   vertical-align: middle;
 }
 
+.header .github i,
+.header .submit a {
+  display: none;
+}
+
+.header .logo {
+  font-size: 18px;
+}
+
+
 /* Main */
 .main {
   margin-top: 50px;
@@ -65,6 +75,7 @@ html, body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 14px;
   font-weight: 700;
+  padding: 20px 0 40px 0;
   text-transform: uppercase;
 }
 
@@ -75,6 +86,19 @@ html, body {
 @media (min-width:640px) {
   .main .col-md-4 {
     margin-bottom: 45px;
+  }
+
+  .header .github i,
+  .header .submit a {
+    display: inline-block;
+  }
+
+  .header .logo {
+    font-size: 12px;
+  }
+
+  .main .site-name {
+    padding: 0;
   }
 }
 
