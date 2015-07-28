@@ -394,5 +394,32 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-25",
     "tags": []
-  }  
+  },
+  {
+    "name": "Google Retail",
+    "thumb": "/projects/google-retail/thumb.png",
+    "desc": "",
+    "url": "https://www.google.com/retail/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-26",
+    "tags": []
+  },
+  {
+    "name": "MSNBC",
+    "thumb": "/projects/msnbc/thumb.png",
+    "desc": "",
+    "url": "http://www.msnbc.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-27",
+    "tags": []
+  },
+  {
+    "name": "Virgin America",
+    "thumb": "/projects/msnbc/thumb.png",
+    "desc": "",
+    "url": "https://www.virginamerica.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-28",
+    "tags": []
+  }
 ]
