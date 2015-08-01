@@ -1,1 +1,1 @@
-var app = angular.module('mwaApp', []);
+var app = angular.module('mwaApp', ['infinite-scroll']);
