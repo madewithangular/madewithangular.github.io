@@ -1,100 +1,147 @@
 html, body {
-  background-color: #f9f9f9;
+  background-color: #EDEFF3;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
   margin: 0;
   padding: 0;
 }
 
 /* Header */
+
 .header {
   background-color: #fff;
-  padding: 15px;
+  padding: 15px 0;
+  text-align: center;
 }
 
-.header a,
-.header a:visited {
-  color: #444;
-  text-decoration: none;
+.header img {
+  width: 30px;
 }
-
-.header .logo,
-.header .menu li {
-  color: #444;
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 12px;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
-.header .logo span {
-  display: inline-block;
-  margin-left: 10px;
-}
-
-.header .menu {
-  text-align: right;
-}
-
-.header .menu ul {
-  line-height: 34px;
-  list-style: none;
-  margin: 0;
-  padding-left: 0;
-}
-
-.header .menu li {
-  display: inline;
-  line-height: 34px;
-  margin-left: 20px;
-}
-
-.header .menu i.fa {
-  vertical-align: middle;
-}
-
-.header .github i,
-.header .submit a {
-  display: none;
-}
-
 
 /* Main */
 .main {
-  margin-top: 50px;
+  background-color: #BF2626;
+  color: #fff;
+  padding: 30px 0 40px 0;
+  text-align: center;
 }
 
-.main img {
+.main h1,
+.main h2 {
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+}
+
+.main h1 {
+  font-size: 687.5%;
+}
+
+.main h2 {
+  font-size: 250%;
+  margin-top: 10px;
+}
+
+/* Sites */
+
+.sites {
+  margin-top: 32px;
+}
+
+.sites section {
+  background-color: #fff;
+  border-radius: 3px;
+  margin: 0 2.5% 30px 2.5%;
+}
+
+.sites section header {
+  margin: 0 18px;
+}
+
+.sites section header h3 {
+  color: rbga(51, 51, 51);
+  font-size: 30px;
+  font-weight: 100;
+  margin: 0;
+  padding: 21px 0;
+}
+
+.sites section .media img {
+  border-top: 1px solid #e1e1e1;
+  border-bottom: 1px solid #e1e1e1;
   width: 100%;
 }
 
-.main .site-name {
-  color: #444;
-  font-family: 'Droid Sans', sans-serif;
+.sites section footer {
+  color: rbga(51, 51, 51);
   font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: 300;
+  padding: 14px 5%;
 }
 
-.main .col-md-4 {
-  margin-bottom: 40px;
+/* Footer */
+
+footer {
+  display: flex;
 }
 
-@media (min-width:640px) {
-  .main .col-md-4 {
-    margin-bottom: 45px;
-  }
-
-  .header .github i,
-  .header .submit a {
-    display: inline-block;
-  }
-  
-  .main .site-name {
-    padding: 0;
-  }
+footer .share,
+footer .visit {
+  flex: 0 0 50%;
 }
 
-@media (min-width:1020px) {
-  .main .col-md-4 {
-    margin-bottom: 68px;
+footer .share,
+footer .share a,
+footer .share a:visited {
+  color: rgb(66, 133, 244);
+  text-decoration: none;
+}
+
+footer .share i {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+footer .visit i {
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+footer .visit,
+footer .visit a,
+footer .visit a:visited {
+  color: #999;
+  text-align: right;
+  text-decoration: none;
+}
+
+/* Responsive */
+
+@media (min-width: 766px) {
+  .container {
+    max-width: 1020px;
+    margin: 0 auto;
+  }
+
+  .sites .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .sites .row .col {
+    flex: 0 0 48%;
+  }
+
+  .sites section {
+    margin: 0 1% 30px 1%;
+  }
+
+  .sites section header h3 {
+    font-size: 46px;
+  } 
+
+  .sites section footer {
+    font-size: 18px;
+    padding: 21px 5%;
   }
 }
