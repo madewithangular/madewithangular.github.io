@@ -1,7 +1,7 @@
 [
   {
     "name": "August",
-    "thumb": "/projects/august/thumb.png",
+    "thumb": "/projects/august/thumb.webp",
     "desc": "",
     "url": "https://www.agst.co/",
     "submitter": "lpolepeddi",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Defringe",
-    "thumb": "/projects/defringe/thumb.png",
+    "thumb": "/projects/defringe/thumb.webp",
     "desc": "",
     "url": "http://www.defringe.com/",
     "submitter": "lpolepeddi",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Abby Seymour",
-    "thumb": "/projects/abby-seymour/thumb.png",
+    "thumb": "/projects/abby-seymour/thumb.webp",
     "desc": "",
     "url": "http://abbyseymour.com/",
     "submitter": "lpolepeddi",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Invoke Media",
-    "thumb": "/projects/invoke-media/thumb.png",
+    "thumb": "/projects/invoke-media/thumb.webp",
     "desc": "",
     "url": "http://www.invokemedia.com/",
     "submitter": "lpolepeddi",
@@ -37,7 +37,7 @@
   },
   {
     "name": "ETQ Amsterdam",
-    "thumb": "/projects/etq-amsterdam/thumb.png",
+    "thumb": "/projects/etq-amsterdam/thumb.webp",
     "desc": "",
     "url": "http://www.etq-amsterdam.com/",
     "submitter": "lpolepeddi",
@@ -46,7 +46,7 @@
   },
   {
     "name": "PRPL",
-    "thumb": "/projects/prpl/thumb.png",
+    "thumb": "/projects/prpl/thumb.webp",
     "desc": "",
     "url": "http://purplerockscissors.com/",
     "submitter": "lpolepeddi",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Android - Which Phone",
-    "thumb": "/projects/android-which-phone/thumb.png",
+    "thumb": "/projects/android-which-phone/thumb.webp",
     "desc": "",
     "url": "https://whichphone.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Munchery",
-    "thumb": "/projects/munchery/thumb.png",
+    "thumb": "/projects/munchery/thumb.webp",
     "desc": "",
     "url": "https://munchery.com",
     "submitter": "lpolepeddi",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Google Education on Air",
-    "thumb": "/projects/google-education-on-air/thumb.png",
+    "thumb": "/projects/google-education-on-air/thumb.webp",
     "desc": "",
     "url": "https://educationonair.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Relative Wave",
-    "thumb": "/projects/relative-wave/thumb.png",
+    "thumb": "/projects/relative-wave/thumb.webp",
     "desc": "",
     "url": "http://www.relativewave.com/form/",
     "submitter": "lpolepeddi",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Interstellar",
-    "thumb": "/projects/interstellar/thumb.png",
+    "thumb": "/projects/interstellar/thumb.webp",
     "desc": "",
     "url": "https://interstellar.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Bon Appétit",
-    "thumb": "/projects/bon-appetit/thumb.png",
+    "thumb": "/projects/bon-appetit/thumb.webp",
     "desc": "",
     "url": "http://www.bonappetit.com",
     "submitter": "lpolepeddi",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Google Cloud Platform Webinars",
-    "thumb": "/projects/google-cloud-platform-webinars/thumb.png",
+    "thumb": "/projects/google-cloud-platform-webinars/thumb.webp",
     "desc": "",
     "url": "https://cloudwebinars.withgoogle.com",
     "submitter": "lpolepeddi",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Happy Holidays from Google",
-    "thumb": "/projects/happy-holidays-from-google/thumb.png",
+    "thumb": "/projects/happy-holidays-from-google/thumb.webp",
     "desc": "",
     "url": "https://happyholidays.withgoogle.com",
     "submitter": "lpolepeddi",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Best Buy Trade-In",
-    "thumb": "/projects/best-buy-trade-in/thumb.png",
+    "thumb": "/projects/best-buy-trade-in/thumb.webp",
     "desc": "",
     "url": "http://tradein.bestbuy.com/client/#/catalog",
     "submitter": "lpolepeddi",
@@ -136,7 +136,7 @@
   },
   {
     "name": "The Cube",
-    "thumb": "/projects/the-cube/thumb.png",
+    "thumb": "/projects/the-cube/thumb.webp",
     "desc": "",
     "url": "https://cube.withgoogle.com",
     "submitter": "lpolepeddi",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Upwork",
-    "thumb": "/projects/upwork/thumb.png",
+    "thumb": "/projects/upwork/thumb.webp",
     "desc": "",
     "url": "https://www.upwork.com",
     "submitter": "lpolepeddi",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Google Quantum Computing Playground",
-    "thumb": "/projects/google-quantum-computing-playground/thumb.png",
+    "thumb": "/projects/google-quantum-computing-playground/thumb.webp",
     "desc": "",
     "url": "http://qcplayground.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Crafted by Love",
-    "thumb": "/projects/crafted-by-love/thumb.png",
+    "thumb": "/projects/crafted-by-love/thumb.webp",
     "desc": "",
     "url": "http://www.craftedbylove.com/",
     "submitter": "lpolepeddi",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Google Atmosphere",
-    "thumb": "/projects/google-atmosphere/thumb.png",
+    "thumb": "/projects/google-atmosphere/thumb.webp",
     "desc": "",
     "url": "https://atmosphere.withgoogle.com",
     "submitter": "lpolepeddi",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Elevate",
-    "thumb": "/projects/elevate/thumb.png",
+    "thumb": "/projects/elevate/thumb.webp",
     "desc": "",
     "url": "http://elevateapp.com",
     "submitter": "lpolepeddi",
@@ -190,7 +190,7 @@
   },
   {
     "name": "Google for Education Products",
-    "thumb": "/projects/google-for-education-products/thumb.png",
+    "thumb": "/projects/google-for-education-products/thumb.webp",
     "desc": "",
     "url": "https://eduproducts.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Salesforce1 Styleguide",
-    "thumb": "/projects/salesforce1-styleguide/thumb.png",
+    "thumb": "/projects/salesforce1-styleguide/thumb.webp",
     "desc": "",
     "url": "http://sfdc-styleguide.herokuapp.com/",
     "submitter": "lpolepeddi",
@@ -208,7 +208,7 @@
   },
   {
     "name": "Google Partners",
-    "thumb": "/projects/google-partners/thumb.png",
+    "thumb": "/projects/google-partners/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/partners",
     "submitter": "lpolepeddi",
@@ -217,7 +217,7 @@
   },
   {
     "name": "iStockphoto",
-    "thumb": "/projects/istockphoto/thumb.png",
+    "thumb": "/projects/istockphoto/thumb.webp",
     "desc": "",
     "url": "http://www.istockphoto.com",
     "submitter": "lpolepeddi",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Chinese New Year",
-    "thumb": "/projects/chinese-new-year/thumb.png",
+    "thumb": "/projects/chinese-new-year/thumb.webp",
     "desc": "",
     "url": "https://chinesenewyear.withgoogle.com",
     "submitter": "lpolepeddi",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Virgin America Elevate",
-    "thumb": "/projects/virgin-america-elevate/thumb.png",
+    "thumb": "/projects/virgin-america-elevate/thumb.webp",
     "desc": "",
     "url": "https://www.virginamerica.com/cms/elevate-frequent-flyer",
     "submitter": "lpolepeddi",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Google AdMob",
-    "thumb": "/projects/google-admob/thumb.png",
+    "thumb": "/projects/google-admob/thumb.webp",
     "desc": "",
     "url": "http://www.google.com/intl/en/admob/",
     "submitter": "lpolepeddi",
@@ -253,7 +253,7 @@
   },
   {
     "name": "GoDaddy",
-    "thumb": "/projects/godaddy/thumb.png",
+    "thumb": "/projects/godaddy/thumb.webp",
     "desc": "",
     "url": "https://www.godaddy.com",
     "submitter": "lpolepeddi",
@@ -262,7 +262,7 @@
   },
   {
     "name": "Google Apps for Work",
-    "thumb": "/projects/google-apps-for-work/thumb.png",
+    "thumb": "/projects/google-apps-for-work/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/intx/en/work/apps/business/index.html",
     "submitter": "lpolepeddi",
@@ -271,7 +271,7 @@
   },
   {
     "name": "The Weather Channel",
-    "thumb": "/projects/the-weather-channel/thumb.png",
+    "thumb": "/projects/the-weather-channel/thumb.webp",
     "desc": "",
     "url": "http://www.weather.com/",
     "submitter": "lpolepeddi",
@@ -280,7 +280,7 @@
   },
   {
     "name": "DevArt. Art made with code.",
-    "thumb": "/projects/devart/thumb.png",
+    "thumb": "/projects/devart/thumb.webp",
     "desc": "",
     "url": "https://devart.withgoogle.com/",
     "submitter": "lpolepeddi",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Front",
-    "thumb": "/projects/front/thumb.png",
+    "thumb": "/projects/front/thumb.webp",
     "desc": "",
     "url": "https://frontapp.com/",
     "submitter": "lpolepeddi",
@@ -298,7 +298,7 @@
   },
   {
     "name": "Google Cloud Platform",
-    "thumb": "/projects/google-cloud-platform/thumb.png",
+    "thumb": "/projects/google-cloud-platform/thumb.webp",
     "desc": "",
     "url": "https://cloud.google.com/",
     "submitter": "lpolepeddi",
@@ -307,7 +307,7 @@
   },
   {
     "name": "Walgreens",
-    "thumb": "/projects/walgreens/thumb.png",
+    "thumb": "/projects/walgreens/thumb.webp",
     "desc": "",
     "url": "http://www.walgreens.com/",
     "submitter": "lpolepeddi",
@@ -316,7 +316,7 @@
   },
   {
     "name": "Google for Education",
-    "thumb": "/projects/google-for-education/thumb.png",
+    "thumb": "/projects/google-for-education/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/edu/",
     "submitter": "lpolepeddi",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Google Cloud Playground",
-    "thumb": "/projects/google-cloud-playground/thumb.png",
+    "thumb": "/projects/google-cloud-playground/thumb.webp",
     "desc": "",
     "url": "https://cloud-playground.appspot.com/playground/",
     "submitter": "lpolepeddi",
@@ -334,7 +334,7 @@
   },
   {
     "name": "Lynda.com",
-    "thumb": "/projects/lynda/thumb.png",
+    "thumb": "/projects/lynda/thumb.webp",
     "desc": "",
     "url": "http://www.lynda.com/",
     "submitter": "lpolepeddi",
@@ -343,7 +343,7 @@
   },
   {
     "name": "Google Apps Learning Center",
-    "thumb": "/projects/google-apps-learning-center/thumb.png",
+    "thumb": "/projects/google-apps-learning-center/thumb.webp",
     "desc": "",
     "url": "http://learn.googleapps.com/",
     "submitter": "lpolepeddi",
@@ -352,7 +352,7 @@
   },
   {
     "name": "Udacity",
-    "thumb": "/projects/udacity/thumb.png",
+    "thumb": "/projects/udacity/thumb.webp",
     "desc": "",
     "url": "https://www.udacity.com",
     "submitter": "lpolepeddi",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Google Analytics",
-    "thumb": "/projects/google-analytics/thumb.png",
+    "thumb": "/projects/google-analytics/thumb.webp",
     "desc": "",
     "url": "http://www.google.com/analytics/",
     "submitter": "lpolepeddi",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Google Trends",
-    "thumb": "/projects/google-trends/thumb.png",
+    "thumb": "/projects/google-trends/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/trends/",
     "submitter": "lpolepeddi",
@@ -379,7 +379,7 @@
   },
   {
     "name": "Google Insights",
-    "thumb": "/projects/google-insights/thumb.png",
+    "thumb": "/projects/google-insights/thumb.webp",
     "desc": "",
     "url": "http://www.google.com/insights/",
     "submitter": "lpolepeddi",
@@ -388,7 +388,7 @@
   },
   {
     "name": "Google Cast",
-    "thumb": "/projects/google-cast/thumb.png",
+    "thumb": "/projects/google-cast/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/cast/",
     "submitter": "lpolepeddi",
@@ -397,7 +397,7 @@
   },
   {
     "name": "Google Retail",
-    "thumb": "/projects/google-retail/thumb.png",
+    "thumb": "/projects/google-retail/thumb.webp",
     "desc": "",
     "url": "https://www.google.com/retail/",
     "submitter": "lpolepeddi",
@@ -406,7 +406,7 @@
   },
   {
     "name": "MSNBC",
-    "thumb": "/projects/msnbc/thumb.png",
+    "thumb": "/projects/msnbc/thumb.webp",
     "desc": "",
     "url": "http://www.msnbc.com",
     "submitter": "lpolepeddi",
@@ -415,7 +415,7 @@
   },
   {
     "name": "Virgin America",
-    "thumb": "/projects/virgin-america/thumb.png",
+    "thumb": "/projects/virgin-america/thumb.webp",
     "desc": "",
     "url": "https://www.virginamerica.com",
     "submitter": "lpolepeddi",
@@ -424,7 +424,7 @@
   },
   {
     "name": "Apartment Ratings",
-    "thumb": "/projects/apartment-ratings/thumb.png",
+    "thumb": "/projects/apartment-ratings/thumb.webp",
     "desc": "",
     "url": "http://www.apartmentratings.com/",
     "submitter": "lpolepeddi",
@@ -433,7 +433,7 @@
   },
   {
     "name": "United Airlines Flight Checkin",
-    "thumb": "/projects/united-airlines-flight-checkin/thumb.png",
+    "thumb": "/projects/united-airlines-flight-checkin/thumb.webp",
     "desc": "",
     "url": "https://www.united.com/travel/checkin/",
     "submitter": "lpolepeddi",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Google Tag Manager",
-    "thumb": "/projects/google-tag-manager/thumb.png",
+    "thumb": "/projects/google-tag-manager/thumb.webp",
     "desc": "",
     "url": "https://tagmanager.google.com/",
     "submitter": "lpolepeddi",
@@ -451,7 +451,7 @@
   },
   {
     "name": "YouTube Video Manager",
-    "thumb": "/projects/youtube-video-manager/thumb.png",
+    "thumb": "/projects/youtube-video-manager/thumb.webp",
     "desc": "",
     "url": "https://www.youtube.com/my_videos",
     "submitter": "lpolepeddi",
@@ -460,7 +460,7 @@
   },
   {
     "name": "Google Tips",
-    "thumb": "/projects/google-tips/thumb.png",
+    "thumb": "/projects/google-tips/thumb.webp",
     "desc": "",
     "url": "https://get.google.com/tips/",
     "submitter": "lpolepeddi",
