@@ -421,5 +421,50 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-28",
     "tags": []
+  },
+  {
+    "name": "Apartment Ratings",
+    "thumb": "/projects/apartment-ratings/thumb.png",
+    "desc": "",
+    "url": "http://www.apartmentratings.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-29",
+    "tags": []
+  },
+  {
+    "name": "United Airlines Flight Checkin",
+    "thumb": "/projects/united-airlines-flight-checkin/thumb.png",
+    "desc": "",
+    "url": "https://www.united.com/travel/checkin/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-30",
+    "tags": []
+  },
+  {
+    "name": "Google Tag Manager",
+    "thumb": "/projects/google-tag-manager/thumb.png",
+    "desc": "",
+    "url": "https://tagmanager.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-30",
+    "tags": []
+  },
+  {
+    "name": "YouTube Video Manager",
+    "thumb": "/projects/youtube-video-manager/thumb.png",
+    "desc": "",
+    "url": "https://www.youtube.com/my_videos",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-31",
+    "tags": []
+  },
+  {
+    "name": "Google Tips",
+    "thumb": "/projects/google-tips/thumb.png",
+    "desc": "",
+    "url": "https://get.google.com/tips/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-01",
+    "tags": []
   }
 ]
