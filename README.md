@@ -1,11 +1,11 @@
-# Made With AngularJS
+ls# Made With AngularJS
 
 A showcase of web apps built with AngularJS
 
 ## Submit a site
 
 1. Fork this repository
-2. Add a 720x400 thumbnail image to projects/[yourprojectnamehere]/thumb.png
+2. Add a 1280x711 thumbnail image to projects/[yourprojectnamehere]/thumb.png
 3. Add an entry to projects/projects.json with these properties:
 
     ```
