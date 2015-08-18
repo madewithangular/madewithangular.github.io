@@ -502,5 +502,14 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-10",
     "tags": []
+  },
+  {
+    "name": "Dareboost",
+    "thumb": "/projects/dareboost/thumb.png",
+    "desc": "Website Speed and Quality Test Tool",
+    "url": "https://www.dareboost.com/",
+    "submitter": "dareboost",
+    "submissionDate": "2015-08-13",
+    "tags": []
   }
 ]
