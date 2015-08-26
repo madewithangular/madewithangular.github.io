@@ -1,4 +1,4 @@
-ls# Made With AngularJS
+# Made With AngularJS
 
 A showcase of web apps built with AngularJS
 
