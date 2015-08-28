@@ -18,7 +18,7 @@ html, body {
 .main {
   background-color: #BF2626;
   color: #fff;
-  padding: 30px 0 40px 0;
+  padding: 30px 0 0 0;
   text-align: center;
 }
 
@@ -36,6 +36,19 @@ html, body {
 .main h2 {
   font-size: 250%;
   margin-top: 10px;
+}
+
+.categories {
+  border-top: 1px solid #fff;
+  margin-top: 50px;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 20px 0;
+  text-align: left;
+}
+
+.categories .container {
+  padding: 0px 2.5% 0 2.5%;
 }
 
 /* Sites */
@@ -126,6 +139,12 @@ footer .visit a:visited {
 
   .sites .row .col {
     flex: 0 0 48%;
+  }
+
+  .categories .container {
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 0 1%;
   }
 
   .sites section {
