@@ -1,0 +1,46 @@
+<div class="main">
+  <div class="container">
+    <h1>{{ all_projects.length }} sites</h1>
+    <h2 ng-hide="menu.category">made with Angular</h2>
+    <h2 ng-show="menu.category">for {{ menu.category }} that use Angular</h2>
+  </div>
+
+  <div class="categories">
+    <div class="container">
+      <!-- <form name="categoryForm">
+        <select name="category" ng-model="menu.category">
+          <option ng-repeat="option in menu.availableCategories" value="{{option.name}}">{{option.name}}</option> 
+        </select>
+      </form> -->
+    </div>
+  </div>
+</div>
+
+<div class="sites">
+  <div class="container row" infinite-scroll="nextPage()" infinite-scroll-distance="1">
+    <section class="col" ng-repeat="project in projects | orderBy:'-submissionDate'">
+      <article>
+        <header>
+          <h3>{{ project.name }}</h3>
+        </header>
+        <div class="media">
+          <img ng-src="{{ project.thumb }}" alt="{{ project.name }} is made with Angular" />
+        </div>
+      </article>
+      <footer>
+        <div class="share">
+          <a href="https://twitter.com/share?url={{ project.url }}&text={{ project.name }} is made with Angular, via @madewithangular&hashtags=Angular" target="_blank">
+            <i class="material-icons">share</i>
+            <span>Share this site</span>
+          </a>
+        </div>
+        <div class="visit">
+          <a href="{{ project.url }}" target=_"blank">
+            <span>Visit</span>
+            <i class="material-icons">arrow_forward</i>
+          </a>
+        </div>
+      </footer>
+    </section>
+  </div>
+</div>
