@@ -1,6 +1,39 @@
-app.controller('HomeController', ['$scope', 'projects', function($scope, projects) {
+app.controller('HomeController', ['$scope', 'projects', '$routeParams', function($scope, projects, $routeParams) {
   projects.success(function(data) {
-    $scope.all_projects = data.reverse();
+    
+    $scope.availableCategories = [
+      {name: 'Google', tag: 'google'},
+      {name: 'Business', tag: 'business'},
+      {name: 'Communication', tag: 'communication'},
+      {name: 'Education', tag: 'education'},
+      {name: 'Lifesyle', tag: 'lifestyle'},
+      {name: 'Media & Video', tag: 'media-video'},
+      {name: 'News & Magazines', tag: 'news-magazines'},
+      {name: 'Photography', tag: 'photography'},
+      {name: 'Shopping', tag: 'shopping'},
+      {name: 'Tools', tag: 'tools'},
+      {name: 'Travel & Local', tag: 'travel-local'},
+      {name: 'Weather', tag: 'weather'}
+    ];
+    $scope.category = $routeParams.category;
+    $scope.categoryName = "";
+    for (var i=0; i<$scope.availableCategories.length; i++) {
+      if($scope.availableCategories[i].tag === $scope.category) {
+        $scope.categoryName = $scope.availableCategories[i].name;
+      }
+    }
+
+    $scope.all_projects = []
+    if($scope.category) {
+      for(var i=0; i<data.length; i++) {
+        if(data[i].tags.indexOf($scope.category) > -1) {
+          $scope.all_projects.push(data[i])
+        }
+      }
+    }
+    else {
+      $scope.all_projects = data.reverse();
+    }
 
     $scope.offset = 0;
     $scope.limit = 10;
@@ -14,24 +47,6 @@ app.controller('HomeController', ['$scope', 'projects', function($scope, project
         $scope.projects = $scope.projects.concat(nextProjects);
       }
     }
-
-    $scope.menu = {
-      category: null,
-      availableCategories: [
-        {name: 'Google', tag: 'google', preposition: 'by'},
-        {name: 'Business', tag: 'business', preposition: 'for'},
-        {name: 'Communication', tag: 'communication', preposition: 'for'},
-        {name: 'Education', tag: 'education', preposition: 'for'},
-        {name: 'Lifesyle', tag: 'lifestyle', preposition: 'for'},
-        {name: 'Media & Video', tag: 'media-video', preposition: 'for'},
-        {name: 'News & Magazines', tag: 'news-magazines', preposition: 'for'},
-        {name: 'Photography', tag: 'photography', preposition: 'for'},
-        {name: 'Shopping', tag: 'shopping', preposition: 'for'},
-        {name: 'Tools', tag: 'tools', preposition: 'for'},
-        {name: 'Travel & Local', tag: 'travel-local', preposition: 'for'},
-        {name: 'Weather', tag: 'weather', preposition: 'for'}
-      ]
-    }
-
   });
+
 }]);

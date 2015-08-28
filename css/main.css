@@ -4,6 +4,13 @@ html, body {
   font-size: 16px;
   margin: 0;
   padding: 0;
+  height: 100%;
+}
+
+a,
+a:visited {
+  color: rgb(66, 133, 244);
+  text-decoration: none;
 }
 
 /* Header */
@@ -15,21 +22,30 @@ html, body {
 }
 
 /* Main */
-.main {
+.main, .about-header {
   background-color: #BF2626;
   color: #fff;
-  padding: 30px 0 0 0;
   text-align: center;
 }
 
+.main {
+  padding: 30px 0 0 0;
+}
+
+.about-header {
+  padding: 30px 0;
+}
+
 .main h1,
+.about-header h1,
 .main h2 {
   font-weight: 100;
   margin: 0;
   padding: 0;
 }
 
-.main h1 {
+.main h1,
+.about-header h1 {
   font-size: 687.5%;
 }
 
@@ -47,14 +63,40 @@ html, body {
   text-align: left;
 }
 
-.categories .container {
+.categories .container,
+.footer .container,
+.about-content .container {
   padding: 0px 2.5% 0 2.5%;
+}
+
+.categories p {
+  margin: 0;
+}
+
+.arrow-bottom {
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #fff;
+  display: inline-block;
+  height: 0;
+  margin-left: 3px;
+  width: 0;
 }
 
 /* Sites */
 
 .sites {
   margin-top: 32px;
+}
+
+.sites {
+  min-height: 100%;
+  margin-bottom: -40px;
+}
+
+.sites:after {
+  content: "";
+  display: block;
 }
 
 .sites section {
@@ -88,7 +130,7 @@ html, body {
   padding: 14px 5%;
 }
 
-/* Footer */
+/* Card footer */
 
 footer {
   display: flex;
@@ -97,13 +139,6 @@ footer {
 footer .share,
 footer .visit {
   flex: 0 0 50%;
-}
-
-footer .share,
-footer .share a,
-footer .share a:visited {
-  color: rgb(66, 133, 244);
-  text-decoration: none;
 }
 
 footer .share i {
@@ -124,6 +159,55 @@ footer .visit a:visited {
   text-decoration: none;
 }
 
+/* Site footer */
+
+.footer {
+  background-color: #eee;
+  border-top: 1px solid #d8d8d8
+}
+
+.footer,
+.sites:after {
+  height: 40px;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.footer li {
+  display: inline;
+  font-size: 11px;
+  margin-right: 10px;
+}
+
+.footer li a,
+.footer li a:visited {
+  text-decoration: none;
+  color: #2196f3;
+}
+
+/* About */
+
+.about-content {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.about-content h3 {
+  font-size: 25px;
+  margin: 50px 0 5px 0;
+}
+
+.about-content p,
+.about-content ul {
+  font-weight: 100;
+  font-size: 18px;
+}
+
+
 /* Responsive */
 
 @media (min-width: 766px) {
@@ -141,7 +225,9 @@ footer .visit a:visited {
     flex: 0 0 48%;
   }
 
-  .categories .container {
+  .categories .container,
+  .footer .container,
+  .about-content .container {
     max-width: 1000px;
     margin: 0px auto;
     padding: 0 1%;

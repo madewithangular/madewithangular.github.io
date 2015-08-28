@@ -6,6 +6,14 @@ app.config(['$routeProvider', function ($routeProvider) {
       controller: "HomeController",
       templateUrl: "views/home.html"
     })
+    .when('/categories/:category', {
+      controller: 'HomeController',
+      templateUrl: 'views/home.html'
+    })
+    .when('/about', {
+      controller: "AboutController",
+      templateUrl: "views/about.html"
+    })
     .otherwise({
       redirectTo: '/'
     });
