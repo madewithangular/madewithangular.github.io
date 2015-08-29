@@ -1,6 +1,6 @@
-# Made With AngularJS
+# Made With Angular
 
-A showcase of web apps built with AngularJS
+A showcase of web apps built with Angular
 
 ## Submit a site
 
