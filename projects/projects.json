@@ -33,7 +33,7 @@
     "url": "http://www.invokemedia.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-12",
-    "tags": []
+    "tags": ["media-video"]
   },
   {
     "name": "ETQ Amsterdam",
@@ -51,7 +51,7 @@
     "url": "http://purplerockscissors.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-14",
-    "tags": []
+    "tags": ["media-video"]
   },
   {
     "name": "Android - Which Phone",
@@ -60,7 +60,7 @@
     "url": "https://whichphone.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-15",
-    "tags": ["google"]
+    "tags": ["google", "productivity", "lifestyle"]
   },
   {
     "name": "Munchery",
@@ -168,7 +168,7 @@
     "url": "http://www.craftedbylove.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-27",
-    "tags": []
+    "tags": ["media-video"]
   },
   {
     "name": "Google Atmosphere",
