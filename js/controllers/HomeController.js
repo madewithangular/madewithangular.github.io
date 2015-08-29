@@ -15,6 +15,8 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
       {name: 'Travel & Local', tag: 'travel-local'},
       {name: 'Weather', tag: 'weather'}
     ];
+    
+    // routing
     $scope.category = $routeParams.category;
     $scope.categoryName = "";
     for (var i=0; i<$scope.availableCategories.length; i++) {
@@ -23,6 +25,7 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
       }
     }
 
+    // if a category is selected, filter projects on tags
     $scope.all_projects = []
     if($scope.category) {
       for(var i=0; i<data.length; i++) {
@@ -35,11 +38,12 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
       $scope.all_projects = data.reverse();
     }
 
+    // infinite scroll
     $scope.offset = 0;
     $scope.limit = 10;
 
     $scope.projects = $scope.all_projects.slice($scope.offset, $scope.limit);
-
+    
     $scope.nextPage = function() {
       $scope.offset += $scope.limit;
       if($scope.offset < $scope.all_projects.length) {

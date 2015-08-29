@@ -15,14 +15,16 @@
 
   <div class="categories">
     <div class="container">
-      <a href="">Categories <span class="arrow-bottom"></span></a>
-      <!-- <p ng-show="categoryName">{{ categoryName }} <img src="img/ic_close_24px.svg"></p> -->
-      
-      <!-- <ul>
-        <li ng-repeat="option in availableCategories">
-          <a href="#/categories/{{option.tag}}">{{option.name}}</a>
+      <ul>
+        <li id="categories-menu">
+          <span ng-hide="category">Categories</span> <span ng-show="category">{{ categoryName }}</span> <span class="arrow-bottom"></span> <span ng-show="category"><a href="#/" class="clear-category">Clear</a></span>
+          <ul id="categories-dropdown">
+            <li ng-repeat="option in availableCategories">
+              <a href="#/categories/{{option.tag}}">{{option.name}}</a>
+            </li>
+          </ul>
         </li>
-      </ul> -->
+      </ul>
     </div>
   </div>
 </div>
@@ -35,7 +37,7 @@
           <h3>{{ project.name }}</h3>
         </header>
         <div class="media">
-          <img ng-src="{{ project.thumb }}" alt="{{ project.name }} is made with Angular" />
+          <img ng-src="{{ project.thumb }}" alt="{{ project.name }} is made with Angular" width="100%" />
         </div>
       </article>
       <footer>
@@ -66,3 +68,5 @@
     </ul>
   </div>
 </div>
+
+<script> $('#categories-menu').click( function(event){event.stopPropagation(); $('#categories-dropdown').toggle(); }); $(document).click( function(){$('#categories-dropdown').hide(); }); </script>
