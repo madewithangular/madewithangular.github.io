@@ -529,5 +529,14 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-25",
     "tags": ["communication"]
+  },
+  {
+    "name": "Genius",
+    "thumb": "/projects/genius/thumb.webp",
+    "desc": "",
+    "url": "http://genius.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-29",
+    "tags": ["music-audio"]
   }
 ]

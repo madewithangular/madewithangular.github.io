@@ -8,6 +8,7 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
       {name: 'Education', tag: 'education'},
       {name: 'Lifesyle', tag: 'lifestyle'},
       {name: 'Media & Video', tag: 'media-video'},
+      {name: 'Music & Audio', tag: 'music-audio'},
       {name: 'News & Magazines', tag: 'news-magazines'},
       {name: 'Photography', tag: 'photography'},
       {name: 'Shopping', tag: 'shopping'},
