@@ -3,6 +3,7 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
     
     $scope.availableCategories = [
       {name: 'Google', tag: 'google'},
+      {name: 'Books & Reference', tag: 'books-reference'},
       {name: 'Business', tag: 'business'},
       {name: 'Communication', tag: 'communication'},
       {name: 'Education', tag: 'education'},

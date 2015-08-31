@@ -540,6 +540,24 @@
     "tags": ["music-audio"]
   },
   {
+    "name": "Ancestry.com",
+    "thumb": "/projects/ancestry/thumb.webp",
+    "desc": "",
+    "url": "http://home.ancestry.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["books-reference"]
+  },
+  {
+    "name": "OpenTable",
+    "thumb": "/projects/opentable/thumb.webp",
+    "desc": "",
+    "url": "https://my.opentable.com/profile/info",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["lifestyle"]
+  },
+  {
     "name": "Forbes",
     "thumb": "/projects/forbes/thumb.webp",
     "desc": "",
@@ -547,5 +565,14 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
     "tags": ["news-magazines"]
+  },
+  {
+    "name": "Amazon",
+    "thumb": "/projects/amazon/thumb.webp",
+    "desc": "",
+    "url": "https://www.amazon.com/mn/dcw/myx.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["books-reference"]
   }
 ]
