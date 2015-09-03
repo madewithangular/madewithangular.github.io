@@ -1,14 +1,5 @@
 [
   {
-    "name": "GetHuman",
-    "thumb": "/projects/gethuman/thumb.webp",
-    "desc": "Taking the pain out of customer service",
-    "url": "https://gethuman.com",
-    "submitter": "jeffwhelpley",
-    "submissionDate": "2015-09-01",
-    "tags": ["productivity", "help"]
-  },
-  {
     "name": "August",
     "thumb": "/projects/august/thumb.webp",
     "desc": "",
@@ -583,5 +574,14 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
     "tags": ["books-reference"]
+  },
+  {
+    "name": "GetHuman",
+    "thumb": "/projects/gethuman/thumb.webp",
+    "desc": "Taking the pain out of customer service",
+    "url": "https://gethuman.com",
+    "submitter": "jeffwhelpley",
+    "submissionDate": "2015-09-01",
+    "tags": ["productivity"]
   }
 ]
