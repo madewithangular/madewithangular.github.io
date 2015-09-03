@@ -12,6 +12,7 @@ app.controller('HomeController', ['$scope', 'projects', '$routeParams', function
       {name: 'Music & Audio', tag: 'music-audio'},
       {name: 'News & Magazines', tag: 'news-magazines'},
       {name: 'Photography', tag: 'photography'},
+      {name: 'Productivity', tag: 'productivity'},
       {name: 'Shopping', tag: 'shopping'},
       {name: 'Tools', tag: 'tools'},
       {name: 'Travel & Local', tag: 'travel-local'},
