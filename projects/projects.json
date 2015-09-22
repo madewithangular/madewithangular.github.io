@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Playlyfe",
+    "thumb": "/projects/playlyfe/thumb.png",
+    "desc": "Playlyfe is an online gamification platform",
+    "url": "https://playlyfe.com",
+    "submitter": "kumarharsh",
+    "submissionDate": "2015-09-22",
+    "tags": ["engagement", "tools"]
   }
 ]
