@@ -583,5 +583,23 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Rubedo Documentation Center",
+    "thumb": "/projects/rubedo-cms-doc/thumb.png",
+    "desc": "Documentation center for Rubedo CMS and eCommerce",
+    "url": "http://docs.rubedo-project.org/en/",
+    "submitter": "goncalvesm",
+    "submissionDate": "2015-09-23",
+    "tags": ["Productivity", "Web"]
+  },
+  {
+    "name": "Rubedo CMS",
+    "thumb": "/projects/rubedo-cms/thumb.png",
+    "desc": "Rubedo is an open source CMS & Ecommerce with Behavioral targeting (CMS Zend framework & MongoDB).",
+    "url": "http://www.rubedo-project.org",
+    "submitter": "goncalvesm",
+    "submissionDate": "2015-09-23",
+    "tags": ["Productivity", "Communication", "Tools", "Web"]
   }
 ]
