@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "LingoHub",
+    "thumb": "/projects/lingohub/thumb.png",
+    "desc": "Web App for translating Mobile/Web Apps (we support different frameworks, e.g. angular-translate)",
+    "url": "https://lingohub.com",
+    "submitter": "lpsBetty",
+    "submissionDate": "2015-10-01",
+    "tags": ["translation", "tools"]
   }
 ]
