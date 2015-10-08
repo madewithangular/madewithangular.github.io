@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Hot Star",
+    "thumb": "/projects/hotstar/thumb.png",
+    "desc": "Indian video streaming site. Popular TV dramas and movies.",
+    "url": "http://www.hotstar.com",
+    "submitter": "zaidchauhan",
+    "submissionDate": "2015-10-09",
+    "tags": ["media-video"]
   }
 ]
