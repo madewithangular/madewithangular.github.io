@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Power BI",
+    "thumb": "/projects/powerbi/thumb.png",
+    "desc": "",
+    "url": "https://www.powerbi.com/",
+    "submitter": "jonbgallant",
+    "submissionDate": "2015-10-12",
+    "tags": ["business", "microsoft", "tools"]
   }
 ]
