@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Tunexer Radio",
+    "thumb": "/projects/tunexer/thumb.webp",
+    "desc": "Create music stations with YouTube videos",
+    "url": "https://tunexer.com",
+    "submitter": "javiergarzac",
+    "submissionDate": "2015-10-21",
+    "tags": ["radio","media-video"]
   }
 ]
