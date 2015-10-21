@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Join.me",
+    "thumb": "/projects/join-me/thumb.png",
+    "desc": "Better meetings for all",
+    "url": "http://join.me",
+    "submitter": "wazaraki",
+    "submissionDate": "2015-10-21",
+    "tags": ["communication"]
   }
 ]
