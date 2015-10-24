@@ -583,5 +583,14 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Jolt",
+    "thumb": "/projects/jolt/thumb.png",
+    "desc": "Employee task management and productivity software",
+    "url": "https://joltup.com",
+    "submitter": "thuey",
+    "submissionDate": "2015-10-24",
+    "tags": ["productivity", "task-management"]
   }
 ]
