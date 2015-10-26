@@ -583,5 +583,13 @@
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
     "tags": ["productivity"]
+  },
+  {
+    "name": "Magister 6",
+    "thumb": "/projects/magister/thumb.png",
+    "desc": "Magister 6 is a student tracking system and e-learning platform primarily used by students, their parents and teachers at secondary schools in the Netherlands.",
+    "submitter": "SchoolMaster BV",
+    "submissionDate": "2015-10-26",
+    "tags": ["education", "e-learning"]
   }
 ]
