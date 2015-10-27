@@ -6,7 +6,11 @@
     "url": "https://whichphone.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-15",
-    "tags": ["google", "productivity", "lifestyle"],
+    "tags": [
+      "google",
+      "productivity",
+      "lifestyle"
+    ],
     "slug": "android-which-phone"
   },
   {
@@ -16,7 +20,9 @@
     "url": "https://munchery.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-16",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "munchery"
   },
   {
@@ -26,7 +32,9 @@
     "url": "https://educationonair.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-17",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "google-education-on-air"
   },
   {
@@ -36,7 +44,10 @@
     "url": "http://www.relativewave.com/form/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-18",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "relative-wave"
   },
   {
@@ -46,7 +57,9 @@
     "url": "https://interstellar.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-19",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "interstellar"
   },
   {
@@ -56,7 +69,9 @@
     "url": "http://www.bonappetit.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-20",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "bon-appetit"
   },
   {
@@ -66,7 +81,9 @@
     "url": "https://cloudwebinars.withgoogle.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-21",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "google-cloud-platform-webinars"
   },
   {
@@ -76,7 +93,9 @@
     "url": "https://happyholidays.withgoogle.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-22",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "happy-holidays-from-google"
   },
   {
@@ -86,7 +105,9 @@
     "url": "http://tradein.bestbuy.com/client/#/catalog",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-23",
-    "tags": ["shopping"],
+    "tags": [
+      "shopping"
+    ],
     "slug": "best-buy-trade-in"
   },
   {
@@ -96,7 +117,10 @@
     "url": "https://cube.withgoogle.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-24",
-    "tags": ["google", "media-video"],
+    "tags": [
+      "google",
+      "media-video"
+    ],
     "slug": "the-cube"
   },
   {
@@ -106,7 +130,9 @@
     "url": "https://www.upwork.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-25",
-    "tags": ["business"],
+    "tags": [
+      "business"
+    ],
     "slug": "upwork"
   },
   {
@@ -116,7 +142,9 @@
     "url": "http://qcplayground.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-26",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "google-quantum-computing-playground"
   },
   {
@@ -126,7 +154,10 @@
     "url": "https://atmosphere.withgoogle.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-28",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-atmosphere"
   },
   {
@@ -136,7 +167,9 @@
     "url": "http://elevateapp.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-29",
-    "tags": ["education"],
+    "tags": [
+      "education"
+    ],
     "slug": "elevate"
   },
   {
@@ -146,7 +179,10 @@
     "url": "https://eduproducts.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-30",
-    "tags": ["google", "education"],
+    "tags": [
+      "google",
+      "education"
+    ],
     "slug": "google-for-education-products"
   },
   {
@@ -156,7 +192,9 @@
     "url": "http://sfdc-styleguide.herokuapp.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-01",
-    "tags": ["business"],
+    "tags": [
+      "business"
+    ],
     "slug": "salesforce1-styleguide"
   },
   {
@@ -166,7 +204,10 @@
     "url": "https://www.google.com/partners",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-02",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-partners"
   },
   {
@@ -176,7 +217,9 @@
     "url": "http://www.istockphoto.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-03",
-    "tags": ["photography"],
+    "tags": [
+      "photography"
+    ],
     "slug": "istockphoto"
   },
   {
@@ -186,7 +229,9 @@
     "url": "https://chinesenewyear.withgoogle.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-04",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "chinese-new-year"
   },
   {
@@ -196,7 +241,9 @@
     "url": "https://www.virginamerica.com/cms/elevate-frequent-flyer",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-05",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "virgin-america-elevate"
   },
   {
@@ -206,7 +253,10 @@
     "url": "http://www.google.com/intl/en/admob/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-06",
-    "tags": ["google", "productivity"],
+    "tags": [
+      "google",
+      "productivity"
+    ],
     "slug": "google-admob"
   },
   {
@@ -216,7 +266,9 @@
     "url": "https://www.godaddy.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-07",
-    "tags": ["business"],
+    "tags": [
+      "business"
+    ],
     "slug": "godaddy"
   },
   {
@@ -226,7 +278,10 @@
     "url": "https://www.google.com/intx/en/work/apps/business/index.html",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-08",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-apps-for-work"
   },
   {
@@ -236,7 +291,9 @@
     "url": "http://www.weather.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-09",
-    "tags": ["weather"],
+    "tags": [
+      "weather"
+    ],
     "slug": "the-weather-channel"
   },
   {
@@ -246,7 +303,10 @@
     "url": "https://devart.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-10",
-    "tags": ["google", "media-video"],
+    "tags": [
+      "google",
+      "media-video"
+    ],
     "slug": "devart"
   },
   {
@@ -256,7 +316,9 @@
     "url": "https://frontapp.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-11",
-    "tags": ["communication"],
+    "tags": [
+      "communication"
+    ],
     "slug": "front"
   },
   {
@@ -266,7 +328,10 @@
     "url": "https://cloud.google.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-12",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "google-cloud-platform"
   },
   {
@@ -276,7 +341,9 @@
     "url": "http://www.walgreens.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-13",
-    "tags": ["shopping"],
+    "tags": [
+      "shopping"
+    ],
     "slug": "walgreens"
   },
   {
@@ -286,7 +353,10 @@
     "url": "https://www.google.com/edu/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-14",
-    "tags": ["google", "education"],
+    "tags": [
+      "google",
+      "education"
+    ],
     "slug": "google-for-education"
   },
   {
@@ -296,7 +366,10 @@
     "url": "https://cloud-playground.appspot.com/playground/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-15",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "google-cloud-playground"
   },
   {
@@ -306,7 +379,9 @@
     "url": "http://www.lynda.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-16",
-    "tags": ["education"],
+    "tags": [
+      "education"
+    ],
     "slug": "lynda"
   },
   {
@@ -316,7 +391,10 @@
     "url": "http://learn.googleapps.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-17",
-    "tags": ["google", "productivity"],
+    "tags": [
+      "google",
+      "productivity"
+    ],
     "slug": "google-apps-learning-center"
   },
   {
@@ -326,7 +404,9 @@
     "url": "https://www.udacity.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-18",
-    "tags": ["education"],
+    "tags": [
+      "education"
+    ],
     "slug": "udacity"
   },
   {
@@ -336,7 +416,10 @@
     "url": "http://www.google.com/analytics/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-19",
-    "tags": ["google", "productivity"],
+    "tags": [
+      "google",
+      "productivity"
+    ],
     "slug": "google-analytics"
   },
   {
@@ -346,7 +429,10 @@
     "url": "https://www.google.com/trends/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-23",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-trends"
   },
   {
@@ -356,7 +442,10 @@
     "url": "http://www.google.com/insights/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-24",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-insights"
   },
   {
@@ -366,7 +455,10 @@
     "url": "https://www.google.com/cast/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-25",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "google-cast"
   },
   {
@@ -376,7 +468,10 @@
     "url": "https://www.google.com/retail/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-26",
-    "tags": ["google", "business"],
+    "tags": [
+      "google",
+      "business"
+    ],
     "slug": "google-retail"
   },
   {
@@ -386,7 +481,9 @@
     "url": "http://www.msnbc.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-27",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "msnbc"
   },
   {
@@ -396,7 +493,9 @@
     "url": "https://www.virginamerica.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-28",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "virgin-america"
   },
   {
@@ -406,7 +505,9 @@
     "url": "http://www.apartmentratings.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-29",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "apartment-ratings"
   },
   {
@@ -416,7 +517,9 @@
     "url": "https://www.united.com/travel/checkin/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-30",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "united-airlines-flight-checkin"
   },
   {
@@ -426,7 +529,10 @@
     "url": "https://tagmanager.google.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-30",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "google-tag-manager"
   },
   {
@@ -436,7 +542,10 @@
     "url": "https://www.youtube.com/my_videos",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-07-31",
-    "tags": ["google", "media-video"],
+    "tags": [
+      "google",
+      "media-video"
+    ],
     "slug": "youtube-video-manager"
   },
   {
@@ -446,7 +555,10 @@
     "url": "https://get.google.com/tips/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-01",
-    "tags": ["google", "productivity"],
+    "tags": [
+      "google",
+      "productivity"
+    ],
     "slug": "google-tips"
   },
   {
@@ -456,7 +568,10 @@
     "url": "https://console.developers.google.com/start",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-09",
-    "tags": ["google", "tools"],
+    "tags": [
+      "google",
+      "tools"
+    ],
     "slug": "google-developers-console"
   },
   {
@@ -466,7 +581,9 @@
     "url": "http://plnkr.co/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-09",
-    "tags": ["tools"],
+    "tags": [
+      "tools"
+    ],
     "slug": "plunkr"
   },
   {
@@ -476,7 +593,9 @@
     "url": "https://www.circuit.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-10",
-    "tags": ["business"],
+    "tags": [
+      "business"
+    ],
     "slug": "circuit"
   },
   {
@@ -486,7 +605,10 @@
     "url": "https://transformationgallery.withgoogle.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-24",
-    "tags": ["google", "productivity"],
+    "tags": [
+      "google",
+      "productivity"
+    ],
     "slug": "google-transformation-gallery"
   },
   {
@@ -496,7 +618,9 @@
     "url": "https://app.groupme.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-25",
-    "tags": ["communication"],
+    "tags": [
+      "communication"
+    ],
     "slug": "groupme"
   },
   {
@@ -506,7 +630,9 @@
     "url": "http://genius.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-29",
-    "tags": ["music-audio"],
+    "tags": [
+      "music-audio"
+    ],
     "slug": "genius"
   },
   {
@@ -516,7 +642,9 @@
     "url": "http://home.ancestry.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
-    "tags": ["books-reference"],
+    "tags": [
+      "books-reference"
+    ],
     "slug": "ancestry"
   },
   {
@@ -526,7 +654,9 @@
     "url": "https://my.opentable.com/profile/info",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "opentable"
   },
   {
@@ -536,7 +666,9 @@
     "url": "http://www.forbes.com/sites/innovatorsdna/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "forbes"
   },
   {
@@ -546,7 +678,9 @@
     "url": "https://www.amazon.com/mn/dcw/myx.html",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-08-30",
-    "tags": ["books-reference"],
+    "tags": [
+      "books-reference"
+    ],
     "slug": "amazon"
   },
   {
@@ -556,7 +690,9 @@
     "url": "http://editor.swagger.io",
     "submitter": "mohsen1",
     "submissionDate": "2015-08-31",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "swagger-editor"
   },
   {
@@ -566,7 +702,9 @@
     "url": "https://gethuman.com",
     "submitter": "jeffwhelpley",
     "submissionDate": "2015-09-01",
-    "tags": ["productivity"],
+    "tags": [
+      "productivity"
+    ],
     "slug": "gethuman"
   },
   {
@@ -576,7 +714,10 @@
     "url": "http://www.costcophotocenter.com/Home",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-07",
-    "tags": ["lifestyle", "shopping"],
+    "tags": [
+      "lifestyle",
+      "shopping"
+    ],
     "slug": "costco"
   },
   {
@@ -586,7 +727,9 @@
     "url": "http://readwrite.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-08",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "readwrite"
   },
   {
@@ -596,7 +739,9 @@
     "url": "http://www.theacc.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-09",
-    "tags": ["sports"],
+    "tags": [
+      "sports"
+    ],
     "slug": "acc"
   },
   {
@@ -606,7 +751,9 @@
     "url": "https://www.here.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-10",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "here"
   },
   {
@@ -616,7 +763,9 @@
     "url": "http://go.cnn.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-10",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "cnn-go"
   },
   {
@@ -626,7 +775,9 @@
     "url": "http://www.gettyimages.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-12",
-    "tags": ["photography"],
+    "tags": [
+      "photography"
+    ],
     "slug": "getty"
   },
   {
@@ -636,7 +787,9 @@
     "url": "http://www.pauzzle.fr",
     "submitter": "pauzzle",
     "submissionDate": "2015-09-13",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "pauzzle"
   },
   {
@@ -646,7 +799,9 @@
     "url": "https://www.indiegogo.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-14",
-    "tags": ["social"],
+    "tags": [
+      "social"
+    ],
     "slug": "indiegogo"
   },
   {
@@ -656,7 +811,9 @@
     "url": "https://fiber.google.com/cities/austin/fiberhoods/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-15",
-    "tags": ["google"],
+    "tags": [
+      "google"
+    ],
     "slug": "google-fiber"
   },
   {
@@ -666,7 +823,9 @@
     "url": "http://allrecipes.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-17",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "allrecipes"
   },
   {
@@ -676,7 +835,10 @@
     "url": "https://onetoday.google.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-18",
-    "tags": ["lifestyle", "google"],
+    "tags": [
+      "lifestyle",
+      "google"
+    ],
     "slug": "google-one-today"
   },
   {
@@ -686,7 +848,9 @@
     "url": "https://gocardless.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-22",
-    "tags": ["finance"],
+    "tags": [
+      "finance"
+    ],
     "slug": "gocardless"
   },
   {
@@ -696,7 +860,9 @@
     "url": "https://playlyfe.com",
     "submitter": "kumarharsh",
     "submissionDate": "2015-09-22",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "playlyfe"
   },
   {
@@ -706,7 +872,9 @@
     "url": "http://www.pluralsight.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-23",
-    "tags": ["education"],
+    "tags": [
+      "education"
+    ],
     "slug": "pluralsight"
   },
   {
@@ -716,7 +884,9 @@
     "url": "http://docs.rubedo-project.org/en/",
     "submitter": "goncalvesm",
     "submissionDate": "2015-09-23",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "rubedo-cms-doc"
   },
   {
@@ -726,9 +896,11 @@
     "url": "http://www.rubedo-project.org",
     "submitter": "goncalvesm",
     "submissionDate": "2015-09-23",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "rubedo-cms"
-  },  
+  },
   {
     "name": "The Next Web Deals",
     "thumb": "/projects/tnw-deals/thumb",
@@ -736,7 +908,9 @@
     "url": "https://deals.thenextweb.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-25",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "tnw-deals"
   },
   {
@@ -746,7 +920,9 @@
     "url": "http://www.complex.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-09-28",
-    "tags": ["news-magazines"],
+    "tags": [
+      "news-magazines"
+    ],
     "slug": "complex"
   },
   {
@@ -756,7 +932,9 @@
     "url": "http://www.gog.com/",
     "submitter": "kabalage",
     "submissionDate": "2015-09-28",
-    "tags": ["entertainment"],
+    "tags": [
+      "entertainment"
+    ],
     "slug": "gog"
   },
   {
@@ -766,9 +944,11 @@
     "url": "https://lingohub.com",
     "submitter": "lpsBetty",
     "submissionDate": "2015-10-01",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "lingohub"
-  },  
+  },
   {
     "name": "Mercedes-Benz Video Channel",
     "thumb": "/projects/mercedes-benz/thumb",
@@ -776,7 +956,9 @@
     "url": "http://video.mercedes-benz.co.uk/#!/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-04",
-    "tags": ["media-video"],
+    "tags": [
+      "media-video"
+    ],
     "slug": "mercedes-benz"
   },
   {
@@ -786,7 +968,9 @@
     "url": "https://www.teatroeltriciclo.com/boleteria",
     "submitter": "cquirosj",
     "submissionDate": "2015-10-04",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "theatre-tickets-cart"
   },
   {
@@ -796,7 +980,9 @@
     "url": "https://developer.apple.com/search/?q=wwdc&type=Videos",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-05",
-    "tags": ["books-reference"],
+    "tags": [
+      "books-reference"
+    ],
     "slug": "apple-developer-search"
   },
   {
@@ -806,7 +992,9 @@
     "url": "https://www.hawaiianairlines.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-06",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "hawaiian-airlines"
   },
   {
@@ -816,7 +1004,9 @@
     "url": "http://www.jetblue.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-06",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "jetblue"
   },
   {
@@ -826,7 +1016,9 @@
     "url": "http://www.hotstar.com",
     "submitter": "zaidchauhan",
     "submissionDate": "2015-10-09",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "hotstar"
   },
   {
@@ -836,7 +1028,9 @@
     "url": "http://kickertool.com/",
     "submitter": "hpop",
     "submissionDate": "2015-10-09",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "kickertool"
   },
   {
@@ -846,7 +1040,9 @@
     "url": "https://exchange.xforce.ibmcloud.com/",
     "submitter": "inapalm",
     "submissionDate": "2015-10-09",
-    "tags": ["tools"],
+    "tags": [
+      "tools"
+    ],
     "slug": "ibm-x-force-exchange"
   },
   {
@@ -856,7 +1052,9 @@
     "url": "https://transferwise.com/",
     "submitter": "matteogamba",
     "submissionDate": "2015-10-09",
-    "tags": ["finance"],
+    "tags": [
+      "finance"
+    ],
     "slug": "transferwise"
   },
   {
@@ -866,7 +1064,9 @@
     "url": "https://itunesconnect.apple.com",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-12",
-    "tags": ["tools"],
+    "tags": [
+      "tools"
+    ],
     "slug": "itunes-connect"
   },
   {
@@ -876,7 +1076,9 @@
     "url": "https://www.paypal.com/us/webapps/mpp/home",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-12",
-    "tags": ["finance"],
+    "tags": [
+      "finance"
+    ],
     "slug": "paypal"
   },
   {
@@ -886,7 +1088,9 @@
     "url": "https://www.powerbi.com/",
     "submitter": "jonbgallant",
     "submissionDate": "2015-10-12",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "powerbi"
   },
   {
@@ -896,7 +1100,10 @@
     "url": "https://secure-www.gap.com/buy/shopping_bag.do",
     "submitter": "DrewML",
     "submissionDate": "2015-10-12",
-    "tags": ["lifestyle", "shopping"],
+    "tags": [
+      "lifestyle",
+      "shopping"
+    ],
     "slug": "gap"
   },
   {
@@ -906,7 +1113,10 @@
     "url": "https://secure-oldnavy.gap.com/buy/shopping_bag.do",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-12",
-    "tags": ["lifestyle", "shopping"],
+    "tags": [
+      "lifestyle",
+      "shopping"
+    ],
     "slug": "old-navy"
   },
   {
@@ -916,7 +1126,10 @@
     "url": "https://secure-bananarepublic.gap.com/buy/shopping_bag.do",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-12",
-    "tags": ["lifestyle", "shopping"],
+    "tags": [
+      "lifestyle",
+      "shopping"
+    ],
     "slug": "banana-republic"
   },
   {
@@ -926,7 +1139,10 @@
     "url": "https://secure-athleta.gap.com/buy/shopping_bag.do",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-12",
-    "tags": ["lifestyle", "shopping"],
+    "tags": [
+      "lifestyle",
+      "shopping"
+    ],
     "slug": "athleta"
   },
   {
@@ -936,7 +1152,9 @@
     "url": "http://www.mapmyfitness.com/challenges/",
     "submitter": "DrewML",
     "submissionDate": "2015-10-12",
-    "tags": ["health-fitness"],
+    "tags": [
+      "health-fitness"
+    ],
     "slug": "map-my-fitness"
   },
   {
@@ -946,7 +1164,9 @@
     "url": "http://www.bodybuilding.com/",
     "submitter": "DrewML",
     "submissionDate": "2015-10-12",
-    "tags": ["health-fitness"],
+    "tags": [
+      "health-fitness"
+    ],
     "slug": "bodybuilding"
   },
   {
@@ -956,7 +1176,9 @@
     "url": "https://www.underarmour.com/en-us/checkout",
     "submitter": "DrewML",
     "submissionDate": "2015-10-12",
-    "tags": ["health-fitness"],
+    "tags": [
+      "health-fitness"
+    ],
     "slug": "under-armour"
   },
   {
@@ -966,7 +1188,9 @@
     "url": "https://beta.ryanair.com/gb/en/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-13",
-    "tags": ["travel-local"],
+    "tags": [
+      "travel-local"
+    ],
     "slug": "ryanair"
   },
   {
@@ -976,7 +1200,9 @@
     "url": "https://www.ikondirekt.com/",
     "submitter": "everettqin",
     "submissionDate": "2015-10-13",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "ikondirekt"
   },
   {
@@ -986,7 +1212,9 @@
     "url": "https://impressmeapp.com/",
     "submitter": "pieterhamman",
     "submissionDate": "2015-10-14",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "impressme"
   },
   {
@@ -996,7 +1224,9 @@
     "url": "https://www.dominos.co.uk/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-15",
-    "tags": ["lifestyle"],
+    "tags": [
+      "lifestyle"
+    ],
     "slug": "dominos"
   },
   {
@@ -1006,7 +1236,9 @@
     "url": "https://www.netffice24.com",
     "submitter": "behumble",
     "submissionDate": "2015-10-16",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "netffice-24"
   },
   {
@@ -1016,7 +1248,9 @@
     "url": "https://mywellsfargorewards.com/#/welcome",
     "submitter": "leblancmeneses ",
     "submissionDate": "2015-10-19",
-    "tags": ["finance"],
+    "tags": [
+      "finance"
+    ],
     "slug": "wells-fargo-rewards"
   },
   {
@@ -1026,46 +1260,226 @@
     "url": "http://join.me",
     "submitter": "wazaraki",
     "submissionDate": "2015-10-21",
-    "tags": ["productivity"],
+    "tags": [
+      "productivity"
+    ],
     "slug": "join-me"
-   },
-   {
+  },
+  {
     "name": "Tunexer Radio",
     "thumb": "/projects/tunexer-radio/thumb",
     "desc": "Create music stations with YouTube videos",
     "url": "http://tunexer.com/",
     "submitter": "javiergarzac",
     "submissionDate": "2015-10-21",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "tunexer-radio"
-   },
-   {
+  },
+  {
     "name": "Autodesk ReCap 360",
     "thumb": "/projects/autodesk-recap-360/thumb",
     "desc": "Design with the Advantage of Reality",
     "url": "https://recap360.autodesk.com/",
     "submitter": "wazaraki",
     "submissionDate": "2015-10-21",
-    "tags": ["photography"],
+    "tags": [
+      "photography"
+    ],
     "slug": "autodesk-recap-360"
-   },
-   {
+  },
+  {
+    "name": "MapQuest",
+    "thumb": "/projects/mapquest/thumb",
+    "desc": "",
+    "url": "http://beta.mapquest.com/welcome",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-21",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "mapquest"
+  },
+  {
     "name": "Jolt",
     "thumb": "/projects/jolt/thumb",
     "desc": "Employee task management and productivity software",
     "url": "https://joltup.com",
     "submitter": "thuey",
     "submissionDate": "2015-10-24",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "jolt"
-   },
-   {
+  },
+  {
     "name": "Magister 6",
     "thumb": "/projects/magister/thumb",
     "desc": "Magister 6 is a student tracking system and e-learning platform primarily used by students, their parents and teachers at secondary schools in the Netherlands.",
+    "url": "https://ja.magister.net/",
     "submitter": "SchoolMaster BV",
     "submissionDate": "2015-10-26",
-    "tags": ["community"],
+    "tags": [
+      "community"
+    ],
     "slug": "magister"
-   }
+  },
+  {
+    "name": "The Webby Awards",
+    "thumb": "/projects/webbys/thumb",
+    "desc": "",
+    "url": "https://entries.webbyawards.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "webbys"
+  },
+  {
+    "name": "Thomas Cook",
+    "thumb": "/projects/thomas-cook/thumb",
+    "desc": "",
+    "url": "https://www.thomascook.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "thomas-cook"
+  },
+  {
+    "name": "LEGO.com Star Wars",
+    "thumb": "/projects/lego/thumb",
+    "desc": "",
+    "url": "http://www.lego.com/en-us/starwars/poster-builder",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "lego"
+  },
+  {
+    "name": "Google Careers",
+    "thumb": "/projects/google-careers/thumb",
+    "desc": "",
+    "url": "https://www.google.com/about/careers/applications/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "google",
+      "business"
+    ],
+    "slug": "lego"
+  },
+  {
+    "name": "August",
+    "thumb": "/projects/august/thumb",
+    "desc": "",
+    "url": "https://www.agst.co/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "august"
+  },
+  {
+    "name": "Abby Seymour",
+    "thumb": "/projects/abby-seymour/thumb",
+    "desc": "",
+    "url": "http://abbyseymour.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "abby-seymour"
+  },
+  {
+    "name": "Invoke Media",
+    "thumb": "/projects/invoke-media/thumb",
+    "desc": "",
+    "url": "http://www.invokemedia.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "invoke-media"
+  },
+  {
+    "name": "ETQ Amsterdam",
+    "thumb": "/projects/etq-amsterdam/thumb",
+    "desc": "",
+    "url": "http://www.etq-amsterdam.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "etq-amsterdam"
+  },
+  {
+    "name": "PRPL",
+    "thumb": "/projects/prpl/thumb",
+    "desc": "",
+    "url": "http://purplerockscissors.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "prpl"
+  },
+  {
+    "name": "Crafted by Love",
+    "thumb": "/projects/crafted-by-love/thumb",
+    "desc": "",
+    "url": "http://www.craftedbylove.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "crafted-by-love"
+  },
+  {
+    "name": "Windyty",
+    "thumb": "/projects/windyty/thumb",
+    "desc": "",
+    "url": "https://www.windyty.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "windyty"
+  },
+  {
+    "name": "Dareboost",
+    "thumb": "/projects/dareboost/thumb",
+    "desc": "",
+    "url": "https://www.dareboost.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "dareboost"
+  },
+  {
+    "name": "The True Size",
+    "thumb": "/projects/dareboost/thumb",
+    "desc": "",
+    "url": "http://thetruesize.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "the-true-size"
+  }
 ]
