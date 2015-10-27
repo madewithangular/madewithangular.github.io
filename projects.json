@@ -950,6 +950,16 @@
     "slug": "bodybuilding"
   },
   {
+    "name": "Under Armour",
+    "thumb": "/projects/under-armour/thumb",
+    "desc": "",
+    "url": "https://www.underarmour.com/en-us/checkout",
+    "submitter": "DrewML",
+    "submissionDate": "2015-10-12",
+    "tags": ["health-fitness"],
+    "slug": "under-armour"
+  },
+  {
     "name": "Ryanair",
     "thumb": "/projects/ryanair/thumb",
     "desc": "",
