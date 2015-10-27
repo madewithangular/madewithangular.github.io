@@ -1721,5 +1721,17 @@
       "community"
     ],
     "slug": "soyfreelancer"
+  },
+  {
+    "name": "Ennomotive",
+    "thumb": "/projects/ennomotive/thumb",
+    "desc": "",
+    "url": "http://www.ennomotive.com/",
+    "submitter": "fauria",
+    "submissionDate": "2015-10-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "ennomotive"
   }
 ]
