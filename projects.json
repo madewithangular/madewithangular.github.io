@@ -550,6 +550,16 @@
     "slug": "amazon"
   },
   {
+    "name": "Swagger Editor",
+    "thumb": "/projects/swagger-editor/thumb",
+    "desc": "",
+    "url": "http://editor.swagger.io",
+    "submitter": "mohsen1",
+    "submissionDate": "2015-08-31",
+    "tags": ["community"],
+    "slug": "swagger-editor"
+  },
+  {
     "name": "GetHuman",
     "thumb": "/projects/gethuman/thumb",
     "desc": "Taking the pain out of customer service",
@@ -878,6 +888,66 @@
     "submissionDate": "2015-10-12",
     "tags": ["community"],
     "slug": "powerbi"
+  },
+  {
+    "name": "Gap Inc.",
+    "thumb": "/projects/gap/thumb",
+    "desc": "",
+    "url": "https://secure-www.gap.com/buy/shopping_bag.do",
+    "submitter": "DrewML",
+    "submissionDate": "2015-10-12",
+    "tags": ["lifestyle", "shopping"],
+    "slug": "gap"
+  },
+  {
+    "name": "Old Navy",
+    "thumb": "/projects/old-navy/thumb",
+    "desc": "",
+    "url": "https://secure-oldnavy.gap.com/buy/shopping_bag.do",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-12",
+    "tags": ["lifestyle", "shopping"],
+    "slug": "old-navy"
+  },
+  {
+    "name": "Banana Republic",
+    "thumb": "/projects/banana-republic/thumb",
+    "desc": "",
+    "url": "https://secure-bananarepublic.gap.com/buy/shopping_bag.do",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-12",
+    "tags": ["lifestyle", "shopping"],
+    "slug": "banana-republic"
+  },
+  {
+    "name": "Athleta",
+    "thumb": "/projects/banana-republic/thumb",
+    "desc": "",
+    "url": "https://secure-athleta.gap.com/buy/shopping_bag.do",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-12",
+    "tags": ["lifestyle", "shopping"],
+    "slug": "athleta"
+  },
+  {
+    "name": "MapMyFitness",
+    "thumb": "/projects/map-my-fitness/thumb",
+    "desc": "",
+    "url": "http://www.mapmyfitness.com/challenges/",
+    "submitter": "DrewML",
+    "submissionDate": "2015-10-12",
+    "tags": ["health-fitness"],
+    "slug": "map-my-fitness"
+  },
+  {
+    "name": "Bodybuilding.com",
+    "thumb": "/projects/bodybuilding/thumb",
+    "desc": "",
+    "url": "http://www.bodybuilding.com/",
+    "submitter": "DrewML",
+    "submissionDate": "2015-10-12",
+    "tags": ["health-fitness"],
+    "slug": "bodybuilding"
   },
   {
     "name": "Ryanair",
