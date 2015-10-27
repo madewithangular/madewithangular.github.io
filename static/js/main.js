@@ -1,7 +1,7 @@
 var app = angular.module('mwaApp', ['ngRoute']);
 
 app.factory('projects', ['$http', function($http) {
-  return $http.get('https://s3.amazonaws.com/madewithangular.com/projects-test.json').success(function(data) {
+  return $http.get('https://s3.amazonaws.com/madewithangular.com/projects.json').success(function(data) {
     return data;
   }).error(function(data) {
     return data;
