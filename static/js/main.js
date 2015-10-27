@@ -135,11 +135,8 @@ app.controller('CategoryController', ['$scope', 'projects', '$routeParams', func
   });
 }]);
 
-app.controller('SiteController', ['$scope', '$location', '$anchorScroll', 'projects', '$routeParams', function($scope, $location, $anchorScroll, projects, $routeParams) {
+app.controller('SiteController', ['$scope', 'projects', '$routeParams', function($scope, projects, $routeParams) {
   projects.success(function(data) {
-    $location.hash('top');
-    $anchorScroll;
-
     var allProjects = data;
 
     var selectedSite = $routeParams.site;
