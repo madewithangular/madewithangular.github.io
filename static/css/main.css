@@ -1,0 +1,166 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.card a, .card a:visited,
+.category .heading a:visited,
+.category .heading .more a,
+.site a {
+  text-decoration: none;
+  color: #444;
+}
+
+.category .heading a {
+  color: #444;
+}
+
+
+/* Grid */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row .col {
+  flex: 0 0 50%;
+  display: flex;
+}
+
+/* Header and Footer */
+
+.header {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 30px;
+  padding: 15px 4px;
+}
+
+.footer {
+  background-color: #fff;
+  border-top: 1px solid #eee;
+  margin-top: 30px;
+  vertical-align: middle;
+  padding: 30px 4px;
+}
+
+.footer ul {
+  list-style: none;
+  display: inline;
+  margin: 0;
+}
+
+.footer li {
+  display: inline;
+  font-size: 13px;
+  margin-left: 40px;
+}
+
+/* Categories */
+
+.category .heading {
+  color: #444;
+  line-height: 30px;
+  margin: 4px;
+  vertical-align: middle;
+}
+
+.category .title {
+  float: left;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0 0 10px 0;
+}
+
+.category .more {
+  float: right;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.category + .category {
+  margin-top: 30px;
+}
+
+/* Card */
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+  color: #444;
+  margin: 4px;
+}
+
+.card h3 {
+  font-size: 17px;
+  font-weight: 300;
+  margin: 0;
+  padding: 10px; 
+}
+
+/* Site */
+
+.site {
+  color: #444;
+  margin: 4px;
+  position: relative;
+}
+
+.site .title,
+.more .title {
+  font-weight: 400;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+.site .title {
+  font-size: 20px;
+}
+
+.more .title {
+  margin-top: 40px;
+  font-size: 17px;
+}
+
+
+@media (min-width:470px) {
+  .row .col {
+    flex: 0 0 25%;
+  }
+}
+
+@media (min-width:1000px) {
+  .container {
+    margin: 0 auto;
+    width: 1000px;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -8px;
+  }
+
+  .header {
+    padding: 15px 0px;
+  }
+
+  .category .heading {
+    margin: 0;
+  }
+
+  .card {
+    margin: 8px;
+  }
+}

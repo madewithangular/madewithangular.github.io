@@ -1,0 +1,991 @@
+[
+  {
+    "name": "Android - Which Phone",
+    "thumb": "/projects/android-which-phone/thumb",
+    "desc": "",
+    "url": "https://whichphone.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-15",
+    "tags": ["google", "productivity", "lifestyle"],
+    "slug": "android-which-phone"
+  },
+  {
+    "name": "Munchery",
+    "thumb": "/projects/munchery/thumb",
+    "desc": "",
+    "url": "https://munchery.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-16",
+    "tags": ["lifestyle"],
+    "slug": "munchery"
+  },
+  {
+    "name": "Google Education on Air",
+    "thumb": "/projects/google-education-on-air/thumb",
+    "desc": "",
+    "url": "https://educationonair.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-17",
+    "tags": ["google"],
+    "slug": "google-education-on-air"
+  },
+  {
+    "name": "Relative Wave",
+    "thumb": "/projects/relative-wave/thumb",
+    "desc": "",
+    "url": "http://www.relativewave.com/form/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-18",
+    "tags": ["google", "tools"],
+    "slug": "relative-wave"
+  },
+  {
+    "name": "Interstellar",
+    "thumb": "/projects/interstellar/thumb",
+    "desc": "",
+    "url": "https://interstellar.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-19",
+    "tags": ["google"],
+    "slug": "interstellar"
+  },
+  {
+    "name": "Bon Appétit",
+    "thumb": "/projects/bon-appetit/thumb",
+    "desc": "",
+    "url": "http://www.bonappetit.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-20",
+    "tags": ["lifestyle"],
+    "slug": "bon-appetit"
+  },
+  {
+    "name": "Google Cloud Platform Webinars",
+    "thumb": "/projects/google-cloud-platform-webinars/thumb",
+    "desc": "",
+    "url": "https://cloudwebinars.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-21",
+    "tags": ["google"],
+    "slug": "google-cloud-platform-webinars"
+  },
+  {
+    "name": "Happy Holidays from Google",
+    "thumb": "/projects/happy-holidays-from-google/thumb",
+    "desc": "",
+    "url": "https://happyholidays.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-22",
+    "tags": ["google"],
+    "slug": "happy-holidays-from-google"
+  },
+  {
+    "name": "Best Buy Trade-In",
+    "thumb": "/projects/best-buy-trade-in/thumb",
+    "desc": "",
+    "url": "http://tradein.bestbuy.com/client/#/catalog",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-23",
+    "tags": ["shopping"],
+    "slug": "best-buy-trade-in"
+  },
+  {
+    "name": "The Cube",
+    "thumb": "/projects/the-cube/thumb",
+    "desc": "",
+    "url": "https://cube.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-24",
+    "tags": ["google", "media-video"],
+    "slug": "the-cube"
+  },
+  {
+    "name": "Upwork",
+    "thumb": "/projects/upwork/thumb",
+    "desc": "",
+    "url": "https://www.upwork.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-25",
+    "tags": ["business"],
+    "slug": "upwork"
+  },
+  {
+    "name": "Google Quantum Computing Playground",
+    "thumb": "/projects/google-quantum-computing-playground/thumb",
+    "desc": "",
+    "url": "http://qcplayground.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-26",
+    "tags": ["google"],
+    "slug": "google-quantum-computing-playground"
+  },
+  {
+    "name": "Google Atmosphere",
+    "thumb": "/projects/google-atmosphere/thumb",
+    "desc": "",
+    "url": "https://atmosphere.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-28",
+    "tags": ["google", "business"],
+    "slug": "google-atmosphere"
+  },
+  {
+    "name": "Elevate",
+    "thumb": "/projects/elevate/thumb",
+    "desc": "",
+    "url": "http://elevateapp.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-29",
+    "tags": ["education"],
+    "slug": "elevate"
+  },
+  {
+    "name": "Google for Education Products",
+    "thumb": "/projects/google-for-education-products/thumb",
+    "desc": "",
+    "url": "https://eduproducts.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-06-30",
+    "tags": ["google", "education"],
+    "slug": "google-for-education-products"
+  },
+  {
+    "name": "Salesforce1 Styleguide",
+    "thumb": "/projects/salesforce1-styleguide/thumb",
+    "desc": "",
+    "url": "http://sfdc-styleguide.herokuapp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-01",
+    "tags": ["business"],
+    "slug": "salesforce1-styleguide"
+  },
+  {
+    "name": "Google Partners",
+    "thumb": "/projects/google-partners/thumb",
+    "desc": "",
+    "url": "https://www.google.com/partners",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-02",
+    "tags": ["google", "business"],
+    "slug": "google-partners"
+  },
+  {
+    "name": "iStockphoto",
+    "thumb": "/projects/istockphoto/thumb",
+    "desc": "",
+    "url": "http://www.istockphoto.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-03",
+    "tags": ["photography"],
+    "slug": "istockphoto"
+  },
+  {
+    "name": "Chinese New Year",
+    "thumb": "/projects/chinese-new-year/thumb",
+    "desc": "",
+    "url": "https://chinesenewyear.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-04",
+    "tags": ["google"],
+    "slug": "chinese-new-year"
+  },
+  {
+    "name": "Virgin America Elevate",
+    "thumb": "/projects/virgin-america-elevate/thumb",
+    "desc": "",
+    "url": "https://www.virginamerica.com/cms/elevate-frequent-flyer",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-05",
+    "tags": ["travel-local"],
+    "slug": "virgin-america-elevate"
+  },
+  {
+    "name": "Google AdMob",
+    "thumb": "/projects/google-admob/thumb",
+    "desc": "",
+    "url": "http://www.google.com/intl/en/admob/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-06",
+    "tags": ["google", "productivity"],
+    "slug": "google-admob"
+  },
+  {
+    "name": "GoDaddy",
+    "thumb": "/projects/godaddy/thumb",
+    "desc": "",
+    "url": "https://www.godaddy.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-07",
+    "tags": ["business"],
+    "slug": "godaddy"
+  },
+  {
+    "name": "Google Apps for Work",
+    "thumb": "/projects/google-apps-for-work/thumb",
+    "desc": "",
+    "url": "https://www.google.com/intx/en/work/apps/business/index.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-08",
+    "tags": ["google", "business"],
+    "slug": "google-apps-for-work"
+  },
+  {
+    "name": "The Weather Channel",
+    "thumb": "/projects/the-weather-channel/thumb",
+    "desc": "",
+    "url": "http://www.weather.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-09",
+    "tags": ["weather"],
+    "slug": "the-weather-channel"
+  },
+  {
+    "name": "DevArt. Art made with code.",
+    "thumb": "/projects/devart/thumb",
+    "desc": "",
+    "url": "https://devart.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-10",
+    "tags": ["google", "media-video"],
+    "slug": "devart"
+  },
+  {
+    "name": "Front",
+    "thumb": "/projects/front/thumb",
+    "desc": "",
+    "url": "https://frontapp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-11",
+    "tags": ["communication"],
+    "slug": "front"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "thumb": "/projects/google-cloud-platform/thumb",
+    "desc": "",
+    "url": "https://cloud.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-12",
+    "tags": ["google", "tools"],
+    "slug": "google-cloud-platform"
+  },
+  {
+    "name": "Walgreens",
+    "thumb": "/projects/walgreens/thumb",
+    "desc": "",
+    "url": "http://www.walgreens.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-13",
+    "tags": ["shopping"],
+    "slug": "walgreens"
+  },
+  {
+    "name": "Google for Education",
+    "thumb": "/projects/google-for-education/thumb",
+    "desc": "",
+    "url": "https://www.google.com/edu/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-14",
+    "tags": ["google", "education"],
+    "slug": "google-for-education"
+  },
+  {
+    "name": "Google Cloud Playground",
+    "thumb": "/projects/google-cloud-playground/thumb",
+    "desc": "",
+    "url": "https://cloud-playground.appspot.com/playground/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-15",
+    "tags": ["google", "tools"],
+    "slug": "google-cloud-playground"
+  },
+  {
+    "name": "Lynda.com",
+    "thumb": "/projects/lynda/thumb",
+    "desc": "",
+    "url": "http://www.lynda.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-16",
+    "tags": ["education"],
+    "slug": "lynda"
+  },
+  {
+    "name": "Google Apps Learning Center",
+    "thumb": "/projects/google-apps-learning-center/thumb",
+    "desc": "",
+    "url": "http://learn.googleapps.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-17",
+    "tags": ["google", "productivity"],
+    "slug": "google-apps-learning-center"
+  },
+  {
+    "name": "Udacity",
+    "thumb": "/projects/udacity/thumb",
+    "desc": "",
+    "url": "https://www.udacity.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-18",
+    "tags": ["education"],
+    "slug": "udacity"
+  },
+  {
+    "name": "Google Analytics",
+    "thumb": "/projects/google-analytics/thumb",
+    "desc": "",
+    "url": "http://www.google.com/analytics/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-19",
+    "tags": ["google", "productivity"],
+    "slug": "google-analytics"
+  },
+  {
+    "name": "Google Trends",
+    "thumb": "/projects/google-trends/thumb",
+    "desc": "",
+    "url": "https://www.google.com/trends/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-23",
+    "tags": ["google", "business"],
+    "slug": "google-trends"
+  },
+  {
+    "name": "Google Insights",
+    "thumb": "/projects/google-insights/thumb",
+    "desc": "",
+    "url": "http://www.google.com/insights/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-24",
+    "tags": ["google", "business"],
+    "slug": "google-insights"
+  },
+  {
+    "name": "Google Cast",
+    "thumb": "/projects/google-cast/thumb",
+    "desc": "",
+    "url": "https://www.google.com/cast/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-25",
+    "tags": ["google", "tools"],
+    "slug": "google-cast"
+  },
+  {
+    "name": "Google Retail",
+    "thumb": "/projects/google-retail/thumb",
+    "desc": "",
+    "url": "https://www.google.com/retail/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-26",
+    "tags": ["google", "business"],
+    "slug": "google-retail"
+  },
+  {
+    "name": "MSNBC",
+    "thumb": "/projects/msnbc/thumb",
+    "desc": "",
+    "url": "http://www.msnbc.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-27",
+    "tags": ["news-magazines"],
+    "slug": "msnbc"
+  },
+  {
+    "name": "Virgin America",
+    "thumb": "/projects/virgin-america/thumb",
+    "desc": "",
+    "url": "https://www.virginamerica.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-28",
+    "tags": ["travel-local"],
+    "slug": "virgin-america"
+  },
+  {
+    "name": "Apartment Ratings",
+    "thumb": "/projects/apartment-ratings/thumb",
+    "desc": "",
+    "url": "http://www.apartmentratings.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-29",
+    "tags": ["lifestyle"],
+    "slug": "apartment-ratings"
+  },
+  {
+    "name": "United Airlines Flight Checkin",
+    "thumb": "/projects/united-airlines-flight-checkin/thumb",
+    "desc": "",
+    "url": "https://www.united.com/travel/checkin/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-30",
+    "tags": ["travel-local"],
+    "slug": "united-airlines-flight-checkin"
+  },
+  {
+    "name": "Google Tag Manager",
+    "thumb": "/projects/google-tag-manager/thumb",
+    "desc": "",
+    "url": "https://tagmanager.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-30",
+    "tags": ["google", "tools"],
+    "slug": "google-tag-manager"
+  },
+  {
+    "name": "YouTube Video Manager",
+    "thumb": "/projects/youtube-video-manager/thumb",
+    "desc": "",
+    "url": "https://www.youtube.com/my_videos",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-07-31",
+    "tags": ["google", "media-video"],
+    "slug": "youtube-video-manager"
+  },
+  {
+    "name": "Google Tips",
+    "thumb": "/projects/google-tips/thumb",
+    "desc": "",
+    "url": "https://get.google.com/tips/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-01",
+    "tags": ["google", "productivity"],
+    "slug": "google-tips"
+  },
+  {
+    "name": "Google Developers Console",
+    "thumb": "/projects/google-developers-console/thumb",
+    "desc": "",
+    "url": "https://console.developers.google.com/start",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-09",
+    "tags": ["google", "tools"],
+    "slug": "google-developers-console"
+  },
+  {
+    "name": "Plunker",
+    "thumb": "/projects/plunker/thumb",
+    "desc": "",
+    "url": "http://plnkr.co/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-09",
+    "tags": ["tools"],
+    "slug": "plunkr"
+  },
+  {
+    "name": "Circuit",
+    "thumb": "/projects/circuit/thumb",
+    "desc": "",
+    "url": "https://www.circuit.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-10",
+    "tags": ["business"],
+    "slug": "circuit"
+  },
+  {
+    "name": "Google Transformation Gallery",
+    "thumb": "/projects/transformation-gallery/thumb",
+    "desc": "",
+    "url": "https://transformationgallery.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-24",
+    "tags": ["google", "productivity"],
+    "slug": "google-transformation-gallery"
+  },
+  {
+    "name": "GroupMe",
+    "thumb": "/projects/groupme/thumb",
+    "desc": "",
+    "url": "https://app.groupme.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-25",
+    "tags": ["communication"],
+    "slug": "groupme"
+  },
+  {
+    "name": "Genius",
+    "thumb": "/projects/genius/thumb",
+    "desc": "",
+    "url": "http://genius.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-29",
+    "tags": ["music-audio"],
+    "slug": "genius"
+  },
+  {
+    "name": "Ancestry.com",
+    "thumb": "/projects/ancestry/thumb",
+    "desc": "",
+    "url": "http://home.ancestry.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["books-reference"],
+    "slug": "ancestry"
+  },
+  {
+    "name": "OpenTable",
+    "thumb": "/projects/opentable/thumb",
+    "desc": "",
+    "url": "https://my.opentable.com/profile/info",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["lifestyle"],
+    "slug": "opentable"
+  },
+  {
+    "name": "Forbes",
+    "thumb": "/projects/forbes/thumb",
+    "desc": "",
+    "url": "http://www.forbes.com/sites/innovatorsdna/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["news-magazines"],
+    "slug": "forbes"
+  },
+  {
+    "name": "Amazon",
+    "thumb": "/projects/amazon/thumb",
+    "desc": "",
+    "url": "https://www.amazon.com/mn/dcw/myx.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-08-30",
+    "tags": ["books-reference"],
+    "slug": "amazon"
+  },
+  {
+    "name": "GetHuman",
+    "thumb": "/projects/gethuman/thumb",
+    "desc": "Taking the pain out of customer service",
+    "url": "https://gethuman.com",
+    "submitter": "jeffwhelpley",
+    "submissionDate": "2015-09-01",
+    "tags": ["productivity"],
+    "slug": "gethuman"
+  },
+  {
+    "name": "Costco Photo Center",
+    "thumb": "/projects/costco/thumb",
+    "desc": "",
+    "url": "http://www.costcophotocenter.com/Home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-07",
+    "tags": ["lifestyle", "shopping"],
+    "slug": "costco"
+  },
+  {
+    "name": "ReadWrite",
+    "thumb": "/projects/readwrite/thumb",
+    "desc": "",
+    "url": "http://readwrite.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-08",
+    "tags": ["news-magazines"],
+    "slug": "readwrite"
+  },
+  {
+    "name": "Atlantic Coast Conference",
+    "thumb": "/projects/acc/thumb",
+    "desc": "",
+    "url": "http://www.theacc.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-09",
+    "tags": ["sports"],
+    "slug": "acc"
+  },
+  {
+    "name": "HERE Maps",
+    "thumb": "/projects/here/thumb",
+    "desc": "",
+    "url": "https://www.here.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-10",
+    "tags": ["travel-local"],
+    "slug": "here"
+  },
+  {
+    "name": "CNNgo",
+    "thumb": "/projects/cnn-go/thumb",
+    "desc": "",
+    "url": "http://go.cnn.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-10",
+    "tags": ["news-magazines"],
+    "slug": "cnn-go"
+  },
+  {
+    "name": "Getty Images",
+    "thumb": "/projects/getty/thumb",
+    "desc": "",
+    "url": "http://www.gettyimages.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-12",
+    "tags": ["photography"],
+    "slug": "getty"
+  },
+  {
+    "name": "Pauzzle",
+    "thumb": "/projects/pauzzle/thumb",
+    "desc": "",
+    "url": "http://www.pauzzle.fr",
+    "submitter": "pauzzle",
+    "submissionDate": "2015-09-13",
+    "tags": ["community"],
+    "slug": "pauzzle"
+  },
+  {
+    "name": "Indiegogo",
+    "thumb": "/projects/indiegogo/thumb",
+    "desc": "",
+    "url": "https://www.indiegogo.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-14",
+    "tags": ["social"],
+    "slug": "indiegogo"
+  },
+  {
+    "name": "Google Fiber",
+    "thumb": "/projects/google-fiber/thumb",
+    "desc": "",
+    "url": "https://fiber.google.com/cities/austin/fiberhoods/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-15",
+    "tags": ["google"],
+    "slug": "google-fiber"
+  },
+  {
+    "name": "Allrecipes.com",
+    "thumb": "/projects/allrecipes/thumb",
+    "desc": "",
+    "url": "http://allrecipes.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-17",
+    "tags": ["lifestyle"],
+    "slug": "allrecipes"
+  },
+  {
+    "name": "Google One Today",
+    "thumb": "/projects/google-one-today/thumb",
+    "desc": "",
+    "url": "https://onetoday.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-18",
+    "tags": ["lifestyle", "google"],
+    "slug": "google-one-today"
+  },
+  {
+    "name": "GoCardless",
+    "thumb": "/projects/gocardless/thumb",
+    "desc": "",
+    "url": "https://gocardless.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-22",
+    "tags": ["finance"],
+    "slug": "gocardless"
+  },
+  {
+    "name": "Playlyfe",
+    "thumb": "/projects/playlyfe/thumb",
+    "desc": "Playlyfe is an online gamification platform",
+    "url": "https://playlyfe.com",
+    "submitter": "kumarharsh",
+    "submissionDate": "2015-09-22",
+    "tags": ["community"],
+    "slug": "playlyfe"
+  },
+  {
+    "name": "Pluralsight",
+    "thumb": "/projects/pluralsight/thumb",
+    "desc": "",
+    "url": "http://www.pluralsight.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-23",
+    "tags": ["education"],
+    "slug": "pluralsight"
+  },
+  {
+    "name": "Rubedo Documentation Center",
+    "thumb": "/projects/rubedo-cms-doc/thumb",
+    "desc": "Documentation center for Rubedo CMS and eCommerce",
+    "url": "http://docs.rubedo-project.org/en/",
+    "submitter": "goncalvesm",
+    "submissionDate": "2015-09-23",
+    "tags": ["community"],
+    "slug": "rubedo-cms-doc"
+  },
+  {
+    "name": "Rubedo CMS",
+    "thumb": "/projects/rubedo-cms/thumb",
+    "desc": "Rubedo is an open source CMS & Ecommerce with Behavioral targeting (CMS Zend framework & MongoDB).",
+    "url": "http://www.rubedo-project.org",
+    "submitter": "goncalvesm",
+    "submissionDate": "2015-09-23",
+    "tags": ["community"],
+    "slug": "rubedo-cms"
+  },  
+  {
+    "name": "The Next Web Deals",
+    "thumb": "/projects/tnw-deals/thumb",
+    "desc": "",
+    "url": "https://deals.thenextweb.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-25",
+    "tags": ["news-magazines"],
+    "slug": "tnw-deals"
+  },
+  {
+    "name": "Complex",
+    "thumb": "/projects/complex/thumb",
+    "desc": "",
+    "url": "http://www.complex.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-09-28",
+    "tags": ["news-magazines"],
+    "slug": "complex"
+  },
+  {
+    "name": "GOG.com",
+    "thumb": "/projects/gog/thumb",
+    "desc": "",
+    "url": "http://www.gog.com/",
+    "submitter": "kabalage",
+    "submissionDate": "2015-09-28",
+    "tags": ["entertainment"],
+    "slug": "complex"
+  },
+  {
+    "name": "LingoHub",
+    "thumb": "/projects/lingohub/thumb",
+    "desc": "Web App for translating Mobile/Web Apps (we support different frameworks, e.g. angular-translate)",
+    "url": "https://lingohub.com",
+    "submitter": "lpsBetty",
+    "submissionDate": "2015-10-01",
+    "tags": ["community"],
+    "slug": "lingohub"
+  },  
+  {
+    "name": "Mercedes-Benz Video Channel",
+    "thumb": "/projects/mercedes-benz/thumb",
+    "desc": "",
+    "url": "http://video.mercedes-benz.co.uk/#!/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-04",
+    "tags": ["media-video"],
+    "slug": "mercedes-benz"
+  },
+  {
+    "name": "Theatre Tickets Cart",
+    "thumb": "/projects/theatre-tickets-cart/thumb",
+    "desc": "e-commerce Web App for buying theatre tickets",
+    "url": "https://www.teatroeltriciclo.com/boleteria",
+    "submitter": "cquirosj",
+    "submissionDate": "2015-10-04",
+    "tags": ["community"],
+    "slug": "theatre-tickets-cart"
+  },
+  {
+    "name": "Apple Developer Search",
+    "thumb": "/projects/apple-developer-search/thumb",
+    "desc": "",
+    "url": "https://developer.apple.com/search/?q=wwdc&type=Videos",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-05",
+    "tags": ["books-reference"],
+    "slug": "apple-developer-search"
+  },
+  {
+    "name": "Hawaiian Airlines",
+    "thumb": "/projects/hawaiian-airlines/thumb",
+    "desc": "",
+    "url": "https://www.hawaiianairlines.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-06",
+    "tags": ["travel-local"],
+    "slug": "hawaiian-airlines"
+  },
+  {
+    "name": "JetBlue",
+    "thumb": "/projects/jetblue/thumb",
+    "desc": "",
+    "url": "http://www.jetblue.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-06",
+    "tags": ["travel-local"],
+    "slug": "jetblue"
+  },
+  {
+    "name": "Hot Star",
+    "thumb": "/projects/hotstar/thumb",
+    "desc": "Indian video streaming site. Popular TV dramas and movies.",
+    "url": "http://www.hotstar.com",
+    "submitter": "zaidchauhan",
+    "submissionDate": "2015-10-09",
+    "tags": ["community"],
+    "slug": "hotstar"
+  },
+  {
+    "name": "Kickertool",
+    "thumb": "/projects/kickertool/thumb",
+    "desc": "",
+    "url": "http://kickertool.com/",
+    "submitter": "hpop",
+    "submissionDate": "2015-10-09",
+    "tags": ["community"],
+    "slug": "kickertool"
+  },
+  {
+    "name": "IBM X-Force Exchange",
+    "thumb": "/projects/ibm-x-force-exchange/thumb",
+    "desc": "",
+    "url": "https://exchange.xforce.ibmcloud.com/",
+    "submitter": "inapalm",
+    "submissionDate": "2015-10-09",
+    "tags": ["tools"],
+    "slug": "ibm-x-force-exchange"
+  },
+  {
+    "name": "TransferWise",
+    "thumb": "/projects/transferwise/thumb",
+    "desc": "",
+    "url": "https://transferwise.com/",
+    "submitter": "matteogamba",
+    "submissionDate": "2015-10-09",
+    "tags": ["finance"],
+    "slug": "transferwise"
+  },
+  {
+    "name": "iTunes Connect",
+    "thumb": "/projects/itunes-connect/thumb",
+    "desc": "",
+    "url": "https://itunesconnect.apple.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-12",
+    "tags": ["tools"],
+    "slug": "itunes-connect"
+  },
+  {
+    "name": "PayPal Checkout",
+    "thumb": "/projects/paypal/thumb",
+    "desc": "",
+    "url": "https://www.paypal.com/us/webapps/mpp/home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-12",
+    "tags": ["finance"],
+    "slug": "paypal"
+  },
+  {
+    "name": "Power BI",
+    "thumb": "/projects/powerbi/thumb",
+    "desc": "",
+    "url": "https://www.powerbi.com/",
+    "submitter": "jonbgallant",
+    "submissionDate": "2015-10-12",
+    "tags": ["community"],
+    "slug": "powerbi"
+  },
+  {
+    "name": "Ryanair",
+    "thumb": "/projects/ryanair/thumb",
+    "desc": "",
+    "url": "https://beta.ryanair.com/gb/en/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-13",
+    "tags": ["travel-local"],
+    "slug": "ryanair"
+  },
+  {
+    "name": "ikondirekt",
+    "thumb": "/projects/ikondirekt/thumb",
+    "desc": "",
+    "url": "https://www.ikondirekt.com/",
+    "submitter": "everettqin",
+    "submissionDate": "2015-10-13",
+    "tags": ["community"],
+    "slug": "ikondirekt"
+  },
+  {
+    "name": "ImpressMe",
+    "thumb": "/projects/impressme/thumb",
+    "desc": "",
+    "url": "https://impressmeapp.com/",
+    "submitter": "pieterhamman",
+    "submissionDate": "2015-10-14",
+    "tags": ["community"],
+    "slug": "impressme"
+  },
+  {
+    "name": "Domino's Pizza UK",
+    "thumb": "/projects/dominos/thumb",
+    "desc": "",
+    "url": "https://www.dominos.co.uk/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-15",
+    "tags": ["lifestyle"],
+    "slug": "dominos"
+  },
+  {
+    "name": "Netffice 24",
+    "thumb": "/projects/netffice-24/thumb",
+    "desc": "",
+    "url": "https://www.netffice24.com",
+    "submitter": "behumble",
+    "submissionDate": "2015-10-16",
+    "tags": ["community"],
+    "slug": "netffice-24"
+  },
+  {
+    "name": "Wells Fargo Rewards",
+    "thumb": "/projects/wells-fargo-rewards/thumb",
+    "desc": "",
+    "url": "https://mywellsfargorewards.com/#/welcome",
+    "submitter": "leblancmeneses ",
+    "submissionDate": "2015-10-19",
+    "tags": ["finance"],
+    "slug": "wells-fargo-rewards"
+  },
+  {
+    "name": "Join.me",
+    "thumb": "/projects/join-me/thumb",
+    "desc": "Better meetings for all",
+    "url": "http://join.me",
+    "submitter": "wazaraki",
+    "submissionDate": "2015-10-21",
+    "tags": ["productivity"],
+    "slug": "join-me"
+   },
+   {
+    "name": "Tunexer Radio",
+    "thumb": "/projects/tunexer-radio/thumb",
+    "desc": "Create music stations with YouTube videos",
+    "url": "https://tunexer.com",
+    "submitter": "javiergarzac",
+    "submissionDate": "2015-10-21",
+    "tags": ["community"],
+    "slug": "tunexer-radio"
+   },
+   {
+    "name": "Autodesk ReCap 360",
+    "thumb": "/projects/autodesk-recap-360/thumb",
+    "desc": "Design with the Advantage of Reality",
+    "url": "https://recap360.autodesk.com/",
+    "submitter": "wazaraki",
+    "submissionDate": "2015-10-21",
+    "tags": ["photography"],
+    "slug": "autodesk-recap-360"
+   },
+   {
+    "name": "Jolt",
+    "thumb": "/projects/jolt/thumb",
+    "desc": "Employee task management and productivity software",
+    "url": "https://joltup.com",
+    "submitter": "thuey",
+    "submissionDate": "2015-10-24",
+    "tags": ["community"],
+    "slug": "jolt"
+   },
+   {
+    "name": "Magister 6",
+    "thumb": "/projects/magister/thumb",
+    "desc": "Magister 6 is a student tracking system and e-learning platform primarily used by students, their parents and teachers at secondary schools in the Netherlands.",
+    "submitter": "SchoolMaster BV",
+    "submissionDate": "2015-10-26",
+    "tags": ["community"],
+    "slug": "magister"
+   }
+]

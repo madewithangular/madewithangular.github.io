@@ -19,4 +19,3 @@ A showcase of web apps built with Angular
     }
     ```
 4. Send a pull request
-
