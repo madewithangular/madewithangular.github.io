@@ -1733,5 +1733,17 @@
       "community"
     ],
     "slug": "ennomotive"
+  },
+  {
+    "name": "Robin",
+    "thumb": "/projects/robin/thumb",
+    "desc": "",
+    "url": "https://robinpowered.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "robin"
   }
 ]
