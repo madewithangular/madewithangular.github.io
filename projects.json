@@ -1745,5 +1745,17 @@
       "community"
     ],
     "slug": "robin"
+  },
+  {
+    "name": "Bitbloq",
+    "thumb": "/projects/bitbloq/thumb",
+    "desc": "",
+    "url": "http://bitbloq.bq.com/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "bitbloq"
   }
 ]
