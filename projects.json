@@ -1757,5 +1757,41 @@
       "community"
     ],
     "slug": "bitbloq"
+  },
+  {
+    "name": "Tagpacker",
+    "thumb": "/projects/tagpacker/thumb",
+    "desc": "",
+    "url": "http://tagpacker.com/",
+    "submitter": "cnmuc",
+    "submissionDate": "2015-10-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "tagpacker"
+  },
+  {
+    "name": "iStable",
+    "thumb": "/projects/istable/thumb",
+    "desc": "",
+    "url": "http://www.istable.com/",
+    "submitter": "sblankenship",
+    "submissionDate": "2015-10-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "istable"
+  },
+  {
+    "name": "Qlik Sense",
+    "thumb": "/projects/qlik-sense/thumb",
+    "desc": "",
+    "url": "https://qlikcloud.com/cloudhub/personal",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "qlik-sense"
   }
 ]
