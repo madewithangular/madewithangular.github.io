@@ -10,6 +10,12 @@ html, body {
   clear: both;
 }
 
+.main {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
 .card a, .card a:visited,
 .category .heading a:visited,
 .category .heading .more a,
@@ -59,9 +65,16 @@ html, body {
 }
 
 .footer li {
-  display: inline;
   font-size: 13px;
-  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.footer img {
+  vertical-align: middle;
+}
+
+.footer a, .footer a:visited {
+  color: #444;
 }
 
 /* Categories */
@@ -133,10 +146,24 @@ html, body {
   font-size: 17px;
 }
 
+/* About */
+
+.about {
+  margin: 0px 4px;
+}
+
 
 @media (min-width:470px) {
   .row .col {
     flex: 0 0 25%;
+  }
+}
+
+@media (min-width:600px) {
+  .footer li {
+    display: inline;
+    margin-left: 40px;
+    margin-top: 0px;
   }
 }
 
@@ -162,5 +189,9 @@ html, body {
 
   .card {
     margin: 8px;
+  }
+
+  .about {
+    margin: 0px;
   }
 }

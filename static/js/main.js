@@ -18,6 +18,9 @@ app.config(['$routeProvider', function($routeProvider) {
   }).when('/sites/:site', {
     controller: 'SiteController',
     templateUrl: 'static/views/site.html'
+  }).when('/about', {
+    controller: 'HomeController',
+    templateUrl: 'static/views/about.html'
   }).otherwise({
     redirectTo: '/'
   });
