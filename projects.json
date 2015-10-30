@@ -1793,5 +1793,13 @@
       "community"
     ],
     "slug": "qlik-sense"
+  },
+  {
+    "name": "EventUpon",
+    "thumb": "/projects/eventupon/thumb.png",
+    "desc": "An Event Calendar",
+    "url": "http://www.eventupon.com",
+    "submitter": "pecopeco",
+    "submissionDate": "2015-10-30"
   }
 ]
