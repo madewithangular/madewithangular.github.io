@@ -1805,5 +1805,17 @@
       "community"
     ],
     "slug": "eventupon"
+  },
+  {
+    "name": "Generosity",
+    "thumb": "/projects/generosity/thumb",
+    "desc": "",
+    "url": "https://www.generosity.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-10-30",
+    "tags": [
+      "social"
+    ],
+    "slug": "generosity"
   }
 ]
