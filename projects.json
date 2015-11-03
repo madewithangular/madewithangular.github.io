@@ -1817,5 +1817,17 @@
       "social"
     ],
     "slug": "generosity"
+  },
+  {
+    "name": "Dragon Age",
+    "thumb": "/projects/dragon-age/thumb",
+    "desc": "",
+    "url": "https://www.dragonage.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "dragon-age"
   }
 ]
