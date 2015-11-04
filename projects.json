@@ -1790,7 +1790,7 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-29",
     "tags": [
-      "community"
+      "tools"
     ],
     "slug": "qlik-sense"
   },
@@ -1829,5 +1829,42 @@
       "community"
     ],
     "slug": "dragon-age"
+  },
+  {
+    "name": "semdo",
+    "thumb": "/projects/semdo/thumb",
+    "desc": "",
+    "url": "https://semdo.de/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "semdo"
+  },
+  {
+    "name": "RealtimeBoard",
+    "thumb": "/projects/realtimeboard/thumb",
+    "desc": "",
+    "url": "https://realtimeboard.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "realtimeboard"
+  },
+  {
+    "name": "Y-collective",
+    "thumb": "/projects/y-collective/thumb",
+    "desc": "",
+    "url": "http://y-collective.com/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "y-collective"
   }
 ]
+
