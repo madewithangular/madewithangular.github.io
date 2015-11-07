@@ -1865,6 +1865,41 @@
       "community"
     ],
     "slug": "y-collective"
+  },
+  {
+    "name": "Vamosio",
+    "thumb": "/projects/vamosio/thumb",
+    "desc": "",
+    "url": "http://www.vamosio.com/home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "vamosio"
+  },
+  {
+    "name": "Honest Beauty",
+    "thumb": "/projects/honest-beauty/thumb",
+    "desc": "",
+    "url": "https://www.honestbeauty.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-07",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "honest-beauty"
+  },
+  {
+    "name": "Poncho8 Burrito App",
+    "thumb": "/projects/poncho8/thumb",
+    "desc": "",
+    "url": "https://poncho8.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "poncho8"
   }
 ]
-
