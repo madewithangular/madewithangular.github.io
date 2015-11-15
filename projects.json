@@ -1901,5 +1901,18 @@
       "community"
     ],
     "slug": "poncho8"
+  },
+  {
+    "name": "Panera Bread Rapid Pickup",
+    "thumb": "/projects/panera-bread/thumb",
+    "desc": "Avoid long lines. A better, faster way to order fast food online, how you want it, and when you want it",
+    "url": "https://delivery1.panerabread.com",
+    "submitter": "shivanykshenoy",
+    "submissionDate": "2015-11-15",
+    "tags": [
+      "food",
+      "restaurant",
+      "lifestyle"
+    ]
   }
 ]
