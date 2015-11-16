@@ -1375,6 +1375,20 @@
     "slug": "google-careers"
   },
   {
+    "name": "MenuMafia POS",
+    "thumb": "/projects/menumafia/thumb",
+    "desc": "Point of sale app for food business",
+    "url": "http://www.menumafia.com/apps/point-of-sale-software",
+    "submitter": "sushantt2099",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "point-of-sale-software",
+      "business"
+    ],
+    "slug": "MenuMafia"
+  },
+
+  {
     "name": "August",
     "thumb": "/projects/august/thumb",
     "desc": "",
