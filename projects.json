@@ -1949,5 +1949,17 @@
       "community"
     ],
     "slug": "vectoriole"
+  },
+  {
+    "name": "Mercedes-Benz Collection Shop",
+    "thumb": "/projects/mercedes-benz-shop/thumb",
+    "desc": "",
+    "url": "https://shop.mercedes-benz.com/es",
+    "submitter": "bernhardrode",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "mercedes-benz"
+    ],
+    "slug": "mercedes-benz-shop"
   }
 ]
