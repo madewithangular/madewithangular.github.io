@@ -1951,6 +1951,18 @@
     "slug": "vectoriole"
   },
   {
+    "name": "Panera Bread Rapid Pickup",
+    "thumb": "/projects/panera-bread/thumb",
+    "desc": "Avoid long lines. A better, faster way to order fast food online, how you want it, and when you want it",
+    "url": "https://delivery1.panerabread.com",
+    "submitter": "shivanykshenoy",
+    "submissionDate": "2015-11-15",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "panera-bread"
+  },
+  {
     "name": "Mercedes-Benz Collection Shop",
     "thumb": "/projects/mercedes-benz-shop/thumb",
     "desc": "",
@@ -1958,8 +1970,92 @@
     "submitter": "bernhardrode",
     "submissionDate": "2015-11-17",
     "tags": [
-      "mercedes-benz"
+      "shopping"
     ],
     "slug": "mercedes-benz-shop"
+  },
+  {
+    "name": "Navjinderism",
+    "thumb": "/projects/navjinderism/thumb",
+    "desc": "",
+    "url": "http://navjinderism.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "navjinderism"
+  },
+  {
+    "name": "DevChat.tv",
+    "thumb": "/projects/devchattv/thumb",
+    "desc": "",
+    "url": "https://devchat.tv/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "devchattv"
+  },
+  {
+    "name": "IcoMoon",
+    "thumb": "/projects/icomoon/thumb",
+    "desc": "",
+    "url": "https://icomoon.io/app/#/select",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "icomoon"
+  },
+  {
+    "name": "Sephora",
+    "thumb": "/projects/sephora/thumb",
+    "desc": "",
+    "url": "https://www.sephora.com/basket/basket.jsp",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "sephora"
+  },
+  {
+    "name": "Maryland State Police",
+    "thumb": "/projects/maryland-state-police/thumb",
+    "desc": "",
+    "url": "https://egov.maryland.gov/msp/vsi",
+    "submitter": "freedomab",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "communication"
+    ],
+    "slug": "maryland-state-police"
+  },
+  {
+    "name": "MenuMafia POS",
+    "thumb": "/projects/menumafia/thumb",
+    "desc": "Point of sale app for food business",
+    "url": "http://www.menumafia.com/apps/point-of-sale-software",
+    "submitter": "sushantt2099",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "menumafia"
+  },
+  {
+    "name": "MenuMafia POS",
+    "thumb": "/projects/menumafia/thumb",
+    "desc": "Point of sale app for food business",
+    "url": "http://www.menumafia.com/apps/point-of-sale-software",
+    "submitter": "sushantt2099",
+    "submissionDate": "2015-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "menumafia"
   }
 ]
