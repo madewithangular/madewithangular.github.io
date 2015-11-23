@@ -2093,5 +2093,18 @@
       "education"
     ],
     "slug": "stanford-classx"
+  },
+  {
+    "name": "Google Star Wars",
+    "thumb": "/projects/google-star-wars/thumb",
+    "desc": "",
+    "url": "https://www.google.com/starwars/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-23",
+    "tags": [
+      "entertainment",
+      "google"
+    ],
+    "slug": "google-star-wars"
   }
 ]
