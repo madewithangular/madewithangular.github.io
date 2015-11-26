@@ -2106,5 +2106,77 @@
       "google"
     ],
     "slug": "google-star-wars"
+  },
+  {
+    "name": "Blue Origin",
+    "thumb": "/projects/blue-origin/thumb",
+    "desc": "",
+    "url": "https://www.blueorigin.com",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "blue-origin"
+  },
+  {
+    "name": "TrendingDevs",
+    "thumb": "/projects/trending-devs/thumb",
+    "desc": "",
+    "url": "http://app.trendingdevs.com/",
+    "submitter": "shprink",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "trending-devs"
+  },
+  {
+    "name": "Tinder",
+    "thumb": "/projects/tinder/thumb",
+    "desc": "",
+    "url": "http://www.gotinder.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "tinder"
+  },
+  {
+    "name": "How Secure Is My Password?",
+    "thumb": "/projects/hsimp/thumb",
+    "desc": "",
+    "url": "https://howsecureismypassword.net/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "hsimp"
+  },
+  {
+    "name": "Stance",
+    "thumb": "/projects/stance/thumb",
+    "desc": "",
+    "url": "https://www.stance.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "stance"
+  },
+  {
+    "name": "Moozvine",
+    "thumb": "/projects/moozvine/thumb",
+    "desc": "",
+    "url": "https://www.moozvine.com/catalogue/0/all/all",
+    "submitter": "richmartin",
+    "submissionDate": "2015-11-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "moozvine"
   }
 ]
