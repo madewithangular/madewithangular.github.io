@@ -2286,5 +2286,20 @@
       "lifestyle"
     ],
     "slug": "build-your-own-subaru"
+  },
+  {
+    "name": "Portable North Pole",
+    "thumb": "/projects/portable-north-pole/thumb",
+    "desc": "Make a video from Santa and give the gift of magic this Christmas season! Choose from free and premium videos that are personalized to the nice and even the naughty.",
+    "url": "https://www.portablenorthpole.com",
+    "submitter": "bcabanes",
+    "submissionDate": "2015-11-29",
+    "tags": [
+      "lifestyle",
+      "christmas",
+      "personalized",
+      "video"
+    ],
+    "slug": "portable-north-pole"
   }
 ]
