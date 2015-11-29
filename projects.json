@@ -2178,5 +2178,113 @@
       "community"
     ],
     "slug": "moozvine"
+  },
+  {
+    "name": "Chart Minder",
+    "thumb": "/projects/chart-minder/thumb",
+    "desc": "",
+    "url": "http://www.chart-minder.com/",
+    "submitter": "amillward",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "chart-minder"
+  },
+  {
+    "name": "Viacom",
+    "thumb": "/projects/viacom/thumb",
+    "desc": "",
+    "url": "http://www.viacom.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "viacom"
+  },
+  {
+    "name": "Build Your Scion",
+    "thumb": "/projects/build-your-scion/thumb",
+    "desc": "",
+    "url": "https://www.scion.com/build-your-scion#!/series",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "build-your-scion"
+  },
+  {
+    "name": "Magic Leap",
+    "thumb": "/projects/magic-leap/thumb",
+    "desc": "",
+    "url": "http://www.magicleap.com/#/home",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "magic-leap"
+  },
+  {
+    "name": "Docker",
+    "thumb": "/projects/docker/thumb",
+    "desc": "",
+    "url": "https://www.docker.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "tools"
+    ],
+    "slug": "docker"
+  },
+  {
+    "name": "Lyft",
+    "thumb": "/projects/lyft/thumb",
+    "desc": "",
+    "url": "https://www.lyft.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "lyft"
+  },
+  {
+    "name": "DJI Store",
+    "thumb": "/projects/dji-store/thumb",
+    "desc": "",
+    "url": "http://store.dji.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "media-video"
+    ],
+    "slug": "dji-store"
+  },
+  {
+    "name": "Ford",
+    "thumb": "/projects/ford/thumb",
+    "desc": "",
+    "url": "http://www.ford.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "ford"
+  },
+  {
+    "name": "Build Your Own Subaru",
+    "thumb": "/projects/build-your-own-subaru/thumb",
+    "desc": "",
+    "url": "http://www.subaru.com/build-your-own.html",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-28",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "build-your-own-subaru"
   }
 ]
