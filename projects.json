@@ -2286,5 +2286,13 @@
       "lifestyle"
     ],
     "slug": "build-your-own-subaru"
+  },
+  {
+    "name": "HDpuzzles",
+    "thumb": "/projects/hdpuzzles/thumb.png",
+    "desc": "A tile swapping puzzle game.",
+    "url": "http://www.hdpuzzles.com/",
+    "submitter": "ErikNijland",
+    "submissionDate": "2015-11-30"
   }
 ]
