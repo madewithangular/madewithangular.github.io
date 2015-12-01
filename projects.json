@@ -2286,5 +2286,65 @@
       "lifestyle"
     ],
     "slug": "build-your-own-subaru"
+  },
+  {
+    "name": "My PT Hub",
+    "thumb": "/projects/my-pt-hub/thumb",
+    "desc": "",
+    "url": "https://www.mypthub.net/",
+    "submitter": "adcuz",
+    "submissionDate": "2015-11-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "my-pt-hub"
+  },
+  {
+    "name": "Portable North Pole",
+    "thumb": "/projects/portable-north-pole/thumb",
+    "desc": "",
+    "url": "https://www.portablenorthpole.com/en/",
+    "submitter": "bcabanes",
+    "submissionDate": "2015-11-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "portable-north-pole"
+  },
+  {
+    "name": "HDpuzzles",
+    "thumb": "/projects/hdpuzzles/thumb",
+    "desc": "",
+    "url": "http://www.hdpuzzles.com/#/",
+    "submitter": "ErikNijland",
+    "submissionDate": "2015-11-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "hdpuzzles"
+  },
+  {
+    "name": "Solar City",
+    "thumb": "/projects/solar-city/thumb",
+    "desc": "",
+    "url": "https://mysolarcity.com/",
+    "submitter": "gdi2290",
+    "submissionDate": "2015-11-30",
+    "tags": [
+      "productivity"
+    ],
+    "slug": "solar-city"
+  },
+  {
+    "name": "Ruffle",
+    "thumb": "/projects/ruffle/thumb",
+    "desc": "",
+    "url": "https://www.ruffle.us/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-11-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "ruffle"
   }
 ]
