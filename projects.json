@@ -2355,10 +2355,32 @@
     "submitter": "Woland2k",
     "submissionDate": "2015-12-01",
     "tags": [
-      "community",
-      "platform",
-      "shopping"
+      "community"
     ],
     "slug": "virtocommerce"
+  },
+  {
+    "name": "Conkansei",
+    "thumb": "/projects/conkansei/thumb",
+    "desc": "",
+    "url": "https://conkansei.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "conkansei"
+  },
+  {
+    "name": "Lyon Vélo'v",
+    "thumb": "/projects/lyonvelov/thumb",
+    "desc": "",
+    "url": "http://www.lyonvelov.info/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "lyonvelov"
   }
 ]
