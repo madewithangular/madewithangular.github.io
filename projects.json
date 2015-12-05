@@ -2382,5 +2382,41 @@
       "community"
     ],
     "slug": "lyonvelov"
+  },
+  {
+    "name": "Skveege",
+    "thumb": "/projects/skveege/thumb",
+    "desc": "",
+    "url": "http://www.skveege.com/",
+    "submitter": "michaelkrog",
+    "submissionDate": "2015-12-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "skveege"
+  },
+  {
+    "name": "overEducate",
+    "thumb": "/projects/overeducate/thumb",
+    "desc": "",
+    "url": "http://www.overeducate.com/",
+    "submitter": "karimjamal",
+    "submissionDate": "2015-12-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "overeducate"
+  },
+  {
+    "name": "Tappsi",
+    "thumb": "/projects/tappsi/thumb",
+    "desc": "",
+    "url": "https://web.tappsi.co/#/login",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "tappsi"
   }
 ]
