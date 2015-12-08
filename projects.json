@@ -2418,5 +2418,41 @@
       "community"
     ],
     "slug": "tappsi"
+  },
+  {
+    "name": "BizRunnr",
+    "thumb": "/projects/bizrunnr/thumb",
+    "desc": "",
+    "url": "http://www.bizrunnr.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "bizrunnr"
+  },
+  {
+    "name": "binaryDoge",
+    "thumb": "/projects/binarydoge/thumb",
+    "desc": "",
+    "url": "http://alielwazir.me/binaryDoge/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "binarydoge"
+  },
+  {
+    "name": "LiveJournal",
+    "thumb": "/projects/livejournal/thumb",
+    "desc": "",
+    "url": "http://www.livejournal.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-08",
+    "tags": [
+      "social"
+    ],
+    "slug": "livejournal"
   }
 ]
