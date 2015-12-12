@@ -2454,5 +2454,17 @@
       "social"
     ],
     "slug": "livejournal"
+  },
+  {
+    "name": "Hua Rong Dao",
+    "thumb": "/projects/huarongdao/thumb.png",
+    "desc": "Chinese classic puzzle game",
+    "url": "http://www.jinandsu.net/huarongdao",
+    "submitter": "jeantimex",
+    "submissionDate": "2015-12-09",
+    "tags": [
+      "community"
+    ],
+    "slug": "huarongdao"
   }
 ]
