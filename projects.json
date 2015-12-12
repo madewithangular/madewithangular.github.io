@@ -33,7 +33,8 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-06-17",
     "tags": [
-      "google"
+      "google",
+      "education"
     ],
     "slug": "google-education-on-air"
   },
@@ -2457,7 +2458,7 @@
   },
   {
     "name": "Hua Rong Dao",
-    "thumb": "/projects/huarongdao/thumb.png",
+    "thumb": "/projects/huarongdao/thumb",
     "desc": "Chinese classic puzzle game",
     "url": "http://www.jinandsu.net/huarongdao",
     "submitter": "jeantimex",
@@ -2466,5 +2467,54 @@
       "community"
     ],
     "slug": "huarongdao"
+  },
+  {
+    "name": "Biography.com",
+    "thumb": "/projects/biography/thumb",
+    "desc": "",
+    "url": "http://www.biography.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-12",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "biography"
+  },
+  {
+    "name": "Rachael Ray",
+    "thumb": "/projects/rachaelray/thumb",
+    "desc": "",
+    "url": "http://www.rachaelray.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-12",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "rachaelray"
+  },
+  {
+    "name": "Pacific Standard",
+    "thumb": "/projects/pacific-standard/thumb",
+    "desc": "",
+    "url": "http://www.psmag.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-12",
+    "tags": [
+      "news-magazines"
+    ],
+    "slug": "pacific-standard"
+  },
+  {
+    "name": "Google Hands Free",
+    "thumb": "/projects/hands-free/thumb",
+    "desc": "",
+    "url": "https://get.google.com/handsfree/#?modal_active=none",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-12",
+    "tags": [
+      "google",
+      "finance"
+    ],
+    "slug": "hands-free"
   }
 ]
