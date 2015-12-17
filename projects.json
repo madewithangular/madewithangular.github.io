@@ -2516,5 +2516,197 @@
       "finance"
     ],
     "slug": "hands-free"
-  }
+  },
+  {
+    "name": "Healthcare.gov",
+    "thumb": "/projects/healthcare-gov/thumb",
+    "desc": "",
+    "url": "https://www.healthcare.gov/see-plans",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-15",
+    "tags": [
+      "health-fitness"
+    ],
+    "slug": "healthcare-gov"
+  },
+  {
+    "name": "AMP Ready",
+    "thumb": "/projects/ampready/thumb",
+    "desc": "",
+    "url": "http://ampready.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "ampready"
+  },
+  {
+    "name": "SoyEmpleo.com",
+    "thumb": "/projects/soyempleo/thumb",
+    "desc": "",
+    "url": "http://soyempleo.com/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "soyempleo"
+  },
+  {
+    "name": "updatemi",
+    "thumb": "/projects/updatemi/thumb",
+    "desc": "",
+    "url": "https://www.updatemi.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "updatemi"
+  },
+  {
+    "name": "Instant Chat",
+    "thumb": "/projects/instant-chat/thumb",
+    "desc": "",
+    "url": "https://instantchat.io/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "instant-chat"
+  },
+  {
+    "name": "Echoes Player",
+    "thumb": "/projects/echoes-player/thumb",
+    "desc": "",
+    "url": "http://echotu.be/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "echoes-player"
+  },
+  {
+    "name": "Souqalmal.com",
+    "thumb": "/projects/souqalmal/thumb",
+    "desc": "",
+    "url": "http://www.souqalmal.com/ae-en",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "souqalmal"
+  },
+  {
+    "name": "TripCreator",
+    "thumb": "/projects/tripcreator/thumb",
+    "desc": "",
+    "url": "https://tripcreator.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "tripcreator"
+  },
+  {
+    "name": "Abacus",
+    "thumb": "/projects/abacus/thumb",
+    "desc": "",
+    "url": "https://www.abacus.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "abacus"
+  },
+  {
+    "name": "ListNet",
+    "thumb": "/projects/listnet/thumb",
+    "desc": "",
+    "url": "https://www.listnet.ca/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "listnet"
+  },
+  {
+    "name": "OnsenTipster",
+    "thumb": "/projects/onsen-tipster/thumb",
+    "desc": "",
+    "url": "http://www.onsentipster.com/#!/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "onsen-tipster"
+  },
+  {
+    "name": "ManageWP",
+    "thumb": "/projects/managewp/thumb",
+    "desc": "",
+    "url": "https://managewp.com/",
+    "submitter": "Kouteki",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "managewp"
+  },
+  {
+    "name": "xe.gr",
+    "thumb": "/projects/xegr/thumb",
+    "desc": "",
+    "url": "http://www.xe.gr/express/",
+    "submitter": "Dimitris24sta23",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "xegr"
+  },
+  {
+    "name": "Active Collab",
+    "thumb": "/projects/active-collab/thumb",
+    "desc": "Powerful, yet simple project management",
+    "url": "https://www.activecollab.com/",
+    "submitter": "godza",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "active-collab"
+  },
+  {
+    "name": "Izzui",
+    "thumb": "/projects/izzui/thumb",
+    "desc": "Interactive Video Missions Platform",
+    "url": "http://izzui.com",
+    "submitter": "izzui",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "izzui"
+  },
+  {
+    "name": "Propel Fuels",
+    "thumb": "/projects/propel-fuels/thumb",
+    "desc": "",
+    "url": "https://propelfuels.com/",
+    "submitter": "peteshilling",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "propel-fuels"
+  } 
 ]
