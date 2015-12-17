@@ -2516,5 +2516,19 @@
       "finance"
     ],
     "slug": "hands-free"
+  },
+  {
+    "name": "Active Collab",
+    "thumb": "/projects/active-collab/thumb",
+    "desc": "Powerful, yet simple project management",
+    "url": "https://www.activecollab.com/",
+    "submitter": "godza",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "productivity",
+      "business",
+      "tools"
+    ],
+    "slug": "active-collab"
   }
 ]
