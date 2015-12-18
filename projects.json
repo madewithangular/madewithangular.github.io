@@ -2708,5 +2708,29 @@
       "community"
     ],
     "slug": "propel-fuels"
-  } 
+  },
+  {
+    "name": "MetoCat",
+    "thumb": "/projects/metocat/thumb",
+    "desc": "",
+    "url": "https://metocat.com/",
+    "submitter": "annatomka",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "metocat"
+  },
+  {
+    "name": "Deku",
+    "thumb": "/projects/deku/thumb",
+    "desc": "A forum for greenhouse and horticulture enthusiasts. Includes a dashboard for live upload of environmental data.",
+    "url": "http://dekugreen.com",
+    "submitter": "Beasta",
+    "submissionDate": "2015-12-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "deku"
+  }
 ]
