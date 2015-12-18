@@ -2732,5 +2732,89 @@
       "community"
     ],
     "slug": "deku"
+  },
+  {
+    "name": "Pizza Hut",
+    "thumb": "/projects/pizza-hut/thumb",
+    "desc": "",
+    "url": "http://www.pizzahut.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "pizza-hut"
+  },
+  {
+    "name": "MetroLyrics",
+    "thumb": "/projects/metrolyrics/thumb",
+    "desc": "",
+    "url": "http://www.metrolyrics.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "music-audio"
+    ],
+    "slug": "metrolyrics"
+  },
+  {
+    "name": "Urban Outfitters",
+    "thumb": "/projects/urban-outfitters/thumb",
+    "desc": "",
+    "url": "http://www.urbanoutfitters.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "metrolyrics"
+  },
+  {
+    "name": "Gfycat",
+    "thumb": "/projects/gfycat/thumb",
+    "desc": "",
+    "url": "http://gfycat.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "media-video"
+    ],
+    "slug": "gfycat"
+  },
+  {
+    "name": "Cars.com",
+    "thumb": "/projects/cars-com/thumb",
+    "desc": "",
+    "url": "https://www.cars.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "cars-com"
+  },
+  {
+    "name": "Kroger",
+    "thumb": "/projects/kroger/thumb",
+    "desc": "",
+    "url": "https://www.kroger.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "kroger"
+  },
+  {
+    "name": "The Sports Network",
+    "thumb": "/projects/tsn/thumb",
+    "desc": "",
+    "url": "http://www.tsn.ca/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "sports"
+    ],
+    "slug": "tsn"
   }
 ]
