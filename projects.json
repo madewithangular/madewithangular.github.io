@@ -2816,5 +2816,19 @@
       "sports"
     ],
     "slug": "tsn"
+  },
+  {
+    "name": "Kibana",
+    "thumb": "/projects/kibana/thumb",
+    "desc": "Kibana is the data visualization engine of the ELK stack, and allows you to natively interact with all your data in Elasticsearch via custom dashboards.",
+    "url": "https://www.elastic.co/products/kibana",
+    "submitter": "urish",
+    "submissionDate": "2015-12-19",
+    "tags": [
+      "business",
+      "productivity",
+      "tools"
+    ],
+    "slug": "kibana"
   }
 ]
