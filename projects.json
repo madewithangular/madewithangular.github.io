@@ -2816,5 +2816,18 @@
       "sports"
     ],
     "slug": "tsn"
+  },
+  {
+    "name": "The Digital Garage",
+    "thumb": "/projects/the-digital-garage/thumb",
+    "desc": "",
+    "url": "https://digitalgarage.withgoogle.com/",
+    "submitter": "johannes-weber",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "google",
+      "education"
+    ],
+    "slug": "the-digital-garage"
   }
 ]
