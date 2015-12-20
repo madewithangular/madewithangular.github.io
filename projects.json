@@ -2816,5 +2816,30 @@
       "sports"
     ],
     "slug": "tsn"
+  },
+  {
+    "name": "The Digital Garage",
+    "thumb": "/projects/the-digital-garage/thumb",
+    "desc": "",
+    "url": "https://digitalgarage.withgoogle.com/",
+    "submitter": "johannes-weber",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "google",
+      "education"
+    ],
+    "slug": "the-digital-garage"
+  },
+  {
+    "name": "myDriver",
+    "thumb": "/projects/mydriver/thumb",
+    "desc": "",
+    "url": "https://www.mydriver.com",
+    "submitter": "johannes-weber",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "mydriver"
   }
 ]
