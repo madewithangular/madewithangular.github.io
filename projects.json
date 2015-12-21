@@ -2816,5 +2816,90 @@
       "sports"
     ],
     "slug": "tsn"
+  },
+  {
+    "name": "Disney Cruise Line",
+    "thumb": "/projects/disney-cruise-line/thumb",
+    "desc": "",
+    "url": "https://disneycruise.disney.go.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "disney-cruise-line"
+  },
+  {
+    "name": "Google Research",
+    "thumb": "/projects/google-research/thumb",
+    "desc": "",
+    "url": "http://research.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-18",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-research"
+  },
+  {
+    "name": "Kibana",
+    "thumb": "/projects/kibana/thumb",
+    "desc": "Kibana is the data visualization engine of the ELK stack, and allows you to natively interact with all your data in Elasticsearch via custom dashboards.",
+    "url": "https://www.elastic.co/products/kibana",
+    "submitter": "urish",
+    "submissionDate": "2015-12-19",
+    "tags": [
+      "tools"
+    ],
+    "slug": "kibana"
+  },
+  {
+    "name": "Fetch",
+    "thumb": "/projects/fetch/thumb",
+    "desc": "",
+    "url": "https://fetch.co.uk/",
+    "submitter": "danhoran",
+    "submissionDate": "2015-12-19",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "fetch"
+  },
+  {
+    "name": "The Digital Garage",
+    "thumb": "/projects/the-digital-garage/thumb",
+    "desc": "",
+    "url": "https://digitalgarage.withgoogle.com/",
+    "submitter": "johannes-weber",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "google",
+      "education"
+    ],
+    "slug": "the-digital-garage"
+  },
+  {
+    "name": "myDriver",
+    "thumb": "/projects/mydriver/thumb",
+    "desc": "",
+    "url": "https://www.mydriver.com",
+    "submitter": "johannes-weber",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "mydriver"
+  },
+  {
+    "name": "Full Tilt",
+    "thumb": "/projects/full-tilt/thumb",
+    "desc": "",
+    "url": "https://www.fulltilt.com/casino/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-20",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "full-tilt"
   }
 ]
