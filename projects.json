@@ -2901,5 +2901,77 @@
       "entertainment"
     ],
     "slug": "full-tilt"
+  },
+  {
+    "name": "Pocket Dice",
+    "thumb": "/projects/pocket-dice/thumb",
+    "desc": "",
+    "url": "https://pocketdice.io/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "pocket-dice"
+  },
+  {
+    "name": "Angular 2 Dribbble",
+    "thumb": "/projects/ng2-dribbble/thumb",
+    "desc": "",
+    "url": "http://zamamohammed.github.io/ng2-dribbble/#/snaps",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "ng2-dribbble"
+  },
+  {
+    "name": "Telcel",
+    "thumb": "/projects/telcel/thumb",
+    "desc": "",
+    "url": "http://telcel.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "productivity"
+    ],
+    "slug": "telcel"
+  },
+  {
+    "name": "DoubleClick",
+    "thumb": "/projects/doubleclick/thumb",
+    "desc": "",
+    "url": "https://www.doubleclickbygoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "google"
+    ],
+    "slug": "doubleclick"
+  },
+  {
+    "name": "ILTER",
+    "thumb": "/projects/ilter/thumb",
+    "desc": "",
+    "url": "http://132.248.172.188/#/",
+    "submitter": "Crizstian",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "ilter"
+  },
+  {
+    "name": "Pixnary",
+    "thumb": "/projects/pixnary/thumb",
+    "desc": "",
+    "url": "http://www.pixnary.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "pixnary"
   }
 ]
