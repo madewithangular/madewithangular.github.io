@@ -2934,7 +2934,7 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2015-12-25",
     "tags": [
-      "productivity"
+      "communication"
     ],
     "slug": "telcel"
   },
@@ -2973,5 +2973,78 @@
       "community"
     ],
     "slug": "pixnary"
+  },
+  {
+    "name": "Australia.com",
+    "thumb": "/projects/australia-com/thumb",
+    "desc": "",
+    "url": "http://www.australia.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "australia-com"
+  },
+  {
+    "name": "Boost Mobile",
+    "thumb": "/projects/boost-mobile/thumb",
+    "desc": "",
+    "url": "https://www.boostmobile.com/#!/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "communication"
+    ],
+    "slug": "boost-mobile"
+  },
+  {
+    "name": "Jimmy John's",
+    "thumb": "/projects/jimmy-johns/thumb",
+    "desc": "",
+    "url": "https://online.jimmyjohns.com/#/login",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "jimmy-johns"
+  },
+  {
+    "name": "Radisson Blu",
+    "thumb": "/projects/radisson-blu/thumb",
+    "desc": "",
+    "url": "https://www.radissonblu.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "radisson-blu"
+  },
+  {
+    "name": "Tigerair",
+    "thumb": "/projects/tigerair/thumb",
+    "desc": "",
+    "url": "http://www.tigerair.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "tigerair"
+  },
+  {
+    "name": "TopCoder",
+    "thumb": "/projects/topcoder/thumb",
+    "desc": "",
+    "url": "https://www.topcoder.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-27",
+    "tags": [
+      "productivity"
+    ],
+    "slug": "topcoder"
   }
+
 ]
