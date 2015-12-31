@@ -3045,6 +3045,42 @@
       "productivity"
     ],
     "slug": "topcoder"
+  },
+  {
+    "name": "Slider Angular",
+    "thumb": "/projects/sliderangular/thumb",
+    "desc": "",
+    "url": "https://github.com/andresciceri/sliderangular",
+    "submitter": "andresciceri",
+    "submissionDate": "2015-12-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "sliderangular"
+  },
+  {
+    "name": "AngularJS Dependency Graph",
+    "thumb": "/projects/angularjs-dependency-graph/thumb",
+    "desc": "",
+    "url": "http://angularjs-graph.org/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-12-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "angularjs-dependency-graph"
+  },
+  {
+    "name": "Credit Card Admin",
+    "thumb": "/projects/credit-card-admin/thumb",
+    "desc": "",
+    "url": "https://play.google.com/store/apps/details?id=com.hn.coopersoft.creditcardapp",
+    "submitter": "cooper1388",
+    "submissionDate": "2015-12-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "credit-card-admin"
   }
 
 ]
