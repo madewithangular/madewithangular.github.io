@@ -3081,6 +3081,30 @@
       "community"
     ],
     "slug": "credit-card-admin"
+  },
+  {
+    "name": "Swedbank",
+    "thumb": "/projects/swedbank/thumb",
+    "desc": "",
+    "url": "https://online.swedbank.se",
+    "submitter": "Evanion",
+    "submissionDate": "2015-01-01",
+    "tags": [
+      "finance"
+    ],
+    "slug": "swedbank"
+  },
+  {
+    "name": "Alpha Bank",
+    "thumb": "/projects/alpha-bank/thumb",
+    "desc": "",
+    "url": "https://www.alpha.gr/e-banking",
+    "submitter": "predatorkill",
+    "submissionDate": "2015-01-01",
+    "tags": [
+      "finance"
+    ],
+    "slug": "alpha-bank"
   }
 
 ]
