@@ -3105,6 +3105,30 @@
       "finance"
     ],
     "slug": "alpha-bank"
+  },
+  {
+    "name": "NBA Global",
+    "thumb": "/projects/nba-global/thumb",
+    "desc": "",
+    "url": "http://global.nba.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-01-01",
+    "tags": [
+      "sports"
+    ],
+    "slug": "nba-global"
+  },
+  {
+    "name": "websms|OnlineSMS",
+    "thumb": "/projects/websms/thumb",
+    "desc": "Webinterface für professionellen SMS Versand und Empfang.",
+    "url": "https://app.websms.com",
+    "submitter": "reifi",
+    "submissionDate": "2016-01-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "websms"
   }
 
 ]
