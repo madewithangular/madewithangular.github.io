@@ -187,18 +187,6 @@
     "slug": "google-for-education-products"
   },
   {
-    "name": "Salesforce1 Styleguide",
-    "thumb": "/projects/salesforce1-styleguide/thumb",
-    "desc": "",
-    "url": "http://sfdc-styleguide.herokuapp.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-07-01",
-    "tags": [
-      "business"
-    ],
-    "slug": "salesforce1-styleguide"
-  },
-  {
     "name": "Google Partners",
     "thumb": "/projects/google-partners/thumb",
     "desc": "",
