@@ -3178,5 +3178,17 @@
       "transportation"
     ],
     "slug": "suas-registration"
+  },
+  {
+    "name": "Body Browser",
+    "thumb": "/projects/body-browser/thumb.jpg",
+    "desc": "The Semantic Body Browser is a tool for visually exploring an organism by means of ontologically annotated anatomical illustrations and spatial gene expression visualization.",
+    "url": "http://body-browser.org",
+    "submitter": "flekschas",
+    "submissionDate": "2016-01-10",
+    "tags": [
+      "research"
+    ],
+    "slug": "body-browser"
   }
 ]
