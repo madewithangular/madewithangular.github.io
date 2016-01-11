@@ -3178,5 +3178,53 @@
       "transportation"
     ],
     "slug": "suas-registration"
+  },
+  {
+    "name": "Body Browser",
+    "thumb": "/projects/body-browser/thumb",
+    "desc": "The Semantic Body Browser is a tool for visually exploring an organism by means of ontologically annotated anatomical illustrations and spatial gene expression visualization.",
+    "url": "http://body-browser.org",
+    "submitter": "flekschas",
+    "submissionDate": "2016-01-10",
+    "tags": [
+      "community"
+    ],
+    "slug": "body-browser"
+  },
+  {
+    "name": "Finit",
+    "thumb": "/projects/finit/thumb",
+    "desc": "",
+    "url": "https://finit.co/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "finit"
+  },
+  {
+    "name": "The Pulitzer Prizes",
+    "thumb": "/projects/pulitzer/thumb",
+    "desc": "",
+    "url": "http://www.pulitzer.org/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-11",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "pulitzer"
+  },
+  {
+    "name": "CosmoCaixa",
+    "thumb": "/projects/cosmocaixa/thumb",
+    "desc": "",
+    "url": "https://proticketing.com/cosmocaixabarcelona/es_ES/entradas/evento/4429",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "cosmocaixa"
   }
 ]
