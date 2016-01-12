@@ -3226,5 +3226,17 @@
       "community"
     ],
     "slug": "cosmocaixa"
+  },
+  {
+    "name": "Sisense",
+    "thumb": "/projects/sisense/thumb",
+    "desc": "",
+    "url": "http://www.sisense.com/",
+    "submitter": "motigra",
+    "submissionDate": "2016-01-12",
+    "tags": [
+      "tools"
+    ],
+    "slug": "sisense"
   }
 ]
