@@ -3238,5 +3238,77 @@
       "tools"
     ],
     "slug": "sisense"
+  },
+  {
+    "name": "Kiqer",
+    "thumb": "/projects/kiqer/thumb",
+    "desc": "",
+    "url": "http://kiqer.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "kiqer"
+  },
+  {
+    "name": "ArcticWeb",
+    "thumb": "/projects/arcticweb/thumb",
+    "desc": "",
+    "url": "https://arcticweb.e-navigation.net/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "arcticweb"
+  },
+  {
+    "name": "Berkshire Hathaway Travel Protection",
+    "thumb": "/projects/bhtp/thumb",
+    "desc": "",
+    "url": "https://www.bhtp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-17",
+    "tags": [
+      "finance"
+    ],
+    "slug": "bhtp"
+  },
+  {
+    "name": "Weekly Reading RX",
+    "thumb": "/projects/weekly-reading-rx/thumb",
+    "desc": "",
+    "url": "http://suyeon-son.com/sandbox/bookrx/index.html#/home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "weekly-reading-rx"
+  },
+  {
+    "name": "TransferXL",
+    "thumb": "/projects/transferxl/thumb",
+    "desc": "",
+    "url": "https://transferxl.com/",
+    "submitter": "ramondeklein",
+    "submissionDate": "2016-01-14",
+    "tags": [
+      "community"
+    ],
+    "slug": "transferxl"
+  },
+  {
+    "name": "Mohit Bajoria",
+    "thumb": "/projects/mohit-bajoria/thumb",
+    "desc": "",
+    "url": "http://mohitbajoria.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "mohit-bajoria"
   }
 ]
