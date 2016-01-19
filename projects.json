@@ -3310,5 +3310,32 @@
       "community"
     ],
     "slug": "mohit-bajoria"
+  },
+  {
+    "name": "GoCinchy Social",
+    "thumb": "/projects/gocinchy-social/thumb.jpg",
+    "desc": "Intuitive Social Media Marketing for Startups",
+    "url": "http://www.gocinchy.com/social",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-01-19",
+    "tags": [
+      "social",
+      "business",
+      "tools"
+    ],
+    "slug": "gocinchy"
+  },
+  {
+    "name": "GoCinchy Bookmarks",
+    "thumb": "/projects/gocinchy-bookmarks/thumb.jpg",
+    "desc": "Simple Yet Effective Bookmark Manager",
+    "url": "http://www.gocinchy.com/bookmarks",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-01-19",
+    "tags": [
+      "productivity",
+      "tools"
+    ],
+    "slug": "gocinchy"
   }
 ]
