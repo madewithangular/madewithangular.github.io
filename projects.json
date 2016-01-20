@@ -3310,5 +3310,29 @@
       "community"
     ],
     "slug": "mohit-bajoria"
+  },
+  {
+    "name": "JetBov",
+    "thumb": "/projects/jetbov/thumb",
+    "desc": "",
+    "url": "https://app.jetbov.com",
+    "submitter": "gzamboni",
+    "submissionDate": "2016-01-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "jetbov"
+  },
+  {
+    "name": "Comptoir des Savonniers",
+    "thumb": "/projects/comptoir-des-savonniers/thumb",
+    "desc": "",
+    "url": "http://www.comptoir-des-savonniers.com/#!/en/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-01-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "comptoir-des-savonniers"
   }
 ]
