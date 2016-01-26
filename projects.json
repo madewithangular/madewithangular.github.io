@@ -3334,5 +3334,13 @@
       "community"
     ],
     "slug": "comptoir-des-savonniers"
+  },
+  {
+    "name": "Renault",
+    "thumb": "/projects/renault/renault01.png",
+    "desc": "Renault Megane car configuration's webapp",
+    "url": "https://anfrage.renault.de/informiert-bleiben/megane",
+    "submitter": "elecash",
+    "submissionDate": "2016-01-26"
   }
 ]
