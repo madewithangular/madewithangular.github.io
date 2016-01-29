@@ -3432,15 +3432,15 @@
     "slug": "renault"
   },
   {
-    "name": "Particle Develop",
-    "thumb": "/projects/particle-develop/thumb",
+    "name": "Provecta POS",
+    "thumb": "/projects/provecta-pos/thumb",
     "desc": "",
-    "url": "http://ics-web.jp/projects/particle-develop/",
+    "url": "http://provectapos.com/",
     "submitter": "lpolepeddi",
     "submissionDate": "2016-01-29",
     "tags": [
       "community"
     ],
-    "slug": "particle-develop"
+    "slug": "provecta-pos"
   }
 ]
