@@ -3442,5 +3442,19 @@
       "community"
     ],
     "slug": "provecta-pos"
+  },
+  {
+    "name": "FleetMover.com",
+    "thumb": "/projects/fleetmover/thumb",
+    "desc": "FleetMover.com is an online classifieds for commercial trucks and trailers.",
+    "url": "https://www.fleetmover.com/",
+    "submitter": "s1300045",
+    "submissionDate": "2016-01-30",
+    "tags": [
+      "business",
+      "transportation",
+      "shopping"
+    ],
+    "slug": "fleetmover"
   }
 ]
