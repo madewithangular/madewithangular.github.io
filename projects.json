@@ -3502,5 +3502,17 @@
       "community"
     ],
     "slug": "fleetmover"
+  },
+  {
+    "name": "CoTrip.org",
+    "thumb": "/projects/cotrip/thumb",
+    "desc": "",
+    "url": "http://cotrip.org/snowplow.htm#/snowplow",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-01",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "cotrip"
   }
 ]
