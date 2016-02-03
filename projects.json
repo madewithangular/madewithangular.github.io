@@ -3514,5 +3514,17 @@
       "transportation"
     ],
     "slug": "cotrip"
+  },
+  {
+    "name": "Kia Motors USA",
+    "thumb": "/projects/kia-motors/thumb",
+    "desc": "",
+    "url": "http://www.kia.com/us/en/home",
+    "submitter": "Vinci Rufus",
+    "submissionDate": "2016-02-03",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "kia-motors"
   }
 ]
