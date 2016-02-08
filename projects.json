@@ -3791,5 +3791,17 @@
       "sports"
     ],
     "slug": "fox-sports"
+  },
+  {
+    "name": "McDonald's Happy Meal",
+    "thumb": "/projects/mcdonalds-happy-meal/thumb",
+    "desc": "",
+    "url": "http://www.happymeal.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "mcdonalds-happy-meal"
   }
 ]
