@@ -3851,5 +3851,17 @@
       "travel-local"
     ],
     "slug": "premier-inn"
+  },
+  {
+    "name": "Freeletics",
+    "thumb": "/projects/freeletics/thumb",
+    "desc": "",
+    "url": "https://www.freeletics.com/en",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "health-fitness"
+    ],
+    "slug": "freeletics"
   }
 ]
