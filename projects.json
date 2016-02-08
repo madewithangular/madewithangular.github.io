@@ -3420,6 +3420,18 @@
     "slug": "roadzer"
   },
   {
+    "name": "Particle Develop",
+    "thumb": "/projects/particle-develop/thumb",
+    "desc": "",
+    "url": "http://ics-web.jp/projects/particle-develop/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2015-01-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "particle-develop"
+  },
+  {
     "name": "Renault",
     "thumb": "/projects/renault/thumb",
     "desc": "Renault Megane car configuration's webapp",
@@ -3520,11 +3532,35 @@
     "thumb": "/projects/kia-motors/thumb",
     "desc": "",
     "url": "http://www.kia.com/us/en/home",
-    "submitter": "Vinci Rufus",
+    "submitter": "areai51",
     "submissionDate": "2016-02-03",
     "tags": [
       "transportation"
     ],
     "slug": "kia-motors"
+  },
+  {
+    "name": "Face Morph",
+    "thumb": "/projects/face-morph/thumb",
+    "desc": "",
+    "url": "http://peter.pisljar.si/playground/face-morph-2/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "face-morph"
+  },
+  {
+    "name": "GoPro",
+    "thumb": "/projects/gopro/thumb",
+    "desc": "",
+    "url": "https://gopro.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "photography"
+    ],
+    "slug": "gopro"
   }
 ]
