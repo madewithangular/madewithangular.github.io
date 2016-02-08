@@ -3695,5 +3695,17 @@
       "lifestyle"
     ],
     "slug": "mcdonalds-mobile"
+  },
+  {
+    "name": "Wolfram Alpha",
+    "thumb": "/projects/wolfram-alpha/thumb",
+    "desc": "",
+    "url": "https://www.wolframalpha.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "wolfram-alpha"
   }
 ]
