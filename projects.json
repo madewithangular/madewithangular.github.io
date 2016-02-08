@@ -3584,8 +3584,20 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2016-02-08",
     "tags": [
-      "http://www.anthropologie.com/"
+      "shopping"
     ],
     "slug": "anthropologie"
+  },
+  {
+    "name": "The Home Depot",
+    "thumb": "/projects/the-home-depot/thumb",
+    "desc": "",
+    "url": "http://www.homedepot.com/l/Kifer-Rd/CA/Sunnyvale/94086/640",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "the-home-depot"
   }
 ]
