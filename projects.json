@@ -3647,5 +3647,17 @@
       "travel-local"
     ],
     "slug": "norwegian-air-lines"
+  },
+  {
+    "name": "Domino's Pizza Brazil",
+    "thumb": "/projects/dominos-br/thumb",
+    "desc": "",
+    "url": "http://www.dominos.com.br/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "dominos-br"
   }
 ]
