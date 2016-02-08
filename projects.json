@@ -3827,5 +3827,17 @@
       "lifestyle"
     ],
     "slug": "mcdonalds-mobile"
+  },
+  {
+    "name": "AT&T U-verse",
+    "thumb": "/projects/att-uverse/thumb",
+    "desc": "",
+    "url": "http://uverse.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "att-uverse"
   }
 ]
