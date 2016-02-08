@@ -3767,5 +3767,17 @@
       "productivity"
     ],
     "slug": "microsoft-support"
+  },
+  {
+    "name": "Denny's",
+    "thumb": "/projects/dennys/thumb",
+    "desc": "",
+    "url": "https://www.dennys.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "dennys"
   }
 ]
