@@ -3611,5 +3611,17 @@
       "communication"
     ],
     "slug": "virgin-mobile-france"
+  },
+  {
+    "name": "Virgin Mobile Canada",
+    "thumb": "/projects/virgin-mobile-canada/thumb",
+    "desc": "",
+    "url": "http://www.virginmobile.ca/en/home/index.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "communication"
+    ],
+    "slug": "virgin-mobile-canada"
   }
 ]
