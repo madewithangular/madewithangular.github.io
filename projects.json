@@ -3599,5 +3599,17 @@
       "shopping"
     ],
     "slug": "the-home-depot"
+  },
+  {
+    "name": "Virgin Mobile France",
+    "thumb": "/projects/virgin-mobile-france/thumb",
+    "desc": "",
+    "url": "http://www.virginmobile.fr/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "communication"
+    ],
+    "slug": "virgin-mobile-france"
   }
 ]
