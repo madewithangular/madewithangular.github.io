@@ -3743,5 +3743,17 @@
       "lifestyle"
     ],
     "slug": "martha-stewart"
+  },
+  {
+    "name": "Britannica.com",
+    "thumb": "/projects/britannica/thumb",
+    "desc": "",
+    "url": "http://www.britannica.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "britannica"
   }
 ]
