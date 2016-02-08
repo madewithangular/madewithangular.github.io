@@ -3576,17 +3576,17 @@
     "slug": "gopro"
   },
   {
-    "name": "Freeletics",
-    "thumb": "/projects/freeletics/thumb",
+    "name": "Premierinn",
+    "thumb": "/projects/premierinn/thumb",
     "desc": "",
-    "url": "https://www.freeletics.com/",
+    "url": "http://www.premierinn.com/",
     "submitter": "Akallabet",
     "submissionDate": "2016-02-08",
     "tags": [
-      "freeletics",
-      "fitness",
-      "training"
+      "hotel",
+      "booking",
+      "premierinn"
     ],
-    "slug": "freeletics"
+    "slug": "premierinn"
   }
 ]
