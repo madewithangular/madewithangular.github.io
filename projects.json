@@ -3673,15 +3673,15 @@
     "slug": "car-and-driver"
   },
   {
-    "name": "AT",
-    "thumb": "/projects//thumb",
+    "name": "Emirates",
+    "thumb": "/projects/emirates/thumb",
     "desc": "",
-    "url": "",
+    "url": "http://www.emirates.com/ae/english/",
     "submitter": "lpolepeddi",
     "submissionDate": "2016-02-08",
     "tags": [
-      ""
+      "travel-local"
     ],
-    "slug": ""
+    "slug": "emirates"
   }
 ]
