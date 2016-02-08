@@ -3779,5 +3779,17 @@
       "lifestyle"
     ],
     "slug": "dennys"
+  },
+  {
+    "name": "FOX Sports",
+    "thumb": "/projects/fox-sports/thumb",
+    "desc": "",
+    "url": "http://www.foxsports.com/nfl/story/peyton-manning-denver-broncos-win-super-bowl-50-carolina-panthers-020716",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "sports"
+    ],
+    "slug": "fox-sports"
   }
 ]
