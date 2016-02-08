@@ -3623,5 +3623,17 @@
       "communication"
     ],
     "slug": "virgin-mobile-canada"
+  },
+  {
+    "name": "TurboTax AnswerXchange",
+    "thumb": "/projects/turbotax-answerxchange/thumb",
+    "desc": "",
+    "url": "https://ttlc.intuit.com/turbotax",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "finance"
+    ],
+    "slug": "turbotax-answerxchange"
   }
 ]
