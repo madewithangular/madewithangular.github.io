@@ -3571,8 +3571,21 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2016-02-08",
     "tags": [
-      "books-reference"
+      "books-reference",
+      "google"
     ],
     "slug": "editions-at-play"
+  },
+  {
+    "name": "Anthropologie",
+    "thumb": "/projects/anthropologie/thumb",
+    "desc": "",
+    "url": "http://www.anthropologie.com/anthro/index.jsp",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "http://www.anthropologie.com/"
+    ],
+    "slug": "anthropologie"
   }
 ]
