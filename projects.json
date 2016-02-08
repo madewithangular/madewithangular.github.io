@@ -3562,5 +3562,17 @@
       "photography"
     ],
     "slug": "gopro"
+  },
+  {
+    "name": "GoPro",
+    "thumb": "/projects/gopro/thumb",
+    "desc": "",
+    "url": "https://gopro.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "photography"
+    ],
+    "slug": "gopro"
   }
 ]
