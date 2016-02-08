@@ -3839,5 +3839,17 @@
       "entertainment"
     ],
     "slug": "att-uverse"
+  },
+  {
+    "name": "Premier Inn",
+    "thumb": "/projects/premier-inn/thumb",
+    "desc": "",
+    "url": "http://www.premierinn.com/gb/en/home.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "premier-inn"
   }
 ]
