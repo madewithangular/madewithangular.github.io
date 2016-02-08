@@ -3635,5 +3635,17 @@
       "finance"
     ],
     "slug": "turbotax-answerxchange"
+  },
+  {
+    "name": "Norwegian Air Lines",
+    "thumb": "/projects/norwegian-air-lines/thumb",
+    "desc": "",
+    "url": "https://www.norwegian.com/us/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "norwegian-air-lines"
   }
 ]
