@@ -3731,5 +3731,17 @@
       "entertainment"
     ],
     "slug": "disney-movies-anywhere"
+  },
+  {
+    "name": "Martha Stewart",
+    "thumb": "/projects/martha-stewart/thumb",
+    "desc": "",
+    "url": "http://www.marthastewart.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "martha-stewart"
   }
 ]
