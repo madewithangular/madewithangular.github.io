@@ -3683,5 +3683,17 @@
       "travel-local"
     ],
     "slug": "emirates"
+  },
+  {
+    "name": "McDonald's Mobile",
+    "thumb": "/projects/mcdonalds-mobile/thumb",
+    "desc": "",
+    "url": "http://www.mcdonalds.com/usmobile/en/food.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "mcdonalds-mobile"
   }
 ]
