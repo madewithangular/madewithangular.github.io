@@ -3755,5 +3755,17 @@
       "books-reference"
     ],
     "slug": "britannica"
+  },
+  {
+    "name": "Micrsoft Support",
+    "thumb": "/projects/microsoft-support/thumb",
+    "desc": "",
+    "url": "https://support.microsoft.com/en-us",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "productivity"
+    ],
+    "slug": "microsoft-support"
   }
 ]
