@@ -3659,5 +3659,17 @@
       "lifestyle"
     ],
     "slug": "dominos-br"
+  },
+  {
+    "name": "Car and Driver",
+    "thumb": "/projects/car-and-driver/thumb",
+    "desc": "",
+    "url": "http://www.caranddriver.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "news-magazines"
+    ],
+    "slug": "car-and-driver"
   }
 ]
