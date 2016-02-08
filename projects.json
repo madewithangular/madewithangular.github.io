@@ -3707,5 +3707,17 @@
       "books-reference"
     ],
     "slug": "wolfram-alpha"
+  },
+  {
+    "name": "Chick-fil-A",
+    "thumb": "/projects/chick-fil-a/thumb",
+    "desc": "",
+    "url": "http://www.chick-fil-a.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "chick-fil-a"
   }
 ]
