@@ -3574,5 +3574,19 @@
       "photography"
     ],
     "slug": "gopro"
+  },
+  {
+    "name": "Premierinn",
+    "thumb": "/projects/premierinn/thumb",
+    "desc": "",
+    "url": "http://www.premierinn.com/",
+    "submitter": "Akallabet",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "hotel",
+      "booking",
+      "premierinn"
+    ],
+    "slug": "premierinn"
   }
 ]
