@@ -3803,5 +3803,17 @@
       "lifestyle"
     ],
     "slug": "mcdonalds-happy-meal"
+  },
+  {
+    "name": "McDonald's McPick 2",
+    "thumb": "/projects/mcdonalds-mcpick2/thumb",
+    "desc": "",
+    "url": "http://www.mcdonalds.com/us/en/food/meal_bundles/mcpick_2.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "mcdonalds-mcpick2"
   }
 ]
