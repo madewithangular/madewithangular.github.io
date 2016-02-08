@@ -3863,5 +3863,17 @@
       "health-fitness"
     ],
     "slug": "freeletics"
+  },
+  {
+    "name": "TeamWave",
+    "thumb": "/projects/teamwave/thumb",
+    "desc": "",
+    "url": "http://www.teamwave.com/",
+    "submitter": "sachinchoolur",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "teamwave"
   }
 ]
