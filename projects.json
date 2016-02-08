@@ -3719,5 +3719,17 @@
       "lifestyle"
     ],
     "slug": "chick-fil-a"
+  },
+  {
+    "name": "Disney Movies Anywhere",
+    "thumb": "/projects/disney-movies-anywhere/thumb",
+    "desc": "",
+    "url": "https://www.disneymoviesanywhere.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-08",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "disney-movies-anywhere"
   }
 ]
