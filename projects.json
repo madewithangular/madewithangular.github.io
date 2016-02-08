@@ -3564,15 +3564,15 @@
     "slug": "gopro"
   },
   {
-    "name": "GoPro",
-    "thumb": "/projects/gopro/thumb",
+    "name": "Editions At Play",
+    "thumb": "/projects/editions-at-play/thumb",
     "desc": "",
-    "url": "https://gopro.com/",
+    "url": "https://editionsatplay.withgoogle.com/#/",
     "submitter": "lpolepeddi",
     "submissionDate": "2016-02-08",
     "tags": [
-      "photography"
+      "books-reference"
     ],
-    "slug": "gopro"
+    "slug": "editions-at-play"
   }
 ]
