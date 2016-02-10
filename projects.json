@@ -3579,7 +3579,7 @@
     "name": "getLonLat",
     "thumb": "/projects/getlonlat/thumb",
     "desc": "App to get coordinates from a place in the world. Provide longitude, latitude and geohash. Can convert to longitude and latitude to another projection.",
-    "url": "https://getlonlat.hewertho.mn/",
+    "url": "http://getlonlat.hewertho.mn/",
     "submitter": "hewerthomn",
     "submissionDate": "2016-02-08",
     "tags": [
