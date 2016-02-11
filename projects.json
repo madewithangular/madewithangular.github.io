@@ -3492,13 +3492,13 @@
     "slug": "amnh"
   },
   {
-   "name": "Socialivo",
-   "thumb": "/projects/socialivo/thumb",
-   "desc": "The who, when, where of what's happening right now. A social website to find and organize last-minute ad hoc social activities.",
-   "url": "https://www.socialivo.com",
-   "submitter": "jasonbhart",
-   "submissionDate": "2016-01-29",
-   "tags": [
+    "name": "Socialivo",
+    "thumb": "/projects/socialivo/thumb",
+    "desc": "The who, when, where of what's happening right now. A social website to find and organize last-minute ad hoc social activities.",
+    "url": "https://www.socialivo.com",
+    "submitter": "jasonbhart",
+    "submissionDate": "2016-01-29",
+    "tags": [
       "community"
     ],
     "slug": "socialivo"
@@ -3887,5 +3887,13 @@
       "community"
     ],
     "slug": "getlonlat"
+  },
+  {
+    "name": "Aiwa.ae",
+    "thumb": "/projects/aiwa/thumb.jpg",
+    "desc": "Aiwa.ae present reliable, up to date, fast and accurate Business information to our Online users. UAE Business Directory, free Business listings UAE, local business UAE.",
+    "url": "https://aiwa.ae",
+    "submitter": "Abhith",
+    "submissionDate": "2016-02-11"
   }
 ]
