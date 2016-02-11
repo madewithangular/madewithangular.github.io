@@ -3887,5 +3887,17 @@
       "community"
     ],
     "slug": "getlonlat"
+  },
+  {
+    "name": "Eircode Finder",
+    "thumb": "/projects/eircode-finder/thumb",
+    "desc": "",
+    "url": "https://finder.eircode.ie/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-10",
+    "tags": [
+      "community"
+    ],
+    "slug": "eircode-finder"
   }
 ]
