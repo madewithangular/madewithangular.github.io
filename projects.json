@@ -3899,5 +3899,17 @@
       "community"
     ],
     "slug": "eircode-finder"
+  },
+  {
+    "name": "Aiwa",
+    "thumb": "/projects/aiwa/thumb",
+    "desc": "Aiwa.ae present reliable, up to date, fast and accurate Business information to our Online users. UAE Business Directory, free Business listings UAE, local business UAE.",
+    "url": "https://aiwa.ae/",
+    "submitter": "Abhith",
+    "submissionDate": "2016-02-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "aiwa"
   }
 ]
