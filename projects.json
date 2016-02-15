@@ -3923,5 +3923,29 @@
       "community"
     ],
     "slug": "scorp"
+  },
+  {
+    "name": "Angular 2 QuickStart",
+    "thumb": "/projects/angular2-quickstart/thumb",
+    "desc": "",
+    "url": "https://angular2-es6-starter.herokuapp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-15",
+    "tags": [
+      "community"
+    ],
+    "slug": "angular2-quickstart"
+  },
+  {
+    "name": "MTV Katsomo",
+    "thumb": "/projects/mtv-katsomo/thumb",
+    "desc": "",
+    "url": "http://www.katsomo.fi/#/usr/libexec/java_home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-15",
+    "tags": [
+      "-v"
+    ],
+    "slug": "mtv-katsomo"
   }
 ]
