@@ -3944,8 +3944,20 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2016-02-15",
     "tags": [
-      "-v"
+      "entertainment"
     ],
     "slug": "mtv-katsomo"
+  },
+  {
+    "name": "Fidilio",
+    "thumb": "/projects/fidilio/thumb",
+    "desc": "",
+    "url": "http://fidilio.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "fidilio"
   }
 ]
