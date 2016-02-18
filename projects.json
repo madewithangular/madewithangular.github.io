@@ -3959,5 +3959,17 @@
       "community"
     ],
     "slug": "fidilio"
+  },
+  {
+    "name": "The Oscars",
+    "thumb": "/projects/oscars/thumb",
+    "desc": "",
+    "url": "http://oscar.go.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-18",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "oscars"
   }
 ]
