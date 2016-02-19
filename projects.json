@@ -3971,5 +3971,17 @@
       "entertainment"
     ],
     "slug": "oscars"
+  },
+  {
+    "name": "NovoEd",
+    "thumb": "/projects/novoed/thumb",
+    "desc": "",
+    "url": "https://novoed.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-18",
+    "tags": [
+      "education"
+    ],
+    "slug": "novoed"
   }
 ]
