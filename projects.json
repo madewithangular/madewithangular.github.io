@@ -3973,18 +3973,6 @@
     "slug": "oscars"
   },
   {
-    "name": "NovoEd",
-    "thumb": "/projects/novoed/thumb",
-    "desc": "",
-    "url": "https://novoed.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-02-18",
-    "tags": [
-      "education"
-    ],
-    "slug": "novoed"
-  },
-  {
     "name": "RushOrderTees.com",
     "thumb": "/projects/rushordertees/thumb",
     "desc": "",
@@ -4007,5 +3995,29 @@
       "community"
     ],
     "slug": "enythings"
+  },
+  {
+    "name": "NovoEd",
+    "thumb": "/projects/novoed/thumb",
+    "desc": "",
+    "url": "https://novoed.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-20",
+    "tags": [
+      "education"
+    ],
+    "slug": "novoed"
+  },
+  {
+    "name": "Codeply",
+    "thumb": "/projects/codeply/thumb",
+    "desc": "",
+    "url": "http://www.codeply.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-22",
+    "tags": [
+      "community"
+    ],
+    "slug": "codeply"
   }
 ]
