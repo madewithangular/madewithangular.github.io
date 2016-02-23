@@ -4043,5 +4043,17 @@
       "community"
     ],
     "slug": "limeninja"
+  },
+  {
+    "name": "Movietag",
+    "thumb": "/projects/movietag/thumb",
+    "desc": "",
+    "url": "https://movietag.io/app/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "movietag"
   }
 ]
