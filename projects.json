@@ -4019,5 +4019,17 @@
       "community"
     ],
     "slug": "codeply"
+  },
+  {
+    "name": "Rhonexpress",
+    "thumb": "/projects/rhonexpress-cfta-sii-avrhex/thumb.png",
+    "desc": "A mobile application for selling and validating tickets on board the tramway 'Rhonexpress'. The application is connected to an innovative paperless tickets management system. Developed by Groupe SII in collaboration with CFTA Rhône.",
+    "url": "http://rhonexpress.fr",
+    "submitter": "manekinekko",
+    "submissionDate": "2016-02-23",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "rhonexpress-cfta-sii-avrhex"
   }
 ]
