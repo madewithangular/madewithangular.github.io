@@ -4055,5 +4055,17 @@
       "community"
     ],
     "slug": "movietag"
+  },
+  {
+    "name": "Digitz",
+    "thumb": "/projects/digitz/thumb",
+    "desc": "",
+    "url": "https://www.digitz.fr/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "digitz"
   }
 ]
