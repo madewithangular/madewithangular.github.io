@@ -4067,5 +4067,17 @@
       "community"
     ],
     "slug": "digitz"
+  },
+  {
+    "name": "Angular 2 Color Game",
+    "thumb": "/projects/angular2-color-game/thumb",
+    "desc": "",
+    "url": "http://stroopgame.com/app/index.html/dashboard",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "angular2-color-game"
   }
 ]
