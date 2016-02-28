@@ -4079,5 +4079,29 @@
       "community"
     ],
     "slug": "angular2-color-game"
+  },
+  {
+    "name": "cryptoworld.io",
+    "thumb": "/projects/cryptoworld/thumb",
+    "desc": "",
+    "url": "http://www.cryptoworld.io/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "cryptoworld"
+  },
+  {
+    "name": "Gohuh music",
+    "thumb": "/projects/gohuh-music/thumb",
+    "desc": "",
+    "url": "http://gohuh.com/music/new-releases",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-02-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "gohuh-music"
   }
 ]
