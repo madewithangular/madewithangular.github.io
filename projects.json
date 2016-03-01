@@ -4127,5 +4127,17 @@
       "news-magazines"
     ],
     "slug": "united-news-of-bangladesh"
+  },
+  {
+    "name": "Quiz Global",
+    "thumb": "/projects/quiz-global/thumb",
+    "desc": "",
+    "url": "http://quizglobal.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-01",
+    "tags": [
+      "community"
+    ],
+    "slug": "quiz-global"
   }
 ]
