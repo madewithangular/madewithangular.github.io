@@ -4115,5 +4115,17 @@
       "community"
     ],
     "slug": "grideb"
+  },
+  {
+    "name": "United News of Bangladesh",
+    "thumb": "/projects/united-news-of-bangladesh/thumb",
+    "desc": "",
+    "url": "http://unb.com.bd",
+    "submitter": "riyadhalnur",
+    "submissionDate": "2016-03-01",
+    "tags": [
+      "news-magazines"
+    ],
+    "slug": "united-news-of-bangladesh"
   }
 ]
