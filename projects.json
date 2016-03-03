@@ -4151,5 +4151,17 @@
       "entertainment"
     ],
     "slug": "ghostbusters"
+  },
+  {
+    "name": "Progressive Insurance",
+    "thumb": "/projects/progressive/thumb",
+    "desc": "",
+    "url": "https://www.progressive.com/experience/home-3/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-03",
+    "tags": [
+      "finance"
+    ],
+    "slug": "progressive"
   }
 ]
