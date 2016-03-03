@@ -4139,5 +4139,17 @@
       "community"
     ],
     "slug": "quiz-global"
+  },
+  {
+    "name": "Ghostbusters",
+    "thumb": "/projects/ghostbusters/thumb",
+    "desc": "",
+    "url": "http://www.paranormalstudieslab.com/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-03",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "ghostbusters"
   }
 ]
