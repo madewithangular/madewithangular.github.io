@@ -4163,5 +4163,17 @@
       "finance"
     ],
     "slug": "progressive"
+  },
+  {
+    "name": "Google Frightfest",
+    "thumb": "/projects/google-frightfest/thumb",
+    "desc": "",
+    "url": "https://frightgeist.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-04",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-frightfest"
   }
 ]
