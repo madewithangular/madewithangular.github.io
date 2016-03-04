@@ -4199,5 +4199,17 @@
       "google"
     ],
     "slug": "onhub-makers"
+  },
+  {
+    "name": "Google News Lab",
+    "thumb": "/projects/google-news-lab/thumb",
+    "desc": "",
+    "url": "https://newslab.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-04",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-news-lab"
   }
 ]
