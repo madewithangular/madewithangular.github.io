@@ -4235,5 +4235,17 @@
       "google"
     ],
     "slug": "google-contributor"
+  },
+  {
+    "name": "AirPair",
+    "thumb": "/projects/airpair/thumb",
+    "desc": "",
+    "url": "https://www.airpair.com/angularjs",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-06",
+    "tags": [
+      "community"
+    ],
+    "slug": "airpair"
   }
 ]
