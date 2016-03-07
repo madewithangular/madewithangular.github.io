@@ -4259,5 +4259,17 @@
       "google"
     ],
     "slug": "think-with-google"
+  },
+  {
+    "name": "Kodable",
+    "thumb": "/projects/kodable/thumb",
+    "desc": "",
+    "url": "https://dashboard.kodable.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-07",
+    "tags": [
+      "education"
+    ],
+    "slug": "kodable"
   }
 ]
