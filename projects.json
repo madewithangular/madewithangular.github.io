@@ -4273,7 +4273,7 @@
     "slug": "kodable"
   },
   {
-    "name": "Terra Balla",
+    "name": "Terra Bella",
     "thumb": "/projects/terra-bella/thumb",
     "desc": "",
     "url": "https://terrabella.google.com",
@@ -4283,5 +4283,17 @@
       "google"
     ],
     "slug": "terra-bella"
+  },
+  {
+    "name": "Chrome Music Lab",
+    "thumb": "/projects/chrome-music-lab/thumb",
+    "desc": "",
+    "url": "https://musiclab.chromeexperiments.com/Experiments",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-09",
+    "tags": [
+      "google"
+    ],
+    "slug": "chrome-music-lab"
   }
 ]
