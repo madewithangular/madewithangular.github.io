@@ -4309,18 +4309,6 @@
     "slug": "nuwait"
   },
   {
-    "name": "Nuwait",
-    "thumb": "/projects/nuwait/thumb",
-    "desc": "",
-    "url": "http://nuwait.net.kw/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-13",
-    "tags": [
-      "community"
-    ],
-    "slug": "nuwait"
-  },
-  {
     "name": "Sage UK",
     "thumb": "/projects/sage-uk/thumb",
     "desc": "",
@@ -4451,5 +4439,29 @@
       "community"
     ],
     "slug": "fanobet"
+  },
+  {
+    "name": "Vanya Tsybulin",
+    "thumb": "/projects/vanya-tsybulin/thumb",
+    "desc": "",
+    "url": "http://vtsybulin.in.ua/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "vanya-tsybulin"
+  },
+  {
+    "name": "Udemy",
+    "thumb": "/projects/udemy/thumb",
+    "desc": "",
+    "url": "https://www.udemy.com/courses/search/?q=angular",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-27",
+    "tags": [
+      "education"
+    ],
+    "slug": "udemy"
   }
 ]
