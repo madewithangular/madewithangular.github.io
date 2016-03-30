@@ -4499,5 +4499,17 @@
       "community"
     ],
     "slug": "dev-mind"
+  },
+  {
+    "name": "Mix-IT",
+    "thumb": "/projects/mix-it/thumb",
+    "desc": "",
+    "url": "https://www.mix-it.fr/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "mix-it"
   }
 ]
