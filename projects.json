@@ -4487,5 +4487,17 @@
       "communication"
     ],
     "slug": "virgin-mobile-usa"
+  },
+  {
+    "name": "Dev-Mind",
+    "thumb": "/projects/dev-mind/thumb",
+    "desc": "",
+    "url": "https://dev-mind.fr/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "dev-mind"
   }
 ]
