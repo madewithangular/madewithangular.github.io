@@ -4511,5 +4511,17 @@
       "community"
     ],
     "slug": "mix-it"
+  },
+  {
+    "name": "Microsoft Cognitive Services",
+    "thumb": "/projects/microsoft-cognitive-services/thumb",
+    "desc": "",
+    "url": "https://www.microsoft.com/cognitive-services",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-03-30",
+    "tags": [
+      "tools"
+    ],
+    "slug": "microsoft-cognitive-services"
   }
 ]
