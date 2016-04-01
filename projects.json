@@ -4535,5 +4535,17 @@
       "news-magazines"
     ],
     "slug": "npr-one"
+  },
+  {
+    "name": "25percent",
+    "thumb": "/projects/25percent/thumb",
+    "desc": "",
+    "url": "http://25percent.nl/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-01",
+    "tags": [
+      "community"
+    ],
+    "slug": "25percent"
   }
 ]
