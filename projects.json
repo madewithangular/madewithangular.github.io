@@ -4523,5 +4523,17 @@
       "tools"
     ],
     "slug": "microsoft-cognitive-services"
+  },
+  {
+    "name": "NPR One",
+    "thumb": "/projects/npr-one/thumb",
+    "desc": "",
+    "url": "http://one.npr.org/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-01",
+    "tags": [
+      "news-magazines"
+    ],
+    "slug": "npr-one"
   }
 ]
