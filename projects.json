@@ -4480,7 +4480,7 @@
     "name": "courseware",
     "thumb": "/projects/courseware/thumb",
     "desc": "CourseWare - specialized content generator for Javascript courses.",
-    "url": "https://courseware.cz",
+    "url": "http://courseware.cz",
     "submitter": "Angular-cz",
     "submissionDate": "2016-04-01",
     "tags": [
