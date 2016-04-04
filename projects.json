@@ -4559,5 +4559,13 @@
       "community"
     ],
     "slug": "courseware"
+  },
+  {
+    "name": "Tallium by TallyFox",
+    "thumb": "/projects/tallium/thumb.jpg",
+    "desc": "TallyFox Tallium is a business ecosystem platform created to facilitate knowledge sharing, content management and communication.",
+    "url": "https://thewaternetwork.com",
+    "submitter": "TallyFox",
+    "submissionDate": "2016-04-04"
   }
 ]
