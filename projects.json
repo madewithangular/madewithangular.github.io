@@ -4559,5 +4559,17 @@
       "community"
     ],
     "slug": "courseware"
+  },
+  {
+    "name": "The Water Network",
+    "thumb": "/projects/the-water-network/thumb",
+    "desc": "",
+    "url": "https://thewaternetwork.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-04",
+    "tags": [
+      "community"
+    ],
+    "slug": "the-water-network"
   }
 ]
