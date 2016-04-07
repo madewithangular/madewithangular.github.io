@@ -4619,5 +4619,17 @@
       "google"
     ],
     "slug": "android-is-for-users"
+  },
+  {
+    "name": "Google Ads",
+    "thumb": "/projects/google-ads/thumb",
+    "desc": "",
+    "url": "https://landing.google.com/ads/try/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-07",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-ads"
   }
 ]
