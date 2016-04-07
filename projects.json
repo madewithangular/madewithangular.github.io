@@ -4583,5 +4583,17 @@
       "community"
     ],
     "slug": "ktree"
+  },
+  {
+    "name": "Google Site Reliability Engineering",
+    "thumb": "/projects/google-sre/thumb",
+    "desc": "",
+    "url": "https://landing.google.com/sre/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-07",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-sre"
   }
 ]
