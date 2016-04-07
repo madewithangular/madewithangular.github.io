@@ -4607,5 +4607,17 @@
       "google"
     ],
     "slug": "international-womens-day"
+  },
+  {
+    "name": "Android Is For Users",
+    "thumb": "/projects/android-is-for-users/thumb",
+    "desc": "",
+    "url": "http://landing.google.com/androidisforusers/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-07",
+    "tags": [
+      "google"
+    ],
+    "slug": "android-is-for-users"
   }
 ]
