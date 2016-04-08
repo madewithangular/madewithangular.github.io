@@ -4631,5 +4631,21 @@
       "google"
     ],
     "slug": "google-ads"
+  },
+  {
+    "name": "LeoCardz",
+    "thumb": "/projects/leocardz.com/thumb",
+    "desc": "Tech news, tutorials, development, projects, programming. All about tech stuff!",
+    "url": "http://leocardz.com",
+    "submitter": "LeonardoCardoso",
+    "submissionDate": "2016-04-08",
+    "tags": [
+      "programming",
+      "development",
+      "android",
+      "mobile",
+      "iOS"
+    ],
+    "slug": "leocardz"
   }
 ]
