@@ -4631,5 +4631,29 @@
       "google"
     ],
     "slug": "google-ads"
+  },
+  {
+    "name": "Site24x7",
+    "thumb": "/projects/site24x7/thumb",
+    "desc": "Website Monitoring, Website Monitoring Service, Server Monitoring: Site24x7",
+    "url": "https://www.site24x7.com",
+    "submitter": "aniketsinha",
+    "submissionDate": "2016-04-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "site24x7"
+  },
+  {
+    "name": "Apple Developer",
+    "thumb": "/projects/apple-developer/thumb",
+    "desc": "",
+    "url": "https://developer.apple.com/account/#/welcome",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-10",
+    "tags": [
+      "tools"
+    ],
+    "slug": "apple-developer"
   }
 ]
