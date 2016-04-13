@@ -4667,5 +4667,17 @@
       "community"
     ],
     "slug": "svg-circus"
+  },
+  {
+    "name": "Freeter",
+    "thumb": "/projects/freeter/thumb",
+    "desc": "",
+    "url": "https://freeter.io/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-13",
+    "tags": [
+      "community"
+    ],
+    "slug": "freeter"
   }
 ]
