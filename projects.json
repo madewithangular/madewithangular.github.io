@@ -4655,5 +4655,17 @@
       "tools"
     ],
     "slug": "apple-developer"
+  },
+  {
+    "name": "SVG Circus",
+    "thumb": "/projects/svg-circus/thumb",
+    "desc": "",
+    "url": "http://svgcircus.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-13",
+    "tags": [
+      "community"
+    ],
+    "slug": "svg-circus"
   }
 ]
