@@ -4631,5 +4631,13 @@
       "google"
     ],
     "slug": "google-ads"
+  },
+  {
+    "name": "BearyChat",
+    "thumb": "/projects/BearyChat/thumb.jpg",
+    "desc": "BearyChat 是一款为工作场景设计的团队沟通工具。拥有全平台客户端，支持自主创建公开私密讨论组，历史消息全局搜索，文件存储和整理，以及近 50 个第三方服务集成。",
+    "url": "https://bearychat.com/",
+    "submitter": "chafel",
+    "submissionDate": "2016-04-13"
   }
 ]
