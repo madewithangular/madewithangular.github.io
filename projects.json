@@ -4691,5 +4691,17 @@
       "community"
     ],
     "slug": "bearychat"
+  },
+  {
+    "name": "Air Transat",
+    "thumb": "/projects/air-transat/thumb",
+    "desc": "",
+    "url": "http://www.airtransat.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-14",
+    "tags": [
+      "community"
+    ],
+    "slug": "air-transat"
   }
 ]
