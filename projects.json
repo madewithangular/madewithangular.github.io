@@ -4631,5 +4631,13 @@
       "google"
     ],
     "slug": "google-ads"
+  },
+  {
+    "name": "Estrella Roja Mobile Web",
+    "thumb": "/projects/estrella-roja-mobile-web/thumb.jpg",
+    "desc": "",
+    "url": "https://www.estrellaroja.com.mx/moviler/index.html",
+    "submitter": "Meltsan Solutions",
+    "submissionDate": "2016-04-25"
   }
 ]
