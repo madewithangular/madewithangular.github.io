@@ -4703,5 +4703,17 @@
       "community"
     ],
     "slug": "air-transat"
+  },
+  {
+    "name": "Proseeds",
+    "thumb": "/projects/proseeds/thumb",
+    "desc": "",
+    "url": "https://www.giveproseeds.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "proseeds"
   }
 ]
