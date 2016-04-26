@@ -4715,5 +4715,41 @@
       "community"
     ],
     "slug": "proseeds"
+  },
+  {
+    "name": "TyresOnTheDrive",
+    "thumb": "/projects/tyresonthedrive/thumb",
+    "desc": "",
+    "url": "http://www.tyresonthedrive.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "tyresonthedrive"
+  },
+  {
+    "name": "LocoLife",
+    "thumb": "/projects/locolife/thumb",
+    "desc": "",
+    "url": "http://loco.life/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "locolife"
+  },
+  {
+    "name": "Estrella Roja Mobile Web",
+    "thumb": "/projects/estrella-roja-mobile-web/thumb",
+    "desc": "",
+    "url": "https://www.estrellaroja.com.mx/moviler/index.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "estrella-roja-mobile-web"
   }
 ]
