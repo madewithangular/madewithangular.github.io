@@ -4787,5 +4787,17 @@
       "social"
     ],
     "slug": "zoosk"
+  },
+  {
+    "name": "Walmart Grocery",
+    "thumb": "/projects/walmart-grocery/thumb",
+    "desc": "",
+    "url": "http://grocery.walmart.com/usd-estore/m/home/anonymouslanding.jsp",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "walmart-grocery"
   }
 ]
