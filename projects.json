@@ -4751,5 +4751,41 @@
       "community"
     ],
     "slug": "estrella-roja-mobile-web"
+  },
+  {
+    "name": "Holimetrix",
+    "thumb": "/projects/holimetrix/thumb",
+    "desc": "",
+    "url": "https://holimetrix.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "holimetrix"
+  },
+  {
+    "name": "Vine Global",
+    "thumb": "/projects/vineglobal/thumb",
+    "desc": "",
+    "url": "http://store.vineos.io/#/store",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "vineglobal"
+  },
+  {
+    "name": "Zoosk",
+    "thumb": "/projects/zoosk/thumb",
+    "desc": "",
+    "url": "https://www.zoosk.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "social"
+    ],
+    "slug": "zoosk"
   }
 ]
