@@ -4811,5 +4811,17 @@
       "business"
     ],
     "slug": "wix-developer"
+  },
+  {
+    "name": "Lands' End",
+    "thumb": "/projects/lands-end/thumb",
+    "desc": "",
+    "url": "http://www.landsend.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "lands-end"
   }
 ]
