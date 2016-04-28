@@ -4799,5 +4799,17 @@
       "lifestyle"
     ],
     "slug": "walmart-grocery"
+  },
+  {
+    "name": "Wix Developer",
+    "thumb": "/projects/wix-developer/thumb",
+    "desc": "",
+    "url": "https://dev.wix.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-04-28",
+    "tags": [
+      "business"
+    ],
+    "slug": "wix-developer"
   }
 ]
