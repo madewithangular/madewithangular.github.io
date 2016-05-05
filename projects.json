@@ -4751,5 +4751,17 @@
       "community"
     ],
     "slug": "estrella-roja-mobile-web"
+  },
+  {
+    "name": "V2",
+    "thumb": "/projects/v2/thumb",
+    "desc": "An AngularJS E-Commerce site built by V2, America’s largest volume online retailer of electronic cigarettes with complex product configurations",
+    "url": "https://www.v2.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-05",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "v2"
   }
 ]
