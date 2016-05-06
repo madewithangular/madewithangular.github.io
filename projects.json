@@ -4751,5 +4751,13 @@
       "community"
     ],
     "slug": "estrella-roja-mobile-web"
+  },
+  {
+    "name": "Tribetron",
+    "thumb": "/projects/tribetron/thumb.jpg",
+    "desc": "A game where you recruit a team of robots and survive all the challenges",
+    "url": "http://ukkosnetti.fi/tribetron",
+    "submitter": "Humakt83",
+    "submissionDate": "2016-05-06"
   }
 ]
