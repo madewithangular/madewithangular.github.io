@@ -4847,5 +4847,17 @@
       "google"
     ],
     "slug": "lets-put-our-cities-on-the-map"
+  },
+  {
+    "name": "V2",
+    "thumb": "/projects/v2/thumb",
+    "desc": "",
+    "url": "https://www.v2.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-06",
+    "tags": [
+      "community"
+    ],
+    "slug": "v2"
   }
 ]
