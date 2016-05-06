@@ -4859,5 +4859,17 @@
       "community"
     ],
     "slug": "v2"
+  },
+  {
+    "name": "Tribetron",
+    "thumb": "/projects/tribetron/thumb",
+    "desc": "",
+    "url": "http://ukkosnetti.fi/tribetron",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-06",
+    "tags": [
+      "community"
+    ],
+    "slug": "tribetron"
   }
 ]
