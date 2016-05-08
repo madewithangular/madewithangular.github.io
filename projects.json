@@ -4871,5 +4871,17 @@
       "community"
     ],
     "slug": "tribetron"
+  },
+  {
+    "name": "Findmore Consulting",
+    "thumb": "/projects/findmore-consulting/thumb",
+    "desc": "",
+    "url": "http://findmore.pt/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "findmore-consulting"
   }
 ]
