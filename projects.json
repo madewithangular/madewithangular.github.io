@@ -4883,5 +4883,17 @@
       "community"
     ],
     "slug": "findmore-consulting"
+  },
+  {
+    "name": "Dataquest",
+    "thumb": "/projects/dataquest/thumb",
+    "desc": "",
+    "url": "https://www.dataquest.io/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-11",
+    "tags": [
+      "education"
+    ],
+    "slug": "dataquest"
   }
 ]
