@@ -4897,18 +4897,6 @@
     "slug": "dataquest"
   },
   {
-    "name": "",
-    "thumb": "/projects//thumb",
-    "desc": "",
-    "url": "",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-05-17",
-    "tags": [
-      ""
-    ],
-    "slug": ""
-  },
-  {
     "name": "hayu",
     "thumb": "/projects/hayu/thumb",
     "desc": "",
@@ -4919,5 +4907,17 @@
       "community"
     ],
     "slug": "hayu"
+  },
+  {
+    "name": "Election - Philippines 2016",
+    "thumb": "/projects/pilipinaselectionresults2016/thumb",
+    "desc": "",
+    "url": "https://www.pilipinaselectionresults2016.com/#/dashboard",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "pilipinaselectionresults2016"
   }
 ]
