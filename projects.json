@@ -4907,5 +4907,17 @@
       ""
     ],
     "slug": ""
+  },
+  {
+    "name": "hayu",
+    "thumb": "/projects/hayu/thumb",
+    "desc": "",
+    "url": "https://www.hayu.com/home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "hayu"
   }
 ]
