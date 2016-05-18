@@ -4931,5 +4931,17 @@
       "community"
     ],
     "slug": "wemood"
+  },
+  {
+    "name": "Google Home",
+    "thumb": "/projects/google-home/thumb",
+    "desc": "",
+    "url": "https://home.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-18",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-home"
   }
 ]
