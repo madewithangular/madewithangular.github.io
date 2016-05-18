@@ -4919,5 +4919,17 @@
       "community"
     ],
     "slug": "pilipinaselectionresults2016"
+  },
+  {
+    "name": "Wemood",
+    "thumb": "/projects/wemood/thumb",
+    "desc": "",
+    "url": "https://www.wemood.co/#/discover",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-18",
+    "tags": [
+      "community"
+    ],
+    "slug": "wemood"
   }
 ]
