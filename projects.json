@@ -4871,5 +4871,19 @@
       "community"
     ],
     "slug": "tribetron"
+  },
+  {
+    "name": "Team Zeus",
+    "thumb": "/projects/team-zeus/thumb",
+    "desc": "Team Communication App for Modern Business",
+    "url": "http://http://www.teamzeusapp.com/",
+    "submitter": "char0n",
+    "submissionDate": "2016-05-20",
+    "tags": [
+      "business",
+      "communication",
+      "productivity"
+    ],
+    "slug": "teamzeus"
   }
 ]
