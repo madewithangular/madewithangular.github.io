@@ -4943,5 +4943,17 @@
       "google"
     ],
     "slug": "google-home"
+  },
+  {
+    "name": "DZone",
+    "thumb": "/projects/dzone/thumb",
+    "desc": "",
+    "url": "https://dzone.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-20",
+    "tags": [
+      "tools"
+    ],
+    "slug": "dzone"
   }
 ]
