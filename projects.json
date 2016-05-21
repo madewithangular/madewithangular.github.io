@@ -4955,5 +4955,29 @@
       "tools"
     ],
     "slug": "dzone"
+  },
+  {
+    "name": "Team Zeus",
+    "thumb": "/projects/team-zeus/thumb",
+    "desc": "Team Communication App for Modern Business",
+    "url": "http://http://www.teamzeusapp.com/",
+    "submitter": "char0n",
+    "submissionDate": "2016-05-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "teamzeus"
+  },
+  {
+    "name": "WSBF-FM Clemson",
+    "thumb": "/projects/wsbf-fm-clemson/thumb",
+    "desc": "",
+    "url": "https://wsbf.net/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "wsbf-fm-clemson"
   }
 ]
