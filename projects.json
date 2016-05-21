@@ -4979,5 +4979,17 @@
       "community"
     ],
     "slug": "wsbf-fm-clemson"
+  },
+  {
+    "name": "Evident",
+    "thumb": "/projects/evident/thumb",
+    "desc": "",
+    "url": "https://evidentlabs.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "evident"
   }
 ]
