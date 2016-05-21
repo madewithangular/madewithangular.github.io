@@ -4991,5 +4991,17 @@
       "community"
     ],
     "slug": "evident"
+  },
+  {
+    "name": "Dashscope",
+    "thumb": "/projects/dashscope/thumb",
+    "desc": "",
+    "url": "http://dashscope.tv/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "dashscope"
   }
 ]
