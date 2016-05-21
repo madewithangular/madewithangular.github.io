@@ -5003,5 +5003,17 @@
       "community"
     ],
     "slug": "dashscope"
+  },
+  {
+    "name": "Webucator",
+    "thumb": "/projects/webucator/thumb",
+    "desc": "",
+    "url": "https://www.webucator.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "webucator"
   }
 ]
