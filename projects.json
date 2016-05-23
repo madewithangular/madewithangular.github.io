@@ -5015,5 +5015,17 @@
       "community"
     ],
     "slug": "webucator"
+  },
+  {
+    "name": "Hallmark eCards",
+    "thumb": "/projects/hallmark-ecards/thumb",
+    "desc": "",
+    "url": "https://www.hallmarkecards.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "hallmark-ecards"
   }
 ]
