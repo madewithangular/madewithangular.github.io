@@ -5027,5 +5027,17 @@
       "community"
     ],
     "slug": "hallmark-ecards"
+  },
+  {
+    "name": "Splice",
+    "thumb": "/projects/splice/thumb",
+    "desc": "",
+    "url": "https://splice.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-23",
+    "tags": [
+      "music-audio"
+    ],
+    "slug": "splice"
   }
 ]
