@@ -5039,5 +5039,17 @@
       "music-audio"
     ],
     "slug": "splice"
+  },
+  {
+    "name": "Sintesi for JIRA",
+    "thumb": "/projects/sintesi/thumb",
+    "desc": "",
+    "url": "http://www.sintesi.co",
+    "submitter": "sintesi",
+    "submissionDate": "2016-05-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "sintesi"
   }
 ]
