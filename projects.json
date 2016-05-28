@@ -5051,5 +5051,17 @@
       "community"
     ],
     "slug": "sintesi"
+  },
+  {
+    "name": "Beam",
+    "thumb": "/projects/beam/thumb",
+    "desc": "",
+    "url": "https://beam.pro/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "beam"
   }
 ]
