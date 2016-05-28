@@ -5063,5 +5063,17 @@
       "community"
     ],
     "slug": "beam"
+  },
+  {
+    "name": "Hitbox",
+    "thumb": "/projects/hitbox/thumb",
+    "desc": "",
+    "url": "http://www.hitbox.tv/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-05-28",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "hitbox"
   }
 ]
