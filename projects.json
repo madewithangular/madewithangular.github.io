@@ -5075,5 +5075,17 @@
       "entertainment"
     ],
     "slug": "hitbox"
+  },
+  {
+    "name": "Destination Venus",
+    "thumb": "/projects/destination-venus/thumb",
+    "desc": "",
+    "url": "http://www.destinationvenus.co.uk",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "destination-venus"
   }
 ]
