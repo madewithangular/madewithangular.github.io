@@ -5087,5 +5087,17 @@
       "community"
     ],
     "slug": "destination-venus"
+  },
+  {
+    "name": "XPRIZE",
+    "thumb": "/projects/xprize/thumb",
+    "desc": "",
+    "url": "http://www.xprize.org/prizes/future-prizes",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-06",
+    "tags": [
+      "social"
+    ],
+    "slug": "xprize"
   }
 ]
