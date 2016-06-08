@@ -5099,5 +5099,17 @@
       "social"
     ],
     "slug": "xprize"
+  },
+  {
+    "name": "Google Data Studio",
+    "thumb": "/projects/google-data-studio/thumb",
+    "desc": "",
+    "url": "https://datastudio.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-08",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-data-studio"
   }
 ]
