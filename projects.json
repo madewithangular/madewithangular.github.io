@@ -5123,5 +5123,17 @@
       "community"
     ],
     "slug": "minecraftly"
+  },
+  {
+    "name": "LeoCardz",
+    "thumb": "/projects/leocardz/thumb",
+    "desc": "",
+    "url": "http://leocardz.com",
+    "submitter": "LeonardoCardoso",
+    "submissionDate": "2016-06-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "leocardz"
   }
 ]
