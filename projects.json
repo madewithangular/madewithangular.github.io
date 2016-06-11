@@ -5111,5 +5111,17 @@
       "google"
     ],
     "slug": "google-data-studio"
+  },
+  {
+    "name": "Minecraftly",
+    "thumb": "/projects/minecraftly/thumb",
+    "desc": "",
+    "url": "https://minecraftly.com",
+    "submitter": "viet",
+    "submissionDate": "2016-06-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "minecraftly"
   }
 ]
