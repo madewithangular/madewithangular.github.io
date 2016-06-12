@@ -152,6 +152,43 @@ html, body {
   margin: 0px 4px;
 }
 
+/*Ads*/
+
+.ads .card {
+  background: #f1f1f1;
+  margin-bottom: 30px;
+}
+
+.carbon-wrap {
+  display: block;
+  padding: 10px;
+}
+
+.carbon-wrap a {
+  display: block;
+}
+
+.carbon-img {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.carbon-text {
+  color: #06c;
+  font-size: 80%;
+  line-height: 130%;
+  min-width: 120px;
+  text-align: center;
+}
+
+.carbon-poweredby {
+  color: #6e6e6e;
+  font-size: 65%;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  margin: 8px 0;
+}
 
 @media (min-width:470px) {
   .row .col {
