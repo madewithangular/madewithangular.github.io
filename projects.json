@@ -5171,5 +5171,17 @@
       "travel-local"
     ],
     "slug": "flynas"
+  },
+  {
+    "name": "Einstein Bros. Bagels",
+    "thumb": "/projects/einstein-bros-bagels/thumb",
+    "desc": "",
+    "url": "http://www.einsteinbros.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "einstein-bros-bagels"
   }
 ]
