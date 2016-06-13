@@ -5219,5 +5219,17 @@
       "finance"
     ],
     "slug": "nasdaq"
+  },
+  {
+    "name": "Aer Lingus",
+    "thumb": "/projects/aer-lingus/thumb",
+    "desc": "",
+    "url": "https://www.aerlingus.com/html/en-IE/home.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "aer-lingus"
   }
 ]
