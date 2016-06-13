@@ -5159,5 +5159,17 @@
       "travel-local"
     ],
     "slug": "carnival-cruise-line"
+  },
+  {
+    "name": "Flynas",
+    "thumb": "/projects/flynas/thumb",
+    "desc": "",
+    "url": "http://www.flynas.com/en/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "flynas"
   }
 ]
