@@ -5183,5 +5183,17 @@
       "lifestyle"
     ],
     "slug": "einstein-bros-bagels"
+  },
+  {
+    "name": "Eddie Bauer",
+    "thumb": "/projects/eddie-bauer/thumb",
+    "desc": "",
+    "url": "http://www.eddiebauer.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "eddie-bauer"
   }
 ]
