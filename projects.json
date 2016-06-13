@@ -5207,5 +5207,17 @@
       "health-fitness"
     ],
     "slug": "cvs-pharmacy"
+  },
+  {
+    "name": "NASDAQ",
+    "thumb": "/projects/nasdaq/thumb",
+    "desc": "",
+    "url": "http://www.nasdaq.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "finance"
+    ],
+    "slug": "nasdaq"
   }
 ]
