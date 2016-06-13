@@ -5231,5 +5231,17 @@
       "travel-local"
     ],
     "slug": "aer-lingus"
+  },
+  {
+    "name": "Virgin Holidays",
+    "thumb": "/projects/virgin-holidays/thumb",
+    "desc": "",
+    "url": "https://www.virginholidays.co.uk/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "virgin-holidays"
   }
 ]
