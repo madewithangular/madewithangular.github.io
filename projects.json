@@ -5195,5 +5195,17 @@
       "shopping"
     ],
     "slug": "eddie-bauer"
+  },
+  {
+    "name": "CVS Pharmacy",
+    "thumb": "/projects/cvs-pharmacy/thumb",
+    "desc": "",
+    "url": "http://www.cvs.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "health-fitness"
+    ],
+    "slug": "cvs-pharmacy"
   }
 ]
