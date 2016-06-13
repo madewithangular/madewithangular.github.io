@@ -5147,5 +5147,17 @@
       "tools"
     ],
     "slug": "prezi"
+  },
+  {
+    "name": "Carnival Cruise Line",
+    "thumb": "/projects/carnival-cruise-line/thumb",
+    "desc": "",
+    "url": "http://www.carnival.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-13",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "carnival-cruise-line"
   }
 ]
