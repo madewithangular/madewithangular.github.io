@@ -5267,5 +5267,17 @@
       "community"
     ],
     "slug": "blispay"
+  },
+  {
+    "name": "Agil-Org",
+    "thumb": "/projects/agil-org/thumb",
+    "desc": "",
+    "url": "http://agil-org.biz/#/agil-org",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-14",
+    "tags": [
+      "community"
+    ],
+    "slug": "agil-org"
   }
 ]
