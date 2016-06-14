@@ -5255,5 +5255,17 @@
       "travel-local"
     ],
     "slug": "priceline-com"
+  },
+  {
+    "name": "Blispay",
+    "thumb": "/projects/blispay/thumb",
+    "desc": "",
+    "url": "https://blispay.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-14",
+    "tags": [
+      "community"
+    ],
+    "slug": "blispay"
   }
 ]
