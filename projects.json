@@ -5279,5 +5279,17 @@
       "community"
     ],
     "slug": "agil-org"
+  },
+  {
+    "name": "Google Fonts",
+    "thumb": "/projects/google-fonts/thumb",
+    "desc": "",
+    "url": "https://fonts.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-14",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-fonts"
   }
 ]
