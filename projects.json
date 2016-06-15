@@ -5291,5 +5291,29 @@
       "google"
     ],
     "slug": "google-fonts"
+  },
+  {
+    "name": "kassenGeist",
+    "thumb": "/projects/kassengeist/thumb",
+    "desc": "",
+    "url": "http://www.kassengeist.at/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-15",
+    "tags": [
+      "community"
+    ],
+    "slug": "kassengeist"
+  },
+  {
+    "name": "Newegg Vendor Portal",
+    "thumb": "/projects/newegg-vendor-portal/thumb",
+    "desc": "Newegg Vendor Portal is a web portal that conveniently offers our vendors access to powerful supplier services, order fulfillment, and support capabilities.",
+    "url": "https://vendorportal.newegg.com/",
+    "submitter": "andreshen",
+    "submissionDate": "2016-06-15",
+    "tags": [
+      "business"
+    ],
+    "slug": "newegg-vendor-portal"
   }
 ]
