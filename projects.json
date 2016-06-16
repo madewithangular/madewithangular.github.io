@@ -5075,5 +5075,17 @@
       "entertainment"
     ],
     "slug": "hitbox"
+  },
+  {
+    "name": "Newegg Vendor Portal",
+    "thumb": "/projects/neweggvendorportal/thumb.jpg",
+    "desc": "Newegg Vendor Portal is a web portal that conveniently offers our vendors access to powerful supplier services, order fulfillment, and support capabilities.",
+    "url": "https://vendorportal.newegg.com/",
+    "submitter": "andreshen",
+    "submissionDate": "2016-06-15",
+    "tags": [
+      "business"
+    ],
+    "slug": "newegg-vendor-portal"
   }
 ]
