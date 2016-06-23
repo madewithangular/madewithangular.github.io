@@ -5315,5 +5315,17 @@
       "business"
     ],
     "slug": "newegg-vendor-portal"
+  },
+  {
+    "name": "SmartAlec",
+    "thumb": "/projects/smartalec/thumb",
+    "desc": "Smart Alec is your private tutor, on-demand. Find and book the best tutors near you for in home help in math, SAT and ACT prep, and other subjects",
+    "url": "https://smartalec.com/",
+    "submitter": "vlamic",
+    "submissionDate": "2016-06-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "smartalec"
   }
 ]
