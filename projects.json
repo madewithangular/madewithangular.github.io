@@ -5327,5 +5327,17 @@
       "community"
     ],
     "slug": "smartalec"
+  },
+  {
+    "name": "Baggagesize.com",
+    "thumb": "/projects/baggagesize-com/thumb",
+    "desc": "",
+    "url": "http://www.baggagesize.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-06-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "baggagesize-com"
   }
 ]
