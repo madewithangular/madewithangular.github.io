@@ -5339,5 +5339,17 @@
       "community"
     ],
     "slug": "baggagesize-com"
+  },
+  {
+    "name": "Hearthstone Search",
+    "thumb": "/projects/hearthstone-search/thumb",
+    "desc": "",
+    "url": "http://hearthstone-search.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-07-01",
+    "tags": [
+      "community"
+    ],
+    "slug": "hearthstone-search"
   }
 ]
