@@ -5351,5 +5351,17 @@
       "community"
     ],
     "slug": "hearthstone-search"
+  },
+  {
+    "name": "Survata",
+    "thumb": "/projects/survata/thumb",
+    "desc": "Survata lets you quickly survey your target audience online. We find qualified respondents to answer your survey.",
+    "url": "https://www.survata.com/",
+    "submitter": "alecfwilson",
+    "submissionDate": "2016-07-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "survata"
   }
 ]
