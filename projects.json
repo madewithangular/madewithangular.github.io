@@ -1,5 +1,19 @@
 [
   {
+    "name": "Survata",
+    "thumb": "/projects/survata/thumb",
+    "desc": "Survata lets you quickly survey your target audience online. We find qualified respondents to answer your survey.",
+    "url": "https://www.survata.com/",
+    "submitter": "alecfwilson",
+    "submissionDate": "2016-07-05",
+    "tags": [
+      "tools",
+      "productivity",
+      "business",
+    ],
+    "slug": "survata"
+  },
+  {
     "name": "Android - Which Phone",
     "thumb": "/projects/android-which-phone/thumb",
     "desc": "",
