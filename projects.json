@@ -5387,5 +5387,17 @@
       "community"
     ],
     "slug": "ulysse"
+  },
+  {
+    "name": "Gandalf",
+    "thumb": "/projects/gandalf/thumb",
+    "desc": "",
+    "url": "https://gndf.io/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-07-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "gandalf"
   }
 ]
