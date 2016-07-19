@@ -5411,5 +5411,17 @@
       "community"
     ],
     "slug": "inkbe"
+  },
+  {
+    "name": "Rethink Life",
+    "thumb": "/projects/rethink-life/thumb",
+    "desc": "",
+    "url": "http://www.rethink-life.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-07-19",
+    "tags": [
+      "community"
+    ],
+    "slug": "rethink-life"
   }
 ]
