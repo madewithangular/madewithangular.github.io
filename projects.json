@@ -5423,5 +5423,17 @@
       "community"
     ],
     "slug": "rethink-life"
+  },
+  {
+    "name": "CouponDunia",
+    "thumb": "/projects/coupondunia/thumb",
+    "desc": "",
+    "url": "https://www.coupondunia.in/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-05",
+    "tags": [
+      "shopping"
+    ],
+    "slug": "coupondunia"
   }
 ]
