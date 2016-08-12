@@ -5435,5 +5435,17 @@
       "shopping"
     ],
     "slug": "coupondunia"
+  },
+  {
+    "name": "Beam",
+    "thumb": "/projects/beam/thumb",
+    "desc": "",
+    "url": "https://beam.pro/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-12",
+    "tags": [
+      "community"
+    ],
+    "slug": "beam"
   }
 ]
