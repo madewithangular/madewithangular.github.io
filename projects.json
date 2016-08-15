@@ -5447,5 +5447,17 @@
       "community"
     ],
     "slug": "beam"
+  },
+  {
+    "name": "Tesla",
+    "thumb": "/projects/tesla/thumb",
+    "desc": "",
+    "url": "https://www.tesla.com/findus",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-14",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "tesla"
   }
 ]
