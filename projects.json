@@ -5459,5 +5459,17 @@
       "transportation"
     ],
     "slug": "tesla"
+  },
+  {
+    "name": "2016 Summer Olympics",
+    "thumb": "/projects/2016-summer-olympics/thumb",
+    "desc": "",
+    "url": "http://www.nbcolympics.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-16",
+    "tags": [
+      "sports"
+    ],
+    "slug": "2016-summer-olympics"
   }
 ]
