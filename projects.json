@@ -5471,5 +5471,17 @@
       "sports"
     ],
     "slug": "2016-summer-olympics"
+  },
+  {
+    "name": "Magoosh",
+    "thumb": "/projects/magoosh/thumb",
+    "desc": "",
+    "url": "https://gre.magoosh.com/builder/vocabulary/app#/sections",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "magoosh"
   }
 ]
