@@ -5483,5 +5483,17 @@
       "community"
     ],
     "slug": "magoosh"
+  },
+  {
+    "name": "Famolus",
+    "thumb": "/projects/famolus/thumb",
+    "desc": "",
+    "url": "https://famolus.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-08-30",
+    "tags": [
+      "community"
+    ],
+    "slug": "famolus"
   }
 ]
