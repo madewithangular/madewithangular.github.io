@@ -5495,5 +5495,17 @@
       "community"
     ],
     "slug": "famolus"
+  },
+  {
+    "name": "MeTripping",
+    "thumb": "/projects/metripping/thumb",
+    "desc": "Intelligent Travel Search that takes you from Desire to Decision in less than 5 minutes",
+    "url": "http://www.metripping.com",
+    "submitter": "pankajpawan",
+    "submissionDate": "2016-09-01",
+    "tags": [
+      "community"
+    ],
+    "slug": "metripping"
   }
 ]
