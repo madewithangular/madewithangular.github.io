@@ -5375,5 +5375,17 @@
       "community"
     ],
     "slug": "powerpanel"
+  },
+  {
+    "name": "MeTripping",
+    "thumb": "/projects/meTripping/thumb.jpg",
+    "desc": "Intelligent Travel Search that takes you from Desire to Decision in less than 5 minutes",
+    "url": "http://www.metripping.com",
+    "tags": [
+      "travel-local"
+    ],
+    "submitter": "pankajpawan",
+    "submissionDate": "2016-09-01"
+    "slug": "metripping"
   }
 ]
