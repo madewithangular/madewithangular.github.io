@@ -5507,5 +5507,17 @@
       "community"
     ],
     "slug": "metripping"
+  },
+  {
+    "name": "Made with Firebase",
+    "thumb": "/projects/made-with-firebase/thumb",
+    "desc": "",
+    "url": "https://madewithfirebase.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-09-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "made-with-firebase"
   }
 ]
