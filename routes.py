@@ -3,7 +3,7 @@ from flask_sslify import SSLify
 from flask.ext.compress import Compress
 
 app = Flask(__name__)
-sslify = SSLify(app)
+# sslify = SSLify(app)
 Compress(app)
 
 @app.route("/")
