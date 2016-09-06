@@ -12,9 +12,11 @@ def index():
   response.headers['cache-control'] = 'must_revalidate, public, max-age=3600'
   return response
 
-@app.route("/.well-known/acme-challenge/h1EhpBaGjoazWCcnLyMsJlBlpKZ7sW6xoWYs6H2bpok")
+@app.route("/.well-known/acme-challenge/aZJ4KW4R8ZpLKYRdVn2WAJ-NqEGZ4-camsRQO-KV5lQ")
 def challenge():
-  return 'h1EhpBaGjoazWCcnLyMsJlBlpKZ7sW6xoWYs6H2bpok.2mZpyfJC5pEsqNCuUu5L5CqtlIz5Khv2t64Cqk5DrqU'
+  return 'aZJ4KW4R8ZpLKYRdVn2WAJ-NqEGZ4-camsRQO-KV5lQ.pFKi092ef3zDNfUarMXSdTZ75h3yeZSqvDDjwPaXxRE'
 
 if __name__ == "__main__":
   app.run()
+
+  
