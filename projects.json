@@ -5507,5 +5507,18 @@
       "community"
     ],
     "slug": "metripping"
+  },
+  {
+    "name": "PostNauka",
+    "thumb": "/projects/postnauka/thumb",
+    "desc": "PostNauka - is a project of modern fundamental science and scientists who create it. We will not retell scientific theories and ideas - we give scientists the opportunity to talk about their research in the first person.",
+    "url": "https://postnauka.ru",
+    "submitter": "Den-dp",
+    "submissionDate": "2016-09-11",
+    "tags": [
+      "science",
+      "education"
+    ],
+    "slug": "postnauka"
   }
 ]
