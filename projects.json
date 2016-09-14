@@ -5543,5 +5543,17 @@
       "community"
     ],
     "slug": "postnauka"
+  },
+  {
+    "name": "Hello Fresh",
+    "thumb": "/projects/hello-fresh/thumb",
+    "desc": "",
+    "url": "https://www.hellofresh.com/tasty/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-09-14",
+    "tags": [
+      "lifestyle"
+    ],
+    "slug": "hello-fresh"
   }
 ]
