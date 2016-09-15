@@ -5555,5 +5555,17 @@
       "lifestyle"
     ],
     "slug": "hello-fresh"
+  },
+  {
+    "name": "Material Pokedex",
+    "thumb": "/projects/material-pokedex/thumb",
+    "desc": "",
+    "url": "https://materialpokedex.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-09-15",
+    "tags": [
+      "community"
+    ],
+    "slug": "material-pokedex"
   }
 ]
