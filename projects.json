@@ -5627,5 +5627,17 @@
       "community"
     ],
     "slug": "bowyer"
+  },
+  {
+    "name": "Google Allo",
+    "thumb": "/projects/google-allo/thumb",
+    "desc": "",
+    "url": "https://allo.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-09-21",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-allo"
   }
 ]
