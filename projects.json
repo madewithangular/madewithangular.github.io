@@ -5639,5 +5639,17 @@
       "google"
     ],
     "slug": "google-allo"
+  },
+  {
+    "name": "Kibblo",
+    "thumb": "/projects/kibblo/thumb",
+    "desc": "The ultimate CRM for freelance Web Developers & Designers",
+    "url": "https://kibblo.com/",
+    "submitter": "ibekiaris",
+    "submissionDate": "2016-10-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "kibblo"
   }
 ]
