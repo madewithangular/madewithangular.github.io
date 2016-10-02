@@ -1,5 +1,20 @@
 [
   {
+    "name": "Kibblo",
+    "thumb": "/projects/kibblo/thumb",
+    "desc": "The ultimate CRM for freelance Web Developers & Designers",
+    "url": "https://kibblo.com/",
+    "submitter": "ibekiaris",
+    "submissionDate": "2016-10-03",
+    "tags": [
+      "CRM",
+      "Freelance",
+      "Web Developer",
+      "Web Designer"
+    ],
+    "slug": "Kibblo"
+  },
+  {
     "name": "Android - Which Phone",
     "thumb": "/projects/android-which-phone/thumb",
     "desc": "",
