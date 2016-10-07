@@ -5663,5 +5663,17 @@
       "community"
     ],
     "slug": "mongosilakan"
+  },
+  {
+    "name": "Made By Google Store",
+    "thumb": "/projects/made-by-google-store/thumb",
+    "desc": "",
+    "url": "https://popup.withgoogle.com/nyc",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-10-07",
+    "tags": [
+      "google"
+    ],
+    "slug": "made-by-google-store"
   }
 ]
