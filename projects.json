@@ -5651,5 +5651,17 @@
       "community"
     ],
     "slug": "kibblo"
+  },
+  {
+    "name": "Mongosilakan",
+    "thumb": "/projects/mongosilakan/thumb",
+    "desc": "",
+    "url": "http://mongosilakan.net/#/translate",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-10-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "mongosilakan"
   }
 ]
