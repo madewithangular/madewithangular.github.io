@@ -1,0 +1,56 @@
+        <!-- Tabs -->
+        <div class="mdl-grid">
+          <div class="mdl-cell mdl-cell--5-col">
+            <div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+              <div class="mdl-tabs__tab-bar">
+                <a ng-click="sortByRecent()" class="mdl-tabs__tab is-active">Recent</a>
+                <a ng-click="sortByAlphabetical()" class="mdl-tabs__tab">Alphabetical</a>
+              </div>
+            </div>
+          </div>
+          <div class="mdl-layout-spacer"></div>
+          <div class="category-menu mdl-cell mdl-cell--3-col">
+            <!-- Right aligned menu below button -->
+            <!-- <button id="category-menu" class="mdl-button mdl-js-button">
+              Category <i class="material-icons">arrow_drop_down</i>
+            </button>
+
+            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect" for="category-menu">
+              <li class="mdl-menu__item"><a href="http://localhost:8000/#/?cat=google">By Google</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=books-reference">Books & Reference</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=business">Business</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=communication">Communication</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=education">Education</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=entertainment">Entertainment</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=finance">Finance</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=health-fitness">Health & Fitness</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=lifestyle">Lifestyle</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=media-video">Media & Video</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=music-audio">Music & Audio</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=news-magazines">News & Magazines</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=photography">Photography</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=productivity">Productivity</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=shopping">Shopping</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=social">Social</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=sports">Sports</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=tools">Tools</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=transportation">Transportation</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=travel-local">Travel & Local</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=weather">Weather</a></li>
+              <li class="mdl-menu__item"><a href="#/?cat=community">From the community</a></li>
+            </ul> -->        
+          </div>
+        </div>
+          
+        <!-- Sites -->
+        <div class="mdl-card mdl-cell mdl-cell--12-col" ng-repeat="project in allProjects" id="{{ project.slug }}">
+          <a href="{{ project.url }}" target="_blank">
+            <div class="mdl-card__media">
+              <!-- <img src="https://s3.amazonaws.com/madewithangular.com{{ project.thumb }}.jpg" width="100%"> -->
+              <img lazy-img="https://s3.amazonaws.com/madewithangular.com{{ project.thumb }}.jpg" width="100%">
+            </div>
+            <div class="mdl-card__supporting-text">
+              <h3 class="project-name">{{ project.name }}</h3>
+            </div>
+          </a>
+        </div>

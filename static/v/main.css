@@ -1,0 +1,136 @@
+/*General*/
+
+html, body {
+  background-color: #fafafa;
+}
+
+a {
+  color: #6a6a6a;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a.link {
+  color: #0095dd;
+}
+
+.container {
+  max-width: 1250px;
+}
+
+
+/*Sidebar*/
+
+.sidebar {
+  position: fixed;
+  width: inherit;
+}
+
+.sidebar .title {
+  color: #444;
+  font-size: 45px;
+  font-weight: 100;
+}
+
+.sidebar .description {
+  color: #6a6a6a;
+  font-size: 18px;
+  font-weight: 100;
+  margin-bottom: 24px;
+}
+
+.sidebar .nav {
+  color: #6a6a6a;
+  list-style: none;
+  padding-left: 0;
+  font-size: 14px;
+}
+
+#carbonads {
+  margin-top: 24px;
+  max-width: 130px;
+}
+
+.carbon-text, .carbon-poweredby {
+  display: block;
+  margin-top: 10px;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+.carbon-poweredby {
+  color: #999;
+}
+
+
+/*Tabs*/
+
+.mdl-tabs {
+  font-size: 14px;
+}
+
+.mdl-tabs__tab-bar {
+  border-bottom: 0;
+  max-width: 220px;
+}
+
+.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
+  background: #DD0031;
+}
+
+.category-menu {
+  height: 48px;
+  line-height: 48px;
+  max-width: 130px;
+  text-align: right;
+}
+
+#category-menu {
+  background-color: #fff;
+  color: #5c5c5c;
+  font-weight: 400;
+}
+
+/*Card*/
+
+.mdl-card__media {
+  background-color: transparent;
+}
+
+.mdl-card + .mdl-card {
+  margin-top: 48px;
+}
+
+.mdl-card__supporting-text {
+  font-size: 18px;
+}
+
+.project-name {
+  margin: 10px 0;
+  font-size: 28px;
+  font-weight: 100;
+}
+
+/*About*/
+
+.about h2,
+.about h3 {
+  color: #444;
+  font-weight: 100;
+}
+
+.about h2,
+.about h3,
+.about p {
+  margin: 24px 0;
+}
+
+@media (min-width: 840px) {
+  .sidebar {
+    margin-top: 60px;
+  }
+
+  .about {
+    margin-top: 84px;
+  }
+}
