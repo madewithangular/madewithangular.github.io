@@ -5678,7 +5678,7 @@
   },
   {
     "name": "Electron insert factor modelling",
-    "thumb": "/projects/electron-insert-factor-modelling/thumb.jpg",
+    "thumb": "/projects/electron-insert-factor-modelling/thumb",
     "desc": "A medical physics web app created for the modelling of electron insert factors. Uses Angular2, Python, and Bokehjs",
     "url": "http://electrons.simonbiggs.net/",
     "submitter": "SimonBiggs",
@@ -5687,5 +5687,17 @@
       "community"
     ],
     "slug": "electron-insert-factor-modelling"
+  },
+  {
+    "name": "Random TV Episode Generator",
+    "thumb": "/projects/random-tv-episode-generator/thumb",
+    "desc": "",
+    "url": "community",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-10-20",
+    "tags": [
+      ""
+    ],
+    "slug": "random-tv-episode-generator"
   }
 ]
