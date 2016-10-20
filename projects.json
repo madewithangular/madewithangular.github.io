@@ -5675,5 +5675,17 @@
       "google"
     ],
     "slug": "made-by-google-store"
+  },
+  {
+    "name": "Electron insert factor modelling",
+    "thumb": "/projects/electron-insert-factor-modelling/thumb.jpg",
+    "desc": "A medical physics web app created for the modelling of electron insert factors. Uses Angular2, Python, and Bokehjs",
+    "url": "http://electrons.simonbiggs.net/",
+    "submitter": "SimonBiggs",
+    "submissionDate": "2016-10-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "electron-insert-factor-modelling"
   }
 ]
