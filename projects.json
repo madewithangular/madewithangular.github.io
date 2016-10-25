@@ -5696,8 +5696,20 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2016-10-20",
     "tags": [
-      ""
+      "community"
     ],
     "slug": "random-tv-episode-generator"
+  },
+  {
+    "name": "MooCashback.com",
+    "thumb": "/projects/moocashback-com/thumb",
+    "desc": "",
+    "url": "https://www.moocashback.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-10-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "moocashback-com"
   }
 ]
