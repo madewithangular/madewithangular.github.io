@@ -5711,5 +5711,17 @@
       "community"
     ],
     "slug": "moocashback-com"
+  },
+  {
+    "name": "Bundle Stars",
+    "thumb": "/projects/bundle-stars/thumb",
+    "desc": "",
+    "url": "https://www.bundlestars.com/en/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-10-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "bundle-stars"
   }
 ]
