@@ -5723,5 +5723,17 @@
       "community"
     ],
     "slug": "bundle-stars"
+  },
+  {
+    "name": "Bobst Business Challenge",
+    "thumb": "/projects/bobst-business-challenge/thumb",
+    "desc": "",
+    "url": "http://business-challenge.bobst.com/#/welcome",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-11-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "bobst-business-challenge"
   }
 ]
