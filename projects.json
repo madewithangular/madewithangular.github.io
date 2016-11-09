@@ -5735,5 +5735,17 @@
       "community"
     ],
     "slug": "bobst-business-challenge"
+  },
+  {
+    "name": "Techprimelab",
+    "thumb": "/projects/techprimelab/thumb",
+    "desc": "",
+    "url": "http://www.techprimelab.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-11-09",
+    "tags": [
+      "community"
+    ],
+    "slug": "techprimelab"
   }
 ]
