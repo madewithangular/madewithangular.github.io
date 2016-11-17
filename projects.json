@@ -5687,5 +5687,17 @@
       "community"
     ],
     "slug": "electron-insert-factor-modelling"
+  },
+  {
+    "name": "Whale Merge",
+    "thumb": "whalemerge/thumb.png",
+    "desc": "Whale Merge is a quick and easy text template tool using AngularJS and its interpolation service.",
+    "url": "http://whalemerge.com",
+    "submitter": "kodeo",
+    "submissionDate": "2016-11-17",
+    "tags": [
+      "tools"
+    ],
+    "slug": "whalemerge"
   }
 ]
