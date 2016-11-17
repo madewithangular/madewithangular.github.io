@@ -5747,5 +5747,17 @@
       "community"
     ],
     "slug": "techprimelab"
+  },
+  {
+    "name": "Whale Merge",
+    "thumb": "/projects/whalemerge/thumb",
+    "desc": "",
+    "url": "http://whalemerge.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-11-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "whalemerge"
   }
 ]
