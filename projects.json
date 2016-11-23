@@ -5771,5 +5771,17 @@
       "communication"
     ],
     "slug": "protonmail"
+  },
+  {
+    "name": "MyGreatRecipes",
+    "thumb": "/projects/mygreatrecipes/thumb",
+    "desc": "",
+    "url": "https://www.mygreatrecipes.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-11-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "mygreatrecipes"
   }
 ]
