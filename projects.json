@@ -5751,13 +5751,25 @@
   {
     "name": "Whale Merge",
     "thumb": "/projects/whalemerge/thumb",
-    "desc": "",
+    "desc": "Whale Merge is a quick and easy text template tool using AngularJS and its interpolation service.",
     "url": "http://whalemerge.com/",
-    "submitter": "lpolepeddi",
+    "submitter": "kodeo",
     "submissionDate": "2016-11-17",
     "tags": [
       "community"
     ],
     "slug": "whalemerge"
+  },
+  {
+    "name": "ProtonMail",
+    "thumb": "/projects/protonmail/thumb",
+    "desc": "",
+    "url": "https://mail.protonmail.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-11-23",
+    "tags": [
+      "communication"
+    ],
+    "slug": "protonmail"
   }
 ]
