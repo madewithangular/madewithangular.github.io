@@ -18,9 +18,9 @@ def variant():
   response.headers['cache-control'] = 'must_revalidate, public, max-age=3600'
   return response
 
-@app.route("/.well-known/acme-challenge/aZJ4KW4R8ZpLKYRdVn2WAJ-NqEGZ4-camsRQO-KV5lQ")
+@app.route("/.well-known/acme-challenge/hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4")
 def challenge():
-  return 'aZJ4KW4R8ZpLKYRdVn2WAJ-NqEGZ4-camsRQO-KV5lQ.pFKi092ef3zDNfUarMXSdTZ75h3yeZSqvDDjwPaXxRE'
+  return 'hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4.sDEc5hjygivLVxJ96SQ4ihfvpYWKX1VfVx1TIgC7n7M'
 
 if __name__ == "__main__":
   app.run()
