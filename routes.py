@@ -12,12 +12,6 @@ def index():
   response.headers['cache-control'] = 'must_revalidate, public, max-age=3600'
   return response
 
-@app.route("/v")
-def variant():
-  response = make_response(render_template('v/index.html'))
-  response.headers['cache-control'] = 'must_revalidate, public, max-age=3600'
-  return response
-
 @app.route("/.well-known/acme-challenge/hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4")
 def challenge():
   return 'hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4.sDEc5hjygivLVxJ96SQ4ihfvpYWKX1VfVx1TIgC7n7M'
