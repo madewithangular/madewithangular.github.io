@@ -5831,5 +5831,17 @@
       "community"
     ],
     "slug": "unpakt"
+  },
+  {
+    "name": "API.AI Docs",
+    "thumb": "/projects/api.ai/thumb",
+    "desc": "",
+    "url": "https://docs.api.ai/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-12-28",
+    "tags": [
+      "tools"
+    ],
+    "slug": "api.ai"
   }
 ]
