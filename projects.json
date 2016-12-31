@@ -5843,5 +5843,17 @@
       "tools"
     ],
     "slug": "api.ai"
+  },
+  {
+    "name": "Mame Smart Database",
+    "thumb": "/projects/mame-smart-database/thumb",
+    "desc": "",
+    "url": "https://msdb.lapli.fr/#/home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2016-12-31",
+    "tags": [
+      "community"
+    ],
+    "slug": "mame-smart-database"
   }
 ]
