@@ -5785,30 +5785,6 @@
     "slug": "mygreatrecipes"
   },
   {
-    "name": "MyGreatRecipes",
-    "thumb": "/projects/mygreatrecipes/thumb",
-    "desc": "",
-    "url": "https://www.mygreatrecipes.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-11-24",
-    "tags": [
-      "community"
-    ],
-    "slug": "mygreatrecipes"
-  },
-  {
-    "name": "ProtonMail",
-    "thumb": "/projects/protonmail/thumb",
-    "desc": "",
-    "url": "https://mail.protonmail.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-11-24",
-    "tags": [
-      "communication"
-    ],
-    "slug": "protonmail"
-  },
-  {
     "name": "OpenProject",
     "thumb": "/projects/openproject/thumb",
     "desc": "",
@@ -5855,5 +5831,17 @@
       "community"
     ],
     "slug": "mame-smart-database"
+  },
+  {
+    "name": "OtherLab",
+    "thumb": "/projects/otherlab/thumb",
+    "desc": "",
+    "url": "https://otherlab.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-02",
+    "tags": [
+      "tools"
+    ],
+    "slug": "otherlab"
   }
 ]
