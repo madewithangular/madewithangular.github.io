@@ -5855,5 +5855,17 @@
       "google"
     ],
     "slug": "google-environment"
+  },
+  {
+    "name": "NYC Restaurant Week",
+    "thumb": "/projects/nyc-restaurant-week/thumb",
+    "desc": "",
+    "url": "http://www.nycgo.com/restaurant-week",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-10",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "nyc-restaurant-week"
   }
 ]
