@@ -5867,5 +5867,17 @@
       "travel-local"
     ],
     "slug": "nyc-restaurant-week"
+  },
+  {
+    "name": "Thinkorswim",
+    "thumb": "/projects/thinkorswim/thumb",
+    "desc": "",
+    "url": "https://www.thinkorswim.com/t/innovation.html",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-11",
+    "tags": [
+      "finance"
+    ],
+    "slug": "thinkorswim"
   }
 ]
