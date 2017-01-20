@@ -5879,5 +5879,17 @@
       "finance"
     ],
     "slug": "thinkorswim"
+  },
+  {
+    "name": "Anghami",
+    "thumb": "/projects/anghami/thumb",
+    "desc": "",
+    "url": "https://www.anghami.com/explore",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-20",
+    "tags": [
+      "community"
+    ],
+    "slug": "anghami"
   }
 ]
