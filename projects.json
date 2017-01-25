@@ -5891,5 +5891,17 @@
       "community"
     ],
     "slug": "anghami"
+  },
+  {
+    "name": "Save the date",
+    "thumb": "/projects/save-the-date/thumb",
+    "desc": "",
+    "url": "http://www.savethedate.foo/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-25",
+    "tags": [
+      "google"
+    ],
+    "slug": "save-the-date"
   }
 ]
