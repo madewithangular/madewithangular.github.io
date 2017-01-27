@@ -5903,5 +5903,17 @@
       "google"
     ],
     "slug": "save-the-date"
+  },
+  {
+    "name": "Happilist",
+    "thumb": "/projects/happilist/thumb",
+    "desc": "",
+    "url": "https://happilist.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-01-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "happilist"
   }
 ]
