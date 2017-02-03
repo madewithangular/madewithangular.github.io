@@ -137,9 +137,9 @@ def sitemap():
   return render_template('sitemap.xml', categories=categories, projects=projects), {'Content-Type': 'application/xml'}
 
 
-@app.route("/.well-known/acme-challenge/VY-uRwETqnXVf64bf5i60WcwR3R2qSX4sRyAwRhLLMY")
+@app.route("/.well-known/acme-challenge/_Bkub8XWtukC8kqbmUvEAbEtnjiNGeUb9SUmbJYtGHg")
 def challenge():
-  return 'VY-uRwETqnXVf64bf5i60WcwR3R2qSX4sRyAwRhLLMY.mYIK-BCAR6FZ1RBbavEpT_geiukGuGRZAI0aSdyRpzM'
+  return '_Bkub8XWtukC8kqbmUvEAbEtnjiNGeUb9SUmbJYtGHg.ONYCMgL_5EW2KnkUSO5XqBPBBPzEw0CJ01ArDf0fqqA'
 
 if __name__ == "__main__":
   app.run(debug=True)
