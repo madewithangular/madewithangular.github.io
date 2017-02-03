@@ -1,6 +1,7 @@
 appdirs==1.4.0
 click==6.7
 Flask==0.12
+Flask-SSLify==0.1.5
 gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.9.5

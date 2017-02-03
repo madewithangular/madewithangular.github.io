@@ -2,8 +2,11 @@ from flask import Flask, render_template, request, redirect
 import requests
 # import requests_toolbelt.adapters.appengine
 import json
+from flask_sslify import SSLify
 
 app = Flask(__name__)
+
+sslify = SSLify(app)
 
 # Use the App Engine Requests adapter. This makes sure that Requests uses
 # URLFetch.
