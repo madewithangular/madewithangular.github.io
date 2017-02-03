@@ -1,22 +1,145 @@
-from flask import Flask, render_template, make_response
-from flask_sslify import SSLify
-from flask.ext.compress import Compress
+from flask import Flask, render_template, request, redirect
+import requests
+# import requests_toolbelt.adapters.appengine
+import json
 
 app = Flask(__name__)
-sslify = SSLify(app)
-Compress(app)
+
+# Use the App Engine Requests adapter. This makes sure that Requests uses
+# URLFetch.
+# requests_toolbelt.adapters.appengine.monkeypatch()
 
 @app.route("/")
 def index():
-  response = make_response(render_template('index.html'))
-  response.headers['cache-control'] = 'must_revalidate, public, max-age=3600'
-  return response
 
-@app.route("/.well-known/acme-challenge/hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4")
+  categories = {
+    "google": {"name": "By Google", "sites": []},
+    "books-reference": {"name": "Books & Reference", "sites": []},
+    "business": {"name": "Business", "sites": []},
+    "communication": {"name": "Communication", "sites": []},
+    "education": {"name": "Education", "sites": []},
+    "entertainment": {"name": "Entertainment", "sites": []},
+    "finance": {"name": "Finance", "sites": []},
+    "health-fitness": {"name": "Health & Fitness", "sites": []},
+    "lifestyle": {"name": "Lifestyle", "sites": []},
+    "media-video": {"name": "Media & Video", "sites": []},
+    "music-audio": {"name": "Music & Audio", "sites": []},
+    "news-magazines": {"name": "News & Magazines", "sites": []},
+    "photography": {"name": "Photography", "sites": []},
+    "productivity": {"name": "Productivity", "sites": []},
+    "shopping": {"name": "Shopping", "sites": []},
+    "social": {"name": "Social", "sites": []},
+    "sports": {"name": "Sports", "sites": []},
+    "tools": {"name": "Tools", "sites": []},
+    "travel-local": {"name": "Travel & Local", "sites": []},
+    "transportation": {"name": "Transportation", "sites": []},
+    "weather": {"name": "Weather", "sites": []},
+    "community": {"name": "From the Community", "sites": []}
+  }
+
+  r = requests.get('https://s3.amazonaws.com/madewithangular.com/projects.json')
+  projects = json.loads(r.text)
+
+  for project in reversed(projects):
+    for tag in project['tags']:
+      categories[tag]["sites"].append(project)
+
+  return render_template('index.html', categories=categories)
+
+@app.route("/categories/<category>")
+def categories(category):
+
+  categories = {
+    "google": {"name": "By Google", "sites": []},
+    "books-reference": {"name": "Books & Reference", "sites": []},
+    "business": {"name": "Business", "sites": []},
+    "communication": {"name": "Communication", "sites": []},
+    "education": {"name": "Education", "sites": []},
+    "entertainment": {"name": "Entertainment", "sites": []},
+    "finance": {"name": "Finance", "sites": []},
+    "health-fitness": {"name": "Health & Fitness", "sites": []},
+    "lifestyle": {"name": "Lifestyle", "sites": []},
+    "media-video": {"name": "Media & Video", "sites": []},
+    "music-audio": {"name": "Music & Audio", "sites": []},
+    "news-magazines": {"name": "News & Magazines", "sites": []},
+    "photography": {"name": "Photography", "sites": []},
+    "productivity": {"name": "Productivity", "sites": []},
+    "shopping": {"name": "Shopping", "sites": []},
+    "social": {"name": "Social", "sites": []},
+    "sports": {"name": "Sports", "sites": []},
+    "tools": {"name": "Tools", "sites": []},
+    "travel-local": {"name": "Travel & Local", "sites": []},
+    "transportation": {"name": "Transportation", "sites": []},
+    "weather": {"name": "Weather", "sites": []},
+    "community": {"name": "From the Community", "sites": []}
+  }
+
+  r = requests.get('https://s3.amazonaws.com/madewithangular.com/projects.json')
+  projects = json.loads(r.text)
+
+  for project in reversed(projects):
+    for tag in project['tags']:
+      if tag == category:
+        categories[tag]["sites"].append(project)
+
+  return render_template('category.html', category=categories[category])
+
+@app.route("/sites/<site>")
+def sites(site):
+
+  r = requests.get('https://s3.amazonaws.com/madewithangular.com/projects.json')
+  projects = json.loads(r.text)
+
+  s = {}
+  for project in projects:
+    if project['slug'] == site:
+      s = project
+
+  print s
+
+  return render_template('site.html', site=s)
+
+@app.route("/about")
+def about():
+  return render_template('about.html')
+
+@app.route("/sitemap.xml")
+def sitemap():
+
+  categories = {
+    "google": {"name": "By Google", "sites": []},
+    "books-reference": {"name": "Books & Reference", "sites": []},
+    "business": {"name": "Business", "sites": []},
+    "communication": {"name": "Communication", "sites": []},
+    "education": {"name": "Education", "sites": []},
+    "entertainment": {"name": "Entertainment", "sites": []},
+    "finance": {"name": "Finance", "sites": []},
+    "health-fitness": {"name": "Health & Fitness", "sites": []},
+    "lifestyle": {"name": "Lifestyle", "sites": []},
+    "media-video": {"name": "Media & Video", "sites": []},
+    "music-audio": {"name": "Music & Audio", "sites": []},
+    "news-magazines": {"name": "News & Magazines", "sites": []},
+    "photography": {"name": "Photography", "sites": []},
+    "productivity": {"name": "Productivity", "sites": []},
+    "shopping": {"name": "Shopping", "sites": []},
+    "social": {"name": "Social", "sites": []},
+    "sports": {"name": "Sports", "sites": []},
+    "tools": {"name": "Tools", "sites": []},
+    "travel-local": {"name": "Travel & Local", "sites": []},
+    "transportation": {"name": "Transportation", "sites": []},
+    "weather": {"name": "Weather", "sites": []},
+    "community": {"name": "From the Community", "sites": []}
+  }
+
+  r = requests.get('https://s3.amazonaws.com/madewithangular.com/projects.json')
+  projects = json.loads(r.text)
+
+  return render_template('sitemap.xml', categories=categories, projects=projects), {'Content-Type': 'application/xml'}
+
+
+@app.route("/.well-known/acme-challenge/VY-uRwETqnXVf64bf5i60WcwR3R2qSX4sRyAwRhLLMY")
 def challenge():
-  return 'hNZ2_kEvGZzeJq9-KoG4B6RPQxUOVXW21VCp871w2X4.sDEc5hjygivLVxJ96SQ4ihfvpYWKX1VfVx1TIgC7n7M'
+  return 'VY-uRwETqnXVf64bf5i60WcwR3R2qSX4sRyAwRhLLMY.mYIK-BCAR6FZ1RBbavEpT_geiukGuGRZAI0aSdyRpzM'
 
 if __name__ == "__main__":
-  app.run()
-
-  
+  app.run(debug=True)

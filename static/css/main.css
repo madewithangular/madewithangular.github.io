@@ -60,13 +60,15 @@ html, body {
 
 .footer ul {
   list-style: none;
-  display: inline;
   margin: 0;
+  padding-left: 0;
+  display: inline;
 }
 
-.footer li {
+.footer li  {
   font-size: 13px;
   margin-top: 20px;
+  display: inline;
 }
 
 .footer img {

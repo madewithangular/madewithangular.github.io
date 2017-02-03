@@ -11,7 +11,7 @@ A showcase of web apps built with Angular
     ```
     {
       "name": "My App",
-      "thumb": "/projects/my-app/thumb.jpg",
+      "thumb": "/projects/my-app/thumb",
       "desc": "One or two sentences describing the app",
       "url": "http://myapp.com",
       "submitter": "lpolepeddi",

@@ -1,0 +1,15 @@
+{% extends 'layout.html' %}
+
+{% block title %}{{ site.name }} | {% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="site">
+    <a href="{{ site.url }}" target="_blank">
+      <h2 class="title">{{ site.name }}</h2>
+      <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" alt="{{ site.name }}" width="100%">
+      <div class="visit"></div>
+    </a>
+  </div>
+</div>
+{% endblock %}
