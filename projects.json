@@ -5951,5 +5951,17 @@
       "community"
     ],
     "slug": "geekmox-com"
+  },
+  {
+    "name": "Wallora",
+    "thumb": "/projects/wallora/thumb",
+    "desc": "",
+    "url": "https://www.wallora.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-08",
+    "tags": [
+      "community"
+    ],
+    "slug": "wallora"
   }
 ]
