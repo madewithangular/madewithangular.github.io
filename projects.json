@@ -5963,5 +5963,17 @@
       "community"
     ],
     "slug": "wallora"
+  },
+  {
+    "name": "Utrecht Psalter Annotated Edition",
+    "thumb": "/projects/utrecht-psalter-annotated-edition/thumb",
+    "desc": "",
+    "url": "http://psalter.library.uu.nl/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-09",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "utrecht-psalter-annotated-edition"
   }
 ]
