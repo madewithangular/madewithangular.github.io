@@ -5975,5 +5975,17 @@
       "books-reference"
     ],
     "slug": "utrecht-psalter-annotated-edition"
+  },
+  {
+    "name": "Wisen Softech",
+    "thumb": "/projects/wisen-softech/thumb",
+    "desc": "",
+    "url": "http://wisensoftech.com/Home/Index",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-17",
+    "tags": [
+      "community"
+    ],
+    "slug": "wisen-softech"
   }
 ]
