@@ -5915,5 +5915,13 @@
       "community"
     ],
     "slug": "happilist"
-  }
+  },
+  {
+  "name": "ExtraDiscount",
+  "thumb": "/assets/extradiscount.png",
+  "desc": "Online Shoppping extra discountsCoupons and deals",
+  "url": "https://extradiscount.in",
+  "submitter": "Rahul Sinha",
+  "submissionDate": "2017-02-22"
+}
 ]
