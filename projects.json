@@ -6011,5 +6011,17 @@
       "community"
     ],
     "slug": "365-days-of-music"
+  },
+  {
+    "name": "ExtraDiscount",
+    "thumb": "/projects/extradiscount/thumb",
+    "desc": "",
+    "url": "https://extradiscount.in",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "extradiscount"
   }
 ]
