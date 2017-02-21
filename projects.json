@@ -5999,5 +5999,17 @@
       "community"
     ],
     "slug": "paper-games"
+  },
+  {
+    "name": "365 days of music",
+    "thumb": "/projects/365-days-of-music/thumb",
+    "desc": "",
+    "url": "https://www.365daysofmusic.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "365-days-of-music"
   }
 ]
