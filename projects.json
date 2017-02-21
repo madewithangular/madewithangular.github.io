@@ -5987,5 +5987,17 @@
       "community"
     ],
     "slug": "wisen-softech"
+  },
+  {
+    "name": "Paper Games",
+    "thumb": "/projects/paper-games/thumb",
+    "desc": "",
+    "url": "http://papergames.io/#/en",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "paper-games"
   }
 ]
