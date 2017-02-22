@@ -6023,5 +6023,17 @@
       "community"
     ],
     "slug": "extradiscount"
+  },
+  {
+    "name": "Landing Lion",
+    "thumb": "/projects/landing-lion/thumb",
+    "desc": "",
+    "url": "https://www.landinglion.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-22",
+    "tags": [
+      "community"
+    ],
+    "slug": "landing-lion"
   }
 ]
