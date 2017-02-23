@@ -6035,5 +6035,17 @@
       "community"
     ],
     "slug": "extradiscount"
+  },
+  {
+    "name": "Google Assistant",
+    "thumb": "/projects/google-assistant/thumb",
+    "desc": "",
+    "url": "https://assistant.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-23",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-assistant"
   }
 ]
