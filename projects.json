@@ -6013,18 +6013,6 @@
     "slug": "365-days-of-music"
   },
   {
-    "name": "ExtraDiscount",
-    "thumb": "/projects/extradiscount/thumb",
-    "desc": "",
-    "url": "https://extradiscount.in",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2017-02-21",
-    "tags": [
-      "community"
-    ],
-    "slug": "extradiscount"
-  },
-  {
     "name": "Landing Lion",
     "thumb": "/projects/landing-lion/thumb",
     "desc": "",
@@ -6035,5 +6023,17 @@
       "community"
     ],
     "slug": "landing-lion"
+  },
+  {
+    "name": "ExtraDiscount",
+    "thumb": "/projects/extradiscount/thumb",
+    "desc": "",
+    "url": "http://extradiscount.in/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-23",
+    "tags": [
+      "community"
+    ],
+    "slug": "extradiscount"
   }
 ]
