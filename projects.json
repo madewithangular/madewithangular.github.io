@@ -6047,5 +6047,17 @@
       "google"
     ],
     "slug": "google-assistant"
+  },
+  {
+    "name": "Yatrum",
+    "thumb": "/projects/yatrum/thumb",
+    "desc": "",
+    "url": "http://yatrum.com/dashboard/feeds",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-02-24",
+    "tags": [
+      "community"
+    ],
+    "slug": "yatrum"
   }
 ]
