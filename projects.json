@@ -6071,5 +6071,17 @@
       "community"
     ],
     "slug": "angular2-instagram"
+  },
+  {
+    "name": "Urlaubszeit",
+    "thumb": "/projects/urlaubszeit/thumb",
+    "desc": "",
+    "url": "https://www.urlaubszeit.de/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-01",
+    "tags": [
+      "community"
+    ],
+    "slug": "urlaubszeit"
   }
 ]
