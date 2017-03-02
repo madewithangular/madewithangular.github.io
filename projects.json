@@ -6083,5 +6083,17 @@
       "community"
     ],
     "slug": "urlaubszeit"
+  },
+  {
+    "name": "Gotomalls.com",
+    "thumb": "/projects/gotomalls/thumb",
+    "desc": "Aplikasi info mall terlengkap, temukan informasi promosi, kupon, voucher, diskon dan event dari seluruh outlet di semua mall",
+    "url": "https://www.gotomalls.com/",
+    "submitter": "Zamroni",
+    "submissionDate": "2017-03-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "gotomalls"
   }
 ]
