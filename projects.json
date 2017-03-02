@@ -6119,5 +6119,17 @@
       "communication"
     ],
     "slug": "telegram-web"
+  },
+  {
+    "name": "Echoes Player",
+    "thumb": "/projects/echoes-player/thumb",
+    "desc": "",
+    "url": "http://echoesplayer.com/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "echoes-player"
   }
 ]
