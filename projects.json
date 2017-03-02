@@ -5915,5 +5915,20 @@
       "community"
     ],
     "slug": "happilist"
+  },
+  {
+    "name": "Gotomalls.com",
+    "thumb": "/projects/gotomalls/thumb.jpg",
+    "desc": "Aplikasi info mall terlengkap, temukan informasi promosi, kupon, voucher, diskon dan event dari seluruh outlet di semua mall",
+    "url": "https://www.gotomalls.com/",
+    "submitter": "Zamroni",
+    "submissionDate": "2017-03-02",
+    "tags": [
+      "mall",
+      "store",
+      "information",
+      "deals"
+    ],
+    "slug": "gotomalls"
   }
 ]
