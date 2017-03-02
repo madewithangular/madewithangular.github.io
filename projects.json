@@ -6107,5 +6107,17 @@
       "community"
     ],
     "slug": "vegan-los-angeles"
+  },
+  {
+    "name": "Telegram Web",
+    "thumb": "/projects/telegram-web/thumb",
+    "desc": "",
+    "url": "https://web.telegram.org",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-02",
+    "tags": [
+      "communication"
+    ],
+    "slug": "telegram-web"
   }
 ]
