@@ -6095,5 +6095,17 @@
       "community"
     ],
     "slug": "gotomalls"
+  },
+  {
+    "name": "Vegan Los Angeles App",
+    "thumb": "/projects/vegan-los-angeles/thumb",
+    "desc": "Vegan Los Angeles is a group aiming to promote the healthy vegan or plant-based diet by giving free-of-charge cooking demonstrations.",
+    "url": "http://www.veganlosangeles.com",
+    "submitter": "segac",
+    "submissionDate": "2017-03-02",
+    "tags": [
+      "community"
+    ],
+    "slug": "vegan-los-angeles"
   }
 ]
