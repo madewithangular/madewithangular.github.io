@@ -6143,5 +6143,18 @@
       "community"
     ],
     "slug": "familyme"
+  },
+  {
+    "name": "mailfinder.io",
+    "thumb": "/projects/mailfinder/thumb",
+    "desc": "mailfinder.io is a platform to verify your lists of emails to improve the sender score.",
+    "url": "https://mailfinder.io/app",
+    "submitter": "mailfinder",
+    "submissionDate": "2017-03-08",
+    "tags": [
+      "communication",
+      "community"
+    ],
+    "slug": "mailfinder"
   }
 ]
