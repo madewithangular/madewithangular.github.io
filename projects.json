@@ -6167,5 +6167,17 @@
       "community"
     ],
     "slug": "busolinea"
+  },
+  {
+    "name": "G Suite",
+    "thumb": "/projects/g-suite/thumb",
+    "desc": "",
+    "url": "https://gsuite.google.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-10",
+    "tags": [
+      "google"
+    ],
+    "slug": "g-suite"
   }
 ]
