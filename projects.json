@@ -1,5 +1,19 @@
 [
   {
+    "name": "Shopyak",
+    "thumb": "/projects/shopyak/thumb",
+    "desc": "",
+    "url": "https://shopyak.com/",
+    "submitter": "jamesanthonyferguson",
+    "submissionDate": "2016-03-11",
+    "tags": [
+      "shopping",
+      "eCommerce",
+      "tools"
+    ],
+    "slug": "shopyak-optimized-store-builder"
+  },
+  {
     "name": "Android - Which Phone",
     "thumb": "/projects/android-which-phone/thumb",
     "desc": "",
