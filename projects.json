@@ -6179,5 +6179,17 @@
       "google"
     ],
     "slug": "g-suite"
+  },
+  {
+    "name": "ShopYak",
+    "thumb": "/projects/shopyak/thumb",
+    "desc": "",
+    "url": "https://shopyak.com/",
+    "submitter": "jamesanthonyferguson",
+    "submissionDate": "2017-03-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "shopyak-optimized-store-builder"
   }
 ]
