@@ -6182,7 +6182,7 @@
   },
   {
     "name": "ShopYak",
-    "thumb": "/projects/shopyak/thumb",
+    "thumb": "/projects/shopyak-optimized-store-builder/thumb",
     "desc": "",
     "url": "https://shopyak.com/",
     "submitter": "jamesanthonyferguson",
@@ -6191,5 +6191,17 @@
       "community"
     ],
     "slug": "shopyak-optimized-store-builder"
+  },
+  {
+    "name": "HashMap",
+    "thumb": "/projects/hashmap/thumb",
+    "desc": "",
+    "url": "http://hashmapgames.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-25",
+    "tags": [
+      "community"
+    ],
+    "slug": "hashmap"
   }
 ]
