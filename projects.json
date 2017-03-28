@@ -6215,5 +6215,17 @@
       "community"
     ],
     "slug": "giphy-search"
+  },
+  {
+    "name": "PlaySimilar",
+    "thumb": "/projects/playsimilar/thumb",
+    "desc": "",
+    "url": "https://www.playsimilar.com/us",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "playsimilar"
   }
 ]
