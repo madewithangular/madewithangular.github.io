@@ -6143,5 +6143,17 @@
       "community"
     ],
     "slug": "familyme"
+  },
+  {
+    "name": "elotech",
+    "thumb": "/projects/elotech/thumb",
+    "desc": "The new generation of the complete ERP and CRM to Administration Brazilian Cities.",
+    "url": "https://demo.elotech.com.br",
+    "submitter": "netstart",
+    "submissionDate": "2017-03-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "elotech"
   }
 ]
