@@ -6227,5 +6227,17 @@
       "community"
     ],
     "slug": "playsimilar"
+  },
+  {
+    "name": "Elotech",
+    "thumb": "/projects/elotech/thumb",
+    "desc": "",
+    "url": "https://demo.elotech.com.br/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-29",
+    "tags": [
+      "community"
+    ],
+    "slug": "elotech"
   }
 ]
