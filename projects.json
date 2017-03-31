@@ -6229,15 +6229,27 @@
     "slug": "playsimilar"
   },
   {
-    "name": "Elotech",
+    "name": "elotech",
     "thumb": "/projects/elotech/thumb",
-    "desc": "",
+    "desc": "The new generation of the complete ERP and CRM to Administration Brazilian Cities.",
     "url": "https://demo.elotech.com.br/",
-    "submitter": "lpolepeddi",
+    "submitter": "netstart",
     "submissionDate": "2017-03-29",
     "tags": [
       "community"
     ],
     "slug": "elotech"
+  },
+  {
+    "name": "Koppy",
+    "thumb": "/projects/koppy/thumb",
+    "desc": "",
+    "url": "https://www.koppy.io",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-03-31",
+    "tags": [
+      "community"
+    ],
+    "slug": "koppy"
   }
 ]
