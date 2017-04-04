@@ -6251,5 +6251,17 @@
       "community"
     ],
     "slug": "koppy"
+  },
+  {
+    "name": "DieBuchrezension",
+    "thumb": "/projects/diebuchrezension/thumb",
+    "desc": "",
+    "url": "https://diebuchrezension.de/#/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-04",
+    "tags": [
+      "community"
+    ],
+    "slug": "diebuchrezension"
   }
 ]
