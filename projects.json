@@ -6287,5 +6287,17 @@
       "entertainment"
     ],
     "slug": "nextvr"
+  },
+  {
+    "name": "Material Design Color Tool",
+    "thumb": "/projects/material-design-color-tool/thumb",
+    "desc": "",
+    "url": "https://material.io/color/#/usr/libexec/java_home",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-06",
+    "tags": [
+      "-v"
+    ],
+    "slug": "material-design-color-tool"
   }
 ]
