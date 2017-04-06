@@ -6275,5 +6275,17 @@
       "community"
     ],
     "slug": "nsit"
+  },
+  {
+    "name": "NextVR",
+    "thumb": "/projects/nextvr/thumb",
+    "desc": "",
+    "url": "http://www.nextvr.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-06",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "nextvr"
   }
 ]
