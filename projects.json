@@ -6263,5 +6263,17 @@
       "community"
     ],
     "slug": "diebuchrezension"
+  },
+  {
+    "name": "NSIT",
+    "thumb": "/projects/nsit/thumb",
+    "desc": "",
+    "url": "http://www.nsit.edu.in/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-06",
+    "tags": [
+      "community"
+    ],
+    "slug": "nsit"
   }
 ]
