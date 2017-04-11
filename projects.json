@@ -6296,8 +6296,20 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2017-04-06",
     "tags": [
-      "-v"
+      "google"
     ],
     "slug": "material-design-color-tool"
+  },
+  {
+    "name": "Exoprise CloudReady",
+    "thumb": "/projects/exoprise-cloudready/thumb",
+    "desc": "",
+    "url": "https://secure.exoprise.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "exoprise-cloudready"
   }
 ]
