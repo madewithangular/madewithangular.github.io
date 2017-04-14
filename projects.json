@@ -6311,5 +6311,17 @@
       "community"
     ],
     "slug": "exoprise-cloudready"
+  },
+  {
+    "name": "Google Hire",
+    "thumb": "/projects/google-hire/thumb",
+    "desc": "",
+    "url": "https://hire.withgoogle.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-14",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-hire"
   }
 ]
