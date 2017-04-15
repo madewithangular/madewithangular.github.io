@@ -6323,5 +6323,17 @@
       "google"
     ],
     "slug": "google-hire"
+  },
+  {
+    "name": "Festa",
+    "thumb": "/projects/festa/thumb",
+    "desc": "",
+    "url": "play.festa.co",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-15",
+    "tags": [
+      "community"
+    ],
+    "slug": "festa"
   }
 ]
