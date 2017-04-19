@@ -6328,12 +6328,24 @@
     "name": "Festa",
     "thumb": "/projects/festa/thumb",
     "desc": "",
-    "url": "play.festa.co",
+    "url": "https://play.festa.co",
     "submitter": "lpolepeddi",
     "submissionDate": "2017-04-15",
     "tags": [
       "community"
     ],
     "slug": "festa"
+  },
+  {
+    "name": "Dave & Busters",
+    "thumb": "/projects/dave-and-busters/thumb",
+    "desc": "",
+    "url": "http://www.daveandbusters.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-19",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "dave-and-busters"
   }
 ]
