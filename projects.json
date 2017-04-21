@@ -6337,7 +6337,7 @@
     "slug": "festa"
   },
   {
-    "name": "Dave & Busters",
+    "name": "Dave & Buster's",
     "thumb": "/projects/dave-and-busters/thumb",
     "desc": "",
     "url": "http://www.daveandbusters.com/",
@@ -6347,5 +6347,17 @@
       "entertainment"
     ],
     "slug": "dave-and-busters"
+  },
+  {
+    "name": "Jou Sun",
+    "thumb": "/projects/jou-sun/thumb",
+    "desc": "",
+    "url": "https://www.jousun.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-21",
+    "tags": [
+      "community"
+    ],
+    "slug": "jou-sun"
   }
 ]
