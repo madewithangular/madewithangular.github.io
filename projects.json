@@ -6359,5 +6359,17 @@
       "community"
     ],
     "slug": "jou-sun"
+  },
+  {
+    "name": "The MIT Press",
+    "thumb": "/projects/mitpress/thumb",
+    "desc": "",
+    "url": "https://mitpress.mit.edu/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-22",
+    "tags": [
+      "education"
+    ],
+    "slug": "mitpress"
   }
 ]
