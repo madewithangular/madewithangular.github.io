@@ -6371,5 +6371,17 @@
       "education"
     ],
     "slug": "mitpress"
+  },
+  {
+    "name": "AAT",
+    "thumb": "/projects/aat/thumb",
+    "desc": "",
+    "url": "https://www.aat.org.uk/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-04-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "aat"
   }
 ]
