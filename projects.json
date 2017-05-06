@@ -1,5 +1,21 @@
 [
   {
+    "name": "Botmetric",
+    "thumb": "/projects/botmetric/thumb",
+    "desc": "Intelligent AWS Cloud Management for DevOps",
+    "url": "http://botmetric.com",
+    "submitter": "lpolepeddi",
+    "tags" : [
+        AWS,
+        amazon,
+        cloud,
+        devOps,
+        cost management,
+        security
+	],
+    "submissionDate": "2015-06-24"
+  }
+  {
     "name": "Android - Which Phone",
     "thumb": "/projects/android-which-phone/thumb",
     "desc": "",
