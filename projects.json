@@ -6419,5 +6419,17 @@
       "community"
     ],
     "slug": "cybrhome"
+  },
+  {
+    "name": "The Daily Project",
+    "thumb": "/projects/the-daily-project/thumb",
+    "desc": "",
+    "url": "https://www.thedailyproject.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-05-09",
+    "tags": [
+      "community"
+    ],
+    "slug": "the-daily-project"
   }
 ]
