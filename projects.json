@@ -6455,5 +6455,17 @@
       "community"
     ],
     "slug": "botmetric"
+  },
+  {
+    "name": "Chatbase",
+    "thumb": "/projects/chatbase/thumb",
+    "desc": "",
+    "url": "https://chatbase.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-05-17",
+    "tags": [
+      "google"
+    ],
+    "slug": "chatbase"
   }
 ]
