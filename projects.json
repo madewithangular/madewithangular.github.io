@@ -6467,5 +6467,17 @@
       "google"
     ],
     "slug": "chatbase"
+  },
+  {
+    "name": "Google.ai",
+    "thumb": "/projects/google-ai/thumb",
+    "desc": "",
+    "url": "https://google.ai/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-05-17",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-ai"
   }
 ]
