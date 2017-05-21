@@ -6479,5 +6479,17 @@
       "google"
     ],
     "slug": "google-ai"
+  },
+  {
+    "name": "Celebrity Cruises",
+    "thumb": "/projects/celebrity-cruises/thumb",
+    "desc": "",
+    "url": "https://www.celebritycruises.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-05-21",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "celebrity-cruises"
   }
 ]
