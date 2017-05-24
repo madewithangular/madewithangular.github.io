@@ -6491,5 +6491,17 @@
       "travel-local"
     ],
     "slug": "celebrity-cruises"
+  },
+  {
+    "name": "Tubbber",
+    "thumb": "/projects/tubbber/thumb",
+    "desc": "",
+    "url": "https://www.tubbber.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-05-24",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "tubbber"
   }
 ]
