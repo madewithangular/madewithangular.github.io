@@ -6515,5 +6515,17 @@
       "community"
     ],
     "slug": "first-group-journey-planner"
+   },
+   {
+    "name": "Bizns",
+    "thumb": "/projects/bizns/thumb",
+    "desc": "",
+    "url": "https://www.biznstool.com",
+    "submitter": "Babugoli",
+    "submissionDate": "2017-05-31",
+    "tags": [
+      "community"
+    ],
+    "slug": "bizns"
    }
 ]
