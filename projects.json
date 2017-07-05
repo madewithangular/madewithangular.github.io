@@ -6527,5 +6527,17 @@
       "community"
     ],
     "slug": "bizns"
-   }
+  },
+  {
+    "name": "Cosmunity",
+    "thumb": "/projects/cosmunity/thumb",
+    "desc": "",
+    "url": "https://cosmunity.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-07-05",
+    "tags": [
+      "community"
+    ],
+    "slug": "cosmunity"
+  }
 ]
