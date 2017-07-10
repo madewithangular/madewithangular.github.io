@@ -6539,5 +6539,17 @@
       "community"
     ],
     "slug": "cosmunity"
+  },
+  {
+    "name": "Frameworks",
+    "thumb": "/projects/frameworks/thumb",
+    "desc": "",
+    "url": "https://web-frameworks.firebaseapp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-07-10",
+    "tags": [
+      "community"
+    ],
+    "slug": "frameworks"
   }
 ]
