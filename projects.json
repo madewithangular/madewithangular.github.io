@@ -6551,5 +6551,17 @@
       "community"
     ],
     "slug": "frameworks"
+  },
+  {
+    "name": "iFly",
+    "thumb": "/projects/ifly/thumb",
+    "desc": "",
+    "url": "http://www.code-dude.com/projects/airasia/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-07-10",
+    "tags": [
+      "community"
+    ],
+    "slug": "ifly"
   }
 ]
