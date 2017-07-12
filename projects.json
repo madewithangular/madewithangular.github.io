@@ -6575,5 +6575,17 @@
       "community"
     ],
     "slug": "youtube-thumbnail-viewer"
+  },
+  {
+    "name": "Gradient Ventures",
+    "thumb": "/projects/gradient-ventures/thumb",
+    "desc": "",
+    "url": "https://gradient.google/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-07-12",
+    "tags": [
+      "google"
+    ],
+    "slug": "gradient-ventures"
   }
 ]
