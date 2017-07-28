@@ -6587,5 +6587,17 @@
       "google"
     ],
     "slug": "gradient-ventures"
+  },
+  {
+    "name": "Blockd",
+    "thumb": "/projects/blockd/thumb",
+    "desc": "",
+    "url": "https://apps.facebook.com/blockdgame",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-07-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "blockd"
   }
 ]
