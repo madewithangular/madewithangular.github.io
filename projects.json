@@ -6599,5 +6599,17 @@
       "community"
     ],
     "slug": "blockd"
+  },
+  {
+    "name": "Actimore",
+    "thumb": "/projects/actimore/thumb",
+    "desc": "",
+    "url": "https://www.actimore.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-08-11",
+    "tags": [
+      "community"
+    ],
+    "slug": "actimore"
   }
 ]
