@@ -58,9 +58,13 @@
   <body>
     <div class="header">
       <div class="container">
-        <a href="{{ url_for('index') }}">
-          <img src="https://s3.amazonaws.com/madewithangular.com/img/34.png">
-        </a>
+        <a href="{{ url_for('index') }}"> <img src="https://s3.amazonaws.com/madewithangular.com/img/34.png"> </a>
+        <ul>
+          <li><a href="{{ url_for('about') }}">About</a></li>
+          <li><a href="/about#submit">Suggest a site</a></li>
+          <li><a href="https://www.facebook.com/made.w.angular">Facebook</a></li>
+          <li><a href="https://twitter.com/madewithangular">Twitter</a></li>
+        </ul>
       </div>
     </div>
 
@@ -89,6 +93,7 @@
         <ul>
           <li><a href="{{ url_for('about') }}">About</a></li>
           <li><a href="/about#submit">Suggest a site</a></li>
+          <li><a href="https://www.facebook.com/made.w.angular">Facebook</a></li>
           <li><a href="https://twitter.com/madewithangular">Twitter</a></li>
         </ul>
       </div>

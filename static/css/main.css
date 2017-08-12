@@ -58,23 +58,27 @@ html, body {
   padding: 30px 4px;
 }
 
+.header ul,
 .footer ul {
   list-style: none;
   margin: 0;
   padding-left: 0;
-  display: inline;
+  display: none;
 }
 
+.header li,
 .footer li  {
   font-size: 13px;
   margin-top: 20px;
   display: inline;
 }
 
+.header img,
 .footer img {
   vertical-align: middle;
 }
 
+.header a, .header a:visited,
 .footer a, .footer a:visited {
   color: #444;
 }
@@ -199,6 +203,12 @@ html, body {
 }
 
 @media (min-width:600px) {
+  .header ul,
+  .footer ul {
+    display: inline;
+  }
+
+  .header li,
   .footer li {
     display: inline;
     margin-left: 40px;
