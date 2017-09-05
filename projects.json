@@ -6587,5 +6587,17 @@
       "google"
     ],
     "slug": "gradient-ventures"
+  },
+  {
+    "name": "Portfolium",
+    "thumb": "/projects/portfolium/thumb",
+    "desc": "Portfolium makes digital portfolios smarter for students, reportable for educators and searchable for employers",
+    "url": "https://portfolium.com",
+    "submitter": "peterdorsi",
+    "submissionDate": "2017-09-04",
+    "tags": [
+      "education"
+    ],
+    "slug": "portfolium"
   }
 ]
