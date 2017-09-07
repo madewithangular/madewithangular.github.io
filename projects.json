@@ -6611,5 +6611,17 @@
       "education"
     ],
     "slug": "portfolium"
+  },
+  {
+    "name": "Resourcepot",
+    "thumb": "/projects/resourcepot/thumb",
+    "desc": "",
+    "url": "http://www.resourcepot.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "resourcepot"
   }
 ]
