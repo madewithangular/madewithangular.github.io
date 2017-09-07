@@ -6623,5 +6623,17 @@
       "community"
     ],
     "slug": "resourcepot"
+  },
+  {
+    "name": "Inception Notes",
+    "thumb": "/projects/inception-notes/thumb",
+    "desc": "",
+    "url": "http://inceptionnotes.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "inception-notes"
   }
 ]
