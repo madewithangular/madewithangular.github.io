@@ -6635,5 +6635,17 @@
       "community"
     ],
     "slug": "inception-notes"
+  },
+  {
+    "name": "Megabus Journey Planner",
+    "thumb": "/projects/megabus-journey-planner/thumb",
+    "desc": "",
+    "url": "https://uk.megabus.com/journey-planner/journeys",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-12",
+    "tags": [
+      "transportation"
+    ],
+    "slug": "megabus-journey-planner"
   }
 ]
