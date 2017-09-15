@@ -6647,5 +6647,17 @@
       "transportation"
     ],
     "slug": "megabus-journey-planner"
+  },
+  {
+    "name": "Thinking about changing phones?",
+    "thumb": "/projects/thinking-about-changing-phones/thumb",
+    "desc": "",
+    "url": "https://madeby.google.com/intl/en_us/askmore/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-14",
+    "tags": [
+      "google"
+    ],
+    "slug": "thinking-about-changing-phones"
   }
 ]
