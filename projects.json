@@ -6659,5 +6659,17 @@
       "google"
     ],
     "slug": "thinking-about-changing-phones"
+  },
+  {
+    "name": "Justdial",
+    "thumb": "/projects/justdial/thumb",
+    "desc": "",
+    "url": "https://us.justdial.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-17",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "justdial"
   }
 ]
