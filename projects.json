@@ -6671,5 +6671,17 @@
       "travel-local"
     ],
     "slug": "justdial"
+  },
+  {
+    "name": "Hotstar",
+    "thumb": "/projects/hotstar/thumb",
+    "desc": "",
+    "url": "http://www.hotstar.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-17",
+    "tags": [
+      "entertainment"
+    ],
+    "slug": "hotstar"
   }
 ]
