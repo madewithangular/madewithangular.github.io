@@ -6683,5 +6683,17 @@
       "entertainment"
     ],
     "slug": "hotstar"
+  },
+  {
+    "name": "Cambridge Public e-School",
+    "thumb": "/projects/cambridge-public-eschool/thumb",
+    "desc": "",
+    "url": "http://cambridgeinstitutions.edu.in/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-19",
+    "tags": [
+      "community"
+    ],
+    "slug": "cambridge-public-eschool"
   }
 ]
