@@ -2,6 +2,25 @@
 
 {% block title %}{{ site.name }} | {% endblock %}
 
+{% block meta %}
+    <meta property="og:url" content="https://www.madewithangular.com/sites/{{ site.slug }}">
+    <meta property="og:title" content="{{ site.name }} | Made with Angular">
+    <meta property="og:image" content="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg">
+    <meta property="og:site_name" content="Made with Angular">
+
+    <meta itemprop="name" content="{{ site.name }} | Made with Angular">
+    <meta itemprop="image" content="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site.name }} | Made with Angular">
+    <meta name="twitter:image" content="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg">
+
+
+    <meta name="description" content="{{ site.name }} is made with Angular">
+    <meta name="keywords" content="{{ site.name }}, Made with Angular">
+    <link rel="canonical" href="https://www.madewithangular.com">    
+{% endblock %}
+
 {% block content %}
 <div class="container">
   <div class="site">

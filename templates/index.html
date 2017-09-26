@@ -1,5 +1,26 @@
 {% extends 'layout.html' %}
 
+{% block meta %}
+    <meta property="og:url" content="https://www.madewithangular.com">
+    <meta property="og:title" content="Made with Angular">
+    <meta property="og:image" content="https://s3.amazonaws.com/madewithangular.com/img/194.png">
+    <meta property="og:site_name" content="Made with Angular">
+    <meta property="og:description" content="A showcase of web apps built with Angular.">
+
+    <meta itemprop="name" content="Made with Angular">
+    <meta itemprop="description" content="A showcase of web apps built with Angular.">
+    <meta itemprop="image" content="https://s3.amazonaws.com/madewithangular.com/img/194.png">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Made with Angular">
+    <meta name="twitter:description" content="A showcase of web apps built with Angular.">
+    <meta name="twitter:image" content="https://s3.amazonaws.com/madewithangular.com/img/194.png">
+
+    <meta name="description" content="A showcase of web apps built with Angular.">
+    <meta name="keywords" content="Made with Angular">
+    <link rel="canonical" href="https://www.madewithangular.com">
+{% endblock %}
+
 {% block content %}
 <div class="container">
   {% for slug, item in categories.iteritems() %}
