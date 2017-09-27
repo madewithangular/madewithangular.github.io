@@ -6695,5 +6695,17 @@
       "community"
     ],
     "slug": "cambridge-public-eschool"
+  },
+  {
+    "name": "YouGov",
+    "thumb": "/projects/yougov/thumb",
+    "desc": "",
+    "url": "https://today.yougov.com/?stay",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-09-27",
+    "tags": [
+      "social"
+    ],
+    "slug": "yougov"
   }
 ]
