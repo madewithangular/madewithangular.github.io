@@ -6707,5 +6707,17 @@
       "social"
     ],
     "slug": "yougov"
+  },
+  {
+    "name": "AngularJS Tetris",
+    "thumb": "/projects/angularjs-tetris/thumb",
+    "desc": "",
+    "url": "http://angulartetris20170918013407.azurewebsites.net/AngularJS-App/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-10-04",
+    "tags": [
+      "community"
+    ],
+    "slug": "angularjs-tetris"
   }
 ]
