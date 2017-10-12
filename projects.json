@@ -6731,5 +6731,17 @@
       "google"
     ],
     "slug": "google-home-mini-donut-shop"
+  },
+  {
+    "name": "Grow with Google",
+    "thumb": "/projects/grow-with-google/thumb",
+    "desc": "",
+    "url": "https://grow.google/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-10-12",
+    "tags": [
+      "google"
+    ],
+    "slug": "grow-with-google"
   }
 ]
