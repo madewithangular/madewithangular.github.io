@@ -6719,5 +6719,17 @@
       "community"
     ],
     "slug": "angularjs-tetris"
+  },
+  {
+    "name": "Google Home Mini Donut Shop",
+    "thumb": "/projects/google-home-mini-donut-shop/thumb",
+    "desc": "",
+    "url": "https://donuts.withgoogle.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-10-12",
+    "tags": [
+      "google"
+    ],
+    "slug": "google-home-mini-donut-shop"
   }
 ]
