@@ -6743,5 +6743,17 @@
       "google"
     ],
     "slug": "grow-with-google"
+  },
+  {
+    "name": "JavaScript Training Courses",
+    "thumb": "/projects/javascript-training-courses/thumb",
+    "desc": "",
+    "url": "http://javascripttrainingcourses.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "javascript-training-courses"
   }
 ]
