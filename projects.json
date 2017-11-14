@@ -6755,5 +6755,17 @@
       "community"
     ],
     "slug": "javascript-training-courses"
+  },
+  {
+    "name": "FXDomains",
+    "thumb": "/projects/fxdomains/thumb",
+    "desc": "",
+    "url": "https://www.fxdomains.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-14",
+    "tags": [
+      "community"
+    ],
+    "slug": "fxdomains"
   }
 ]
