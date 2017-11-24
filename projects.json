@@ -6791,5 +6791,17 @@
       "books-reference"
     ],
     "slug": "map-of-life"
+  },
+  {
+    "name": "Global Mountain Biodiversity Assessment",
+    "thumb": "/projects/global-mountain-biodiversity-assessment/thumb",
+    "desc": "",
+    "url": "http://mountainbiodiversity.org/explore",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-24",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "global-mountain-biodiversity-assessment"
   }
 ]
