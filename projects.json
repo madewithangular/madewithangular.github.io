@@ -6767,5 +6767,17 @@
       "community"
     ],
     "slug": "fxdomains"
+  },
+  {
+    "name": "Sage Grouse Initiative",
+    "thumb": "/projects/sage-grouse-initiative/thumb",
+    "desc": "",
+    "url": "https://map.sagegrouseinitiative.com/ecosystem/mesic-resources?ll=43.4799,-110.7624",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-24",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "sage-grouse-initiative"
   }
 ]
