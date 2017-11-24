@@ -6779,5 +6779,17 @@
       "books-reference"
     ],
     "slug": "sage-grouse-initiative"
+  },
+  {
+    "name": "Map of Life",
+    "thumb": "/projects/map-of-life/thumb",
+    "desc": "",
+    "url": "https://mol.org/datasets/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-24",
+    "tags": [
+      "books-reference"
+    ],
+    "slug": "map-of-life"
   }
 ]
