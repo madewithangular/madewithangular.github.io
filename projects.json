@@ -6803,5 +6803,17 @@
       "books-reference"
     ],
     "slug": "global-mountain-biodiversity-assessment"
+  },
+  {
+    "name": "ShowcaseIT",
+    "thumb": "/projects/showcaseit/thumb",
+    "desc": "",
+    "url": "https://showcase-it.firebaseapp.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-11-26",
+    "tags": [
+      "community"
+    ],
+    "slug": "showcaseit"
   }
 ]
