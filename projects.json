@@ -6815,5 +6815,17 @@
       "community"
     ],
     "slug": "showcaseit"
+  },
+  {
+    "name": "Fresh Trim",
+    "thumb": "/projects/fresh-trim/thumb",
+    "desc": "",
+    "url": "https://www.fresh-trim.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-12-06",
+    "tags": [
+      "community"
+    ],
+    "slug": "fresh-trim"
   }
 ]
