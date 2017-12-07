@@ -6839,5 +6839,17 @@
       "community"
     ],
     "slug": "moreno-di-domenico"
+  },
+  {
+    "name": "Questrade",
+    "thumb": "/projects/questrade/thumb",
+    "desc": "",
+    "url": "https://my.questrade.com",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-12-07",
+    "tags": [
+      "community"
+    ],
+    "slug": "questrade"
   }
 ]
