@@ -6848,8 +6848,20 @@
     "submitter": "lpolepeddi",
     "submissionDate": "2017-12-07",
     "tags": [
-      "food-drink"
+      "lifestyle"
     ],
     "slug": "hellofresh"
+  },
+  {
+    "name": "Easycast",
+    "thumb": "/projects/easycast/thumb",
+    "desc": "",
+    "url": "http://easycast.com/",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2017-12-28",
+    "tags": [
+      "community"
+    ],
+    "slug": "easycast"
   }
 ]
