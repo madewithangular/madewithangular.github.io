@@ -6743,5 +6743,16 @@
       "google"
     ],
     "slug": "grow-with-google"
+  },
+  {
+	"name": "Workify.io",
+	"thumb": "/projects/workifyio/thumb",
+	"desc": "Job search and application management tool to help with your next job search",
+	"url": "https://workify.io",
+	"submitter": "spinningideas",
+	"submissionDate": "2017-12-27",
+	"tags": [
+		"tools","employment"
+	]
   }
 ]
