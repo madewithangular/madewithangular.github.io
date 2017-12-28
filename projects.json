@@ -6875,5 +6875,17 @@
       "community"
     ],
     "slug": "kanceliarine-parduotuve"
+  },
+  {
+    "name": "Workify.io",
+    "thumb": "/projects/workify-io/thumb",
+    "desc": "Job search and application management tool to help with your next job search",
+    "url": "https://workify.io/",
+    "submitter": "spinningideas",
+    "submissionDate": "2017-12-27",
+    "tags": [
+      "community"
+    ],
+    "slug": "workify-io"
   }
 ]
