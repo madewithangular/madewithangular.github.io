@@ -52,18 +52,6 @@
     "slug": "relative-wave"
   },
   {
-    "name": "Interstellar",
-    "thumb": "/projects/interstellar/thumb",
-    "desc": "",
-    "url": "https://interstellar.withgoogle.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-06-19",
-    "tags": [
-      "google"
-    ],
-    "slug": "interstellar"
-  },
-  {
     "name": "Bon Appétit",
     "thumb": "/projects/bon-appetit/thumb",
     "desc": "",
@@ -86,18 +74,6 @@
       "google"
     ],
     "slug": "google-cloud-platform-webinars"
-  },
-  {
-    "name": "Happy Holidays from Google",
-    "thumb": "/projects/happy-holidays-from-google/thumb",
-    "desc": "",
-    "url": "https://happyholidays.withgoogle.com",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-06-22",
-    "tags": [
-      "google"
-    ],
-    "slug": "happy-holidays-from-google"
   },
   {
     "name": "Best Buy Trade-In",
@@ -135,18 +111,6 @@
       "business"
     ],
     "slug": "upwork"
-  },
-  {
-    "name": "Google Quantum Computing Playground",
-    "thumb": "/projects/google-quantum-computing-playground/thumb",
-    "desc": "",
-    "url": "http://qcplayground.withgoogle.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-06-26",
-    "tags": [
-      "google"
-    ],
-    "slug": "google-quantum-computing-playground"
   },
   {
     "name": "Google Atmosphere",
@@ -867,30 +831,6 @@
     "slug": "pluralsight"
   },
   {
-    "name": "Rubedo Documentation Center",
-    "thumb": "/projects/rubedo-cms-doc/thumb",
-    "desc": "Documentation center for Rubedo CMS and eCommerce",
-    "url": "http://docs.rubedo-project.org/en/",
-    "submitter": "goncalvesm",
-    "submissionDate": "2015-09-23",
-    "tags": [
-      "community"
-    ],
-    "slug": "rubedo-cms-doc"
-  },
-  {
-    "name": "Rubedo CMS",
-    "thumb": "/projects/rubedo-cms/thumb",
-    "desc": "Rubedo is an open source CMS & Ecommerce with Behavioral targeting (CMS Zend framework & MongoDB).",
-    "url": "http://www.rubedo-project.org",
-    "submitter": "goncalvesm",
-    "submissionDate": "2015-09-23",
-    "tags": [
-      "community"
-    ],
-    "slug": "rubedo-cms"
-  },
-  {
     "name": "The Next Web Deals",
     "thumb": "/projects/tnw-deals/thumb",
     "desc": "",
@@ -1174,7 +1114,7 @@
     "name": "Ryanair",
     "thumb": "/projects/ryanair/thumb",
     "desc": "",
-    "url": "https://beta.ryanair.com/gb/en/",
+    "url": "https://www.ryanair.com/gb/en/",
     "submitter": "lpolepeddi",
     "submissionDate": "2015-10-13",
     "tags": [
@@ -1279,18 +1219,6 @@
     "slug": "autodesk-recap-360"
   },
   {
-    "name": "MapQuest",
-    "thumb": "/projects/mapquest/thumb",
-    "desc": "",
-    "url": "http://beta.mapquest.com/welcome",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-21",
-    "tags": [
-      "travel-local"
-    ],
-    "slug": "mapquest"
-  },
-  {
     "name": "Jolt",
     "thumb": "/projects/jolt/thumb",
     "desc": "Employee task management and productivity software",
@@ -1339,18 +1267,6 @@
     "slug": "thomas-cook"
   },
   {
-    "name": "LEGO.com Star Wars",
-    "thumb": "/projects/lego/thumb",
-    "desc": "",
-    "url": "http://www.lego.com/en-us/starwars/poster-builder",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-26",
-    "tags": [
-      "entertainment"
-    ],
-    "slug": "lego"
-  },
-  {
     "name": "Google Careers",
     "thumb": "/projects/google-careers/thumb",
     "desc": "",
@@ -1364,18 +1280,6 @@
     "slug": "google-careers"
   },
   {
-    "name": "August",
-    "thumb": "/projects/august/thumb",
-    "desc": "",
-    "url": "https://www.agst.co/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-26",
-    "tags": [
-      "community"
-    ],
-    "slug": "august"
-  },
-  {
     "name": "Abby Seymour",
     "thumb": "/projects/abby-seymour/thumb",
     "desc": "",
@@ -1386,18 +1290,6 @@
       "community"
     ],
     "slug": "abby-seymour"
-  },
-  {
-    "name": "Invoke Media",
-    "thumb": "/projects/invoke-media/thumb",
-    "desc": "",
-    "url": "http://www.invokemedia.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-26",
-    "tags": [
-      "community"
-    ],
-    "slug": "invoke-media"
   },
   {
     "name": "ETQ Amsterdam",
@@ -1494,18 +1386,6 @@
       "community"
     ],
     "slug": "chefly"
-  },
-  {
-    "name": "Pacific NW Race Calendar",
-    "thumb": "/projects/pacific-nw-race-calendar/thumb",
-    "desc": "",
-    "url": "http://git.bbeckert.com/race-calendar/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-27",
-    "tags": [
-      "community"
-    ],
-    "slug": "pacific-nw-race-calendar"
   },
   {
     "name": "Formspree Generator",
@@ -1674,18 +1554,6 @@
       "community"
     ],
     "slug": "intercambia-laminas"
-  },
-  {
-    "name": "NextTier Education",
-    "thumb": "/projects/nexttier-education/thumb",
-    "desc": "",
-    "url": "https://www.nexttiereducation.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-10-27",
-    "tags": [
-      "community"
-    ],
-    "slug": "nexttier-education"
   },
   {
     "name": "Abundance Investment",
@@ -2082,19 +1950,6 @@
       "education"
     ],
     "slug": "stanford-classx"
-  },
-  {
-    "name": "Google Star Wars",
-    "thumb": "/projects/google-star-wars/thumb",
-    "desc": "",
-    "url": "https://www.google.com/starwars/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-11-23",
-    "tags": [
-      "entertainment",
-      "google"
-    ],
-    "slug": "google-star-wars"
   },
   {
     "name": "Blue Origin",
@@ -2530,18 +2385,6 @@
     "slug": "ampready"
   },
   {
-    "name": "SoyEmpleo.com",
-    "thumb": "/projects/soyempleo/thumb",
-    "desc": "",
-    "url": "http://soyempleo.com/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-12-17",
-    "tags": [
-      "community"
-    ],
-    "slug": "soyempleo"
-  },
-  {
     "name": "updatemi",
     "thumb": "/projects/updatemi/thumb",
     "desc": "",
@@ -2696,30 +2539,6 @@
       "community"
     ],
     "slug": "propel-fuels"
-  },
-  {
-    "name": "MetoCat",
-    "thumb": "/projects/metocat/thumb",
-    "desc": "",
-    "url": "https://metocat.com/",
-    "submitter": "annatomka",
-    "submissionDate": "2015-12-17",
-    "tags": [
-      "community"
-    ],
-    "slug": "metocat"
-  },
-  {
-    "name": "Deku",
-    "thumb": "/projects/deku/thumb",
-    "desc": "A forum for greenhouse and horticulture enthusiasts. Includes a dashboard for live upload of environmental data.",
-    "url": "http://dekugreen.com",
-    "submitter": "Beasta",
-    "submissionDate": "2015-12-17",
-    "tags": [
-      "community"
-    ],
-    "slug": "deku"
   },
   {
     "name": "Pizza Hut",
@@ -2903,18 +2722,6 @@
     "slug": "pocket-dice"
   },
   {
-    "name": "Angular 2 Dribbble",
-    "thumb": "/projects/ng2-dribbble/thumb",
-    "desc": "",
-    "url": "http://zamamohammed.github.io/ng2-dribbble/#/snaps",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-12-25",
-    "tags": [
-      "community"
-    ],
-    "slug": "ng2-dribbble"
-  },
-  {
     "name": "Telcel",
     "thumb": "/projects/telcel/thumb",
     "desc": "",
@@ -2937,18 +2744,6 @@
       "google"
     ],
     "slug": "doubleclick"
-  },
-  {
-    "name": "ILTER",
-    "thumb": "/projects/ilter/thumb",
-    "desc": "",
-    "url": "http://132.248.172.188/#/",
-    "submitter": "Crizstian",
-    "submissionDate": "2015-12-25",
-    "tags": [
-      "community"
-    ],
-    "slug": "ilter"
   },
   {
     "name": "Pixnary",
@@ -3180,30 +2975,6 @@
     "slug": "suas-registration"
   },
   {
-    "name": "Body Browser",
-    "thumb": "/projects/body-browser/thumb",
-    "desc": "The Semantic Body Browser is a tool for visually exploring an organism by means of ontologically annotated anatomical illustrations and spatial gene expression visualization.",
-    "url": "http://body-browser.org",
-    "submitter": "flekschas",
-    "submissionDate": "2016-01-10",
-    "tags": [
-      "community"
-    ],
-    "slug": "body-browser"
-  },
-  {
-    "name": "Finit",
-    "thumb": "/projects/finit/thumb",
-    "desc": "",
-    "url": "https://finit.co/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-01-11",
-    "tags": [
-      "community"
-    ],
-    "slug": "finit"
-  },
-  {
     "name": "The Pulitzer Prizes",
     "thumb": "/projects/pulitzer/thumb",
     "desc": "",
@@ -3336,66 +3107,6 @@
     "slug": "comptoir-des-savonniers"
   },
   {
-    "name": "GoCinchy Social",
-    "thumb": "/projects/gocinchy-social/thumb",
-    "desc": "Intuitive Social Media Marketing for Startups",
-    "url": "http://www.gocinchy.com/social",
-    "submitter": "sagar-ranglani",
-    "submissionDate": "2015-01-19",
-    "tags": [
-      "community"
-    ],
-    "slug": "gocinchy-social"
-  },
-  {
-    "name": "GoCinchy Bookmarks",
-    "thumb": "/projects/gocinchy-bookmarks/thumb",
-    "desc": "Simple Yet Effective Bookmark Manager",
-    "url": "http://www.gocinchy.com/bookmarks",
-    "submitter": "sagar-ranglani",
-    "submissionDate": "2015-01-19",
-    "tags": [
-      "community"
-    ],
-    "slug": "gocinchy-bookmarks"
-  },
-  {
-    "name": "Equity Reports",
-    "thumb": "/projects/equity-reports/thumb",
-    "desc": "",
-    "url": "http://equityreports.com.br/",
-    "submitter": "GustavoBMG",
-    "submissionDate": "2015-01-25",
-    "tags": [
-      "community"
-    ],
-    "slug": "equity-reports"
-  },
-  {
-    "name": "Metascreen",
-    "thumb": "/projects/metascreen/thumb",
-    "desc": "",
-    "url": "https://metascreen.io/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2015-01-25",
-    "tags": [
-      "community"
-    ],
-    "slug": "metascreen"
-  },
-  {
-    "name": "LoadingSpot",
-    "thumb": "/projects/loading-spot/thumb",
-    "desc": "",
-    "url": "http://loadingspot.com/",
-    "submitter": "andrejkosyak",
-    "submissionDate": "2015-01-29",
-    "tags": [
-      "community"
-    ],
-    "slug": "loading-spot"
-  },
-  {
     "name": "Sprint",
     "thumb": "/projects/sprint/thumb",
     "desc": "",
@@ -3430,18 +3141,6 @@
       "community"
     ],
     "slug": "particle-develop"
-  },
-  {
-    "name": "Renault",
-    "thumb": "/projects/renault/thumb",
-    "desc": "Renault Megane car configuration's webapp",
-    "url": "https://anfrage.renault.de/informiert-bleiben/megane",
-    "submitter": "elecash",
-    "submissionDate": "2016-01-26",
-    "tags": [
-      "transportation"
-    ],
-    "slug": "renault"
   },
   {
     "name": "Provecta POS",
@@ -3490,18 +3189,6 @@
       "education"
     ],
     "slug": "amnh"
-  },
-  {
-   "name": "Socialivo",
-   "thumb": "/projects/socialivo/thumb",
-   "desc": "The who, when, where of what's happening right now. A social website to find and organize last-minute ad hoc social activities.",
-   "url": "https://www.socialivo.com",
-   "submitter": "jasonbhart",
-   "submissionDate": "2016-01-29",
-   "tags": [
-      "community"
-    ],
-    "slug": "socialivo"
   },
   {
     "name": "FleetMover.com",
@@ -3599,18 +3286,6 @@
       "shopping"
     ],
     "slug": "the-home-depot"
-  },
-  {
-    "name": "Virgin Mobile France",
-    "thumb": "/projects/virgin-mobile-france/thumb",
-    "desc": "",
-    "url": "http://www.virginmobile.fr/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-02-08",
-    "tags": [
-      "communication"
-    ],
-    "slug": "virgin-mobile-france"
   },
   {
     "name": "Virgin Mobile Canada",
@@ -3877,18 +3552,6 @@
     "slug": "teamwave"
   },
   {
-    "name": "getLonLat",
-    "thumb": "/projects/getlonlat/thumb",
-    "desc": "App to get coordinates from a place in the world. Provide longitude, latitude and geohash. Can convert to longitude and latitude to another projection.",
-    "url": "http://getlonlat.hewertho.mn/#/home",
-    "submitter": "hewerthomn",
-    "submissionDate": "2016-02-10",
-    "tags": [
-      "community"
-    ],
-    "slug": "getlonlat"
-  },
-  {
     "name": "Eircode Finder",
     "thumb": "/projects/eircode-finder/thumb",
     "desc": "",
@@ -3923,18 +3586,6 @@
       "community"
     ],
     "slug": "scorp"
-  },
-  {
-    "name": "Angular 2 QuickStart",
-    "thumb": "/projects/angular2-quickstart/thumb",
-    "desc": "",
-    "url": "https://angular2-es6-starter.herokuapp.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-02-15",
-    "tags": [
-      "community"
-    ],
-    "slug": "angular2-quickstart"
   },
   {
     "name": "MTV Katsomo",
@@ -4057,30 +3708,6 @@
     "slug": "movietag"
   },
   {
-    "name": "Digitz",
-    "thumb": "/projects/digitz/thumb",
-    "desc": "",
-    "url": "https://www.digitz.fr/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-02-23",
-    "tags": [
-      "community"
-    ],
-    "slug": "digitz"
-  },
-  {
-    "name": "Angular 2 Color Game",
-    "thumb": "/projects/angular2-color-game/thumb",
-    "desc": "",
-    "url": "http://stroopgame.com/app/index.html/dashboard",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-02-26",
-    "tags": [
-      "community"
-    ],
-    "slug": "angular2-color-game"
-  },
-  {
     "name": "cryptoworld.io",
     "thumb": "/projects/cryptoworld/thumb",
     "desc": "",
@@ -4139,18 +3766,6 @@
       "community"
     ],
     "slug": "quiz-global"
-  },
-  {
-    "name": "Ghostbusters",
-    "thumb": "/projects/ghostbusters/thumb",
-    "desc": "",
-    "url": "http://www.paranormalstudieslab.com/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-03",
-    "tags": [
-      "entertainment"
-    ],
-    "slug": "ghostbusters"
   },
   {
     "name": "Progressive Insurance",
@@ -4297,18 +3912,6 @@
     "slug": "chrome-music-lab"
   },
   {
-    "name": "Nuwait",
-    "thumb": "/projects/nuwait/thumb",
-    "desc": "",
-    "url": "nuwait.net.kw",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-13",
-    "tags": [
-      "community"
-    ],
-    "slug": "nuwait"
-  },
-  {
     "name": "Sage UK",
     "thumb": "/projects/sage-uk/thumb",
     "desc": "",
@@ -4319,30 +3922,6 @@
       "community"
     ],
     "slug": "sage-uk"
-  },
-  {
-    "name": "JouwBedrijfsWebsite",
-    "thumb": "/projects/jouwbedrijfswebsite/thumb",
-    "desc": "",
-    "url": "https://www.jouwbedrijfswebsite.nl/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-13",
-    "tags": [
-      "community"
-    ],
-    "slug": "jouwbedrijfswebsite"
-  },
-  {
-    "name": "Cerarmich",
-    "thumb": "/projects/cerarmich/thumb",
-    "desc": "",
-    "url": "http://cerarmich.org/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-13",
-    "tags": [
-      "community"
-    ],
-    "slug": "cerarmich"
   },
   {
     "name": "@properties",
@@ -4501,18 +4080,6 @@
     "slug": "dev-mind"
   },
   {
-    "name": "Mix-IT",
-    "thumb": "/projects/mix-it/thumb",
-    "desc": "",
-    "url": "https://www.mix-it.fr/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-03-30",
-    "tags": [
-      "community"
-    ],
-    "slug": "mix-it"
-  },
-  {
     "name": "Microsoft Cognitive Services",
     "thumb": "/projects/microsoft-cognitive-services/thumb",
     "desc": "",
@@ -4607,18 +4174,6 @@
       "google"
     ],
     "slug": "international-womens-day"
-  },
-  {
-    "name": "Android Is For Users",
-    "thumb": "/projects/android-is-for-users/thumb",
-    "desc": "",
-    "url": "http://landing.google.com/androidisforusers/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-04-07",
-    "tags": [
-      "google"
-    ],
-    "slug": "android-is-for-users"
   },
   {
     "name": "Google Ads",
@@ -4765,18 +4320,6 @@
     "slug": "holimetrix"
   },
   {
-    "name": "Vine Global",
-    "thumb": "/projects/vineglobal/thumb",
-    "desc": "",
-    "url": "http://store.vineos.io/#/store",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-04-28",
-    "tags": [
-      "community"
-    ],
-    "slug": "vineglobal"
-  },
-  {
     "name": "Zoosk",
     "thumb": "/projects/zoosk/thumb",
     "desc": "",
@@ -4909,30 +4452,6 @@
     "slug": "hayu"
   },
   {
-    "name": "Election - Philippines 2016",
-    "thumb": "/projects/pilipinaselectionresults2016/thumb",
-    "desc": "",
-    "url": "https://www.pilipinaselectionresults2016.com/#/dashboard",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-05-17",
-    "tags": [
-      "community"
-    ],
-    "slug": "pilipinaselectionresults2016"
-  },
-  {
-    "name": "Wemood",
-    "thumb": "/projects/wemood/thumb",
-    "desc": "",
-    "url": "https://www.wemood.co/#/discover",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-05-18",
-    "tags": [
-      "community"
-    ],
-    "slug": "wemood"
-  },
-  {
     "name": "Google Home",
     "thumb": "/projects/google-home/thumb",
     "desc": "",
@@ -4955,18 +4474,6 @@
       "tools"
     ],
     "slug": "dzone"
-  },
-  {
-    "name": "Team Zeus",
-    "thumb": "/projects/team-zeus/thumb",
-    "desc": "Team Communication App for Modern Business",
-    "url": "http://http://www.teamzeusapp.com/",
-    "submitter": "char0n",
-    "submissionDate": "2016-05-20",
-    "tags": [
-      "community"
-    ],
-    "slug": "teamzeus"
   },
   {
     "name": "WSBF-FM Clemson",
@@ -5039,18 +4546,6 @@
       "music-audio"
     ],
     "slug": "splice"
-  },
-  {
-    "name": "Sintesi for JIRA",
-    "thumb": "/projects/sintesi/thumb",
-    "desc": "",
-    "url": "http://www.sintesi.co",
-    "submitter": "sintesi",
-    "submissionDate": "2016-05-26",
-    "tags": [
-      "community"
-    ],
-    "slug": "sintesi"
   },
   {
     "name": "Beam",
@@ -5341,18 +4836,6 @@
     "slug": "baggagesize-com"
   },
   {
-    "name": "Hearthstone Search",
-    "thumb": "/projects/hearthstone-search/thumb",
-    "desc": "",
-    "url": "http://hearthstone-search.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-07-01",
-    "tags": [
-      "community"
-    ],
-    "slug": "hearthstone-search"
-  },
-  {
     "name": "Survata",
     "thumb": "/projects/survata/thumb",
     "desc": "Survata lets you quickly survey your target audience online. We find qualified respondents to answer your survey.",
@@ -5363,18 +4846,6 @@
       "community"
     ],
     "slug": "survata"
-  },
-  {
-    "name": "PowerPanel",
-    "thumb": "/projects/powerpanel/thumb",
-    "desc": "",
-    "url": "https://powerpanel.io/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-07-05",
-    "tags": [
-      "community"
-    ],
-    "slug": "powerpanel"
   },
   {
     "name": "Ulysse",
@@ -5411,18 +4882,6 @@
       "community"
     ],
     "slug": "inkbe"
-  },
-  {
-    "name": "Rethink Life",
-    "thumb": "/projects/rethink-life/thumb",
-    "desc": "",
-    "url": "http://www.rethink-life.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-07-19",
-    "tags": [
-      "community"
-    ],
-    "slug": "rethink-life"
   },
   {
     "name": "CouponDunia",
@@ -5545,30 +5004,6 @@
     "slug": "postnauka"
   },
   {
-    "name": "Material Pokedex",
-    "thumb": "/projects/material-pokedex/thumb",
-    "desc": "",
-    "url": "https://materialpokedex.com",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-09-15",
-    "tags": [
-      "community"
-    ],
-    "slug": "material-pokedex"
-  },
-  {
-    "name": "Matrix",
-    "thumb": "/projects/matrix/thumb",
-    "desc": "",
-    "url": "https://vmatrix.org.cn",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-09-17",
-    "tags": [
-      "community"
-    ],
-    "slug": "matrix"
-  },
-  {
     "name": "Wise Expense",
     "thumb": "/projects/wise-expense/thumb",
     "desc": "",
@@ -5605,18 +5040,6 @@
     "slug": "made-by-google"
   },
   {
-    "name": "Bowyer",
-    "thumb": "/projects/bowyer/thumb",
-    "desc": "",
-    "url": "http://bowyer.colorgap.com/#/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-09-20",
-    "tags": [
-      "community"
-    ],
-    "slug": "bowyer"
-  },
-  {
     "name": "Google Allo",
     "thumb": "/projects/google-allo/thumb",
     "desc": "",
@@ -5627,18 +5050,6 @@
       "google"
     ],
     "slug": "google-allo"
-  },
-  {
-    "name": "Kibblo",
-    "thumb": "/projects/kibblo/thumb",
-    "desc": "The ultimate CRM for freelance Web Developers & Designers",
-    "url": "https://kibblo.com/",
-    "submitter": "ibekiaris",
-    "submissionDate": "2016-10-02",
-    "tags": [
-      "community"
-    ],
-    "slug": "kibblo"
   },
   {
     "name": "Mongosilakan",
@@ -5687,18 +5098,6 @@
       "community"
     ],
     "slug": "random-tv-episode-generator"
-  },
-  {
-    "name": "MooCashback.com",
-    "thumb": "/projects/moocashback-com/thumb",
-    "desc": "",
-    "url": "https://www.moocashback.com/",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2016-10-25",
-    "tags": [
-      "community"
-    ],
-    "slug": "moocashback-com"
   },
   {
     "name": "Bundle Stars",
@@ -5783,18 +5182,6 @@
       "productivity"
     ],
     "slug": "openproject"
-  },
-  {
-    "name": "Unpakt",
-    "thumb": "/projects/unpakt/thumb",
-    "desc": "Unpakt let's you find the best moving companies, compare real prices & reviews, and book your move online.",
-    "url": "https://www.unpakt.com/",
-    "submitter": "calebfaruki",
-    "submissionDate": "2016-12-05",
-    "tags": [
-      "community"
-    ],
-    "slug": "unpakt"
   },
   {
     "name": "API.AI Docs",
@@ -6035,18 +5422,6 @@
       "google"
     ],
     "slug": "google-assistant"
-  },
-  {
-    "name": "Yatrum",
-    "thumb": "/projects/yatrum/thumb",
-    "desc": "",
-    "url": "http://yatrum.com/dashboard/feeds",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2017-02-24",
-    "tags": [
-      "community"
-    ],
-    "slug": "yatrum"
   },
   {
     "name": "Angular2 Instagram",
@@ -6448,7 +5823,7 @@
     "name": "Google.ai",
     "thumb": "/projects/google-ai/thumb",
     "desc": "",
-    "url": "https://google.ai/",
+    "url": "https://ai.google",
     "submitter": "lpolepeddi",
     "submissionDate": "2017-05-17",
     "tags": [
@@ -6889,7 +6264,7 @@
     "slug": "workify-io"
   },
   {
-    "name": "IntelligenceInfotech",
+    "name": "Intelligence Infotech",
     "thumb": "/projects/intelligenceinfotech/thumb",
     "desc": "",
     "url": "http://www.angular-artist.com/#/home",
