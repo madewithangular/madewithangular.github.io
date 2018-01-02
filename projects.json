@@ -4525,7 +4525,7 @@
     "slug": "shortlist"
   },
   {
-    "name": "Weather\ Underground",
+    "name": "Weather Underground",
     "thumb": "/projects/weather-underground/thumb",
     "desc": "",
     "url": "https://www.wunderground.com/",
@@ -4536,5 +4536,18 @@
       ""
     ],
     "slug": "weather-underground"
+  },
+  {
+    "name": "Royal Caribbean",
+    "thumb": "/projects/royal-caribbean/thumb",
+    "desc": "",
+    "url": "https://secure.royalcaribbean.com/cruises/",
+    "version": "",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      "travel-local"
+    ],
+    "slug": "royal-caribbean"
   }
 ]
