@@ -4512,19 +4512,6 @@
     "slug": "fantrax"
   },
   {
-    "name": "ShopStyle:\ Search\ and\ find\ the\ latest\ in\ fashion",
-    "thumb": "/projects/shopstyle:-search-and-find-the-latest-in-fashion/thumb",
-    "desc": "",
-    "url": "https://www.shopstyle.com/",
-    "version": "2.4.10",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2018-01-01",
-    "tags": [
-      ""
-    ],
-    "slug": "shopstyle:-search-and-find-the-latest-in-fashion"
-  },
-  {
     "name": "Shortlist",
     "thumb": "/projects/shortlist/thumb",
     "desc": "",
@@ -4536,5 +4523,18 @@
       ""
     ],
     "slug": "shortlist"
+  },
+  {
+    "name": "Weather\ Underground",
+    "thumb": "/projects/weather-underground/thumb",
+    "desc": "",
+    "url": "https://www.wunderground.com/",
+    "version": "4.1.3",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      ""
+    ],
+    "slug": "weather-underground"
   }
 ]
