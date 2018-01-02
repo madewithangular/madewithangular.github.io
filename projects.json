@@ -4523,5 +4523,18 @@
       ""
     ],
     "slug": "shopstyle:-search-and-find-the-latest-in-fashion"
+  },
+  {
+    "name": "Shortlist",
+    "thumb": "/projects/shortlist/thumb",
+    "desc": "",
+    "url": "https://www.shortlist.net/webportal/#/login",
+    "version": "4.0.1",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      ""
+    ],
+    "slug": "shortlist"
   }
 ]
