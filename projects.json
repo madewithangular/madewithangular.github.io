@@ -4512,29 +4512,16 @@
     "slug": "fantrax"
   },
   {
-    "name": "Lucidchart",
-    "thumb": "/projects/collaborate-with-me-on-lucidchart/thumb",
+    "name": "ShopStyle:\ Search\ and\ find\ the\ latest\ in\ fashion",
+    "thumb": "/projects/shopstyle:-search-and-find-the-latest-in-fashion/thumb",
     "desc": "",
-    "url": "https://www.lucidchart.com/documents/edit/f5751c39-d68d-45ca-8b33-0cce01b4bf95?demo=on#?",
-    "version": "1.4.8",
+    "url": "https://www.shopstyle.com/",
+    "version": "2.4.10",
     "submitter": "lpolepeddi",
     "submissionDate": "2018-01-01",
     "tags": [
       ""
     ],
-    "slug": "collaborate-with-me-on-lucidchart"
-  },
-  {
-    "name": "NBA.com",
-    "thumb": "/projects/nba.com/thumb",
-    "desc": "",
-    "url": "http://www.nba.com/",
-    "version": "4.2.4",
-    "submitter": "lpolepeddi",
-    "submissionDate": "2018-01-01",
-    "tags": [
-      ""
-    ],
-    "slug": "nba.com"
+    "slug": "shopstyle:-search-and-find-the-latest-in-fashion"
   }
 ]
