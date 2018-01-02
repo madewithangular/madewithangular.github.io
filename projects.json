@@ -4497,5 +4497,18 @@
     "submitter": "lpolepeddi", 
     "slug": "intelligenceinfotech", 
     "desc": ""
+  },
+  {
+    "name": "Fantrax",
+    "thumb": "/projects/fantrax/thumb",
+    "desc": "",
+    "url": "https://www.fantrax.com/",
+    "version": "4.2.6",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      ""
+    ],
+    "slug": "fantrax"
   }
 ]
