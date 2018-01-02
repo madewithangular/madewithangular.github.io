@@ -4512,7 +4512,7 @@
     "slug": "fantrax"
   },
   {
-    "name": "Collaborate\ with\ me\ on\ Lucidchart",
+    "name": "Lucidchart",
     "thumb": "/projects/collaborate-with-me-on-lucidchart/thumb",
     "desc": "",
     "url": "https://www.lucidchart.com/documents/edit/f5751c39-d68d-45ca-8b33-0cce01b4bf95?demo=on#?",
@@ -4523,5 +4523,18 @@
       ""
     ],
     "slug": "collaborate-with-me-on-lucidchart"
+  },
+  {
+    "name": "NBA.com",
+    "thumb": "/projects/nba.com/thumb",
+    "desc": "",
+    "url": "http://www.nba.com/",
+    "version": "4.2.4",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      ""
+    ],
+    "slug": "nba.com"
   }
 ]
