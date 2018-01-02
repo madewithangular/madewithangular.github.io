@@ -4549,5 +4549,18 @@
       "travel-local"
     ],
     "slug": "royal-caribbean"
+  },
+  {
+    "name": "Sharp Healthcare",
+    "thumb": "/projects/sharp-healthcare/thumb",
+    "desc": "",
+    "url": "health-fitness",
+    "version": "",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-01",
+    "tags": [
+      "https://www.sharp.com/san-diego-doctors/search"
+    ],
+    "slug": "sharp-healthcare"
   }
 ]
