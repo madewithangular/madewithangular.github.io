@@ -4993,5 +4993,18 @@
       "lifestyle"
     ],
     "slug": "dsw"
+  },
+  {
+    "name": "T-Mobile",
+    "thumb": "/projects/t-mobile/thumb",
+    "desc": "",
+    "url": "https://www.t-mobile.com/",
+    "version": "",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-02",
+    "tags": [
+      "communication"
+    ],
+    "slug": "t-mobile"
   }
 ]
