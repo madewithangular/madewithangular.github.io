@@ -45,7 +45,8 @@ def index():
 
   for project in reversed(projects):
     for tag in project['tags']:
-      categories[tag]["sites"].append(project)
+      if tag:
+        categories[tag]["sites"].append(project)
 
   return render_template('index.html', categories=categories)
 
