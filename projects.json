@@ -9921,5 +9921,18 @@
     "slug": "toyota-certified",
     "submissionDate": "2018-01-02",
     "desc": ""
+  },
+  {
+    "name": "Chillisauce",
+    "thumb": "/projects/chillisauce/thumb",
+    "desc": "",
+    "url": "https://chillisauce.com",
+    "version": "5.0.0-beta.4",
+    "submitter": "lpolepeddi",
+    "submissionDate": "2018-01-03",
+    "tags": [
+      "community"
+    ],
+    "slug": "chillisauce"
   }
 ]
