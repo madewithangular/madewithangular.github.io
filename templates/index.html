@@ -40,7 +40,7 @@
         <div class="card">
           <a href="/sites/{{ item.sites[i].slug }}">
             <h3>{{ item.sites[i].name }}</h3>
-            <p>Angular {{ item.sites[i].version }}</p>
+            <p>Angular {{ item.sites[i].version.version }}</p>
             <img src="https://s3.amazonaws.com/madewithangular.com{{ item.sites[i].thumb }}.jpg" alt="{{ item.sites[i].name }}" width="100%">
           </a>
         </div>
@@ -52,7 +52,7 @@
         <div class="card">
           <a href="/sites/{{ site.slug }}">
             <h3>{{ site.name }}</h3>
-            <p>Angular {{ site.version }}</p>
+            <p>Angular {{ site.version.version }}</p>
             <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" width="100%">
           </a>
         </div>
