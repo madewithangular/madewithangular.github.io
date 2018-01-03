@@ -22,7 +22,6 @@
 {% endblock %}
 
 {% block content %}
-<div class="container">
   {% for slug, item in categories.iteritems() %}
   <div class="category">
     {% if item.sites  %}
@@ -35,12 +34,13 @@
     {% endif %}
     <div class="clearfix"></div>
     <div class="row">
-      {% if item.sites | length > 4 %}
-      {% for i in range(4) %}
-      <div class="col">
+      {% if item.sites | length > 3 %}
+      {% for i in range(3) %}
+      <div class="col-lg-4">
         <div class="card">
           <a href="/sites/{{ item.sites[i].slug }}">
             <h3>{{ item.sites[i].name }}</h3>
+            <p>Angular {{ item.sites[i].version }}</p>
             <img src="https://s3.amazonaws.com/madewithangular.com{{ item.sites[i].thumb }}.jpg" alt="{{ item.sites[i].name }}" width="100%">
           </a>
         </div>
@@ -48,10 +48,11 @@
       {% endfor %}
       {% else %}
       {% for site in item.sites %}
-      <div class="col">
+      <div class="col-lg-4">
         <div class="card">
           <a href="/sites/{{ site.slug }}">
             <h3>{{ site.name }}</h3>
+            <p>Angular {{ site.version }}</p>
             <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" width="100%">
           </a>
         </div>
@@ -61,5 +62,4 @@
     </div>
   </div>
   {% endfor %}
-</div>
 {% endblock %}
