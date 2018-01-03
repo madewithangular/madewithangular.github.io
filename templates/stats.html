@@ -24,6 +24,14 @@
 {% endblock %}
 
 {% block content %}
+<div class="stats">
+  <div class="heading">
+    <h2 class="title">Stats</h2>
+  </div>
+</div>
+
+
+
 <div class="container">
   <div class="stats">
     <canvas id="chart"></canvas>
@@ -40,11 +48,18 @@
     data: {
       labels: {{ labels | safe }},
       datasets: [{
-        backgroundColor: 'red',
+        backgroundColor: {{ colors | safe }},
         data: {{ data }},
       }]
     },
-    options: {}
+    options: {
+      scales: {
+        xAxes: [{
+          categoryPercentage: 1.0,
+          barPercentage: 1.0
+        }]
+      }
+    }
   });
 </script>
 {% endblock %}

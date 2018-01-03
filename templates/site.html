@@ -26,7 +26,11 @@
   <div class="site">
     <a href="{{ site.url }}" target="_blank">
       <h2 class="title">{{ site.name }}</h2>
+      {% if site.version.major == '1' %}
+      <p class="version">AngularJS {{ site.version.version }}</p>
+      {% else %}
       <p class="version">Angular {{ site.version.version }}</p>
+      {% endif %}
       <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" alt="{{ site.name }}" width="100%">
       <div class="visit"></div>
     </a>
