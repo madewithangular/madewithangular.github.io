@@ -17,7 +17,7 @@ def index():
     if 'community' not in project['tags']:
       sites.append(project)
 
-  return render_template('index.html', sites=sites[:20])
+  return render_template('index.html', sites=sites[:50])
 
 @app.route("/categories/<category>")
 def categories(category):
@@ -67,7 +67,7 @@ def categories(category):
       if category in project['tags'] and 'community' not in project['tags']:
         sites.append(project)
 
-  return render_template('category.html', sites=sites[:20], category_name=category_name)
+  return render_template('category.html', sites=sites[:50], category_name=category_name)
 
 @app.route("/sites/<site>")
 def sites(site):
