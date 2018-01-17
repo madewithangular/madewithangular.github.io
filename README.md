@@ -15,7 +15,13 @@ A showcase of web apps built with Angular
       "desc": "One or two sentences describing the app",
       "url": "http://myapp.com",
       "submitter": "lpolepeddi",
-      "submissionDate": "2015-06-24"
+      "submissionDate": "2015-06-24",
+      "version": {
+        "version": "5.2.1",
+        "major: "5",
+        "minor": "2",
+        "patch": "1"
+      }
     }
     ```
 4. Send a pull request
