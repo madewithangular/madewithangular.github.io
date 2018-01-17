@@ -90,36 +90,10 @@ def about():
 
 @app.route("/sitemap.xml")
 def sitemap():
-
-  categories = {
-    "google": {"name": "By Google", "sites": []},
-    "books-reference": {"name": "Books & Reference", "sites": []},
-    "business": {"name": "Business", "sites": []},
-    "communication": {"name": "Communication", "sites": []},
-    "education": {"name": "Education", "sites": []},
-    "entertainment": {"name": "Entertainment", "sites": []},
-    "finance": {"name": "Finance", "sites": []},
-    "health-fitness": {"name": "Health & Fitness", "sites": []},
-    "lifestyle": {"name": "Lifestyle", "sites": []},
-    "media-video": {"name": "Media & Video", "sites": []},
-    "music-audio": {"name": "Music & Audio", "sites": []},
-    "news-magazines": {"name": "News & Magazines", "sites": []},
-    "photography": {"name": "Photography", "sites": []},
-    "productivity": {"name": "Productivity", "sites": []},
-    "shopping": {"name": "Shopping", "sites": []},
-    "social": {"name": "Social", "sites": []},
-    "sports": {"name": "Sports", "sites": []},
-    "tools": {"name": "Tools", "sites": []},
-    "travel-local": {"name": "Travel & Local", "sites": []},
-    "transportation": {"name": "Transportation", "sites": []},
-    "weather": {"name": "Weather", "sites": []},
-    "community": {"name": "From the Community", "sites": []}
-  }
-
   r = requests.get('https://s3.amazonaws.com/madewithangular.com/projects.json')
   projects = json.loads(r.text)
 
-  return render_template('sitemap.xml', categories=categories, projects=projects), {'Content-Type': 'application/xml'}
+  return render_template('sitemap.xml', projects=projects), {'Content-Type': 'application/xml'}
 
 
 @app.route("/.well-known/acme-challenge/2Q_gQPj6alcePTgaCIWfealrQApdJaSd8fm9qGuKL_c")
