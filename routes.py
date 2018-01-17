@@ -42,7 +42,6 @@ def categories(category):
 
     'angularjs-1': 'AngularJS 1.x',
     'angular-2': 'Angular 2.x',
-    'angular-3': 'Angular 3.x',
     'angular-4': 'Angular 4.x',
     'angular-5': 'Angular 5.x',
   }
@@ -59,6 +58,7 @@ def categories(category):
   for project in reversed(projects):
     if 'angular' in category:
       version = category.split('-')[1]
+      print 'Version', version, project['version'], project['slug']
       if version == project['version']['major']:
         sites.append(project)
     else:
