@@ -67,7 +67,13 @@ def categories(category):
       if category in project['tags'] and 'community' not in project['tags']:
         sites.append(project)
 
-  return render_template('category.html', sites=sites[:50], category_name=category_name)
+  ret = []
+  if category == 'community':
+    ret = sites[:50]
+  else:
+    ret = sites
+
+  return render_template('category.html', sites=ret, category_name=category_name)
 
 @app.route("/sites/<site>")
 def sites(site):
@@ -79,8 +85,6 @@ def sites(site):
   for project in projects:
     if project['slug'] == site:
       s = project
-
-  print s
 
   return render_template('site.html', site=s)
 
