@@ -1,19 +1,21 @@
 {% extends 'layout.html' %}
 
-{% block title %}{{ category.name }} | {% endblock %}
+{% block title %}{{ category_name }} | {% endblock %}
 
 {% block content %}
 <div class="category">
   <div class="heading">
-    <h2 class="title">{{ category.name }}</h2>
+    <h2 class="title">{{ category_name }}</h2>
   </div>
-  <div class="row">
-    {% for site in category.sites %}
-    <div class="col-lg-4">
+  <div class="projects row">
+    {% for site in sites %}
+    <div class="col-lg-6">
       <div class="card">
-        <a href="/sites/{{ site.slug }}">
+        <a href="{{ site.url }}" target="_blank">
           <h3>{{ site.name }}</h3>
-          {% if site.version.major == '1' %}
+          {% if site.version.major == '0' %}
+          <p class="version">Angular at <code>master</code></p>
+          {% elif site.version.major == '1' %}
           <p class="version">AngularJS {{ site.version.version }}</p>
           {% else %}
           <p class="version">Angular {{ site.version.version }}</p>

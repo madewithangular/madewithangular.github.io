@@ -22,52 +22,23 @@
 {% endblock %}
 
 {% block content %}
-  {% for slug, item in categories.iteritems() %}
-  <div class="category">
-    {% if item.sites  %}
-    <div class="heading">
-      <h2 class="title"><a href="/categories/{{ slug }}">{{ item.name }}</a></h2>
-      {% if item.sites | length > 4 %}
-      <p class="more"><a href="/categories/{{ slug }}">See all</a></p>
-      {% endif %}
-    </div>
-    {% endif %}
-    <div class="clearfix"></div>
-    <div class="row">
-      {% if item.sites | length > 3 %}
-      {% for i in range(3) %}
-      <div class="col-lg-4">
-        <div class="card">
-          <a href="/sites/{{ item.sites[i].slug }}">
-            <h3>{{ item.sites[i].name }}</h3>
-            {% if item.sites[i].version.major == '1' %}
-            <p>AngularJS {{ item.sites[i].version.version }}</p>
-            {% else %}
-            <p>Angular {{ item.sites[i].version.version }}</p>
-            {% endif %}
-            <img src="https://s3.amazonaws.com/madewithangular.com{{ item.sites[i].thumb }}.jpg" alt="{{ item.sites[i].name }}" width="100%">
-          </a>
-        </div>
+
+  <div class="projects row">
+  {% for site in sites %}
+    <div class="col-lg-6">
+      <div class="card">
+        <a href="{{ site.url }}" target="_blank">
+          <h3>{{ site.name }}</h3>
+          {% if site.version.major == '1' %}
+          <p>AngularJS {{ site.version.version }}</p>
+          {% else %}
+          <p>Angular {{ site.version.version }}</p>
+          {% endif %}
+          <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" alt="{{ site.name }}" width="100%">
+        </a>
       </div>
-      {% endfor %}
-      {% else %}
-      {% for site in item.sites %}
-      <div class="col-lg-4">
-        <div class="card">
-          <a href="/sites/{{ site.slug }}">
-            <h3>{{ site.name }}</h3>
-            {% if site.version.major == '1' %}
-            <p>AngularJS {{ site.version.version }}</p>
-            {% else %}
-            <p>Angular {{ site.version.version }}</p>
-            {% endif %}
-            <img src="https://s3.amazonaws.com/madewithangular.com{{ site.thumb }}.jpg" width="100%">
-          </a>
-        </div>
-      </div>
-      {% endfor %}
-      {% endif %}
     </div>
-  </div>
   {% endfor %}
+  </div>
+
 {% endblock %}

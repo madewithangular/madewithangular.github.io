@@ -46,17 +46,50 @@
       <div class="row">
         <div class="col-lg-3 bd-sidebar">
           <div class="header">
-            <a href="{{ url_for('index') }}"><span class="made">made</span> <span class="with">with</span> <span class="angular">angular</span></a>
-          </div>          
+            <a href="{{ url_for('index') }}"><span class="m">made</span> <span class="w">with</span> <span class="a">angular</span></a>
+          </div>
+
           <ul class="navlist">
             <li><a href="{{ url_for('about') }}">About</a></li>
             <li><a href="/about#submit">Suggest a site</a></li>
-            <li><a href="https://www.facebook.com/made.w.angular">Facebook</a></li>
-            <li><a href="https://twitter.com/madewithangular">Twitter</a></li>
+            <li><a href="https://www.facebook.com/made.w.angular" target="_blank">Facebook</a></li>
+            <li><a href="https://twitter.com/madewithangular" target="_blank">Twitter</a></li>
           </ul>
+
           <div class="ad card">
             <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=madewithangularcom" id="_carbonads_js"></script>
           </div>
+
+          <h3 class="navtitle">Version</h3>
+          <ul class="navlist">
+            <li><a href="{{ url_for('categories', category='angularjs-1') }}">AngularJS 1.x</a></li>
+            <li><a href="{{ url_for('categories', category='angular-2') }}">Angular 2.x</a></li>
+            <li><a href="{{ url_for('categories', category='angular-3') }}">Angular 3.x</a></li>
+            <li><a href="{{ url_for('categories', category='angular-4') }}">Angular 4.x</a></li>
+            <li><a href="{{ url_for('categories', category='angular-5') }}">Angular 5.x</a></li>
+          </ul>
+
+          <h3 class="navtitle">Category</h3>
+          <ul class="navlist">
+            <li><a href="{{ url_for('categories', category='google') }}">By Google</a></li>
+            <li><a href="{{ url_for('categories', category='microsoft') }}">By Microsoft</a></li>
+            <li><a href="{{ url_for('categories', category='fortune-500') }}">Fortune 500</a></li>
+            <li><a href="{{ url_for('categories', category='communications') }}">Communication</a></li>
+            <li><a href="{{ url_for('categories', category='developer-tools') }}">Developer Tools</a></li>
+            <li><a href="{{ url_for('categories', category='education') }}">Education</a></li>
+            <li><a href="{{ url_for('categories', category='entertainment') }}">Entertainment</a></li>
+            <li><a href="{{ url_for('categories', category='finance') }}">Finance</a></li>
+            <li><a href="{{ url_for('categories', category='food-drink') }}">Food &amp; Drink</a></li>
+            <li><a href="{{ url_for('categories', category='health-fitness') }}">Health &amp; Fitness</a></li>
+            <li><a href="{{ url_for('categories', category='lifestyle') }}">Lifestyle</a></li>
+            <li><a href="{{ url_for('categories', category='medical') }}">Medical</a></li>
+            <li><a href="{{ url_for('categories', category='sports') }}">Sports</a></li>
+            <li><a href="{{ url_for('categories', category='transportation') }}">Transportation</a></li>
+            <li><a href="{{ url_for('categories', category='travel') }}">Travel</a></li>
+            <li><a href="{{ url_for('categories', category='community') }}">From the community</a></li>
+          </ul>
+
+          
         </div>
         <div class="col-lg-9 main">
           {% block content %}

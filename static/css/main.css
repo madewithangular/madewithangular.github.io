@@ -17,8 +17,11 @@ html, body {
   color: #444;
 }
 
-/*Header*/
+.container-fluid {
+  padding: 0 40px;
+}
 
+/*Header*/
 .header a,
 .header a:hover,
 .header a:visited {
@@ -27,24 +30,18 @@ html, body {
   text-decoration: none;
 }
 
-.header a .made,
-.header a .angular {
+.header a .m {
   font-weight: 700;
-}
-
-.header a .with {
-  font-weight: 400;
-}
-
-.header a .made {
   color: #606060
 }
 
-.header a .with {
+.header a .w {
+  font-weight: 400;
   color: #A7A7A7;
 }
 
-.header a .angular {
+.header a .a {
+  font-weight: 700;
   color: #444;
 }
 
@@ -53,10 +50,20 @@ html, body {
   display: none;
 }
 
+h3.navtitle {
+  font-size: 17px;
+  font-weight: 500;
+  margin: 40px 0 10px 0;
+}
+
 ul.navlist {
   list-style: none;
   margin: 40px 0 40px 0;
   padding-left: 0;
+}
+
+h3.navtitle + ul.navlist {
+  margin-top: 0;
 }
 
 .navlist li {
@@ -87,25 +94,11 @@ ul.navlist {
   /*float: left;*/
   font-size: 20px;
   font-weight: 400;
-  margin: 0 0 10px 0;
+  margin: 0 0 40px 0;
 }
 
-.category .more {
-  display: inline-block;
-  /*float: right;*/
-  font-size: 11px;
-  font-weight: 500;
-  letter-spacing: 2px;
-  margin: 0 0 0 20px;
-  text-transform: uppercase;
-}
-
-.category + .category {
-  margin-top: 100px;
-}
-
-.category .card {
-  margin-top: 20px;
+.projects .col-lg-6 {
+  margin-bottom: 100px;
 }
 
 /* Card */
@@ -122,7 +115,7 @@ ul.navlist {
   font-size: 17px;
   font-weight: 300;
   margin: 0;
-  padding: 10px 10px 10px 0; 
+  padding: 0 0 5px 0; 
 }
 
 .card p {
@@ -213,5 +206,6 @@ ul.navlist {
     top: 20px;
     z-index: 1000;
     height: calc(100vh - 20px);
+    overflow-y: scroll;
   }
 }
