@@ -56,13 +56,15 @@ def categories(category):
 
   sites = []
   for project in reversed(projects):
-    if 'angular' in category:
+    if category == 'community':
+      if category in project['tags']:
+        sites.append(project)
+    elif 'angular' in category:
       version = category.split('-')[1]
-      print 'Version', version, project['version'], project['slug']
-      if version == project['version']['major']:
+      if version == project['version']['major'] and 'community' not in project['tags']:
         sites.append(project)
     else:
-      if category in project['tags']:
+      if category in project['tags'] and 'community' not in project['tags']:
         sites.append(project)
 
   return render_template('category.html', sites=sites[:20], category_name=category_name)
