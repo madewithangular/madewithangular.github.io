@@ -40,10 +40,8 @@ def categories(category):
     'travel': 'Travel',
     'community': 'From the community',
 
-    'angularjs-1': 'AngularJS 1.x',
-    'angular-2': 'Angular 2.x',
-    'angular-4': 'Angular 4.x',
-    'angular-5': 'Angular 5.x',
+    'angularjs': 'AngularJS 1.x',
+    'angular': 'Angular v2+',
   }
 
   if category in categories:
@@ -59,9 +57,12 @@ def categories(category):
     if category == 'community':
       if category in project['tags']:
         sites.append(project)
-    elif 'angular' in category:
-      version = category.split('-')[1]
-      if version == project['version']['major'] and 'community' not in project['tags']:
+    elif category == 'angularjs':
+      print project['version']['major'], type(project['version']['major'])
+      if project['version']['major'] == '1' and 'community' not in project['tags']:
+        sites.append(project)
+    elif category == 'angular':
+      if project['version']['major'] != '1' and 'community' not in project['tags']:
         sites.append(project)
     else:
       if category in project['tags'] and 'community' not in project['tags']:
