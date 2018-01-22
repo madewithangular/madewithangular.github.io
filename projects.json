@@ -13948,5 +13948,23 @@
     "slug": "teradata", 
     "submissionDate": "2018-01-17", 
     "thumb": "/projects/teradata/thumb"
-  } 
+  },
+  {
+    "name": "Digital Advertising Alliance",
+    "tags": [
+      "http://optout.aboutads.info/"
+    ],
+    "url": "digital-advertising-alliance-webchoices",
+    "thumb": "/projects/WebChoices/thumb",
+    "submissionDate": "2018-01-22",
+    "version": {
+      "major": 5.0.0,
+      "version": tools,
+      "minor": 5,
+      "patch": 0
+    },
+    "submitter": "lpolepeddi",
+    "slug": "WebChoices",
+    "desc": ""  
+  }
 ]
