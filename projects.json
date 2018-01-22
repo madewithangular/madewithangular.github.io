@@ -13950,21 +13950,21 @@
     "thumb": "/projects/teradata/thumb"
   },
   {
-    "name": "Digital Advertising Alliance",
+    "name": "Digital Advertising Alliance WebChoices",
     "tags": [
-      "http://optout.aboutads.info/"
+      "lifestyle"
     ],
-    "url": "digital-advertising-alliance-webchoices",
+    "url": "http://optout.aboutads.info/",
     "thumb": "/projects/WebChoices/thumb",
     "submissionDate": "2018-01-22",
     "version": {
-      "major": 5.0.0,
-      "version": tools,
-      "minor": 5,
-      "patch": 0
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
     },
     "submitter": "lpolepeddi",
-    "slug": "WebChoices",
+    "slug": "digital-advertising-alliance-webchoices",
     "desc": ""  
   }
 ]
