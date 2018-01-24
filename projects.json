@@ -13948,5 +13948,23 @@
     "slug": "teradata", 
     "submissionDate": "2018-01-17", 
     "thumb": "/projects/teradata/thumb"
-  } 
+  },
+  {
+    "name": "Omega Global Investors",
+    "tags": [
+      "finance"
+    ],
+    "url": "https://www.omegagi.com/",
+    "thumb": "/projects/omega-global-investors/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "4",
+      "version": "4.3.0",
+      "minor": "3",
+      "patch": "0"
+    },
+    "submitter": "gwsampso",
+    "slug": "omega-global-investors",
+    "desc": "Investment Manager website utilizing Angular and Firebase to showcase Omega and its capabilities"
+  }
 ]
