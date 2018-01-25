@@ -14092,5 +14092,23 @@
     "submitter": "lpolepeddi",
     "slug": "halodoc",
     "desc": ""  
+  },
+  {
+    "name": "Windy City Devfest",
+    "tags": [
+      "community"
+    ],
+    "url": "https://windycity.devfest.io/home",
+    "thumb": "/projects/windy-city-devfest/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "4",
+      "version": "4.4.5",
+      "minor": "4",
+      "patch": "5"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "windy-city-devfest",
+    "desc": ""  
   }
 ]
