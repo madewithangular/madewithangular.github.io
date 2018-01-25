@@ -4,7 +4,7 @@
     "tags": [
       "sports"
     ], 
-    "url": "http://nba.com/", 
+    "url": "http://www.nba.com/", 
     "thumb": "/projects/nba/thumb", 
     "submissionDate": "2015-01-01", 
     "version": {
@@ -14001,6 +14001,24 @@
     },
     "submitter": "lpolepeddi",
     "slug": "google-kickstart",
+    "desc": ""  
+  },
+  {
+    "name": "1MillionCups.com",
+    "tags": [
+      "community"
+    ],
+    "url": "www.1millioncups.com",
+    "thumb": "/projects/1millioncups-com/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "1millioncups-com",
     "desc": ""  
   }
 ]
