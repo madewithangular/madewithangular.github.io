@@ -14074,5 +14074,23 @@
     "submitter": "lpolepeddi",
     "slug": "lovemoney-com",
     "desc": ""  
+  },
+  {
+    "name": "Halodoc",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.halodoc.com",
+    "thumb": "/projects/halodoc/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "5",
+      "version": "5.0.0",
+      "minor": "0",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "halodoc",
+    "desc": ""  
   }
 ]
