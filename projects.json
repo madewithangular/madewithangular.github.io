@@ -14056,5 +14056,23 @@
     "submitter": "lpolepeddi",
     "slug": "homie",
     "desc": ""  
+  },
+  {
+    "name": "lovemoney.com",
+    "tags": [
+      "community"
+    ],
+    "url": "www.lovemoney.com",
+    "thumb": "/projects/lovemoney-com/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "lovemoney-com",
+    "desc": ""  
   }
 ]
