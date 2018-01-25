@@ -14110,5 +14110,23 @@
     "submitter": "lpolepeddi",
     "slug": "windy-city-devfest",
     "desc": ""  
+  },
+  {
+    "name": "Pearson Qualifications",
+    "tags": [
+      "education"
+    ],
+    "url": "http://qualifications.pearson.com/en/home.html",
+    "thumb": "/projects/pearson-qualifications/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.2.4",
+      "minor": "2",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "pearson-qualifications",
+    "desc": ""  
   }
 ]
