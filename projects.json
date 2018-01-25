@@ -13950,13 +13950,31 @@
     "thumb": "/projects/teradata/thumb"
   },
   {
+    "name": "Omega Global Investors",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.omegagi.com/",
+    "thumb": "/projects/omega-global-investors/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "4",
+      "version": "4.3.0",
+      "minor": "3",
+      "patch": "0"
+    },
+    "submitter": "gwsampso",
+    "slug": "omega-global-investors",
+    "desc": "Investment Manager website utilizing Angular and Firebase to showcase Omega and its capabilities"  
+  },
+  {
     "name": "Digital Advertising Alliance WebChoices",
     "tags": [
       "lifestyle"
     ],
     "url": "http://optout.aboutads.info/",
-    "thumb": "/projects/WebChoices/thumb",
-    "submissionDate": "2018-01-22",
+    "thumb": "/projects/digital-advertising-alliance-webchoices/thumb",
+    "submissionDate": "2018-01-24",
     "version": {
       "major": "1",
       "version": "1.6.4",
