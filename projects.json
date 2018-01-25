@@ -13984,5 +13984,23 @@
     "submitter": "lpolepeddi",
     "slug": "digital-advertising-alliance-webchoices",
     "desc": ""  
+  },
+  {
+    "name": "Google Kickstart",
+    "tags": [
+      "google"
+    ],
+    "url": "https://code.google.com/codejam/kickstart/",
+    "thumb": "/projects/google-kickstart/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "google-kickstart",
+    "desc": ""  
   }
 ]
