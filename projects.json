@@ -14038,5 +14038,23 @@
     "submitter": "lpolepeddi",
     "slug": "1millioncups-com",
     "desc": ""  
+  },
+  {
+    "name": "Homie",
+    "tags": [
+      "lifestyle"
+    ],
+    "url": "https://platform.homie.com",
+    "thumb": "/projects/homie/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.6.6",
+      "minor": "6",
+      "patch": "6"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "homie",
+    "desc": ""  
   }
 ]
