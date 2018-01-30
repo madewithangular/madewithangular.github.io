@@ -13948,5 +13948,23 @@
     "slug": "teradata", 
     "submissionDate": "2018-01-17", 
     "thumb": "/projects/teradata/thumb"
-  } 
+  },
+  {
+    "submitter": "2muchcoffeecom",
+    "version": {
+      "major": "5",
+      "version": "5.2.2",
+      "minor": "2",
+      "patch": "2"
+    },
+    "name": "Ngx-restangular",
+    "tags": [
+      "developer-tools"
+    ],
+    "url": "https://ngx-restangular.com/",
+    "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]",
+    "slug": "ngx-restangular",
+    "submissionDate": "2018-01-30",
+    "thumb": "/projects/ngx-restangular/thumb"
+  }
 ]
