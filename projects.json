@@ -14008,24 +14008,6 @@
     "tags": [
       "community"
     ],
-    "url": "www.1millioncups.com",
-    "thumb": "/projects/1millioncups-com/thumb",
-    "submissionDate": "2018-01-24",
-    "version": {
-      "major": "1",
-      "version": "1.5.8",
-      "minor": "5",
-      "patch": "8"
-    },
-    "submitter": "lpolepeddi",
-    "slug": "1millioncups-com",
-    "desc": ""  
-  },
-  {
-    "name": "1MillionCups.com",
-    "tags": [
-      "community"
-    ],
     "url": "http://www.1millioncups.com/",
     "thumb": "/projects/1millioncups-com/thumb",
     "submissionDate": "2018-01-24",
@@ -14128,5 +14110,23 @@
     "submitter": "lpolepeddi",
     "slug": "pearson-qualifications",
     "desc": ""  
+  },
+  {
+    "name": "Ngx-restangular",
+    "tags": [
+      "developer-tools"
+    ],
+    "url": "https://ngx-restangular.com/",
+    "thumb": "/projects/ngx-restangular/thumb",
+    "submissionDate": "2018-01-30",
+    "version": {
+      "major": "5",
+      "version": "5.2.2",
+      "minor": "2",
+      "patch": "2"
+    },
+    "submitter": "2muchcoffeecom",
+    "slug": "ngx-restangular",
+    "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]"  
   }
 ]
