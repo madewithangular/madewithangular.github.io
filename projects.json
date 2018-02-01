@@ -14164,5 +14164,23 @@
     "submitter": "lpolepeddi",
     "slug": "wwf-climate-crowd",
     "desc": ""  
+  },
+  {
+    "name": "U.S. Bank",
+    "tags": [
+      "finance"
+    ],
+    "url": "https://www.usbank.com/index.html",
+    "thumb": "/projects/us-bank/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "us-bank",
+    "desc": ""  
   }
 ]
