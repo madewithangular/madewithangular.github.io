@@ -14182,5 +14182,23 @@
     "submitter": "lpolepeddi",
     "slug": "us-bank",
     "desc": ""  
+  },
+  {
+    "name": "Time Warner Cable Community Forums",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "forums.timewarnercable.com",
+    "thumb": "/projects/time-warner-cable-community-forums/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "time-warner-cable-community-forums",
+    "desc": ""  
   }
 ]
