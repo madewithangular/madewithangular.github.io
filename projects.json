@@ -13948,5 +13948,23 @@
     "slug": "teradata", 
     "submissionDate": "2018-01-17", 
     "thumb": "/projects/teradata/thumb"
-  } 
+  },
+  {
+    "submitter": "LightningWizard",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "name": "24timezones.com",
+    "tags": [
+      "community"
+    ],
+    "url": "https://24timezones.com/#/map",
+    "desc": "",
+    "slug": "24timezones",
+    "submissionDate": "2018-02-01",
+    "thumb": "/projects/24timezones/thumb"
+  }
 ]
