@@ -14218,5 +14218,23 @@
     "submitter": "lpolepeddi",
     "slug": "aria-resort-and-casino",
     "desc": ""  
+  },
+  {
+    "name": "Vdara Hotel and Spa",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.vdara.com",
+    "thumb": "/projects/vdara-hotel-and-spa/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "vdara-hotel-and-spa",
+    "desc": ""  
   }
 ]
