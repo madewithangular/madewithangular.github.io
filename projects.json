@@ -14011,12 +14011,6 @@
     "url": "http://www.1millioncups.com/",
     "thumb": "/projects/1millioncups-com/thumb",
     "submissionDate": "2018-01-24",
-    "version": {
-      "major": "1",
-      "version": "1.5.8",
-      "minor": "5",
-      "patch": "8"
-    },
     "submitter": "lpolepeddi",
     "slug": "1millioncups-com",
     "desc": ""  
@@ -14128,5 +14122,23 @@
     "submitter": "2muchcoffeecom",
     "slug": "ngx-restangular",
     "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]"  
+  },
+  {
+    "submitter": "LightningWizard",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "name": "24timezones.com",
+    "tags": [
+      "community"
+    ],
+    "url": "https://24timezones.com/#/map",
+    "desc": "",
+    "slug": "24timezones",
+    "submissionDate": "2018-02-01",
+    "thumb": "/projects/24timezones/thumb"
   }
 ]
