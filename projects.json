@@ -14011,6 +14011,12 @@
     "url": "http://www.1millioncups.com/",
     "thumb": "/projects/1millioncups-com/thumb",
     "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.5.6",
+      "minor": "5",
+      "patch": "8"
+    },
     "submitter": "lpolepeddi",
     "slug": "1millioncups-com",
     "desc": ""  
@@ -14140,5 +14146,23 @@
     "slug": "24timezones",
     "submissionDate": "2018-02-01",
     "thumb": "/projects/24timezones/thumb"
+  },
+  {
+    "name": "World Wildlife Fund Climate Crowd",
+    "tags": [
+      "education"
+    ],
+    "url": "https://www.wwfclimatecrowd.org/",
+    "thumb": "/projects/wwf-climate-crowd/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "wwf-climate-crowd",
+    "desc": ""  
   }
 ]
