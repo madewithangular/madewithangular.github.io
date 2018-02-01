@@ -14200,5 +14200,23 @@
     "submitter": "lpolepeddi",
     "slug": "time-warner-cable-community-forums",
     "desc": ""  
+  },
+  {
+    "name": "ARIA Resort and Casino",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "www.aria.com",
+    "thumb": "/projects/aria-resort-and-casino/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "aria-resort-and-casino",
+    "desc": ""  
   }
 ]
