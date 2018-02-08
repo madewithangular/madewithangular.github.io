@@ -14188,7 +14188,7 @@
     "tags": [
       "fortune-500"
     ],
-    "url": "forums.timewarnercable.com",
+    "url": "https://forums.timewarnercable.com",
     "thumb": "/projects/time-warner-cable-community-forums/thumb",
     "submissionDate": "2018-02-01",
     "version": {
@@ -14206,7 +14206,7 @@
     "tags": [
       "entertainment"
     ],
-    "url": "www.aria.com",
+    "url": "https://www.aria.com",
     "thumb": "/projects/aria-resort-and-casino/thumb",
     "submissionDate": "2018-02-01",
     "version": {
@@ -14235,6 +14235,24 @@
     },
     "submitter": "lpolepeddi",
     "slug": "vdara-hotel-and-spa",
+    "desc": ""  
+  },
+  {
+    "name": "Autodesk",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "www.autodesk.com",
+    "thumb": "/projects/autodesk/thumb",
+    "submissionDate": "2018-02-08",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "autodesk",
     "desc": ""  
   }
 ]
