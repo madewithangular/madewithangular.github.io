@@ -14274,12 +14274,12 @@
     "desc": ""  
   },
   {
-    "name": "Red Cross",
+    "name": "American Red Cross",
     "tags": [
       "medical"
     ],
     "url": "http://www.redcross.org/",
-    "thumb": "/projects/red-cross/thumb",
+    "thumb": "/projects/american-red-cross/thumb",
     "submissionDate": "2018-02-08",
     "version": {
       "major": "1",
@@ -14288,7 +14288,7 @@
       "patch": "17"
     },
     "submitter": "lpolepeddi",
-    "slug": "red-cross",
+    "slug": "american-red-cross",
     "desc": ""  
   },
   {
@@ -14307,6 +14307,24 @@
     },
     "submitter": "lpolepeddi",
     "slug": "trello-developers",
+    "desc": ""  
+  },
+  {
+    "name": "Pixm",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.pixm.io/",
+    "thumb": "/projects/pixm/thumb",
+    "submissionDate": "2018-02-14",
+    "version": {
+      "major": "5",
+      "version": "5.1.1",
+      "minor": "1",
+      "patch": "1"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "pixm",
     "desc": ""  
   }
 ]
