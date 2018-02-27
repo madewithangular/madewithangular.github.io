@@ -14366,19 +14366,19 @@
   {
     "name": "NBC Olympics Live Stream",
     "tags": [
-      "tag"
+      "stream.nbcolympics.com"
     ],
-    "url": "stream.nbcolympics.com",
-    "thumb": "/projects/https://nbc-olympics-live-stream/thumb",
+    "url": "https://nbc-olympics-live-stream",
+    "thumb": "/projects/nbc-olympics-live-stream/thumb",
     "submissionDate": "2018-02-26",
     "version": {
-      "major": "1",
-      "version": "1.4.2",
-      "minor": "4",
-      "patch": "2"
+      "major": "1.4.2",
+      "version": "entertainment",
+      "minor": "1",
+      "patch": "4"
     },
     "submitter": "lpolepeddi",
-    "slug": "https://nbc-olympics-live-stream",
+    "slug": "nbc-olympics-live-stream",
     "desc": ""  
   }
 ]
