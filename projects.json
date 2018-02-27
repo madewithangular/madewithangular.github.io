@@ -14380,5 +14380,23 @@
     "submitter": "lpolepeddi",
     "slug": "sandisk",
     "desc": ""  
+  },
+  {
+    "name": "NBC Olympics Live Stream",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://stream.nbcolympics.com",
+    "thumb": "/projects/nbc-olympics-live-stream/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.4.2",
+      "minor": "4",
+      "patch": "2"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "nbc-olympics-live-stream",
+    "desc": ""  
   }
 ]
