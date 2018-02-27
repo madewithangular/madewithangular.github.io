@@ -14434,5 +14434,23 @@
     "submitter": "lpolepeddi",
     "slug": "sonic-drive-in",
     "desc": ""  
+  },
+  {
+    "name": "MGM Resorts",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.mgmresorts.com",
+    "thumb": "/projects/mgm-resorts/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "mgm-resorts",
+    "desc": ""  
   }
 ]
