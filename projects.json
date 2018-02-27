@@ -14470,5 +14470,23 @@
     "submitter": "lpolepeddi",
     "slug": "startup-with-google",
     "desc": ""  
+  },
+  {
+    "name": "Rocket Lawyer",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.rocketlawyer.com",
+    "thumb": "/projects/rocket-lawyer/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.5.0",
+      "minor": "5",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "rocket-lawyer",
+    "desc": ""  
   }
 ]
