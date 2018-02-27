@@ -14452,5 +14452,23 @@
     "submitter": "lpolepeddi",
     "slug": "mgm-resorts",
     "desc": ""  
+  },
+  {
+    "name": "Startup with Google",
+    "tags": [
+      "google"
+    ],
+    "url": "https://startup.google.com/",
+    "thumb": "/projects/startup-with-google/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "startup-with-google",
+    "desc": ""  
   }
 ]
