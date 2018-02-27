@@ -14344,5 +14344,23 @@
     "submitter": "lpolepeddi",
     "slug": "elections-ontario",
     "desc": ""  
+  },
+  {
+    "name": "Microsoft Customers",
+    "tags": [
+      "microsoft"
+    ],
+    "url": "https://customers.microsoft.com",
+    "thumb": "/projects/microsoft-customers/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "2",
+      "version": "2.4.10",
+      "minor": "4",
+      "patch": "10"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "microsoft-customers",
+    "desc": ""  
   }
 ]
