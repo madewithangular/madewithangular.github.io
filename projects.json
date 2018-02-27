@@ -14362,5 +14362,23 @@
     "submitter": "lpolepeddi",
     "slug": "microsoft-customers",
     "desc": ""  
+  },
+  {
+    "name": "NBC Olympics Live Stream",
+    "tags": [
+      "tag"
+    ],
+    "url": "stream.nbcolympics.com",
+    "thumb": "/projects/https://nbc-olympics-live-stream/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.4.2",
+      "minor": "4",
+      "patch": "2"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "https://nbc-olympics-live-stream",
+    "desc": ""  
   }
 ]
