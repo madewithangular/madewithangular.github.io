@@ -31,7 +31,7 @@
           <h3>{{ site.name }}</h3>
           {% if site.version.major == '0' %}
           <p class="version">Angular at <code>master</code></p>
-          {% if site.version.major == '1' %}
+          {% elif site.version.major == '1' %}
           <p>AngularJS {{ site.version.version }}</p>
           {% else %}
           <p>Angular {{ site.version.version }}</p>
