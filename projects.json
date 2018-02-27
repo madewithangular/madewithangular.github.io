@@ -14326,5 +14326,23 @@
     "submitter": "lpolepeddi",
     "slug": "pixm",
     "desc": ""  
+  },
+  {
+    "name": "Elections Ontario",
+    "tags": [
+      "community"
+    ],
+    "url": "https://eregistration.elections.on.ca/en/home",
+    "thumb": "/projects/elections-ontario/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "2",
+      "version": "2.4.10",
+      "minor": "4",
+      "patch": "10"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "elections-ontario",
+    "desc": ""  
   }
 ]
