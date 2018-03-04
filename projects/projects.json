@@ -1,0 +1,14 @@
+{
+  "name": "Movies Directory",
+  "thumb": "/projects/movies_directory/thumb",
+  "desc": "Movie, TV Show, Celebrity content",
+  "url": "https://movies.directory",
+  "submitter": "cstodor",
+  "submissionDate": "2018-03-04",
+  "version": {
+    "version": "5.2.0",
+    "major: "5",
+    "minor": "2",
+    "patch": "0"
+  }
+}
