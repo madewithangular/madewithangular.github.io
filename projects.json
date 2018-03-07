@@ -14506,5 +14506,23 @@
     "submitter": "lpolepeddi",
     "slug": "friluftsland",
     "desc": ""  
+  },
+  {
+    "name": "Crisp",
+    "tags": [
+      "community"
+    ],
+    "url": "https://crisp.chat/en/",
+    "thumb": "/projects/crisp/thumb",
+    "submissionDate": "2018-03-07",
+    "version": {
+      "major": "1",
+      "version": "1.6.6",
+      "minor": "6",
+      "patch": "6"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "crisp",
+    "desc": ""  
   }
 ]
