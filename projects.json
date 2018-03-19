@@ -14526,21 +14526,39 @@
     "desc": ""  
   },
   {
-    "name": "Brigitte Moustier, de la passion ",
+    "name": "Brigitte Moustier, de la passion a l'emotion",
     "tags": [
-      ""
+      "community"
     ],
-    "url": "",
-    "thumb": "/projects//thumb",
+    "url": "http://peinture-passion-emotion.fr/home",
+    "thumb": "/projects/brigitte-moustier/thumb",
     "submissionDate": "2018-03-08",
     "version": {
-      "major": "",
-      "version": "",
-      "minor": "",
-      "patch": ""
+      "major": "5",
+      "version": "5.1.0",
+      "minor": "1",
+      "patch": "0"
     },
     "submitter": "lpolepeddi",
-    "slug": "",
+    "slug": "brigitte-moustier",
+    "desc": ""  
+  },
+  {
+    "name": "NextOnTop",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.nextontop.com/",
+    "thumb": "/projects/nextontop/thumb",
+    "submissionDate": "2018-03-18",
+    "version": {
+      "major": "5",
+      "version": "5.1.3",
+      "minor": "1",
+      "patch": "3"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "nextontop",
     "desc": ""  
   }
 ]
