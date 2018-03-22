@@ -14650,5 +14650,23 @@
     "submitter": "lpolepeddi",
     "slug": "fitbit-community",
     "desc": ""  
+  },
+  {
+    "name": "IEEE Xplore Digital Library",
+    "tags": [
+      "education"
+    ],
+    "url": "http://ieeexplore.ieee.org/Xplore/home.jsp",
+    "thumb": "/projects/ieee-xplore-digital-library/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.5.11",
+      "minor": "5",
+      "patch": "11"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "ieee-xplore-digital-library",
+    "desc": ""  
   }
 ]
