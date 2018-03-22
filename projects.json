@@ -14632,5 +14632,23 @@
     "submitter": "lpolepeddi",
     "slug": "tcs-careers",
     "desc": ""  
+  },
+  {
+    "name": "Fitbit Community",
+    "tags": [
+      "health-fitness"
+    ],
+    "url": "https://community.fitbit.com/t5/Community/ct-p/EN",
+    "thumb": "/projects/fitbit-community/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "fitbit-community",
+    "desc": ""  
   }
 ]
