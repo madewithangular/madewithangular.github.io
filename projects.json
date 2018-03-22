@@ -14740,5 +14740,23 @@
     "submitter": "lpolepeddi",
     "slug": "bellagio",
     "desc": ""  
+  },
+  {
+    "name": "Onefootball",
+    "tags": [
+      "sports"
+    ],
+    "url": "http://www.onefootball.com/en/home",
+    "thumb": "/projects/onefootball/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "5",
+      "version": "5.2.0",
+      "minor": "2",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "onefootball",
+    "desc": ""  
   }
 ]
