@@ -14722,5 +14722,23 @@
     "submitter": "lpolepeddi",
     "slug": "travel-gov",
     "desc": ""  
+  },
+  {
+    "name": "Bellagio",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.bellagio.com/en.html",
+    "thumb": "/projects/bellagio/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "bellagio",
+    "desc": ""  
   }
 ]
