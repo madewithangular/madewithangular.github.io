@@ -14686,5 +14686,23 @@
     "submitter": "lpolepeddi",
     "slug": "google-pay",
     "desc": ""  
+  },
+  {
+    "name": "Microsoft Office Support",
+    "tags": [
+      "microsoft"
+    ],
+    "url": "https://support.office.com/",
+    "thumb": "/projects/microsoft-office-support/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "microsoft-office-support",
+    "desc": ""  
   }
 ]
