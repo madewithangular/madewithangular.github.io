@@ -14596,5 +14596,23 @@
     "submitter": "lpolepeddi",
     "slug": "abc-news",
     "desc": ""  
+  },
+  {
+    "name": "JPMorgan Chase and Co. Jobs and Internships",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "https://careers.jpmorgan.com/careers/US/en/home",
+    "thumb": "/projects/jp-morgan-chase-careers/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.4.1",
+      "minor": "4",
+      "patch": "1"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "jp-morgan-chase-careers",
+    "desc": ""  
   }
 ]
