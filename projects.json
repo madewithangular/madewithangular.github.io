@@ -14668,5 +14668,23 @@
     "submitter": "lpolepeddi",
     "slug": "ieee-xplore-digital-library",
     "desc": ""  
+  },
+  {
+    "name": "Google Pay",
+    "tags": [
+      "google"
+    ],
+    "url": "https://pay.google.com/send/home?authuser=0",
+    "thumb": "/projects/google-pay/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "google-pay",
+    "desc": ""  
   }
 ]
