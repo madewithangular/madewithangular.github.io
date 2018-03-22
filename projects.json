@@ -14578,5 +14578,23 @@
     "submitter": "lpolepeddi",
     "slug": "ulysseonthecar",
     "desc": ""  
+  },
+  {
+    "name": "ABC News",
+    "tags": [
+      "communication"
+    ],
+    "url": "http://abcnews.go.com/",
+    "thumb": "/projects/abc-news/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.16",
+      "minor": "2",
+      "patch": "16"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "abc-news",
+    "desc": ""  
   }
 ]
