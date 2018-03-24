@@ -14776,5 +14776,23 @@
     "submitter": "lpolepeddi",
     "slug": "skout",
     "desc": ""  
+  },
+  {
+    "name": "PPSR Cloud",
+    "tags": [
+      "community"
+    ],
+    "url": "https://ppsr.cloud/",
+    "thumb": "/projects/ppsr-cloud/thumb",
+    "submissionDate": "2018-03-24",
+    "version": {
+      "major": "5",
+      "version": "5.2.8",
+      "minor": "2",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "ppsr-cloud",
+    "desc": ""  
   }
 ]
