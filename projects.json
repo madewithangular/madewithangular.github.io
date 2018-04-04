@@ -14140,5 +14140,23 @@
     "slug": "24timezones",
     "submissionDate": "2018-02-01",
     "thumb": "/projects/24timezones/thumb"
+  },
+  {
+    "name": "CVS Shop", 
+    "tags": [
+      "fortune-500"
+    ], 
+    "url": "https://www.cvs.com/shop", 
+    "thumb": "/projects/cvs-shop/thumb", 
+    "submissionDate": "2018-04-03", 
+    "version": {
+      "version": "4.4.6", 
+      "major": "4", 
+      "minor": "4", 
+      "patch": "6"
+    }, 
+    "submitter": "Daynil", 
+    "slug": "cvs", 
+    "desc": "CVS Pharmacy Shopping"
   }
 ]
