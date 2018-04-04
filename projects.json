@@ -1,5 +1,23 @@
 [
   {
+    "name": "CVS Shop",
+    "tags": [
+      "Fortune 500",
+      "Medical"
+    ], 
+    "thumb": "/projects/cvs-shop/thumb",
+    "desc": "CVS Pharmacy's online shopping site.",
+    "url": "https://www.cvs.com/shop",
+    "submitter": "Daynil",
+    "submissionDate": "2018-04-03",
+    "version": {
+      "version": "4.4.6",
+      "major: "4",
+      "minor": "4",
+      "patch": "6"
+    }
+  },
+  {
     "name": "NBA.com", 
     "tags": [
       "sports"
