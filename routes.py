@@ -1,11 +1,11 @@
 from flask import Flask, render_template, request, redirect, url_for
 import requests
 import json
-from flask_sslify import SSLify
+# from flask_sslify import SSLify
 
 app = Flask(__name__)
 
-sslify = SSLify(app)
+# sslify = SSLify(app)
 
 @app.route("/")
 def index():
@@ -58,6 +58,7 @@ def categories(category):
       if category in project['tags']:
         sites.append(project)
     elif category == 'angularjs':
+      print project['name']
       print project['version']['major'], type(project['version']['major'])
       if project['version']['major'] == '1' and 'community' not in project['tags']:
         sites.append(project)
@@ -101,9 +102,9 @@ def sitemap():
   return render_template('sitemap.xml', projects=projects), {'Content-Type': 'application/xml'}
 
 
-@app.route("/.well-known/acme-challenge/2Q_gQPj6alcePTgaCIWfealrQApdJaSd8fm9qGuKL_c")
+@app.route("/.well-known/acme-challenge/ARu7XnVLghuY6CGchyxNJNJOQdBn22gQEQoKLfZMZ_g")
 def challenge():
-  return '2Q_gQPj6alcePTgaCIWfealrQApdJaSd8fm9qGuKL_c.MRFhsthfGP01vjhBuHPi-M7sw1h4vprbQbeIPor4zkA'
+  return 'ARu7XnVLghuY6CGchyxNJNJOQdBn22gQEQoKLfZMZ_g.-J5gPYkW2vdgImQgeYUC2J_rBJ3bJ0EygLyvF86zojE'
 
 if __name__ == "__main__":
   app.run(debug=True)
