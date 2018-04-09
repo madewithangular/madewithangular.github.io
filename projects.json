@@ -14796,21 +14796,39 @@
     "desc": ""  
   },
   {
-    "name": "CVS",
+    "name": "CVS Shop",
     "tags": [
-      "https://www.cvs.com/shop"
+      "health-fitness"
     ],
-    "url": "cvs-shop",
-    "thumb": "/projects/Shop/thumb",
-    "submissionDate": "2018-04-09",
+    "url": "https://www.cvs.com/shop",
+    "thumb": "/projects/cvs-shop/thumb",
+    "submissionDate": "2018-04-03",
     "version": {
       "major": "4.4.6",
-      "version": "health-fitness",
+      "version": "4",
       "minor": "4",
       "patch": "4"
     },
+    "submitter": "Daynil",
+    "slug": "cvs-shop",
+    "desc": "CVS Pharmacy Shopping"  
+  },
+  {
+    "name": "Cloud-Player",
+    "tags": [
+      "community"
+    ],
+    "url": "https://cloud-player.io",
+    "thumb": "/projects/cloud-player/thumb",
+    "submissionDate": "2018-04-09",
+    "version": {
+      "major": "5",
+      "version": "5.2.9",
+      "minor": "2",
+      "patch": "9"
+    },
     "submitter": "lpolepeddi",
-    "slug": "Shop",
+    "slug": "cloud-player",
     "desc": ""  
   }
 ]
