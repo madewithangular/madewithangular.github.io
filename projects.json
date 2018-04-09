@@ -14794,5 +14794,23 @@
     "submitter": "lpolepeddi",
     "slug": "ppsr-cloud",
     "desc": ""  
+  },
+  {
+    "name": "CVS",
+    "tags": [
+      "https://www.cvs.com/shop"
+    ],
+    "url": "cvs-shop",
+    "thumb": "/projects/Shop/thumb",
+    "submissionDate": "2018-04-09",
+    "version": {
+      "major": "4.4.6",
+      "version": "health-fitness",
+      "minor": "4",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "Shop",
+    "desc": ""  
   }
 ]
