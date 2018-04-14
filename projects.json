@@ -14830,5 +14830,23 @@
     "submitter": "lpolepeddi",
     "slug": "cloud-player",
     "desc": ""  
+  },
+  {
+    "name": "Jachta-Chorvatsko",
+    "tags": [
+      "travel"
+    ],
+    "url": "https://www.jachta-chorvatsko.cz",
+    "thumb": "/projects/jachta-chorvatsko/thumb",
+    "submissionDate": "2018-04-12",
+    "version": {
+      "major": "6",
+      "version": "6.0.0-rc.3",
+      "minor": "0",
+      "patch": "0"
+    },
+    "submitter": "jamajamik",
+    "slug": "jachta-chorvatsko",
+    "desc": "YachtCharter in Croatia - Pronájem lodí v Chorvatsku"  
   }
 ]
