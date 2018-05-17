@@ -4,7 +4,7 @@
     "tags": [
       "sports"
     ], 
-    "url": "http://nba.com/", 
+    "url": "http://www.nba.com/", 
     "thumb": "/projects/nba/thumb", 
     "submissionDate": "2015-01-01", 
     "version": {
@@ -13950,6 +13950,7 @@
     "thumb": "/projects/teradata/thumb"
   },
   {
+<<<<<<< HEAD
     "submitter": "2muchcoffeecom",
     "version": {
       "major": "5",
@@ -13957,14 +13958,896 @@
       "minor": "2",
       "patch": "2"
     },
+=======
+    "name": "Omega Global Investors",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.omegagi.com/",
+    "thumb": "/projects/omega-global-investors/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "4",
+      "version": "4.3.0",
+      "minor": "3",
+      "patch": "0"
+    },
+    "submitter": "gwsampso",
+    "slug": "omega-global-investors",
+    "desc": "Investment Manager website utilizing Angular and Firebase to showcase Omega and its capabilities"  
+  },
+  {
+    "name": "Digital Advertising Alliance WebChoices",
+    "tags": [
+      "lifestyle"
+    ],
+    "url": "http://optout.aboutads.info/",
+    "thumb": "/projects/digital-advertising-alliance-webchoices/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "digital-advertising-alliance-webchoices",
+    "desc": ""  
+  },
+  {
+    "name": "Google Kickstart",
+    "tags": [
+      "google"
+    ],
+    "url": "https://code.google.com/codejam/kickstart/",
+    "thumb": "/projects/google-kickstart/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "google-kickstart",
+    "desc": ""  
+  },
+  {
+    "name": "1MillionCups.com",
+    "tags": [
+      "community"
+    ],
+    "url": "http://www.1millioncups.com/",
+    "thumb": "/projects/1millioncups-com/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.5.6",
+      "minor": "5",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "1millioncups-com",
+    "desc": ""  
+  },
+  {
+    "name": "Homie",
+    "tags": [
+      "lifestyle"
+    ],
+    "url": "https://platform.homie.com",
+    "thumb": "/projects/homie/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.6.6",
+      "minor": "6",
+      "patch": "6"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "homie",
+    "desc": ""  
+  },
+  {
+    "name": "lovemoney.com",
+    "tags": [
+      "community"
+    ],
+    "url": "www.lovemoney.com",
+    "thumb": "/projects/lovemoney-com/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "lovemoney-com",
+    "desc": ""  
+  },
+  {
+    "name": "Halodoc",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.halodoc.com",
+    "thumb": "/projects/halodoc/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "5",
+      "version": "5.0.0",
+      "minor": "0",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "halodoc",
+    "desc": ""  
+  },
+  {
+    "name": "Windy City Devfest",
+    "tags": [
+      "community"
+    ],
+    "url": "https://windycity.devfest.io/home",
+    "thumb": "/projects/windy-city-devfest/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "4",
+      "version": "4.4.5",
+      "minor": "4",
+      "patch": "5"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "windy-city-devfest",
+    "desc": ""  
+  },
+  {
+    "name": "Pearson Qualifications",
+    "tags": [
+      "education"
+    ],
+    "url": "http://qualifications.pearson.com/en/home.html",
+    "thumb": "/projects/pearson-qualifications/thumb",
+    "submissionDate": "2018-01-24",
+    "version": {
+      "major": "1",
+      "version": "1.2.4",
+      "minor": "2",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "pearson-qualifications",
+    "desc": ""  
+  },
+  {
+>>>>>>> ee4b54f8cfa0f67ad633d91cc135c7637ff3fd55
     "name": "Ngx-restangular",
     "tags": [
       "developer-tools"
     ],
     "url": "https://ngx-restangular.com/",
+<<<<<<< HEAD
     "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]",
     "slug": "ngx-restangular",
     "submissionDate": "2018-01-30",
     "thumb": "/projects/ngx-restangular/thumb"
   }
 ]
+=======
+    "thumb": "/projects/ngx-restangular/thumb",
+    "submissionDate": "2018-01-30",
+    "version": {
+      "major": "5",
+      "version": "5.2.2",
+      "minor": "2",
+      "patch": "2"
+    },
+    "submitter": "2muchcoffeecom",
+    "slug": "ngx-restangular",
+    "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]"  
+  },
+  {
+    "submitter": "LightningWizard",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "name": "24timezones.com",
+    "tags": [
+      "community"
+    ],
+    "url": "https://24timezones.com/#/map",
+    "desc": "",
+    "slug": "24timezones",
+    "submissionDate": "2018-02-01",
+    "thumb": "/projects/24timezones/thumb"
+  },
+  {
+    "name": "World Wildlife Fund Climate Crowd",
+    "tags": [
+      "education"
+    ],
+    "url": "https://www.wwfclimatecrowd.org/",
+    "thumb": "/projects/wwf-climate-crowd/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.5.8",
+      "minor": "5",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "wwf-climate-crowd",
+    "desc": ""  
+  },
+  {
+    "name": "U.S. Bank",
+    "tags": [
+      "finance"
+    ],
+    "url": "https://www.usbank.com/index.html",
+    "thumb": "/projects/us-bank/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "us-bank",
+    "desc": ""  
+  },
+  {
+    "name": "Time Warner Cable Community Forums",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "https://forums.timewarnercable.com",
+    "thumb": "/projects/time-warner-cable-community-forums/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "time-warner-cable-community-forums",
+    "desc": ""  
+  },
+  {
+    "name": "ARIA Resort and Casino",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.aria.com",
+    "thumb": "/projects/aria-resort-and-casino/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "aria-resort-and-casino",
+    "desc": ""  
+  },
+  {
+    "name": "Vdara Hotel and Spa",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.vdara.com",
+    "thumb": "/projects/vdara-hotel-and-spa/thumb",
+    "submissionDate": "2018-02-01",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "vdara-hotel-and-spa",
+    "desc": ""  
+  },
+  {
+    "name": "Autodesk",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "www.autodesk.com",
+    "thumb": "/projects/autodesk/thumb",
+    "submissionDate": "2018-02-08",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "autodesk",
+    "desc": ""  
+  },
+  {
+    "name": "USPS Tracking",
+    "tags": [
+      "communication"
+    ],
+    "url": "https://tools.usps.com/go/TrackConfirmAction_input",
+    "thumb": "/projects/usps-tracking/thumb",
+    "submissionDate": "2018-02-08",
+    "version": {
+      "major": "1",
+      "version": "1.4.14",
+      "minor": "4",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "usps-tracking",
+    "desc": ""  
+  },
+  {
+    "name": "American Red Cross",
+    "tags": [
+      "medical"
+    ],
+    "url": "http://www.redcross.org/",
+    "thumb": "/projects/american-red-cross/thumb",
+    "submissionDate": "2018-02-08",
+    "version": {
+      "major": "1",
+      "version": "1.3.17",
+      "minor": "3",
+      "patch": "17"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "american-red-cross",
+    "desc": ""  
+  },
+  {
+    "name": "Trello Developers",
+    "tags": [
+      "developer-tools"
+    ],
+    "url": "https://trello.readme.io/",
+    "thumb": "/projects/trello-developers/thumb",
+    "submissionDate": "2018-02-08",
+    "version": {
+      "major": "1",
+      "version": "1.3.20",
+      "minor": "3",
+      "patch": "20"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "trello-developers",
+    "desc": ""  
+  },
+  {
+    "name": "Pixm",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.pixm.io/",
+    "thumb": "/projects/pixm/thumb",
+    "submissionDate": "2018-02-14",
+    "version": {
+      "major": "5",
+      "version": "5.1.1",
+      "minor": "1",
+      "patch": "1"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "pixm",
+    "desc": ""  
+  },
+  {
+    "name": "Elections Ontario",
+    "tags": [
+      "community"
+    ],
+    "url": "https://eregistration.elections.on.ca/en/home",
+    "thumb": "/projects/elections-ontario/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "2",
+      "version": "2.4.10",
+      "minor": "4",
+      "patch": "10"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "elections-ontario",
+    "desc": ""  
+  },
+  {
+    "name": "Microsoft Customers",
+    "tags": [
+      "microsoft"
+    ],
+    "url": "https://customers.microsoft.com",
+    "thumb": "/projects/microsoft-customers/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "2",
+      "version": "2.4.10",
+      "minor": "4",
+      "patch": "10"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "microsoft-customers",
+    "desc": ""  
+  },
+  {
+    "name": "SanDisk",
+    "tags": [
+      "developer-tools"
+    ],
+    "url": "https://www.sandisk.com",
+    "thumb": "/projects/sandisk/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.4.3",
+      "minor": "4",
+      "patch": "3"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "sandisk",
+    "desc": ""  
+  },
+  {
+    "name": "NBC Olympics Live Stream",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://stream.nbcolympics.com",
+    "thumb": "/projects/nbc-olympics-live-stream/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.4.2",
+      "minor": "4",
+      "patch": "2"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "nbc-olympics-live-stream",
+    "desc": ""  
+  },
+  {
+    "name": "Google Express",
+    "tags": [
+      "google"
+    ],
+    "url": "https://express.google.com",
+    "thumb": "/projects/google-express/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "0",
+      "version": "0.0.0.PLACEHOLDER",
+      "minor": "0",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "google-express",
+    "desc": ""  
+  },
+  {
+    "name": "Sonic Drive-In",
+    "tags": [
+      "food-drink"
+    ],
+    "url": "https://www.sonicdrivein.com",
+    "thumb": "/projects/sonic-drive-in/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.3.15",
+      "minor": "3",
+      "patch": "15"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "sonic-drive-in",
+    "desc": ""  
+  },
+  {
+    "name": "MGM Resorts",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.mgmresorts.com",
+    "thumb": "/projects/mgm-resorts/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "mgm-resorts",
+    "desc": ""  
+  },
+  {
+    "name": "Startup with Google",
+    "tags": [
+      "google"
+    ],
+    "url": "https://startup.google.com/",
+    "thumb": "/projects/startup-with-google/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "startup-with-google",
+    "desc": ""  
+  },
+  {
+    "name": "Rocket Lawyer",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.rocketlawyer.com",
+    "thumb": "/projects/rocket-lawyer/thumb",
+    "submissionDate": "2018-02-26",
+    "version": {
+      "major": "1",
+      "version": "1.5.0",
+      "minor": "5",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "rocket-lawyer",
+    "desc": ""  
+  },
+  {
+    "name": "Friluftsland",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.friluftsland.dk/",
+    "thumb": "/projects/friluftsland/thumb",
+    "submissionDate": "2018-03-03",
+    "version": {
+      "major": "5",
+      "version": "5.1.3",
+      "minor": "1",
+      "patch": "3"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "friluftsland",
+    "desc": ""  
+  },
+  {
+    "name": "Crisp",
+    "tags": [
+      "community"
+    ],
+    "url": "https://crisp.chat/en/",
+    "thumb": "/projects/crisp/thumb",
+    "submissionDate": "2018-03-07",
+    "version": {
+      "major": "1",
+      "version": "1.6.6",
+      "minor": "6",
+      "patch": "6"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "crisp",
+    "desc": ""  
+  },
+  {
+    "name": "Brigitte Moustier, de la passion a l'emotion",
+    "tags": [
+      "community"
+    ],
+    "url": "http://peinture-passion-emotion.fr/home",
+    "thumb": "/projects/brigitte-moustier/thumb",
+    "submissionDate": "2018-03-08",
+    "version": {
+      "major": "5",
+      "version": "5.1.0",
+      "minor": "1",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "brigitte-moustier",
+    "desc": ""  
+  },
+  {
+    "name": "NextOnTop",
+    "tags": [
+      "community"
+    ],
+    "url": "https://www.nextontop.com/",
+    "thumb": "/projects/nextontop/thumb",
+    "submissionDate": "2018-03-18",
+    "version": {
+      "major": "5",
+      "version": "5.1.3",
+      "minor": "1",
+      "patch": "3"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "nextontop",
+    "desc": ""  
+  },
+  {
+    "name": "Ulysseonthecar",
+    "tags": [
+      "community"
+    ],
+    "url": "http://ulysseonthecar.altervista.org",
+    "thumb": "/projects/ulysseonthecar/thumb",
+    "submissionDate": "2018-03-19",
+    "version": {
+      "major": "5",
+      "version": "5.2.9",
+      "minor": "2",
+      "patch": "9"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "ulysseonthecar",
+    "desc": ""  
+  },
+  {
+    "name": "ABC News",
+    "tags": [
+      "communication"
+    ],
+    "url": "http://abcnews.go.com/",
+    "thumb": "/projects/abc-news/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.16",
+      "minor": "2",
+      "patch": "16"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "abc-news",
+    "desc": ""  
+  },
+  {
+    "name": "JPMorgan Chase and Co. Jobs and Internships",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "https://careers.jpmorgan.com/careers/US/en/home",
+    "thumb": "/projects/jp-morgan-chase-careers/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.4.1",
+      "minor": "4",
+      "patch": "1"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "jp-morgan-chase-careers",
+    "desc": ""  
+  },
+  {
+    "name": "Tata Consultancy Services Careers",
+    "tags": [
+      "fortune-500"
+    ],
+    "url": "https://careers.tcs.com/careers/index.html#/careers/NA/US",
+    "thumb": "/projects/tcs-careers/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.3.15",
+      "minor": "3",
+      "patch": "15"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "tcs-careers",
+    "desc": ""  
+  },
+  {
+    "name": "Fitbit Community",
+    "tags": [
+      "health-fitness"
+    ],
+    "url": "https://community.fitbit.com/t5/Community/ct-p/EN",
+    "thumb": "/projects/fitbit-community/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.4.8",
+      "minor": "4",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "fitbit-community",
+    "desc": ""  
+  },
+  {
+    "name": "IEEE Xplore Digital Library",
+    "tags": [
+      "education"
+    ],
+    "url": "http://ieeexplore.ieee.org/Xplore/home.jsp",
+    "thumb": "/projects/ieee-xplore-digital-library/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.5.11",
+      "minor": "5",
+      "patch": "11"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "ieee-xplore-digital-library",
+    "desc": ""  
+  },
+  {
+    "name": "Google Pay",
+    "tags": [
+      "google"
+    ],
+    "url": "https://pay.google.com/send/home?authuser=0",
+    "thumb": "/projects/google-pay/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.6.4",
+      "minor": "6",
+      "patch": "4"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "google-pay",
+    "desc": ""  
+  },
+  {
+    "name": "Microsoft Office Support",
+    "tags": [
+      "microsoft"
+    ],
+    "url": "https://support.office.com/",
+    "thumb": "/projects/microsoft-office-support/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.28",
+      "minor": "2",
+      "patch": "28"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "microsoft-office-support",
+    "desc": ""  
+  },
+  {
+    "name": "Travel.gov",
+    "tags": [
+      "travel"
+    ],
+    "url": "https://travel.state.gov/content/travel.html",
+    "thumb": "/projects/travel-gov/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.1.5",
+      "minor": "1",
+      "patch": "5"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "travel-gov",
+    "desc": ""  
+  },
+  {
+    "name": "Bellagio",
+    "tags": [
+      "entertainment"
+    ],
+    "url": "https://www.bellagio.com/en.html",
+    "thumb": "/projects/bellagio/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.2.14",
+      "minor": "2",
+      "patch": "14"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "bellagio",
+    "desc": ""  
+  },
+  {
+    "name": "Onefootball",
+    "tags": [
+      "sports"
+    ],
+    "url": "http://www.onefootball.com/en/home",
+    "thumb": "/projects/onefootball/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "5",
+      "version": "5.2.0",
+      "minor": "2",
+      "patch": "0"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "onefootball",
+    "desc": ""  
+  },
+  {
+    "name": "Skout",
+    "tags": [
+      "lifestyle"
+    ],
+    "url": "http://www.skout.com",
+    "thumb": "/projects/skout/thumb",
+    "submissionDate": "2018-03-22",
+    "version": {
+      "major": "1",
+      "version": "1.3.15",
+      "minor": "3",
+      "patch": "15"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "skout",
+    "desc": ""  
+  },
+  {
+    "name": "PPSR Cloud",
+    "tags": [
+      "community"
+    ],
+    "url": "https://ppsr.cloud/",
+    "thumb": "/projects/ppsr-cloud/thumb",
+    "submissionDate": "2018-03-24",
+    "version": {
+      "major": "5",
+      "version": "5.2.8",
+      "minor": "2",
+      "patch": "8"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "ppsr-cloud",
+    "desc": ""  
+  },
+  {
+    "name": "CVS Shop",
+    "tags": [
+      "health-fitness"
+    ],
+    "url": "https://www.cvs.com/shop",
+    "thumb": "/projects/cvs-shop/thumb",
+    "submissionDate": "2018-04-03",
+    "version": {
+      "major": "4.4.6",
+      "version": "4",
+      "minor": "4",
+      "patch": "4"
+    },
+    "submitter": "Daynil",
+    "slug": "cvs-shop",
+    "desc": "CVS Pharmacy Shopping"  
+  },
+  {
+    "name": "Cloud-Player",
+    "tags": [
+      "community"
+    ],
+    "url": "https://cloud-player.io",
+    "thumb": "/projects/cloud-player/thumb",
+    "submissionDate": "2018-04-09",
+    "version": {
+      "major": "5",
+      "version": "5.2.9",
+      "minor": "2",
+      "patch": "9"
+    },
+    "submitter": "lpolepeddi",
+    "slug": "cloud-player",
+    "desc": ""  
+  }
+]
+>>>>>>> ee4b54f8cfa0f67ad633d91cc135c7637ff3fd55

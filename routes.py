@@ -1,11 +1,11 @@
 from flask import Flask, render_template, request, redirect, url_for
 import requests
 import json
-from flask_sslify import SSLify
+# from flask_sslify import SSLify
 
 app = Flask(__name__)
 
-sslify = SSLify(app)
+# sslify = SSLify(app)
 
 @app.route("/")
 def index():
@@ -40,10 +40,8 @@ def categories(category):
     'travel': 'Travel',
     'community': 'From the community',
 
-    'angularjs-1': 'AngularJS 1.x',
-    'angular-2': 'Angular 2.x',
-    'angular-4': 'Angular 4.x',
-    'angular-5': 'Angular 5.x',
+    'angularjs': 'AngularJS 1.x',
+    'angular': 'Angular v2+',
   }
 
   if category in categories:
@@ -59,9 +57,13 @@ def categories(category):
     if category == 'community':
       if category in project['tags']:
         sites.append(project)
-    elif 'angular' in category:
-      version = category.split('-')[1]
-      if version == project['version']['major'] and 'community' not in project['tags']:
+    elif category == 'angularjs':
+      print project['name']
+      print project['version']['major'], type(project['version']['major'])
+      if project['version']['major'] == '1' and 'community' not in project['tags']:
+        sites.append(project)
+    elif category == 'angular':
+      if project['version']['major'] != '1' and 'community' not in project['tags']:
         sites.append(project)
     else:
       if category in project['tags'] and 'community' not in project['tags']:
@@ -100,9 +102,9 @@ def sitemap():
   return render_template('sitemap.xml', projects=projects), {'Content-Type': 'application/xml'}
 
 
-@app.route("/.well-known/acme-challenge/2Q_gQPj6alcePTgaCIWfealrQApdJaSd8fm9qGuKL_c")
+@app.route("/.well-known/acme-challenge/ARu7XnVLghuY6CGchyxNJNJOQdBn22gQEQoKLfZMZ_g")
 def challenge():
-  return '2Q_gQPj6alcePTgaCIWfealrQApdJaSd8fm9qGuKL_c.MRFhsthfGP01vjhBuHPi-M7sw1h4vprbQbeIPor4zkA'
+  return 'ARu7XnVLghuY6CGchyxNJNJOQdBn22gQEQoKLfZMZ_g.-J5gPYkW2vdgImQgeYUC2J_rBJ3bJ0EygLyvF86zojE'
 
 if __name__ == "__main__":
   app.run(debug=True)
