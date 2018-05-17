@@ -13950,15 +13950,6 @@
     "thumb": "/projects/teradata/thumb"
   },
   {
-<<<<<<< HEAD
-    "submitter": "2muchcoffeecom",
-    "version": {
-      "major": "5",
-      "version": "5.2.2",
-      "minor": "2",
-      "patch": "2"
-    },
-=======
     "name": "Omega Global Investors",
     "tags": [
       "community"
@@ -14121,20 +14112,11 @@
     "desc": ""  
   },
   {
->>>>>>> ee4b54f8cfa0f67ad633d91cc135c7637ff3fd55
     "name": "Ngx-restangular",
     "tags": [
       "developer-tools"
     ],
     "url": "https://ngx-restangular.com/",
-<<<<<<< HEAD
-    "desc": "Advanced Ngx-Restangular Tutorial for handling Rest API data [Make Angular Fast!]",
-    "slug": "ngx-restangular",
-    "submissionDate": "2018-01-30",
-    "thumb": "/projects/ngx-restangular/thumb"
-  }
-]
-=======
     "thumb": "/projects/ngx-restangular/thumb",
     "submissionDate": "2018-01-30",
     "version": {
@@ -14848,6 +14830,23 @@
     "submitter": "lpolepeddi",
     "slug": "cloud-player",
     "desc": ""  
+  },
+  {
+    "name": "2muchcoffee | Best Angular Development Company",
+    "tags": [
+      "community"
+    ],
+    "url": "https://2muchcoffee.com",
+    "thumb": "/projects/2muchcoffee/thumb",
+    "submissionDate": "2018-05-17",
+    "version": {
+      "major": "5",
+      "version": "5.2.10",
+      "minor": "2",
+      "patch": "10"
+    },
+    "submitter": "2muchcoffeecom",
+    "slug": "2muchcoffee",
+    "desc": "We provide full-stack web and mobile app development. Design and  Building cross-platform, native mobile and hybrid applications."  
   }
 ]
->>>>>>> ee4b54f8cfa0f67ad633d91cc135c7637ff3fd55
