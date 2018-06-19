@@ -14830,5 +14830,19 @@
     "submitter": "lpolepeddi",
     "slug": "cloud-player",
     "desc": ""  
+  },
+  {
+    "name": "ExpoBeds",
+    "thumb": "/projects/expobeds/thumb",
+    "desc": "Expo Travel Group official website for booking management of expo trips. Uses Angular Universal for SEO friendly server side rendering.",
+    "url": "https://www.expobeds.com",
+    "submitter": "ilianiv",
+    "submissionDate": "2018-06-19",
+    "version": {
+      "version": "6.0.4",
+      "major": "6",
+      "minor": "0",
+      "patch": "4"
+    }
   }
 ]
