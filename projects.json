@@ -14830,5 +14830,23 @@
     "submitter": "lpolepeddi",
     "slug": "cloud-player",
     "desc": ""  
+  },
+    {
+    "name": "Taskify", 
+    "tags": [
+      "productivity"
+    ], 
+    "url": "https://taskifyyy.firebaseapp.com", 
+    "thumb": "/projects/taskify/thumb", 
+    "submissionDate": "2018-08-04", 
+    "version": {
+      "major": "1", 
+      "version": "1.5.11", 
+      "minor": "5", 
+      "patch": "11"
+    }, 
+    "submitter": "Aveek", 
+    "slug": "Taskify", 
+    "desc": "A personalised, collaborative, To-Do List application"
   }
 ]
