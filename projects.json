@@ -14840,10 +14840,10 @@
     "thumb": "/projects/coursables/thumb", 
     "submissionDate": "2018-08-22", 
     "version": {
-      "major": "1", 
-      "version": "1.1.7", 
+      "major": "6", 
+      "version": "6.1.1", 
       "minor": "1", 
-      "patch": "7"
+      "patch": "1"
     }, 
     "submitter": "shahraship", 
     "slug": "coursables", 
