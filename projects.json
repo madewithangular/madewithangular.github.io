@@ -14830,5 +14830,23 @@
     "submitter": "lpolepeddi",
     "slug": "cloud-player",
     "desc": ""  
+  },
+  {
+    "name": "Coursables", 
+    "tags": [
+      "education"
+    ], 
+    "url": "https://coursables.com", 
+    "thumb": "/projects/coursables/thumb", 
+    "submissionDate": "2018-08-22", 
+    "version": {
+      "major": "1", 
+      "version": "1.1.7", 
+      "minor": "1", 
+      "patch": "7"
+    }, 
+    "submitter": "shahraship", 
+    "slug": "coursables", 
+    "desc": "Virtual Classroom"
   }
 ]
