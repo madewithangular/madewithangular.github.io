@@ -1,5 +1,23 @@
 [
   {
+    "name": "FindRVParks.com",
+    "tags": [
+      "travel"
+    ],
+    "thumb": "/projects/findrvparks/thumb",
+    "desc": "Your one stop web app to find, filter and research RV Parks to visit.",
+    "url": "https://www.findrvparks.com",
+    "submitter": "neonguru",
+    "slug": "findrvparks",
+    "submissionDate": "2018-11-12",
+    "version": {
+      "version": "7.0.3",
+      "major": "7",
+      "minor": "0",
+      "patch": "3"
+    }
+  },
+  {
     "name": "NBA.com", 
     "tags": [
       "sports"
