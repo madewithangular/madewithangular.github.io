@@ -4,6 +4,7 @@ title: Home
 ---
 <div class="projects row">
 {% for post in paginator.posts %}
+  {% unless post.categories contains 'community' %}
   <div class="col-lg-6">
     <div class="card">
       <a href="{{ post.link }}" target="_blank">
@@ -19,6 +20,7 @@ title: Home
       </a>
     </div>
   </div>
+  {% endunless %}
 {% endfor %}
 </div>
 
