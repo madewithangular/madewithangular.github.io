@@ -16,7 +16,7 @@ permalink: /categories/travel/
         {% else %}
         <p>Angular {{ post.version }}</p>
         {% endif %}
-        <img src="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
+        <img class="lazy" src="/assets/images/placeholder.svg" data-src="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" data-srcset="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
       </a>
     </div>
   </div>
