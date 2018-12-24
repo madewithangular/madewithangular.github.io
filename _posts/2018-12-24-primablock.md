@@ -1,6 +1,6 @@
 ---
 layout: site
-title: "primablock"
+title: "PrimaBlock"
 date: 2018-12-24
 categories: [community]
 version: 7.0.2
