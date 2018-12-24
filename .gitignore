@@ -1,4 +1,11 @@
-venv/
+#general
 .DS_Store
-*.pyc
-build/
+
+# jekyll
+_site
+.sass-cache
+.jekyll-cache/
+.jekyll-metadata
+
+# ruby
+Gemfile.lock
