@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: bespoke-post
 link: https://www.bespokepost.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: xfinity-help-and-support-forums
 link: http://forums.xfinity.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: build-card
 link: https://thebuildcard.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

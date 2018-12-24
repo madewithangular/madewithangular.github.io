@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: livejournal
 link: http://www.livejournal.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

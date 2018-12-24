@@ -9,5 +9,6 @@ minor: 1
 patch: 1
 slug: beatsloop
 link: http://beatsloop.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

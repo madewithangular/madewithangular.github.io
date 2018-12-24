@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: google-research
 link: http://research.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

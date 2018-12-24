@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: landing-lion
 link: https://www.landinglion.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 0
 patch: 1
 slug: megabus-journey-planner
 link: https://uk.megabus.com/journey-planner/journeys
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

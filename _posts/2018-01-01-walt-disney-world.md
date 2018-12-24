@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: walt-disney-world
 link: https://disneyworld.disney.go.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

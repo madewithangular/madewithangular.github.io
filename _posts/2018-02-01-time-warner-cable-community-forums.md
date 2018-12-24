@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: time-warner-cable-community-forums
 link: https://forums.timewarnercable.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

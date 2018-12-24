@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: sharelatex
 link: https://www.sharelatex.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

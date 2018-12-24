@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: satsuma-loans
 link: https://www.satsumaloans.co.uk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

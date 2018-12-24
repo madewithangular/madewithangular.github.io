@@ -9,5 +9,6 @@ minor: 1
 patch: 2
 slug: flogymnastics
 link: https://www.flogymnastics.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

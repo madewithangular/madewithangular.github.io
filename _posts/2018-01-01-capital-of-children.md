@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: capital-of-children
 link: http://www.capitalofchildren.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

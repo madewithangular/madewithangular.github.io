@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: google-developers-experts
 link: https://www.gdeapp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

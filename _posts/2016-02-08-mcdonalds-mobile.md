@@ -9,5 +9,6 @@ minor: 6
 patch: 1
 slug: mcdonalds-mobile
 link: http://www.mcdonalds.com/usmobile/en/food.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

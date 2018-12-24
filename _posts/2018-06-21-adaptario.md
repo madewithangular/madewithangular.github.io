@@ -9,5 +9,6 @@ minor: 0
 patch: 5
 slug: adaptario
 link: https://www.adaptario.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: editions-at-play
 link: https://editionsatplay.withgoogle.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

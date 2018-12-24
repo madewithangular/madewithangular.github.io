@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: microsoft-events
 link: https://events.microsoft.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

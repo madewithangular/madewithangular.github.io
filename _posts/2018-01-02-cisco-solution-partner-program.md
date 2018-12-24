@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: cisco-solution-partner-program
 link: https://solutionpartner.cisco.com/site/index.gsp
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

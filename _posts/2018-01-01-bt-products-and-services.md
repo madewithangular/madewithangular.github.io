@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: bt-products-and-services
 link: https://www.products.bt.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

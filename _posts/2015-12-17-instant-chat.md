@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: instant-chat
 link: https://instantchat.io/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

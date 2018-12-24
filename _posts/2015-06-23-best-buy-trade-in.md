@@ -9,5 +9,6 @@ minor: 0
 patch: 7
 slug: best-buy-trade-in
 link: http://tradein.bestbuy.com/client/#/catalog
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

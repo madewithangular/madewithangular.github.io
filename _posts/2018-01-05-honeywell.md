@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: honeywell
 link: https://www.honeywell.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

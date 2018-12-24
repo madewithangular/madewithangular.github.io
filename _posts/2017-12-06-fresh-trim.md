@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: fresh-trim
 link: https://www.fresh-trim.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

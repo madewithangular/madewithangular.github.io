@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: spectrum-net
 link: https://www.spectrum.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

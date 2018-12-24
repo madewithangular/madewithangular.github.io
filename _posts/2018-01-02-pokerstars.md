@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: pokerstars
 link: https://www.pokerstars.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

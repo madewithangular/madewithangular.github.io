@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: weather-underground
 link: https://www.wunderground.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

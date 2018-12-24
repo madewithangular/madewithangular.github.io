@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: end-launches
 link: https://launches.endclothing.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: vegan-los-angeles
 link: http://www.veganlosangeles.com
+submitter: segac
 permalink: /sites/:slug
 ---

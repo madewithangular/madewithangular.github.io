@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: associated-press-news
 link: https://apnews.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

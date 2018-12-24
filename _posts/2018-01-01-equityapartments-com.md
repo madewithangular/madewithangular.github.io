@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: equityapartments-com
 link: http://www.equityapartments.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

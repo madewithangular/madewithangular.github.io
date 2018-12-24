@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: doubleclick
 link: https://www.doubleclickbygoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: windy-city-devfest
 link: https://windycity.devfest.io/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

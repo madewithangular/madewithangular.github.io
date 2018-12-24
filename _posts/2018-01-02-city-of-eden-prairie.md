@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: city-of-eden-prairie
 link: http://www.edenprairie.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

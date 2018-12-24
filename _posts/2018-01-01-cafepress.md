@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: cafepress
 link: http://www.cafepress.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

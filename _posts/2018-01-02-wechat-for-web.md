@@ -9,5 +9,6 @@ minor: 2
 patch: 28
 slug: wechat-for-web
 link: https://web.wechat.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

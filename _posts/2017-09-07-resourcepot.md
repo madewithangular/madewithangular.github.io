@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: resourcepot
 link: http://www.resourcepot.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

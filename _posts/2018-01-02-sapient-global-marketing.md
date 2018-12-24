@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: sapient-global-marketing
 link: https://www.sapientglobalmarkets.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: duluth-trading-co
 link: https://www.duluthtrading.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

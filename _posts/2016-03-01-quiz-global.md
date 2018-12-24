@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: quiz-global
 link: http://quizglobal.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: aria-resort-and-casino
 link: https://www.aria.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

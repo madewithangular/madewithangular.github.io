@@ -9,5 +9,6 @@ minor: 4
 patch: 12
 slug: marshalls
 link: https://www.marshallsonline.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

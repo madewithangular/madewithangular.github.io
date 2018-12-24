@@ -9,5 +9,6 @@ minor: 6
 patch: 3
 slug: shop-buzzfeed
 link: https://shop.buzzfeed.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

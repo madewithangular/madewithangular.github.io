@@ -9,5 +9,6 @@ minor: 2
 patch: 18
 slug: griots-garage
 link: https://www.griotsgarage.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

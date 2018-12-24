@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: navjinderism
 link: http://navjinderism.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

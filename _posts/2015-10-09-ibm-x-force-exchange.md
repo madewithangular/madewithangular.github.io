@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: ibm-x-force-exchange
 link: https://exchange.xforce.ibmcloud.com/
+submitter: inapalm
 permalink: /sites/:slug
 ---

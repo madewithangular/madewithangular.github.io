@@ -9,5 +9,6 @@ minor: 4
 patch: 0
 slug: angularjs-dependency-graph
 link: http://angularjs-graph.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

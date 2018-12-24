@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: microsoft-customers
 link: https://customers.microsoft.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

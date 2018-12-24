@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: sage-grouse-initiative
 link: https://map.sagegrouseinitiative.com/ecosystem/mesic-resources?ll=43.4799,-110.7624
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

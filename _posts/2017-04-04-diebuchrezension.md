@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: diebuchrezension
 link: https://diebuchrezension.de/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: femme-fatale-studio
 link: https://www.femmefatale.paris/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

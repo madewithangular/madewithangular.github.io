@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: shopstyle
 link: https://www.shopstyle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

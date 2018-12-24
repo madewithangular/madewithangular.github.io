@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: castlight
 link: https://us.castlighthealth.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

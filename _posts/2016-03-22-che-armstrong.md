@@ -9,5 +9,6 @@ minor: 5
 patch: 1
 slug: che-armstrong
 link: http://chearmstrong.github.io/chearmstrong.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

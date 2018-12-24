@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: adobe-typekit
 link: https://typekit.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: portable-north-pole
 link: https://www.portablenorthpole.com/en/
+submitter: bcabanes
 permalink: /sites/:slug
 ---

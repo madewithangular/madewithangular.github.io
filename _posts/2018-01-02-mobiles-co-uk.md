@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: mobiles-co-uk
 link: https://www.mobiles.co.uk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

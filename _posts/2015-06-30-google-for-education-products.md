@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: google-for-education-products
 link: https://eduproducts.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

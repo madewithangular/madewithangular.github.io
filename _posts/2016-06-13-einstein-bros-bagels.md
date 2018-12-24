@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: einstein-bros-bagels
 link: http://www.einsteinbros.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

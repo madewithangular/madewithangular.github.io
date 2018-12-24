@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: chefsteps
 link: https://www.chefsteps.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

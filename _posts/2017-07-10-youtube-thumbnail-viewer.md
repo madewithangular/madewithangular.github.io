@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: youtube-thumbnail-viewer
 link: https://youtube-thumbnail-viewer.firebaseapp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

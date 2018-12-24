@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: busolinea
 link: http://busolinea.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

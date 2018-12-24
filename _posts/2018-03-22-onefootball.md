@@ -9,5 +9,6 @@ minor: 2
 patch: 0
 slug: onefootball
 link: http://www.onefootball.com/en/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

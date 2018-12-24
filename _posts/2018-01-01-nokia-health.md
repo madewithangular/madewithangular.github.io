@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: nokia-health
 link: https://health.nokia.com/us/en/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

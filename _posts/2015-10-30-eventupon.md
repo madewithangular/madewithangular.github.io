@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: eventupon
 link: http://www.eventupon.com
+submitter: pecopeco
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 23
 slug: american-college-of-cardiology
 link: http://www.acc.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

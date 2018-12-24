@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: richardson-store
 link: https://www.richardsonshop.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

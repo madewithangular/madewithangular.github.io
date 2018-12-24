@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: useful-development
 link: https://www.usefuldev.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

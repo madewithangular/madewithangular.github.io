@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: pacific-standard
 link: http://www.psmag.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: kaiser-permanente
 link: https://healthy.kaiserpermanente.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

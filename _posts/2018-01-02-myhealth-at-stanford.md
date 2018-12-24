@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: myhealth-at-stanford
 link: https://myhealth.stanfordhealthcare.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

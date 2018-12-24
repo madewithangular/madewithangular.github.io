@@ -9,5 +9,6 @@ minor: 1
 patch: 2
 slug: amazing-com
 link: https://www.amazing.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

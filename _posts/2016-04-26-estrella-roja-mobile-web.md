@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: estrella-roja-mobile-web
 link: https://www.estrellaroja.com.mx/moviler/index.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

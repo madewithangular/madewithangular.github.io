@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: stackskills
 link: https://stackskills.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

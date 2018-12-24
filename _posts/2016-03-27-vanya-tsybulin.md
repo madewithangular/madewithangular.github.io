@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: vanya-tsybulin
 link: http://vtsybulin.in.ua/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

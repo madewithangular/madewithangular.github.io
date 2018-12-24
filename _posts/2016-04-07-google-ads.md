@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-ads
 link: https://landing.google.com/ads/try/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

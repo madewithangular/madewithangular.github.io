@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: food-republic
 link: http://www.foodrepublic.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 4
 slug: crown-melbourne
 link: https://www.crownmelbourne.com.au/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

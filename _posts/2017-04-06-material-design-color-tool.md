@@ -9,5 +9,6 @@ minor: 6
 patch: 2
 slug: material-design-color-tool
 link: https://material.io/color/#/usr/libexec/java_home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

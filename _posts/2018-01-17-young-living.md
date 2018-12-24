@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: young-living
 link: https://www.youngliving.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

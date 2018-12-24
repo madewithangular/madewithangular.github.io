@@ -9,5 +9,6 @@ minor: 2
 patch: 16
 slug: reviewed-com
 link: http://www.reviewed.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

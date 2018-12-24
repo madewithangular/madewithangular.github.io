@@ -9,5 +9,6 @@ minor: 3
 patch: 6
 slug: vmware-open-source-software
 link: http://vmware.github.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

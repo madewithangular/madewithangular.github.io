@@ -9,5 +9,6 @@ minor: 2
 patch: 28
 slug: conkansei
 link: https://conkansei.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

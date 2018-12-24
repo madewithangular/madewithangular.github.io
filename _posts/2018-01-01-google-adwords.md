@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-adwords
 link: https://adwords.google.com/home/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

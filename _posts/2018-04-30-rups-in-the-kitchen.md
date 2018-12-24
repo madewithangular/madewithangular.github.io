@@ -9,5 +9,6 @@ minor: 2
 patch: 9
 slug: rups-in-the-kitchen
 link: https://rupsinthekitchen.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

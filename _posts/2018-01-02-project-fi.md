@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: project-fi
 link: https://fi.google.com/about/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: identillect
 link: https://identillect.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

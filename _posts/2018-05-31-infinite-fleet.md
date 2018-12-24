@@ -9,5 +9,6 @@ minor: 2
 patch: 9
 slug: infinite-fleet
 link: https://www.infinitefleet.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 5
 slug: technicalseo-com
 link: https://technicalseo.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 1
 patch: 2
 slug: nestjs-docs
 link: https://docs.nestjs.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

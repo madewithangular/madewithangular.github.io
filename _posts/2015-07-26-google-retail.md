@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-retail
 link: https://www.google.com/retail/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

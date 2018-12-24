@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: bloguettes
 link: https://bloguettes.teachable.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

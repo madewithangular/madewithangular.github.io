@@ -9,5 +9,6 @@ minor: 4
 patch: 3
 slug: y-collective
 link: http://y-collective.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

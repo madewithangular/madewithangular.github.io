@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: heartwood-and-oak-wine-merchants
 link: http://heartwoodandoak.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

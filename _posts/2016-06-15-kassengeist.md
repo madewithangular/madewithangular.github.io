@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: kassengeist
 link: http://www.kassengeist.at/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

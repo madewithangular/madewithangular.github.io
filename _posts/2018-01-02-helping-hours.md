@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: helping-hours
 link: https://helpinghours.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

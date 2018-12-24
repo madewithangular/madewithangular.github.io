@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: omega-global-investors
 link: https://www.omegagi.com/
+submitter: gwsampso
 permalink: /sites/:slug
 ---

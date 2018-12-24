@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: vdara-hotel-and-spa
 link: https://www.vdara.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

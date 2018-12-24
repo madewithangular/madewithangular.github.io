@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: gentle-hands-massage-therapy
 link: https://www.gentlehandsmassagetherapy.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

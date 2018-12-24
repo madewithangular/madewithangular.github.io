@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: ca-technologies
 link: https://www.ca.com/us.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

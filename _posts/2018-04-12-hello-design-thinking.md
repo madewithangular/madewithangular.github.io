@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: hello-design-thinking
 link: https://hellodesignthinking.ideou.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

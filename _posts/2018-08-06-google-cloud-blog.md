@@ -9,5 +9,6 @@ minor: 2
 patch: 2
 slug: google-cloud-blog
 link: https://cloud.google.com/blog/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

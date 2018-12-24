@@ -9,5 +9,6 @@ minor: 4
 patch: 3
 slug: buspartout
 link: http://www.buspartout.com/parallel/index.cfm#results_link
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

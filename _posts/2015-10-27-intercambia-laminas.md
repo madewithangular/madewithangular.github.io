@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: intercambia-laminas
 link: http://www.intercambialaminas.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 0
 slug: flightradar24
 link: https://www.flightradar24.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

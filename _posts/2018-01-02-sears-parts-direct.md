@@ -9,5 +9,6 @@ minor: 2
 patch: 6
 slug: sears-parts-direct
 link: https://www.searspartsdirect.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

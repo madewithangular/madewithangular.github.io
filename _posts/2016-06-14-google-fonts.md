@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-fonts
 link: https://fonts.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

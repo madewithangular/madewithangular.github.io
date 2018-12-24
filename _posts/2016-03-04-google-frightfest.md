@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: google-frightfest
 link: https://frightgeist.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

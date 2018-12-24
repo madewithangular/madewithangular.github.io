@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: norwegian-air-lines
 link: https://www.norwegian.com/us/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

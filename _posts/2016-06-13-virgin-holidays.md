@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: virgin-holidays
 link: https://www.virginholidays.co.uk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

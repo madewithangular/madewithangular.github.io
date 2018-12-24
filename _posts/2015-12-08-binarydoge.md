@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: binarydoge
 link: http://alielwazir.me/binaryDoge/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

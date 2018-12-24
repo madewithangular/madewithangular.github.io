@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: cost-plus-world-market
 link: https://www.worldmarket.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

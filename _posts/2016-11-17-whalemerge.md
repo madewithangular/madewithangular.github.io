@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: whalemerge
 link: http://whalemerge.com/
+submitter: kodeo
 permalink: /sites/:slug
 ---

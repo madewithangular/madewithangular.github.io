@@ -9,5 +9,6 @@ minor: 2
 patch: 16
 slug: tunexer-radio
 link: http://tunexer.com/
+submitter: javiergarzac
 permalink: /sites/:slug
 ---

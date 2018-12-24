@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: javascript-training-courses
 link: http://javascripttrainingcourses.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: animationmovie
 link: http://animationsftw.in/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: henry-madden-library
 link: https://library.fresnostate.edu/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

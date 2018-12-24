@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: copa-airlines
 link: https://www.copaair.com/en/web/us
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

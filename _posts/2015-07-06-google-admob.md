@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-admob
 link: http://www.google.com/intl/en/admob/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

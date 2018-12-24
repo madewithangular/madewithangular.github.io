@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: csgo-gambling
 link: https://csgoroll.com/en/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

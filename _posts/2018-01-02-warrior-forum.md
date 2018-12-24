@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: warrior-forum
 link: https://www.warriorforum.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

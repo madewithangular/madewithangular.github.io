@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: the-true-size
 link: http://thetruesize.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

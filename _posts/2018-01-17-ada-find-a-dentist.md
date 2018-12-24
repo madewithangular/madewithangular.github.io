@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: ada-find-a-dentist
 link: https://findadentist.ada.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

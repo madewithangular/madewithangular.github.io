@@ -9,5 +9,6 @@ minor: 2
 patch: 23
 slug: barneys-new-york
 link: http://www.barneys.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

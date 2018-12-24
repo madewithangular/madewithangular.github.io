@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: eircode-finder
 link: https://finder.eircode.ie/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

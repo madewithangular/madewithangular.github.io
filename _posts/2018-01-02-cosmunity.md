@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: cosmunity
 link: https://www.cosmunity.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

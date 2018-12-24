@@ -9,5 +9,6 @@ minor: 3
 patch: 17
 slug: american-red-cross
 link: http://www.redcross.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

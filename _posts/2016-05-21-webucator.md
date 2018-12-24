@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: webucator
 link: https://www.webucator.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

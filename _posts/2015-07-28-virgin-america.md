@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: virgin-america
 link: https://www.virginamerica.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

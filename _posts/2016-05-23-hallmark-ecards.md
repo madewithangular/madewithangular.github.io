@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: hallmark-ecards
 link: https://www.hallmarkecards.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: jp-enterprises
 link: https://www.jpenterprises.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

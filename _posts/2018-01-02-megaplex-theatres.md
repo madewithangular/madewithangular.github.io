@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: megaplex-theatres
 link: https://www.megaplextheatres.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

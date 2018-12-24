@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: cambridge-public-eschool
 link: http://cambridgeinstitutions.edu.in/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

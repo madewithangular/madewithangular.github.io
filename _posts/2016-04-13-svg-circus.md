@@ -9,5 +9,6 @@ minor: 2
 patch: 19
 slug: svg-circus
 link: http://svgcircus.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 25
 slug: dashscope
 link: http://dashscope.tv/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

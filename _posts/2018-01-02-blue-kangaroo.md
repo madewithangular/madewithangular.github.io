@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: blue-kangaroo
 link: https://www.bluekangaroo.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

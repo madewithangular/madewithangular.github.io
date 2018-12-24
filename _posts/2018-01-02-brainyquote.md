@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: brainyquote
 link: https://www.brainyquote.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: sole-collector
 link: https://solecollector.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

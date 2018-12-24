@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: metasploit
 link: https://metasploit.help.rapid7.com/docs
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

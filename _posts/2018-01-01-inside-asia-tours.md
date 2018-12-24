@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: inside-asia-tours
 link: https://www.insideasiatours.com/step-inside/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 1
 patch: 2
 slug: orange-boosted-with-angular
 link: http://ng-boosted.orange.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 1
 slug: mcdonalds
 link: https://www.mcdonalds.com/us/en-us.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

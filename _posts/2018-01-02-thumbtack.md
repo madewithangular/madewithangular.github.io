@@ -9,5 +9,6 @@ minor: 2
 patch: 28
 slug: thumbtack
 link: https://www.thumbtack.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

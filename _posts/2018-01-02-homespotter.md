@@ -9,5 +9,6 @@ minor: 2
 patch: 23
 slug: homespotter
 link: https://homespotter.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

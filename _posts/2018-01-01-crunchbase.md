@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: crunchbase
 link: http://www.crunchbase.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

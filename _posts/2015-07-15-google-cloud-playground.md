@@ -9,5 +9,6 @@ minor: 2
 patch: 0
 slug: google-cloud-playground
 link: https://cloud-playground.appspot.com/playground/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

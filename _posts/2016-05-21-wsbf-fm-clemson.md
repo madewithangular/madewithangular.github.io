@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: wsbf-fm-clemson
 link: https://wsbf.net/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

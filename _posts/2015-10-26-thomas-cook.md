@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: thomas-cook
 link: https://www.thomascook.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

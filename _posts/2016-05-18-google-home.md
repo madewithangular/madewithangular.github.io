@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: google-home
 link: https://home.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

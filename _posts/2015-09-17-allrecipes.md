@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: allrecipes
 link: http://allrecipes.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

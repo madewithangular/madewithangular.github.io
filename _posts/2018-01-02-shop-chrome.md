@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: shop-chrome
 link: https://chromebusinessdevices.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

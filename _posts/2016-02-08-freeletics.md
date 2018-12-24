@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: freeletics
 link: https://www.freeletics.com/en
+submitter: Akallabet
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: lo-flo-records
 link: http://loflorecords.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

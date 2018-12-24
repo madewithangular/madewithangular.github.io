@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: power-spins
 link: https://www.powerspins.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: whitewall
 link: https://m.whitewall.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

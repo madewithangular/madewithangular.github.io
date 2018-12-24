@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: souqalmal
 link: http://www.souqalmal.com/ae-en
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 1
 slug: international-womens-day
 link: https://landing.google.com/onedayiwill/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: google-transformation-gallery
 link: https://transformationgallery.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

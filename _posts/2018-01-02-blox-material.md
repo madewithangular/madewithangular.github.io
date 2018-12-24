@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: blox-material
 link: https://blox.src.zone/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

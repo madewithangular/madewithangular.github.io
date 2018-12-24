@@ -9,5 +9,6 @@ minor: 3
 patch: 8
 slug: car-and-driver-car-buying-service
 link: https://carbuying.caranddriver.com/main.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

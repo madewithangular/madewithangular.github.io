@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: the-keyword
 link: https://blog.google/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: comptoir-des-savonniers
 link: http://www.comptoir-des-savonniers.com/#!/en/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

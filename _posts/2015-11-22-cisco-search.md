@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: cisco-search
 link: http://search.cisco.com/search?tab=Cisco
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

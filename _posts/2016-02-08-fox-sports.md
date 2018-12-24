@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: fox-sports
 link: http://www.foxsports.com/nfl/story/peyton-manning-denver-broncos-win-super-bowl-50-carolina-panthers-020716
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: hawaiian-airlines
 link: https://www.hawaiianairlines.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

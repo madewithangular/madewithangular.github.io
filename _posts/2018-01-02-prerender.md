@@ -9,5 +9,6 @@ minor: 2
 patch: 5
 slug: prerender
 link: https://prerender.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

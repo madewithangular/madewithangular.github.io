@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: angularjs-tetris
 link: http://angulartetris20170918013407.azurewebsites.net/AngularJS-App/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: free-keyword-research-tool-from-wordtracker
 link: https://www.wordtracker.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

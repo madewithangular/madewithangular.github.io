@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: sapient-consulting
 link: https://www.sapientconsulting.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

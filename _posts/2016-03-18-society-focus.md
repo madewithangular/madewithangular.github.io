@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: society-focus
 link: http://societyfocus.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: tribetron
 link: http://ukkosnetti.fi/tribetron
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

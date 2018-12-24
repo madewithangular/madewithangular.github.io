@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-analytics
 link: http://www.google.com/analytics/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

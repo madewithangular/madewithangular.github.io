@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: remember-the-milk
 link: https://www.rememberthemilk.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

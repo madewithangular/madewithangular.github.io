@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-kickstart
 link: https://code.google.com/codejam/kickstart/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

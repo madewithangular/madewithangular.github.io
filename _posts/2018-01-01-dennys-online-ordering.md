@@ -9,5 +9,6 @@ minor: 3
 patch: 3
 slug: dennys-online-ordering
 link: https://order.dennys.com/locations
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

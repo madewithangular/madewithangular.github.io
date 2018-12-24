@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: resilio-help
 link: https://help.resilio.com/hc/en-us
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

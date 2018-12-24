@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: chart-minder
 link: http://www.chart-minder.com/
+submitter: amillward
 permalink: /sites/:slug
 ---

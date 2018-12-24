@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: findmore-consulting
 link: http://findmore.pt/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: greenwich-mean-time
 link: https://greenwichmeantime.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 16
 slug: compressor-io
 link: https://compressor.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

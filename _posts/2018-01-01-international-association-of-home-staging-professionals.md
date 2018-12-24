@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: international-association-of-home-staging-professionals
 link: https://iahsp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

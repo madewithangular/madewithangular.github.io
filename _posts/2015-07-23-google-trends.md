@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-trends
 link: https://www.google.com/trends/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

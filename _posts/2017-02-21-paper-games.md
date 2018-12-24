@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: paper-games
 link: http://papergames.io/#/en
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: 2016-summer-olympics
 link: http://www.nbcolympics.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

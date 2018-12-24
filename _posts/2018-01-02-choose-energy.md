@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: choose-energy
 link: https://www.chooseenergy.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

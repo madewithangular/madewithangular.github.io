@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: devintent
 link: https://www.devintent.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 16
 slug: abby-seymour
 link: http://abbyseymour.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

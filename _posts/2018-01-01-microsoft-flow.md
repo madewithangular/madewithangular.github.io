@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: microsoft-flow
 link: https://flow.microsoft.com/en-us/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

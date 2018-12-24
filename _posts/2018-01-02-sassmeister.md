@@ -9,5 +9,6 @@ minor: 6
 patch: 3
 slug: sassmeister
 link: https://www.sassmeister.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

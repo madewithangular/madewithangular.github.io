@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: the-good-will-out
 link: https://www.thegoodwillout.de/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

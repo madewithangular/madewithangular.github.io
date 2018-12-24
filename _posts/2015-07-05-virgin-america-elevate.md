@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: virgin-america-elevate
 link: https://www.virginamerica.com/cms/elevate-frequent-flyer
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

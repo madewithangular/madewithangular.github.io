@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: gradient-ventures
 link: https://gradient.google/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

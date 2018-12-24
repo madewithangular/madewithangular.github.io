@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: netgear-communities
 link: https://community.netgear.com/t5/English/ct-p/English
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

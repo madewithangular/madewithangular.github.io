@@ -9,5 +9,6 @@ minor: 2
 patch: 9
 slug: cloud-player
 link: https://cloud-player.io
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

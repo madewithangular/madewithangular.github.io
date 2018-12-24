@@ -9,5 +9,6 @@ minor: 2
 patch: 23
 slug: mercedes-benz
 link: http://video.mercedes-benz.co.uk/#!/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

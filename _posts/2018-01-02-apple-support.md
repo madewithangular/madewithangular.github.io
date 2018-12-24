@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: apple-support
 link: https://getsupport.apple.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

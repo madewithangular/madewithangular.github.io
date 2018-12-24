@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: powermylearning
 link: http://powermylearning.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: google-for-education
 link: https://www.google.com/edu/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

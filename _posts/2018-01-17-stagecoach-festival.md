@@ -9,5 +9,6 @@ minor: 3
 patch: 3
 slug: stagecoach-festival
 link: http://www.stagecoachfestival.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

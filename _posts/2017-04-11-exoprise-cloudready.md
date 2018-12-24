@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: exoprise-cloudready
 link: https://secure.exoprise.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

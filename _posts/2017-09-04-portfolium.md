@@ -9,5 +9,6 @@ minor: 6
 patch: 3
 slug: portfolium
 link: https://portfolium.com
+submitter: peterdorsi
 permalink: /sites/:slug
 ---

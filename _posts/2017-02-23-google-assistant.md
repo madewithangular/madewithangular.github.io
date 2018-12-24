@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-assistant
 link: https://assistant.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

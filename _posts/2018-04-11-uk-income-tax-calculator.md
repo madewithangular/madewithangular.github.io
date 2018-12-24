@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: uk-income-tax-calculator
 link: https://www.income-tax.co.uk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

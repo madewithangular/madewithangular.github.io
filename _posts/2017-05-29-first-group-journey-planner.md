@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: first-group-journey-planner
 link: https://www.firstgroup.com/journey-planner/
+submitter: circularone
 permalink: /sites/:slug
 ---

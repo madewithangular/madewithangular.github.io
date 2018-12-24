@@ -9,5 +9,6 @@ minor: 3
 patch: 3
 slug: goarmy-edge
 link: https://www.goarmyedge.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

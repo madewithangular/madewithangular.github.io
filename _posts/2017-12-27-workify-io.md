@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: workify-io
 link: https://workify.io/
+submitter: spinningideas
 permalink: /sites/:slug
 ---

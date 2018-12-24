@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: city-toronto
 link: https://www.citytv.com/toronto/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

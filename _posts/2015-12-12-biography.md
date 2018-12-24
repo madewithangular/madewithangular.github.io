@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: biography
 link: http://www.biography.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

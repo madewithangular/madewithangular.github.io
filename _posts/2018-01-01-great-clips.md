@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: great-clips
 link: https://www.greatclips.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

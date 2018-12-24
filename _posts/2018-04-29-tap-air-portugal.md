@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: tap-air-portugal
 link: https://www.flytap.com/en-us/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

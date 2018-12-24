@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: premier-inn
 link: http://www.premierinn.com/gb/en/home.html
+submitter: Akallabet
 permalink: /sites/:slug
 ---

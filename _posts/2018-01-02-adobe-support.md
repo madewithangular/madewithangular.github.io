@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: adobe-support
 link: https://helpx.adobe.com/support.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

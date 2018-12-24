@@ -9,5 +9,6 @@ minor: 6
 patch: 0
 slug: codecraft
 link: https://codecraft.tv/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

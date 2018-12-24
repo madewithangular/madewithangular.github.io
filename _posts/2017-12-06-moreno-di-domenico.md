@@ -9,5 +9,6 @@ minor: 6
 patch: 5
 slug: moreno-di-domenico
 link: https://morenodd.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

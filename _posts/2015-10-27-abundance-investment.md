@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: abundance-investment
 link: https://www.abundanceinvestment.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

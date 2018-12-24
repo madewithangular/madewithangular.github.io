@@ -9,5 +9,6 @@ minor: 3
 patch: 6
 slug: jackspath
 link: https://jackspath.nau.edu/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

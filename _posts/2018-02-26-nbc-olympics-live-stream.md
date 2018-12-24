@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: nbc-olympics-live-stream
 link: https://stream.nbcolympics.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

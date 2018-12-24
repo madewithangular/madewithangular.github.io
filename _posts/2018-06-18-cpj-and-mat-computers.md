@@ -9,5 +9,6 @@ minor: 2
 patch: 10
 slug: cpj-and-mat-computers
 link: https://www.cpjandmatcomps.tech/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

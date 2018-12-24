@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: bottlerock-napa-valley
 link: http://www.bottlerocknapavalley.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

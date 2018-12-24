@@ -9,5 +9,6 @@ minor: 2
 patch: 20
 slug: shree-intl-diamonds
 link: http://www.shreeintl.com/app/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

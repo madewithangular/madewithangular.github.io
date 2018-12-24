@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: bodybuilding
 link: http://www.bodybuilding.com/
+submitter: DrewML
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: expeditie-wadden
 link: https://www.expeditiewadden.nl/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

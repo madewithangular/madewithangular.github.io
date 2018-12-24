@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: startup-with-google
 link: https://startup.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

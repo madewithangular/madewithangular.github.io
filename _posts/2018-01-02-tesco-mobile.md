@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: tesco-mobile
 link: https://www.tescomobile.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: backpacker-magazine
 link: https://www.backpacker.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

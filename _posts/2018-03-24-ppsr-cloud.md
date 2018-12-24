@@ -9,5 +9,6 @@ minor: 2
 patch: 8
 slug: ppsr-cloud
 link: https://ppsr.cloud/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

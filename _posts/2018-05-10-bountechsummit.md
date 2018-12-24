@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: bountechsummit
 link: https://bountechsummit.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: trello-developers
 link: https://trello.readme.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

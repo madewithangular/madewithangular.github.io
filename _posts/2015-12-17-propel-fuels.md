@@ -9,5 +9,6 @@ minor: 4
 patch: 3
 slug: propel-fuels
 link: https://propelfuels.com/
+submitter: peteshilling
 permalink: /sites/:slug
 ---

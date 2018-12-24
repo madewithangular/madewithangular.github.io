@@ -9,5 +9,6 @@ minor: 4
 patch: 0
 slug: air-canada
 link: https://www.aircanada.com/ca/en/aco/home.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

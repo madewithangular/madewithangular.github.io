@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: intuit-developer
 link: https://developer.intuit.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

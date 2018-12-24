@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-play-newsstand
 link: https://newsstand.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

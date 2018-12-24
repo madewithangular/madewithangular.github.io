@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: mygreatrecipes
 link: https://www.mygreatrecipes.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

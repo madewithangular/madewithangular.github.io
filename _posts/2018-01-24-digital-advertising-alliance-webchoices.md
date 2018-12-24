@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: digital-advertising-alliance-webchoices
 link: http://optout.aboutads.info/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

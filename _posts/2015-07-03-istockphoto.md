@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: istockphoto
 link: http://www.istockphoto.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

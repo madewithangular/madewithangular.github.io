@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: wisen-softech
 link: http://wisensoftech.com/Home/Index
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

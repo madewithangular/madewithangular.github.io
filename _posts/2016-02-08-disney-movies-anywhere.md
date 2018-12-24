@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: disney-movies-anywhere
 link: https://www.disneymoviesanywhere.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

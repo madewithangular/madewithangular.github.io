@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: angular-universal-pwa
 link: https://www.angular-universal-pwa.maciejtreder.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

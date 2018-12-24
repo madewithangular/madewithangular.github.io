@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-home-mini-donut-shop
 link: https://donuts.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: npm-semantic-version-calculator
 link: https://semver.npmjs.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

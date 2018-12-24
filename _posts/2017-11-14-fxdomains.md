@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: fxdomains
 link: https://www.fxdomains.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

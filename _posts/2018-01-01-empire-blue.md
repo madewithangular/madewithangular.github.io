@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: empire-blue
 link: https://www.empireblue.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

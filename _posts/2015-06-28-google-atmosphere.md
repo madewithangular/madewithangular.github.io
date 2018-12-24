@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: google-atmosphere
 link: https://atmosphere.withgoogle.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

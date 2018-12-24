@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: happilist
 link: https://happilist.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

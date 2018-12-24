@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: dronestock-seller-site
 link: https://seller.dronestock.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

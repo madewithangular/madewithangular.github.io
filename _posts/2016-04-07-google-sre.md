@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: google-sre
 link: https://landing.google.com/sre/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

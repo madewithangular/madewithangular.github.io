@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: salon-home
 link: http://www.salonhome.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

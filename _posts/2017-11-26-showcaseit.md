@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: showcaseit
 link: https://showcase-it.firebaseapp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

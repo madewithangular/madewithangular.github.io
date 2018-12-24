@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: blue-origin
 link: https://www.blueorigin.com
+submitter: gdi2290
 permalink: /sites/:slug
 ---

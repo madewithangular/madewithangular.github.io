@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: urlaubszeit
 link: https://www.urlaubszeit.de/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

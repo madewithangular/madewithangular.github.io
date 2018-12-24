@@ -9,5 +9,6 @@ minor: 2
 patch: 18
 slug: metrolyrics
 link: http://www.metrolyrics.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

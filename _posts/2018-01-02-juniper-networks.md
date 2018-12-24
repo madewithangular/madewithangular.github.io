@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: juniper-networks
 link: https://www.juniper.net/us/en/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

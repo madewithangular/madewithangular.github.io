@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: giffgaff-community
 link: https://community.giffgaff.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

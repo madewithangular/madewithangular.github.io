@@ -9,5 +9,6 @@ minor: 3
 patch: 14
 slug: dominos-br
 link: http://www.dominos.com.br/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

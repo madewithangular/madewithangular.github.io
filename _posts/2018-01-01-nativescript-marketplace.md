@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: nativescript-marketplace
 link: https://market.nativescript.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

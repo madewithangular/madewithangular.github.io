@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: royal-caribbean
 link: https://secure.royalcaribbean.com/cruises/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

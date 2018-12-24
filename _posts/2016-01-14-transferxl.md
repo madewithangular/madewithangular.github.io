@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: transferxl
 link: https://transferxl.com/
+submitter: ramondeklein
 permalink: /sites/:slug
 ---

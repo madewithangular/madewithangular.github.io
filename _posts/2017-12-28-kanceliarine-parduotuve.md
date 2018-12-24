@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: kanceliarine-parduotuve
 link: https://kanceliarineparduotuve.lt/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

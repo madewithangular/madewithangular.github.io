@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: nationposts-com
 link: http://nationposts.com/#/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

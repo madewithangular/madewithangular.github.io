@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: tommy-john
 link: https://www.tommyjohn.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: the-weather-channel
 link: https://edit.weather.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

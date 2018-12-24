@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: culture-trip
 link: https://theculturetrip.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

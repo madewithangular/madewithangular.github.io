@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: virtocommerce
 link: http://virtocommerce.com
+submitter: Woland2k
 permalink: /sites/:slug
 ---

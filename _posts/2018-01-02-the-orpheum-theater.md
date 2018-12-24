@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: the-orpheum-theater
 link: http://www.madisonorpheum.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: friluftsland
 link: https://www.friluftsland.dk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

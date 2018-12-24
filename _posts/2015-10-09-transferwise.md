@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: transferwise
 link: https://transferwise.com/
+submitter: matteogamba
 permalink: /sites/:slug
 ---

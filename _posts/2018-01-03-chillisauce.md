@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: chillisauce
 link: https://chillisauce.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

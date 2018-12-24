@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: microsoft-support
 link: https://support.microsoft.com/en-us
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

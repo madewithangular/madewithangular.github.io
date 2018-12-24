@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: electricity-north-west
 link: https://www.enwl.co.uk/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

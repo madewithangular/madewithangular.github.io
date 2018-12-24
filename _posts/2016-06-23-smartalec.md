@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: smartalec
 link: https://smartalec.com/
+submitter: vlamic
 permalink: /sites/:slug
 ---

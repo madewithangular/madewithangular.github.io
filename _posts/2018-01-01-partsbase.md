@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: partsbase
 link: https://www.partsbase.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

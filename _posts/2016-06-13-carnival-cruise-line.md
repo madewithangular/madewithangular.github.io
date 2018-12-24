@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: carnival-cruise-line
 link: http://www.carnival.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

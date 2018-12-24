@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-cast
 link: https://www.google.com/cast/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

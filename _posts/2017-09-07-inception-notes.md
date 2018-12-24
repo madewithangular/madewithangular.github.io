@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: inception-notes
 link: http://inceptionnotes.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

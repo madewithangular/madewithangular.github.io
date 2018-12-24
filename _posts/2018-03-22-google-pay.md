@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-pay
 link: https://pay.google.com/send/home?authuser=0
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

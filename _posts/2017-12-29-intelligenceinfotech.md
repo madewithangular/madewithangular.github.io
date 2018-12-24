@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: intelligenceinfotech
 link: http://www.angular-artist.com/#/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

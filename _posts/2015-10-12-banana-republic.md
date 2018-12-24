@@ -9,5 +9,6 @@ minor: 2
 patch: 12
 slug: banana-republic
 link: https://secure-bananarepublic.gap.com/buy/shopping_bag.do
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

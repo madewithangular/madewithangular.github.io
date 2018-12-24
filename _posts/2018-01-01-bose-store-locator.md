@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: bose-store-locator
 link: https://www.bose.com/en_us/store_locator.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

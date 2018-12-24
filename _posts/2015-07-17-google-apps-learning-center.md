@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-apps-learning-center
 link: http://learn.googleapps.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

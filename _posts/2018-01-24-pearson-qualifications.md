@@ -9,5 +9,6 @@ minor: 2
 patch: 4
 slug: pearson-qualifications
 link: http://qualifications.pearson.com/en/home.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

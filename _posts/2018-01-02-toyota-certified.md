@@ -9,5 +9,6 @@ minor: 2
 patch: 6
 slug: toyota-certified
 link: https://www.toyotacertified.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

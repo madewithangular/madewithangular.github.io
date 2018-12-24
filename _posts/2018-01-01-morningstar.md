@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: morningstar
 link: http://www.morningstar.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

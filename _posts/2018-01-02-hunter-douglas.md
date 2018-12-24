@@ -9,5 +9,6 @@ minor: 3
 patch: 6
 slug: hunter-douglas
 link: https://www.hunterdouglas.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: mailerlite
 link: https://www.mailerlite.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

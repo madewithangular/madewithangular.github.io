@@ -9,5 +9,6 @@ minor: 2
 patch: 26
 slug: zumba-fitness
 link: https://www.zumba.com/en-US
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

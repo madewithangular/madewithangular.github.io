@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: universe-pay
 link: http://universepay.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

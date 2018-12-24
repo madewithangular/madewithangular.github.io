@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: national-machine
 link: https://nationalmachine.co/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

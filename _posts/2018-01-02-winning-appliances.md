@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: winning-appliances
 link: https://www.winningappliances.com.au/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

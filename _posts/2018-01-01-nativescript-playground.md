@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: nativescript-playground
 link: https://play.nativescript.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: chase-center
 link: http://www.chasecenter.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

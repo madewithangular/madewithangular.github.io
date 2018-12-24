@@ -9,5 +9,6 @@ minor: 2
 patch: 19
 slug: aer-lingus
 link: https://www.aerlingus.com/html/en-IE/home.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

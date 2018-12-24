@@ -9,5 +9,6 @@ minor: 6
 patch: 2
 slug: planet-of-finance
 link: https://planetoffinance.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

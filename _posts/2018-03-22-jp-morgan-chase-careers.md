@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: jp-morgan-chase-careers
 link: https://careers.jpmorgan.com/careers/US/en/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: chevrolet
 link: http://www.chevrolet.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

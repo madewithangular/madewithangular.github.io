@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: mailfinder
 link: https://mailfinder.io/app
+submitter: mailfinder
 permalink: /sites/:slug
 ---

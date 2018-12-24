@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: digital-wellbeing
 link: https://wellbeing.google/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

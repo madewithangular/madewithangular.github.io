@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: make-it-happen-world
 link: http://makeithappenworld.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

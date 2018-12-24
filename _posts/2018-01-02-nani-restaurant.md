@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: nani-restaurant
 link: http://nanirestaurant.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

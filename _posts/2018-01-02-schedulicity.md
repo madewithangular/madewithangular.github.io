@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: schedulicity
 link: https://www.schedulicity.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

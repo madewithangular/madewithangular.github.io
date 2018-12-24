@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: universal-orlando
 link: https://www.universalorlando.com/web/en/us/index.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

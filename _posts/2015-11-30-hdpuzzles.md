@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: hdpuzzles
 link: http://www.hdpuzzles.com/#/
+submitter: ErikNijland
 permalink: /sites/:slug
 ---

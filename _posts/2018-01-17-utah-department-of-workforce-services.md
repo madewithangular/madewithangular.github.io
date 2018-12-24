@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: utah-department-of-workforce-services
 link: https://jobs.utah.gov/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

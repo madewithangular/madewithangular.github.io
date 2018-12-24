@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: reddit-grid
 link: https://redditgrid.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

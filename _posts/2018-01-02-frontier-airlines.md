@@ -9,5 +9,6 @@ minor: 2
 patch: 19
 slug: frontier-airlines
 link: https://frontier.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

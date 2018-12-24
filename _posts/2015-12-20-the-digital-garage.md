@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: the-digital-garage
 link: https://digitalgarage.withgoogle.com/
+submitter: johannes-weber
 permalink: /sites/:slug
 ---

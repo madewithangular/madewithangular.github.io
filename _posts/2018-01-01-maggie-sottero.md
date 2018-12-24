@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: maggie-sottero
 link: https://www.maggiesottero.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

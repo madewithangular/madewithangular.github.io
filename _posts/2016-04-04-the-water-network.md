@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: the-water-network
 link: https://thewaternetwork.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

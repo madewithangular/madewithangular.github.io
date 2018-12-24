@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: qlik-sense
 link: https://qlikcloud.com/cloudhub/personal
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

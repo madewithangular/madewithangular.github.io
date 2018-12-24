@@ -9,5 +9,6 @@ minor: 2
 patch: 28
 slug: microsoft-office-support
 link: https://support.office.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

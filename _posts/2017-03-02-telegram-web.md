@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: telegram-web
 link: https://web.telegram.org
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 10
 slug: ikondirekt
 link: https://www.ikondirekt.com/
+submitter: everettqin
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: websequencediagrams
 link: https://www.websequencediagrams.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: crafted-by-love
 link: http://www.craftedbylove.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: techprimelab
 link: http://www.techprimelab.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

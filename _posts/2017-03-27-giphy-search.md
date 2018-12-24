@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: giphy-search
 link: https://codigorefinado.github.io/giphy-search/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

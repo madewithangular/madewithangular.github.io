@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: hn-algolia
 link: https://hn.algolia.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

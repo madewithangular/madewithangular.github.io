@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: cosmocaixa
 link: https://proticketing.com/cosmocaixabarcelona/es_ES/entradas/evento/4429
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

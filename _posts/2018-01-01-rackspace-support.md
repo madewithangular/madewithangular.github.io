@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: rackspace-support
 link: https://support.rackspace.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

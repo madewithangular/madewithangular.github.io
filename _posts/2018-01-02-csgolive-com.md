@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: csgolive-com
 link: https://www.csgolive.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

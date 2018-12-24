@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: mapmyphotos
 link: https://www.mapmyphotos.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

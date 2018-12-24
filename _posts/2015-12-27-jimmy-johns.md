@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: jimmy-johns
 link: https://online.jimmyjohns.com/#/login
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

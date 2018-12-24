@@ -9,5 +9,6 @@ minor: 0
 patch: 1
 slug: the-pizza-pedalr
 link: http://www.pizzapedalr.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

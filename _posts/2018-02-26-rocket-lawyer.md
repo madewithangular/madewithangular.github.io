@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: rocket-lawyer
 link: https://www.rocketlawyer.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

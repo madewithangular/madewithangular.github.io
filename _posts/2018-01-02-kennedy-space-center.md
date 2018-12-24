@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: kennedy-space-center
 link: https://www.kennedyspacecenter.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

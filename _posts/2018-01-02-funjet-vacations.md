@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: funjet-vacations
 link: http://www.funjet.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 12
 slug: scale-api-docs
 link: http://docs.scaleapi.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

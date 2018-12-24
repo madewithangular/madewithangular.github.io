@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: wix-developer
 link: https://dev.wix.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: timbuk2-bags
 link: https://www.timbuk2.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

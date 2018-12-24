@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: hp-customer-support
 link: https://support.hp.com/us-en?openCLC=true
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

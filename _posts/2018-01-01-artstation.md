@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: artstation
 link: https://www.artstation.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

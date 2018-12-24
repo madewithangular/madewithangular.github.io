@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: league-of-legends-champions
 link: http://www.lolking.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

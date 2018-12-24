@@ -9,5 +9,6 @@ minor: 5
 patch: 7
 slug: shopyak-optimized-store-builder
 link: https://shopyak.com/
+submitter: jamesanthonyferguson
 permalink: /sites/:slug
 ---

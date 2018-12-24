@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: digitalrev
 link: https://www.digitalrev.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

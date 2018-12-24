@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: machinelabs
 link: https://machinelabs.ai/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

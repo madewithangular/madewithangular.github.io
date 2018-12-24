@@ -9,5 +9,6 @@ minor: 4
 patch: 2
 slug: duke-energy
 link: https://www.duke-energy.com/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: sky-community
 link: http://helpforum.sky.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

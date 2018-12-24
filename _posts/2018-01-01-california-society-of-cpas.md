@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: california-society-of-cpas
 link: http://www.calcpa.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

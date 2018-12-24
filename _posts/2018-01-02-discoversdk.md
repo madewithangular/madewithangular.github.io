@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: discoversdk
 link: http://www.discoversdk.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

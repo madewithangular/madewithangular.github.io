@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: jachta-chorvatsko
 link: https://www.jachta-chorvatsko.cz
+submitter: jamajamik
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: angular-air
 link: http://angularair.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

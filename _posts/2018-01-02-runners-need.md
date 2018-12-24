@@ -9,5 +9,6 @@ minor: 6
 patch: 8
 slug: runners-need
 link: https://www.runnersneed.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

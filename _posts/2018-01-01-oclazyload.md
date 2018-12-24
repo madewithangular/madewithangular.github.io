@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: oclazyload
 link: https://oclazyload.readme.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

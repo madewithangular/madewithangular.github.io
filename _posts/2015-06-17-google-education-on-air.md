@@ -9,5 +9,6 @@ minor: 6
 patch: 5
 slug: google-education-on-air
 link: https://educationonair.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

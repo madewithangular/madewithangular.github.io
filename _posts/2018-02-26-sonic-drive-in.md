@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: sonic-drive-in
 link: https://www.sonicdrivein.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: wwf-climate-crowd
 link: https://www.wwfclimatecrowd.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

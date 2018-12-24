@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: chicago-public-schools
 link: http://go.cps.edu/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

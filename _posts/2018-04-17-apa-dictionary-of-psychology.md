@@ -9,5 +9,6 @@ minor: 0
 patch: 0
 slug: apa-dictionary-of-psychology
 link: http://dictionary.apa.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

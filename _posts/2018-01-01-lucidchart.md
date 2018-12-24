@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: lucidchart
 link: https://www.lucidchart.com/documents/edit/3faa2021-fc4a-4312-bada-cd6e4d9f88bd?demo=on#?
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

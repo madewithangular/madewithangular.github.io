@@ -9,5 +9,6 @@ minor: 2
 patch: 26
 slug: australia-com
 link: http://www.australia.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

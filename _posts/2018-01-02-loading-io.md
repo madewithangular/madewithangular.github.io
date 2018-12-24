@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: loading-io
 link: https://loading.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

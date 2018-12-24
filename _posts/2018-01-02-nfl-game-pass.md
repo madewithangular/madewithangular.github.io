@@ -9,5 +9,6 @@ minor: 0
 patch: 3
 slug: nfl-game-pass
 link: https://www.nflgamepass.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

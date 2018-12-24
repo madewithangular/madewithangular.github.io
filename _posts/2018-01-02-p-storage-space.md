@@ -9,5 +9,6 @@ minor: 6
 patch: 2
 slug: p-storage-space
 link: https://pstorage.space/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

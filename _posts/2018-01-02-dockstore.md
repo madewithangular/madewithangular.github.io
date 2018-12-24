@@ -9,5 +9,6 @@ minor: 3
 patch: 6
 slug: dockstore
 link: https://dockstore.org/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

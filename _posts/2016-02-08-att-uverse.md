@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: att-uverse
 link: http://uverse.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

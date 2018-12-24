@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-analytics-academy
 link: https://analytics.google.com/analytics/academy/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: mongosilakan
 link: http://mongosilakan.net/#/translate
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

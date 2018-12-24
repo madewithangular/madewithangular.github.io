@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: anthem-health-insurance,-medicare,-&-group-health-plans
 link: https://www.anthem.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: uber-fare-finder
 link: https://uberfarefinder.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

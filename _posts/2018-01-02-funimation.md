@@ -9,5 +9,6 @@ minor: 4
 patch: 5
 slug: funimation
 link: https://www.funimation.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

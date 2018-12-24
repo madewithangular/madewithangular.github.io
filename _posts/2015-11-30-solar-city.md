@@ -9,5 +9,6 @@ minor: 2
 patch: 13
 slug: solar-city
 link: https://mysolarcity.com/
+submitter: gdi2290
 permalink: /sites/:slug
 ---

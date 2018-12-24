@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-apps-for-work
 link: https://www.google.com/intx/en/work/apps/business/index.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

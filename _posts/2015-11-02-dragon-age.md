@@ -9,5 +9,6 @@ minor: 4
 patch: 9
 slug: dragon-age
 link: https://www.dragonage.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: saywhat-hearing
 link: https://saywhathearing.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

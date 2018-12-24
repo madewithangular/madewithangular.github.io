@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: frontline-performance-group
 link: http://www.frontlinepg.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

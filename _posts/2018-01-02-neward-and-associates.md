@@ -9,5 +9,6 @@ minor: 2
 patch: 10
 slug: neward-and-associates
 link: http://www.newardassociates.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

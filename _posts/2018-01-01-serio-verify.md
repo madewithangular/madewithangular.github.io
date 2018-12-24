@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: serio-verify
 link: https://serioverify.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

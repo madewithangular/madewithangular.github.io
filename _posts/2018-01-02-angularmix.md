@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: angularmix
 link: https://angularmix.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

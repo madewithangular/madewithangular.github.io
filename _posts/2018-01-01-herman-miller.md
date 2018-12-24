@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: herman-miller
 link: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/aeron-remastered/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

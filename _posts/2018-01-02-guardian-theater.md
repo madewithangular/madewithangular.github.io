@@ -9,5 +9,6 @@ minor: 0
 patch: 2
 slug: guardian-theater
 link: https://guardian.theater/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

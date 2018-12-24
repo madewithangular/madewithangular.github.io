@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-partners
 link: https://www.google.com/partners
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

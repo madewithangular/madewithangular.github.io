@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: xfinity-speed-test
 link: http://speedtest.xfinity.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

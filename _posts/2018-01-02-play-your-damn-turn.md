@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: play-your-damn-turn
 link: https://www.playyourdamnturn.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

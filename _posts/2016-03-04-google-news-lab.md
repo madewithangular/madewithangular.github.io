@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: google-news-lab
 link: https://newslab.withgoogle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

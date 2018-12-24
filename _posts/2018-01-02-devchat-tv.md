@@ -9,5 +9,6 @@ minor: 2
 patch: 26
 slug: devchat-tv
 link: https://devchat.tv/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

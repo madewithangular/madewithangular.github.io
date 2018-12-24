@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: global-weather-data-for-swat
 link: https://globalweather.tamu.edu/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

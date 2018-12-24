@@ -9,5 +9,6 @@ minor: 2
 patch: 13
 slug: newegg-vendor-portal
 link: https://vendorportal.newegg.com/
+submitter: andreshen
 permalink: /sites/:slug
 ---

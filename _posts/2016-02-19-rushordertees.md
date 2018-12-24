@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: rushordertees
 link: http://www.rushordertees.com/design/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

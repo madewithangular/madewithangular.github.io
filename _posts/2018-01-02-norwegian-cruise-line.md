@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: norwegian-cruise-line
 link: https://www.ncl.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

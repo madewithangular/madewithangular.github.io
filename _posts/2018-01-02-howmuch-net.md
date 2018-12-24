@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: howmuch-net
 link: https://howmuch.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

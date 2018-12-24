@@ -9,5 +9,6 @@ minor: 3
 patch: 8
 slug: hayneedle
 link: http://www.hayneedle.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

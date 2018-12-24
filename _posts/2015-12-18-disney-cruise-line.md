@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: disney-cruise-line
 link: https://disneycruise.disney.go.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: wix-support
 link: https://support.wix.com/en
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

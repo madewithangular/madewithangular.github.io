@@ -9,5 +9,6 @@ minor: 4
 patch: 4
 slug: boost-mobile
 link: https://www.boostmobile.com/#!/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

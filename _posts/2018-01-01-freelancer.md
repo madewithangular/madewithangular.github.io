@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: freelancer
 link: https://www.freelancer.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

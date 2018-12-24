@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: theatre-tickets-cart
 link: https://www.teatroeltriciclo.com/boleteria
+submitter: cquirosj
 permalink: /sites/:slug
 ---

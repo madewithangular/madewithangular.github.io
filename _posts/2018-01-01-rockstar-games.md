@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: rockstar-games
 link: http://www.rockstargames.com/bully/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

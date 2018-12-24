@@ -9,5 +9,6 @@ minor: 2
 patch: 11
 slug: bellechic
 link: https://www.bellechic.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 0
 patch: 2
 slug: actions-on-google-wizard
 link: https://actions.cloud/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

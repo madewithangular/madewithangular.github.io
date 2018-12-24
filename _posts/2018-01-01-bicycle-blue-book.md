@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: bicycle-blue-book
 link: https://articles.bicyclebluebook.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

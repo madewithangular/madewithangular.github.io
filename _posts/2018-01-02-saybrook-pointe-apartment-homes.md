@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: saybrook-pointe-apartment-homes
 link: https://www.saybrookpointe.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

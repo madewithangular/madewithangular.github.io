@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: itunes-connect
 link: https://itunesconnect.apple.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

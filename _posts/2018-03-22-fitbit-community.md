@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: fitbit-community
 link: https://community.fitbit.com/t5/Community/ct-p/EN
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

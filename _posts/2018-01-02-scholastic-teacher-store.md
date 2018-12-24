@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: scholastic-teacher-store
 link: https://shop.scholastic.com/teachers-ecommerce/audiences/tsohomepage.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

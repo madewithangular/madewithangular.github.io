@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: stackshare
 link: https://stackshare.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

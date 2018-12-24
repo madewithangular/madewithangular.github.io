@@ -9,5 +9,6 @@ minor: 5
 patch: 6
 slug: react-training
 link: https://courses.reacttraining.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

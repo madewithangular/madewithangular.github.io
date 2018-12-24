@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: onesignal-docs
 link: https://documentation.onesignal.com/docs
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

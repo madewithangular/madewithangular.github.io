@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: nextontop
 link: https://www.nextontop.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

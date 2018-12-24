@@ -9,5 +9,6 @@ minor: 2
 patch: 19
 slug: monetizejs
 link: https://monetizejs.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

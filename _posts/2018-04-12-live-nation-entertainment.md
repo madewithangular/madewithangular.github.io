@@ -9,5 +9,6 @@ minor: 0
 patch: 7
 slug: live-nation-entertainment
 link: http://www.livenationentertainment.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

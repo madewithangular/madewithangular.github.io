@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: dave-and-busters
 link: http://www.daveandbusters.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

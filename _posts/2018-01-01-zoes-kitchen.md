@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: zoes-kitchen
 link: https://zoeskitchen.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

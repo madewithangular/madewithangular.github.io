@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: smarter-sudoku
 link: http://www.smartersudoku.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

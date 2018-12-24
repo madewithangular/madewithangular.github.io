@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: the-krazy-coupon-lady
 link: http://thekrazycouponlady.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

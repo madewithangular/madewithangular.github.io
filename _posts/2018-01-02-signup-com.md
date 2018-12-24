@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: signup-com
 link: https://signup.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

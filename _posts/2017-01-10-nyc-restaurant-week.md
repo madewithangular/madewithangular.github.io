@@ -9,5 +9,6 @@ minor: 5
 patch: 10
 slug: nyc-restaurant-week
 link: http://www.nycgo.com/restaurant-week
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

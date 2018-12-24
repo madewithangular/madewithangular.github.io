@@ -9,5 +9,6 @@ minor: 2
 patch: 19
 slug: mastercard
 link: https://www.mastercard.us/en-us.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

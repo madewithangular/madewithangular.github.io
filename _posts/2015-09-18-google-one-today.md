@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: google-one-today
 link: https://onetoday.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

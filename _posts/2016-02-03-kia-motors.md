@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: kia-motors
 link: http://www.kia.com/us/en/home
+submitter: areai51
 permalink: /sites/:slug
 ---

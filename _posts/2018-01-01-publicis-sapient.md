@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: publicis-sapient
 link: http://publicis.sapient.com/en-us.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

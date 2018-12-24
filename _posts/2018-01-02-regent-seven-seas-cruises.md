@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: regent-seven-seas-cruises
 link: https://www.rssc.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 6
 slug: radisson-blu
 link: https://www.radissonblu.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

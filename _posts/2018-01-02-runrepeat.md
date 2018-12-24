@@ -9,5 +9,6 @@ minor: 3
 patch: 2
 slug: runrepeat
 link: https://runrepeat.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

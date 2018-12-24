@@ -9,5 +9,6 @@ minor: 3
 patch: 14
 slug: docker-blog
 link: https://blog.docker.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

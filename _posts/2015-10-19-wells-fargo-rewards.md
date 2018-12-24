@@ -9,5 +9,6 @@ minor: 3
 patch: 9
 slug: wells-fargo-rewards
 link: https://mywellsfargorewards.com/#/welcome
+submitter: leblancmeneses 
 permalink: /sites/:slug
 ---

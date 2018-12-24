@@ -9,5 +9,6 @@ minor: 0
 patch: 8
 slug: crust-gourmet-pizza-bar
 link: https://www.crust.com.au/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

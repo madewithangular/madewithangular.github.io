@@ -9,5 +9,6 @@ minor: 2
 patch: 26
 slug: evans-cycles
 link: https://www.evanscycles.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

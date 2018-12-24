@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-tips
 link: https://get.google.com/tips/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

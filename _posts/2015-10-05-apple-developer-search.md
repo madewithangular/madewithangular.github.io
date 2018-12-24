@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: apple-developer-search
 link: https://developer.apple.com/search/?q=wwdc&type=Videos
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

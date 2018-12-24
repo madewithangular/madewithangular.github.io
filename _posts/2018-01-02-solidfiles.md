@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: solidfiles
 link: https://www.solidfiles.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

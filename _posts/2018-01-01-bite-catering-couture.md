@@ -9,5 +9,6 @@ minor: 4
 patch: 3
 slug: bite-catering-couture
 link: https://www.bitecatering.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

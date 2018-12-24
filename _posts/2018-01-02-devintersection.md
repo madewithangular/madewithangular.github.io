@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: devintersection
 link: https://www.devintersectioneurope.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 6
 patch: 1
 slug: google-allo
 link: https://allo.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

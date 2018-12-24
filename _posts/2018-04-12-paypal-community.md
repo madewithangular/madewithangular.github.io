@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: paypal-community
 link: https://www.paypal-community.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

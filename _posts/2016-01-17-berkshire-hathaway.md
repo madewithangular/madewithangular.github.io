@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: berkshire-hathaway
 link: https://www.bhtp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: cryptoworld
 link: http://www.cryptoworld.io/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

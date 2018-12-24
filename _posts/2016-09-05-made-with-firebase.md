@@ -9,5 +9,6 @@ minor: 6
 patch: 1
 slug: made-with-firebase
 link: https://madewithfirebase.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

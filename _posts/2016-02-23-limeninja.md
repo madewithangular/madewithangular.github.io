@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: limeninja
 link: http://lime.ninja/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

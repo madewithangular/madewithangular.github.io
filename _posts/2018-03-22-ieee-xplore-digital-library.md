@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: ieee-xplore-digital-library
 link: http://ieeexplore.ieee.org/Xplore/home.jsp
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: monterey-grove-apartments
 link: https://www.montereygrove.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 1
 slug: triathlon-de-toulouse
 link: http://www.triathlondetoulouse.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

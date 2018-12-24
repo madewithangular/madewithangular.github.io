@@ -9,5 +9,6 @@ minor: 2
 patch: 26
 slug: cliqstudios
 link: https://www.cliqstudios.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

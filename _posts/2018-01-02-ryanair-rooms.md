@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: ryanair-rooms
 link: https://rooms.ryanair.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

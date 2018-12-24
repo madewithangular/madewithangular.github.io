@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: 1millioncups-com
 link: http://www.1millioncups.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: map-of-life
 link: https://mol.org/datasets/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

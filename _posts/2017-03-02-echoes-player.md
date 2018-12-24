@@ -9,5 +9,6 @@ minor: 1
 patch: 2
 slug: echoes-player
 link: http://echoesplayer.com/#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

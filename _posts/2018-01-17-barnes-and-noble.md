@@ -9,5 +9,6 @@ minor: 0
 patch: 1
 slug: barnes-and-noble
 link: https://www.barnesandnoble.com/w/the-maze-runner-series-complete-collection-james-dashner/1118636173#/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

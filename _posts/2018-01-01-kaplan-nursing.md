@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: kaplan-nursing
 link: https://nit.kaplan.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

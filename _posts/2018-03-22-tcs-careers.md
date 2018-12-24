@@ -9,5 +9,6 @@ minor: 3
 patch: 15
 slug: tcs-careers
 link: https://careers.tcs.com/careers/index.html#/careers/NA/US
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

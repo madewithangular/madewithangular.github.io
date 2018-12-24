@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: outdoor-access
 link: https://outdooraccess.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

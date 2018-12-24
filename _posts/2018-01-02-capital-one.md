@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: capital-one
 link: https://www.capitalone.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

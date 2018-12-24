@@ -9,5 +9,6 @@ minor: 2
 patch: 2
 slug: ngx-restangular
 link: https://ngx-restangular.com/
+submitter: 2muchcoffeecom
 permalink: /sites/:slug
 ---

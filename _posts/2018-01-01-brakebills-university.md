@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: brakebills-university
 link: http://www.brakebillsu.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

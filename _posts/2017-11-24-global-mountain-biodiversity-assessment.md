@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: global-mountain-biodiversity-assessment
 link: http://mountainbiodiversity.org/explore
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

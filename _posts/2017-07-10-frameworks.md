@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: frameworks
 link: https://frameworks.ravigandhi.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

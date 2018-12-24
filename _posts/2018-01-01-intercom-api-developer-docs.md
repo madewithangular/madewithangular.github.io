@@ -9,5 +9,6 @@ minor: 3
 patch: 20
 slug: intercom-api-developer-docs
 link: https://developers.intercom.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

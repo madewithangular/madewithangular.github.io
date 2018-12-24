@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: lets-put-our-cities-on-the-map
 link: https://www.gybo.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

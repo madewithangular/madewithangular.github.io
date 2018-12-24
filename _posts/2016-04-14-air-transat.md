@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: air-transat
 link: http://www.airtransat.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

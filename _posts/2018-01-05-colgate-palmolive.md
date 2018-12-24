@@ -9,5 +9,6 @@ minor: 6
 patch: 7
 slug: colgate-palmolive
 link: https://www.colgatepalmolive.com/en-us
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

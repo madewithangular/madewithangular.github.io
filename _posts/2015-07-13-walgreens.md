@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: walgreens
 link: http://www.walgreens.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

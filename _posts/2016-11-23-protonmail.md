@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: protonmail
 link: https://mail.protonmail.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: virgin-mobile-canada
 link: http://www.virginmobile.ca/en/home/index.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

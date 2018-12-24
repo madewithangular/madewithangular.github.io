@@ -9,5 +9,6 @@ minor: 2
 patch: 32
 slug: brilliant-earth
 link: https://www.brilliantearth.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

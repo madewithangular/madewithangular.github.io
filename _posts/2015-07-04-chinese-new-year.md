@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: chinese-new-year
 link: https://chinesenewyear.withgoogle.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: blockchain-poker
 link: https://blockchain.poker/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

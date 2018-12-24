@@ -9,5 +9,6 @@ minor: 1
 patch: 3
 slug: sharp-healthcare
 link: https://www.sharp.com/san-diego-doctors/search
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

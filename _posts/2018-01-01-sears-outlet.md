@@ -9,5 +9,6 @@ minor: 2
 patch: 16
 slug: sears-outlet
 link: https://www.searsoutlet.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

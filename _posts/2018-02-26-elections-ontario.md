@@ -9,5 +9,6 @@ minor: 4
 patch: 10
 slug: elections-ontario
 link: https://eregistration.elections.on.ca/en/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

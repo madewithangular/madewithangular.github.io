@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: arcticweb
 link: https://arcticweb.e-navigation.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

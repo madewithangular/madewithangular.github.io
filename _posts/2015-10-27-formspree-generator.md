@@ -9,5 +9,6 @@ minor: 2
 patch: 0
 slug: formspree-generator
 link: http://formspree-generator.navjinder.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

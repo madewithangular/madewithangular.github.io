@@ -9,5 +9,6 @@ minor: 4
 patch: 6
 slug: angular2-instagram
 link: https://angular2-instagram.firebaseapp.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

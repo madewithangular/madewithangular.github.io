@@ -9,5 +9,6 @@ minor: 5
 patch: 8
 slug: made-by-google
 link: https://madeby.google.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

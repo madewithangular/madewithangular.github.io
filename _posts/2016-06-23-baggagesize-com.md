@@ -9,5 +9,6 @@ minor: 5
 patch: 0
 slug: baggagesize-com
 link: http://www.baggagesize.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

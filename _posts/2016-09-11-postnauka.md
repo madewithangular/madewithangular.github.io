@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: postnauka
 link: https://postnauka.ru
+submitter: Den-dp
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 2
 patch: 14
 slug: mgm-resorts
 link: https://www.mgmresorts.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

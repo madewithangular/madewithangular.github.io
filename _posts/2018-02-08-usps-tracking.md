@@ -9,5 +9,6 @@ minor: 4
 patch: 14
 slug: usps-tracking
 link: https://tools.usps.com/go/TrackConfirmAction_input
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

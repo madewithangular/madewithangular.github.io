@@ -9,5 +9,6 @@ minor: 2
 patch: 0
 slug: mame-smart-database
 link: https://msdb.lapli.fr/#/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

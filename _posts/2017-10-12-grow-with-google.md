@@ -9,5 +9,6 @@ minor: 6
 patch: 4
 slug: grow-with-google
 link: https://grow.google/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

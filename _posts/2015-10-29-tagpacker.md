@@ -9,5 +9,6 @@ minor: 5
 patch: 5
 slug: tagpacker
 link: http://tagpacker.com/
+submitter: cnmuc
 permalink: /sites/:slug
 ---

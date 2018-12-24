@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: sharepoint-conference-north-america
 link: https://www.sharepointna.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

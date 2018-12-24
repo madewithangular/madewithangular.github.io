@@ -9,5 +9,6 @@ minor: 3
 patch: 1
 slug: thinkorswim
 link: https://www.thinkorswim.com/t/innovation.html
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

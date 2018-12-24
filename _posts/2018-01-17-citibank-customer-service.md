@@ -9,5 +9,6 @@ minor: 3
 patch: 0
 slug: citibank-customer-service
 link: https://online.citi.com/US/ag/contactus
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 5
 patch: 11
 slug: remote-com
 link: https://remote.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

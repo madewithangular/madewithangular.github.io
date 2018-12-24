@@ -9,5 +9,6 @@ minor: 3
 patch: 14
 slug: chrome-music-lab
 link: https://musiclab.chromeexperiments.com/Experiments
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

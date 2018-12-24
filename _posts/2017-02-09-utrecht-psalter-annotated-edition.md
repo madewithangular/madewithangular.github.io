@@ -9,5 +9,6 @@ minor: 4
 patch: 7
 slug: utrecht-psalter-annotated-edition
 link: http://psalter.library.uu.nl/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

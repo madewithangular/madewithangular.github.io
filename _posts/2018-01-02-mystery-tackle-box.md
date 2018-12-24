@@ -9,5 +9,6 @@ minor: 2
 patch: 4
 slug: mystery-tackle-box
 link: https://mysterytacklebox.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 0
 slug: carphone-warehouse
 link: http://selfhelp.carphonewarehouse.com/SelfHelp/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

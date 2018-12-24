@@ -9,5 +9,6 @@ minor: 5
 patch: 3
 slug: project-sunday
 link: http://projectsunday.net/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

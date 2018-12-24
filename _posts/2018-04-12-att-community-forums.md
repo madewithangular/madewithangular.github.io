@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: att-community-forums
 link: https://forums.att.com
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

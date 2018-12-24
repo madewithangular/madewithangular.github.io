@@ -9,5 +9,6 @@ minor: 6
 patch: 6
 slug: hellofresh
 link: https://www.hellofresh.com/how-it-works
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

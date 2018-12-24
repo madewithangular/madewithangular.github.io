@@ -9,5 +9,6 @@ minor: 3
 patch: 14
 slug: maid-brigade
 link: https://www.maidbrigade.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

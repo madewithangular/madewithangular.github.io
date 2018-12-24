@@ -9,5 +9,6 @@ minor: 5
 patch: 9
 slug: google-diversity
 link: http://diversity.google/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 4
 patch: 8
 slug: generosity-indiegogo
 link: https://www.generosity.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

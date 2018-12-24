@@ -9,5 +9,6 @@ minor: 0
 patch: 1
 slug: playsimilar
 link: https://www.playsimilar.com/us
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

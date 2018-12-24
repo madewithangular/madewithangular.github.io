@@ -9,5 +9,6 @@ minor: 3
 patch: 10
 slug: stanford-classx
 link: http://classx.stanford.edu/Support
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 1
 patch: 0
 slug: brigitte-moustier
 link: http://peinture-passion-emotion.fr/home
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

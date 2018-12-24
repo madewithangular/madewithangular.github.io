@@ -9,5 +9,6 @@ minor: 3
 patch: 13
 slug: dareboost
 link: https://www.dareboost.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---

@@ -9,5 +9,6 @@ minor: 3
 patch: 16
 slug: cvs-pharmacy
 link: http://www.cvs.com/
+submitter: lpolepeddi
 permalink: /sites/:slug
 ---
