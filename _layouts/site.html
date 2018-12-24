@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="site">
+  <a href="{{ page.url }}" target="_blank">
+    <h2 class="title">{{ page.title }}</h2>
+    {% if page.versionMajor == 0 %}
+    <p class="version">Angular at <code>master</code></p>
+    {% elsif page.versionMajor == 1 %}
+    <p>AngularJS {{ page.version }}</p>
+    {% else %}
+    <p>Angular {{ page.version }}</p>
+    {% endif %}
+    <img src="https://s3.amazonaws.com/madewithangular.com/projects/{{ page.slug }}/thumb.jpg" alt="{{ page.title }}" width="100%">
+    <div class="visit"></div>
+  </a>
+</div>

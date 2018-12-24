@@ -1,0 +1,24 @@
+---
+layout: default
+title: Home
+permalink: /categories/finance/
+---
+<div class="projects row">
+{% for post in site.categories.finance %}
+  <div class="col-lg-6">
+    <div class="card">
+      <a href="{{ post.link }}">
+        <h3>{{ post.title }}</h3>
+        {% if post.major == 0 %}
+        <p class="version">Angular at <code>master</code></p>
+        {% elsif post.major == 1 %}
+        <p>AngularJS {{ post.version }}</p>
+        {% else %}
+        <p>Angular {{ post.version }}</p>
+        {% endif %}
+        <img src="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
+      </a>
+    </div>
+  </div>
+{% endfor %}
+</div>

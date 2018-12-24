@@ -1,0 +1,37 @@
+---
+layout: default
+title: Home
+---
+<div class="projects row">
+{% for post in paginator.posts %}
+  <div class="col-lg-6">
+    <div class="card">
+      <a href="{{ post.link }}" target="_blank">
+        <h3>{{ post.title }}</h3>
+        {% if post.major == 0 %}
+        <p class="version">Angular at <code>master</code></p>
+        {% elsif post.major == 1 %}
+        <p>AngularJS {{ post.version }}</p>
+        {% else %}
+        <p>Angular {{ post.version }}</p>
+        {% endif %}
+        <img src="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
+      </a>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">
+    Previous
+  </a>
+  {% endif %}
+
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>
+
