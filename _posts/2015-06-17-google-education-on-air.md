@@ -1,12 +1,12 @@
 ---
 layout: site
 title: "Google Education on Air"
-date: 2015-06-17
+date: 2020-10-03
 categories: [google]
-version: 1.6.5
-major: 1
-minor: 6
-patch: 5
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: google-education-on-air
 link: https://educationonair.withgoogle.com/
 submitter: lpolepeddi

@@ -3,10 +3,10 @@ layout: site
 title: "Google Atmosphere"
 date: 2015-06-28
 categories: [google]
-version: 1.5.6
-major: 1
-minor: 5
-patch: 6
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: google-atmosphere
 link: https://atmosphere.withgoogle.com
 submitter: lpolepeddi

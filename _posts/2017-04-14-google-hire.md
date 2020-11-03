@@ -3,10 +3,10 @@ layout: site
 title: "Google Hire"
 date: 2017-04-14
 categories: [google]
-version: 1.6.6
-major: 1
-minor: 6
-patch: 6
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: google-hire
 link: https://hire.withgoogle.com
 submitter: lpolepeddi

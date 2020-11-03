@@ -3,7 +3,7 @@ layout: site
 title: "Google Express"
 date: 2018-02-26
 categories: [google]
-version: 0.0.0.PLACEHOLDER
+version: 0.0.0
 major: 0
 minor: 0
 patch: 0

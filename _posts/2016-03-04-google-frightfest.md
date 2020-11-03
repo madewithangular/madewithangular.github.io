@@ -3,10 +3,10 @@ layout: site
 title: "Google Frightfest"
 date: 2016-03-04
 categories: [google]
-version: 1.4.5
-major: 1
-minor: 4
-patch: 5
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: google-frightfest
 link: https://frightgeist.withgoogle.com/
 submitter: lpolepeddi
