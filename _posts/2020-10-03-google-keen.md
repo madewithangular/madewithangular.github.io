@@ -1,14 +1,14 @@
 ---
 layout: site
-title: "Zagat"
-date: 2019-01-02
+title: "Keen"
+date: 2020-10-03
 categories: [google]
 version: 0.0.0
 major: 0
 minor: 0
 patch: 0
-slug: zagat
-link: https://www.zagat.com/
-submitter: lpolepeddi
+slug: google-keen
+link: https://staykeen.com/
+submitter: twerske
 permalink: /sites/:slug
 ---

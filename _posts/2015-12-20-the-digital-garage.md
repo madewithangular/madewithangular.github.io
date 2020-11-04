@@ -3,10 +3,10 @@ layout: site
 title: "The Digital Garage"
 date: 2015-12-20
 categories: [google]
-version: 1.5.9
-major: 1
-minor: 5
-patch: 9
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: the-digital-garage
 link: https://digitalgarage.withgoogle.com/
 submitter: johannes-weber

@@ -3,10 +3,10 @@ layout: site
 title: "DoubleClick"
 date: 2015-12-25
 categories: [google]
-version: 1.5.5
-major: 1
-minor: 5
-patch: 5
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: doubleclick
 link: https://www.doubleclickbygoogle.com/
 submitter: lpolepeddi

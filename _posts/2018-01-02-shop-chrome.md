@@ -3,10 +3,10 @@ layout: site
 title: "Shop Chrome"
 date: 2018-01-02
 categories: [google]
-version: 1.5.5
-major: 1
-minor: 5
-patch: 5
+version: 0.0.0
+major: 0
+minor: 0
+patch: 0
 slug: shop-chrome
 link: https://chromebusinessdevices.withgoogle.com/
 submitter: lpolepeddi
