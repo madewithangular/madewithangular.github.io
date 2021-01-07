@@ -7,7 +7,7 @@ permalink: /categories/fortune-500/
 {% for post in site.categories.fortune-500 %}
   <div class="col-lg-6">
     <div class="card">
-      <a href="{{ post.link }}">
+      <a href="/sites/{{ post.slug }}">
         <h3>{{ post.title }}</h3>
         {% if post.major == 0 %}
         <p class="version">Angular at <code>master</code></p>
@@ -16,7 +16,7 @@ permalink: /categories/fortune-500/
         {% else %}
         <p>Angular {{ post.version }}</p>
         {% endif %}
-        <img class="lazy" src="/assets/images/placeholder.svg" data-src="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" data-srcset="https://s3.amazonaws.com/madewithangular.com/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
+        <img class="lazy" src="/assets/images/site/placeholder.svg" data-src="/assets/images/projects/{{ post.slug }}/thumb.jpg" data-srcset="/assets/images/projects/{{ post.slug }}/thumb.jpg" alt="{{ post.title }}" width="100%">
       </a>
     </div>
   </div>
