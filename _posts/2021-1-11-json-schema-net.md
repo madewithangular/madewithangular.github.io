@@ -7,7 +7,7 @@ version: 9.1.6
 major: 9
 minor: 1
 patch: 6
-slug: jsonschema.net
+slug: jsonschema-net
 link: https://jsonschema.net/
 submitter: alyssamichelle
 permalink: /sites/:slug
