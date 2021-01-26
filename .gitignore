@@ -1,5 +1,6 @@
 #general
 .DS_Store
+.vscode
 
 # jekyll
 _site
