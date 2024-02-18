@@ -1,0 +1,525 @@
+- created_at: '2024-02-18T00:00:00.000Z'
+  description: 'Travel'
+  image: www.spirit.com.jpg
+  name: 'Sprit Airlines'
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-18T00:00:00.000Z'
+  url: https://www.spirit.com/
+- created_at: '2024-02-18T00:00:00.000Z'
+  description: 'Travel'
+  image: www.delta.com.jpg
+  name: 'Delta Air Lines'
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-18T00:00:00.000Z'
+  url: https://www.delta.com/
+- created_at: '2024-02-18T00:00:00.000Z'
+  description: 'Travel'
+  image: www.jetblue.com.jpg
+  name: 'JetBlue'
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-18T00:00:00.000Z'
+  url: https://www.jetblue.com/
+- created_at: '2024-02-18T00:00:00.000Z'
+  description: 'Entertainment'
+  image: archive.vanityfair.com.jpg
+  name: 'Vanity Fair Archive'
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-18T00:00:00.000Z'
+  url: https://archive.vanityfair.com/
+- created_at: '2019-06-05T00:00:00.000Z'
+  description: Finance
+  image: developer.db.com.jpg
+  name: Deutsche Bank Developer Portal
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://developer.db.com/
+- created_at: '2019-01-26T00:00:00.000Z'
+  description: Developer tools
+  image: clarity.design.jpg
+  name: VMware Clarity Design System
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://clarity.design/
+- created_at: '2019-01-02T00:00:00.000Z'
+  description: Google
+  image: summerofcode.withgoogle.com.jpg
+  name: Google Summer of Code
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://summerofcode.withgoogle.com/
+- created_at: '2019-01-02T00:00:00.000Z'
+  description: Google
+  image: marketingplatform.google.com.jpg
+  name: Google Marketing Platform
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://marketingplatform.google.com/
+- created_at: '2019-01-02T00:00:00.000Z'
+  description: Health & Fitness
+  image: healthcare.utah.edu.jpg
+  name: University of Utah Health
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://healthcare.utah.edu/
+- created_at: '2018-12-27T00:00:00.000Z'
+  description: Google
+  image: families.google.com.jpg
+  name: Google Family Link
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://families.google.com/familylink
+- created_at: '2018-12-25T00:00:00.000Z'
+  description: Lifestyle
+  image: www.identitytheft.gov.jpg
+  name: FTC Identity Theft
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.identitytheft.gov/
+- created_at: '2018-12-25T00:00:00.000Z'
+  description: Food & Drink
+  image: shop.safeway.com.jpg
+  name: Safeway Shop
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://shop.safeway.com/welcome.html
+- created_at: '2018-12-25T00:00:00.000Z'
+  description: Developer tools
+  image: video.blender.org.jpg
+  name: Blender Video
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://video.blender.org/videos/trending?sort=-trending&page=1
+- created_at: '2018-12-25T00:00:00.000Z'
+  description: Travel
+  image: jetstream.united.com.jpg
+  name: United Jetstream
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://jetstream.united.com/#/public-landing
+- created_at: '2018-12-25T00:00:00.000Z'
+  description: Developer tools
+  image: fonts.adobe.com.jpg
+  name: Adobe Fonts
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://fonts.adobe.com/
+- created_at: '2018-05-08T00:00:00.000Z'
+  description: Google
+  image: wellbeing.google.jpg
+  name: Google Digital Wellbeing
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://wellbeing.google/
+- created_at: '2018-04-29T00:00:00.000Z'
+  description: Travel
+  image: www.flytap.com.jpg
+  name: TAP Air Portugal
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.flytap.com/en-us/
+- created_at: '2018-04-17T00:00:00.000Z'
+  description: Medical
+  image: dictionary.apa.org.jpg
+  name: APA Dictionary of Psychology
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://dictionary.apa.org/
+- created_at: '2018-02-26T00:00:00.000Z'
+  description: microsoft
+  image: customers.microsoft.com.jpg
+  name: Microsoft Customers
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://customers.microsoft.com
+- created_at: '2018-02-01T00:00:00.000Z'
+  description: Education
+  image: www.wwfclimatecrowd.org.jpg
+  name: World Wildlife Fund Climate Crowd
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.wwfclimatecrowd.org/
+- created_at: '2018-01-24T00:00:00.000Z'
+  description: Education
+  image: qualifications.pearson.com.jpg
+  name: Pearson Qualifications
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://qualifications.pearson.com/en/home.html
+- created_at: '2018-01-17T00:00:00.000Z'
+  description: Developer tools
+  image: teradata.github.io.jpg
+  name: Teradata
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://teradata.github.io/covalent/#/
+- created_at: '2018-01-17T00:00:00.000Z'
+  description: Lifestyle
+  image: www.rememberthemilk.com.jpg
+  name: Remember The Milk
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.rememberthemilk.com/
+- created_at: '2018-01-17T00:00:00.000Z'
+  description: Finance
+  image: online.citi.com.jpg
+  name: Citibank Customer Service
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://online.citi.com/US/ag/contactus
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Travel
+  image: ttp.cbp.dhs.gov.jpg
+  name: Trusted Traveler Programs
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://ttp.cbp.dhs.gov/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Fortune 500
+  image: m.sears.com.jpg
+  name: Sears
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://m.sears.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Google
+  image: blog.google.jpg
+  name: The Keyword
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://blog.google/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Fortune 500
+  image: www.avery.com.jpg
+  name: Avery
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.avery.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Medical
+  image: nheasy.nh.gov.jpg
+  name: New Hampshire Dept of Health and Human Services
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://nheasy.nh.gov/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Finance
+  image: www.chasecenter.com.jpg
+  name: Chase Center
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.chasecenter.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Fortune 500
+  image: solutionpartner.cisco.com.jpg
+  name: Cisco Solution Partner Program
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://solutionpartner.cisco.com/site/index.gsp
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Travel
+  image: rooms.ryanair.com.jpg
+  name: Ryanair Rooms
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://rooms.ryanair.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Google
+  image: analytics.google.com.jpg
+  name: Google Analytics Academy
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://analytics.google.com/analytics/academy/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Fortune 500
+  image: typekit.com.jpg
+  name: Adobe Typekit
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://typekit.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Travel
+  image: www.ncl.com.jpg
+  name: Norwegian Cruise Line
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.ncl.com/
+- created_at: '2018-01-02T00:00:00.000Z'
+  description: Finance
+  image: www.capitalone.com.jpg
+  name: Capital One
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.capitalone.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Sports
+  image: www.goarmyedge.com.jpg
+  name: GoArmy Edge
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.goarmyedge.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Travel
+  image: www.universalorlando.com.jpg
+  name: Universal Orlando
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.universalorlando.com/web/en/us/index.html
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Google
+  image: waymo.com.jpg
+  name: Waymo
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://waymo.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Medical
+  image: nit.kaplan.com.jpg
+  name: Kaplan Nursing
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://nit.kaplan.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Lifestyle
+  image: www.freelancer.com.jpg
+  name: Freelancer
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.freelancer.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Fortune 500
+  image: www.republicservices.com.jpg
+  name: Republic Services
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.republicservices.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Transportation
+  image: www.bmwusa.com.jpg
+  name: BMW USA
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.bmwusa.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Food & Drink
+  image: order.dennys.com.jpg
+  name: Denny's Online Ordering
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://order.dennys.com/locations
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Fortune 500
+  image: support.hp.com.jpg
+  name: HP Customer Support
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://support.hp.com/us-en?openCLC=true
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: News & Weather
+  image: www.wunderground.com.jpg
+  name: Weather Underground
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.wunderground.com/
+- created_at: '2018-01-01T00:00:00.000Z'
+  description: Fortune 500
+  image: www.searsoutlet.com.jpg
+  name: Sears Outlet
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.searsoutlet.com/
+- created_at: '2017-09-12T00:00:00.000Z'
+  description: Travel
+  image: uk.megabus.com.jpg
+  name: Megabus Journey Planner
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://uk.megabus.com/journey-planner/journeys
+- created_at: '2017-05-17T00:00:00.000Z'
+  description: Google
+  image: ai.google.jpg
+  name: Google AI
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://ai.google
+- created_at: '2016-06-14T00:00:00.000Z'
+  description: Google
+  image: fonts.google.com.jpg
+  name: Google Fonts
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://fonts.google.com/
+- created_at: '2016-06-13T00:00:00.000Z'
+  description: Travel
+  image: www.carnival.com.jpg
+  name: Carnival Cruise Line
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.carnival.com/
+- created_at: '2016-06-13T00:00:00.000Z'
+  description: Travel
+  image: www.flynas.com.jpg
+  name: Flynas
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.flynas.com/en/
+- created_at: '2016-06-13T00:00:00.000Z'
+  description: Fortune 500
+  image: www.cvs.com.jpg
+  name: CVS Pharmacy
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.cvs.com/
+- created_at: '2016-06-13T00:00:00.000Z'
+  description: Travel
+  image: www.aerlingus.com.jpg
+  name: Aer Lingus
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.aerlingus.com/html/en-IE/home.html
+- created_at: '2016-05-02T00:00:00.000Z'
+  description: Google
+  image: smallbusiness.withgoogle.com.jpg
+  name: Google for Small Business
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://smallbusiness.withgoogle.com/
+- created_at: '2016-04-28T00:00:00.000Z'
+  description: Fortune 500
+  image: www.landsend.com.jpg
+  name: Lands' End
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.landsend.com/
+- created_at: '2016-03-09T00:00:00.000Z'
+  description: Google
+  image: musiclab.chromeexperiments.com.jpg
+  name: Chrome Music Lab
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://musiclab.chromeexperiments.com/Experiments
+- created_at: '2016-02-08T00:00:00.000Z'
+  description: Communication
+  image: www.virginmobile.ca.jpg
+  name: Virgin Mobile Canada
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.virginmobile.ca/en/home/index.html
+- created_at: '2016-01-29T00:00:00.000Z'
+  description: Food & Drink
+  image: www.seamless.com.jpg
+  name: Seamless
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.seamless.com/
+- created_at: '2016-01-29T00:00:00.000Z'
+  description: Food & Drink
+  image: www.grubhub.com.jpg
+  name: GrubHub
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.grubhub.com/
+- created_at: '2016-01-11T00:00:00.000Z'
+  description: News & Weather
+  image: www.pulitzer.org.jpg
+  name: The Pulitzer Prizes
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.pulitzer.org/
+- created_at: '2015-12-27T00:00:00.000Z'
+  description: Travel
+  image: www.australia.com.jpg
+  name: Australia.com
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.australia.com/
+- created_at: '2015-12-25T00:00:00.000Z'
+  description: Communication
+  image: telcel.com.jpg
+  name: Telcel
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://telcel.com/
+- created_at: '2015-11-30T00:00:00.000Z'
+  description: Fortune 500
+  image: mysolarcity.com.jpg
+  name: Solar City
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://mysolarcity.com/
+- created_at: '2015-11-22T00:00:00.000Z'
+  description: Fortune 500
+  image: search.cisco.com.jpg
+  name: Cisco Search
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://search.cisco.com/search
+- created_at: '2015-10-13T00:00:00.000Z'
+  description: Travel
+  image: www.ryanair.com.jpg
+  name: Ryanair
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.ryanair.com/gb/en/
+- created_at: '2015-10-12T00:00:00.000Z'
+  description: Health & Fitness
+  image: www.bodybuilding.com.jpg
+  name: Bodybuilding.com
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.bodybuilding.com/
+- created_at: '2015-10-09T00:00:00.000Z'
+  description: Fortune 500
+  image: exchange.xforce.ibmcloud.com.jpg
+  name: IBM X-Force Exchange
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://exchange.xforce.ibmcloud.com/
+- created_at: '2015-10-06T00:00:00.000Z'
+  description: Travel
+  image: www.jetblue.com.jpg
+  name: JetBlue
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.jetblue.com/
+- created_at: '2015-10-06T00:00:00.000Z'
+  description: Travel
+  image: www.hawaiianairlines.com.jpg
+  name: Hawaiian Airlines
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.hawaiianairlines.com/
+- created_at: '2015-10-05T00:00:00.000Z'
+  description: Fortune 500
+  image: developer.apple.com.jpg
+  name: Apple Developer Search
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://developer.apple.com/search/?q=wwdc&type=Videos
+- created_at: '2015-09-12T00:00:00.000Z'
+  description: News & Weather
+  image: www.gettyimages.com.jpg
+  name: Getty Images
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.gettyimages.com/
+- created_at: '2015-07-25T00:00:00.000Z'
+  description: Google
+  image: www.google.com.jpg
+  name: Google Cast
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: https://www.google.com/cast/
+- created_at: '2015-07-03T00:00:00.000Z'
+  description: News & Weather
+  image: www.istockphoto.com.jpg
+  name: iStockphoto
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://www.istockphoto.com
+- created_at: '2015-06-23T00:00:00.000Z'
+  description: Fortune 500
+  image: tradein.bestbuy.com.jpg
+  name: Best Buy Trade-In
+  submitter: lalithpolepeddi
+  updated_at: '2024-02-17T00:00:00.000Z'
+  url: http://tradein.bestbuy.com/client/#/catalog

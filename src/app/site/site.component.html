@@ -1,0 +1,18 @@
+<article class="flex flex-col items-start justify-between rounded-2xl bg-slate-50 p-6 hover:bg-slate-100">
+  <a href="{{ site.url }}?utm_source=madewithangular.com&utm_medium=website" target="_blank">
+    <div class="group relative w-full">
+      <img src="/assets/img/{{ site.image }}" alt="Screenshot of {{ site.name }}" class="drop-shadow-md aspect-[16/9] w-full rounded-2xl bg-gray-100 object-cover sm:aspect-[2/1] lg:aspect-[3/2]">
+    </div>
+    <div class="max-w-xl">
+      <div class="mt-6 group relative">
+        <h3 class="text-sm font-semibold leading-6 text-gray-900 ">
+            {{ site.name }}
+            <svg xmlns="http://www.w3.org/2000/svg" class="inline w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
+            </svg>
+        </h3>
+        <p class="line-clamp-3 text-sm leading-6 text-gray-500">{{ site.description }}</p>
+      </div>
+    </div>
+  </a>
+</article>

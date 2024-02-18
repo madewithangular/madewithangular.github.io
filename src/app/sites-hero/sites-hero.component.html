@@ -1,0 +1,42 @@
+<div class="relative isolate overflow-hidden bg-white pt-14">
+  <svg class="absolute inset-0 -z-10 h-full w-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top,white,transparent)]" aria-hidden="true">
+    <defs>
+      <pattern id="0787a7c5-978c-4f66-83c7-11c213f99cb7" width="200" height="200" x="50%" y="-1" patternUnits="userSpaceOnUse">
+        <path d="M.5 200V.5H200" fill="none"></path>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" stroke-width="0" fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)"></rect>
+  </svg>
+  <div class="py-8">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+      <div class="hidden sm:mb-8 sm:flex sm:justify-center">
+        <div class="bg-white relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10">
+          <strong class="font-semibold">
+            <time [dateTime]="status.date | date:'yyyy-MM-dd'" class="text-gray-600">{{ status.date | date:'longDate' }}</time>:
+          </strong>
+          
+          <ng-container *ngIf="status.changed !== ''">
+            {{ status.changed }}
+          </ng-container>
+
+          <ng-container *ngIf="status.added === 1">
+            {{ status.added }} new app added.
+          </ng-container>
+
+          <ng-container *ngIf="status.added > 1">
+            {{ status.added }} new apps added.
+          </ng-container>
+
+          <ng-container *ngIf="status.checked > 0">
+            All apps checked and confirmed to be made with Angular.
+          </ng-container>
+            
+        </div>
+      </div>
+      <div class="mx-auto max-w-2xl text-center">
+        <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">A showcase of web apps made with Angular</h1>
+        <!-- <p class="mt-6 text-lg leading-8 text-gray-600"></p> -->
+      </div>
+    </div>
+  </div>
+</div>

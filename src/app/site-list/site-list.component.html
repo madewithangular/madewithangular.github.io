@@ -1,0 +1,17 @@
+<div class="bg-white mt-8 mb-32">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+      
+      <ng-container *ngFor="let site of sites; let i = index">
+        <ng-container *ngIf="i !== 2; else adTemplate">
+          <app-site [site]="site"></app-site>
+        </ng-container>
+      </ng-container>
+      
+    </div>
+  </div>
+</div>
+
+<ng-template #adTemplate>
+  <app-ad></app-ad>
+</ng-template>
