@@ -7,8 +7,8 @@ We hope you find Made with Angular a source of inspiration and learning. Dive in
 ## Table of contents
 
 * [Status](#status)
-- [Contributing](#contributing)
-- [Sponsor](#sponsor)
+* [Contributing](#contributing)
+* [Sponsor](#sponsor)
 
 ## Status
 
@@ -16,8 +16,8 @@ Made with Angular is an actively maintained, dedicated to remaining up-to-date a
 
 ## Contributing
 
-Got an Angular app you're proud of? Or stumbled upon one that deserves the spotlight? Please share it with us here.
+Got an Angular app you're proud of? Or stumbled upon one that deserves the spotlight? Please [share it with us here](https://github.com/madewithangular/madewithangular.github.io/discussions/432).
 
 ## Sponsor
 
-This project thrives with your support. If you love what we do and wish to contribute, consider becoming a sponsor. Your sponsorship helps keep the site up-to-date and running smoothly. Every bit of support is cherished.
+This project thrives with your support. If you've found this project useful and wish to contribute, [consider becoming a sponsor](https://github.com/sponsors/madewithangular). Your sponsorship helps keep the site up-to-date and running smoothly. Every bit of support helps and is much appreciated.
