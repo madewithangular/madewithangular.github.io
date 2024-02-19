@@ -17,5 +17,5 @@ import { sites } from '../sites';
   styleUrl: './site-list.component.css'
 })
 export class SiteListComponent {
-  sites = [...sites];
+  sites: Array<any> = sites;
 }

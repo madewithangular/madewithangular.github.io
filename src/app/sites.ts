@@ -1,5 +1,4 @@
-const fs = require('fs');
-const yaml = require('js-yaml');
+import sitesData from '../../sites.json';
 
 export interface Site {
   name: string;
@@ -11,5 +10,4 @@ export interface Site {
   updated_at: string;
 }
 
-const fileContents = fs.readFileSync('./sites.yaml', 'utf8');
-export const sites = yaml.load(fileContents);
+export const sites = sitesData;

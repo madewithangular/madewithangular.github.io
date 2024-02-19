@@ -1,10 +1,6 @@
 import { Component } from '@angular/core';
 import { NgIf, DatePipe } from '@angular/common';
-const fs = require('fs');
-const yaml = require('js-yaml');
-
-const fileContents = fs.readFileSync('./changelog.yaml', 'utf8');
-const changelog = yaml.load(fileContents);
+import changelogData from '../../../changelog.json';
 
 @Component({
   selector: 'app-sites-hero',
@@ -14,5 +10,5 @@ const changelog = yaml.load(fileContents);
   styleUrl: './sites-hero.component.css'
 })
 export class SitesHeroComponent {
-  status = changelog[0]
+  status = changelogData[0]
 }
