@@ -1,5 +1,95 @@
 [
   {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.ups.com.jpg",
+    "name": "United Parcel Service",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.ups.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.tiaa.org.jpg",
+    "name": "TIAA",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.tiaa.org"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.lfg.com.jpg",
+    "name": "Lincoln Financial Group",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.lfg.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.franklinresources.com.jpg",
+    "name": "Franklin Templeton Investments",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.franklintempleton.com/"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.erieinsurance.com.jpg",
+    "name": "Erie Insurance Group",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.erieinsurance.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.cfindustries.com.jpg",
+    "name": "CF Industries",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.cfindustries.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.becn.com.jpg",
+    "name": "Beacon Building Products",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.becn.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.avantorsciences.com.jpg",
+    "name": "Avantor",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.avantorsciences.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.autonation.com.jpg",
+    "name": "AutoNation",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.autonation.com"
+  },
+  {
+    "created_at": "2024-03-02T00:00:00.000Z",
+    "description": "Fortune 500",
+    "image": "www.ameren.com.jpg",
+    "name": "Ameren",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-03-02T00:00:00.000Z",
+    "url": "https://www.ameren.com"
+  },
+  {
     "created_at": "2024-02-25T00:00:00.000Z",
     "description": "Business",
     "image": "clickup.com.jpg",
@@ -142,7 +232,7 @@
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
     "url": "https://video.blender.org/videos/local"
-  },  
+  },
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Travel",
@@ -367,7 +457,7 @@
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
     "url": "https://www.universalorlando.com/web/en/us"
-  },  
+  },
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Google",
@@ -403,7 +493,7 @@
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
     "url": "https://www.republicservices.com/"
-  },  
+  },
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Transportation",
