@@ -2,7 +2,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.ups.com.jpg",
+    "image": "www.ups.com.webp",
     "name": "United Parcel Service",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -11,7 +11,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.tiaa.org.jpg",
+    "image": "www.tiaa.org.webp",
     "name": "TIAA",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -20,7 +20,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.lfg.com.jpg",
+    "image": "www.lfg.com.webp",
     "name": "Lincoln Financial Group",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -29,7 +29,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.franklinresources.com.jpg",
+    "image": "www.franklinresources.com.webp",
     "name": "Franklin Templeton Investments",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -38,7 +38,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.erieinsurance.com.jpg",
+    "image": "www.erieinsurance.com.webp",
     "name": "Erie Insurance Group",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -47,7 +47,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.cfindustries.com.jpg",
+    "image": "www.cfindustries.com.webp",
     "name": "CF Industries",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -56,7 +56,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.becn.com.jpg",
+    "image": "www.becn.com.webp",
     "name": "Beacon Building Products",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -65,7 +65,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.avantorsciences.com.jpg",
+    "image": "www.avantorsciences.com.webp",
     "name": "Avantor",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -74,7 +74,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.autonation.com.jpg",
+    "image": "www.autonation.com.webp",
     "name": "AutoNation",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -83,7 +83,7 @@
   {
     "created_at": "2024-03-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.ameren.com.jpg",
+    "image": "www.ameren.com.webp",
     "name": "Ameren",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-03-02T00:00:00.000Z",
@@ -92,7 +92,7 @@
   {
     "created_at": "2024-02-25T00:00:00.000Z",
     "description": "Business",
-    "image": "clickup.com.jpg",
+    "image": "clickup.com.webp",
     "name": "ClickUp",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-25T00:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "created_at": "2024-02-19T00:00:00.000Z",
     "description": "Google",
-    "image": "gemini.google.com.jpg",
+    "image": "gemini.google.com.webp",
     "name": "Google Gemini",
     "submitter": "clientelacrm",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -110,7 +110,7 @@
   {
     "created_at": "2024-02-19T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.klm.com.jpg",
+    "image": "www.klm.com.webp",
     "name": "KLM Royal Ditch Airlines",
     "submitter": "ala-ebi",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -119,7 +119,7 @@
   {
     "created_at": "2024-02-18T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.spirit.com.jpg",
+    "image": "www.spirit.com.webp",
     "name": "Sprit Airlines",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -128,7 +128,7 @@
   {
     "created_at": "2024-02-18T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.delta.com.jpg",
+    "image": "www.delta.com.webp",
     "name": "Delta Air Lines",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -137,7 +137,7 @@
   {
     "created_at": "2024-02-18T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.jetblue.com.jpg",
+    "image": "www.jetblue.com.webp",
     "name": "JetBlue",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -146,7 +146,7 @@
   {
     "created_at": "2024-02-18T00:00:00.000Z",
     "description": "Entertainment",
-    "image": "archive.vanityfair.com.jpg",
+    "image": "archive.vanityfair.com.webp",
     "name": "Vanity Fair Archive",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-18T00:00:00.000Z",
@@ -155,7 +155,7 @@
   {
     "created_at": "2019-06-05T00:00:00.000Z",
     "description": "Finance",
-    "image": "developer.db.com.jpg",
+    "image": "developer.db.com.webp",
     "name": "Deutsche Bank Developer Portal",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -164,7 +164,7 @@
   {
     "created_at": "2019-01-26T00:00:00.000Z",
     "description": "Developer tools",
-    "image": "clarity.design.jpg",
+    "image": "clarity.design.webp",
     "name": "VMware Clarity Design System",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -173,7 +173,7 @@
   {
     "created_at": "2019-01-02T00:00:00.000Z",
     "description": "Google",
-    "image": "summerofcode.withgoogle.com.jpg",
+    "image": "summerofcode.withgoogle.com.webp",
     "name": "Google Summer of Code",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -182,7 +182,7 @@
   {
     "created_at": "2019-01-02T00:00:00.000Z",
     "description": "Google",
-    "image": "marketingplatform.google.com.jpg",
+    "image": "marketingplatform.google.com.webp",
     "name": "Google Marketing Platform",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -191,7 +191,7 @@
   {
     "created_at": "2019-01-02T00:00:00.000Z",
     "description": "Health & Fitness",
-    "image": "healthcare.utah.edu.jpg",
+    "image": "healthcare.utah.edu.webp",
     "name": "University of Utah Health",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -200,7 +200,7 @@
   {
     "created_at": "2018-12-27T00:00:00.000Z",
     "description": "Google",
-    "image": "families.google.com.jpg",
+    "image": "families.google.com.webp",
     "name": "Google Family Link",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -209,7 +209,7 @@
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Lifestyle",
-    "image": "www.identitytheft.gov.jpg",
+    "image": "www.identitytheft.gov.webp",
     "name": "FTC Identity Theft",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -218,7 +218,7 @@
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Food & Drink",
-    "image": "shop.safeway.com.jpg",
+    "image": "shop.safeway.com.webp",
     "name": "Safeway Shop",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -227,7 +227,7 @@
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Developer tools",
-    "image": "video.blender.org.jpg",
+    "image": "video.blender.org.webp",
     "name": "Blender Video",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -236,7 +236,7 @@
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Travel",
-    "image": "jetstream.united.com.jpg",
+    "image": "jetstream.united.com.webp",
     "name": "United Jetstream",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -245,7 +245,7 @@
   {
     "created_at": "2018-12-25T00:00:00.000Z",
     "description": "Developer tools",
-    "image": "fonts.adobe.com.jpg",
+    "image": "fonts.adobe.com.webp",
     "name": "Adobe Fonts",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -254,7 +254,7 @@
   {
     "created_at": "2018-05-08T00:00:00.000Z",
     "description": "Google",
-    "image": "wellbeing.google.jpg",
+    "image": "wellbeing.google.webp",
     "name": "Google Digital Wellbeing",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -263,7 +263,7 @@
   {
     "created_at": "2018-04-29T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.flytap.com.jpg",
+    "image": "www.flytap.com.webp",
     "name": "TAP Air Portugal",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -272,7 +272,7 @@
   {
     "created_at": "2018-04-17T00:00:00.000Z",
     "description": "Medical",
-    "image": "dictionary.apa.org.jpg",
+    "image": "dictionary.apa.org.webp",
     "name": "APA Dictionary of Psychology",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -281,7 +281,7 @@
   {
     "created_at": "2018-02-26T00:00:00.000Z",
     "description": "microsoft",
-    "image": "customers.microsoft.com.jpg",
+    "image": "customers.microsoft.com.webp",
     "name": "Microsoft Customers",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -290,7 +290,7 @@
   {
     "created_at": "2018-02-01T00:00:00.000Z",
     "description": "Education",
-    "image": "www.wwfclimatecrowd.org.jpg",
+    "image": "www.wwfclimatecrowd.org.webp",
     "name": "World Wildlife Fund Climate Crowd",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -299,7 +299,7 @@
   {
     "created_at": "2018-01-24T00:00:00.000Z",
     "description": "Education",
-    "image": "qualifications.pearson.com.jpg",
+    "image": "qualifications.pearson.com.webp",
     "name": "Pearson Qualifications",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -308,7 +308,7 @@
   {
     "created_at": "2018-01-17T00:00:00.000Z",
     "description": "Developer tools",
-    "image": "teradata.github.io.jpg",
+    "image": "teradata.github.io.webp",
     "name": "Teradata",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -317,7 +317,7 @@
   {
     "created_at": "2018-01-17T00:00:00.000Z",
     "description": "Lifestyle",
-    "image": "www.rememberthemilk.com.jpg",
+    "image": "www.rememberthemilk.com.webp",
     "name": "Remember The Milk",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -326,7 +326,7 @@
   {
     "created_at": "2018-01-17T00:00:00.000Z",
     "description": "Finance",
-    "image": "online.citi.com.jpg",
+    "image": "online.citi.com.webp",
     "name": "Citibank Customer Service",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -335,7 +335,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Travel",
-    "image": "ttp.cbp.dhs.gov.jpg",
+    "image": "ttp.cbp.dhs.gov.webp",
     "name": "Trusted Traveler Programs",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -344,7 +344,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "m.sears.com.jpg",
+    "image": "m.sears.com.webp",
     "name": "Sears",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -353,7 +353,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Google",
-    "image": "blog.google.jpg",
+    "image": "blog.google.webp",
     "name": "The Keyword",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -362,7 +362,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.avery.com.jpg",
+    "image": "www.avery.com.webp",
     "name": "Avery",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -371,7 +371,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Medical",
-    "image": "nheasy.nh.gov.jpg",
+    "image": "nheasy.nh.gov.webp",
     "name": "New Hampshire Dept of Health and Human Services",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -380,7 +380,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Finance",
-    "image": "www.chasecenter.com.jpg",
+    "image": "www.chasecenter.com.webp",
     "name": "Chase Center",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -389,7 +389,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "solutionpartner.cisco.com.jpg",
+    "image": "solutionpartner.cisco.com.webp",
     "name": "Cisco Solution Partner Program",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -398,7 +398,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Travel",
-    "image": "rooms.ryanair.com.jpg",
+    "image": "rooms.ryanair.com.webp",
     "name": "Ryanair Rooms",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -407,7 +407,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Google",
-    "image": "analytics.google.com.jpg",
+    "image": "analytics.google.com.webp",
     "name": "Google Analytics Academy",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -416,7 +416,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "typekit.com.jpg",
+    "image": "typekit.com.webp",
     "name": "Adobe Typekit",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -425,7 +425,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.ncl.com.jpg",
+    "image": "www.ncl.com.webp",
     "name": "Norwegian Cruise Line",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -434,7 +434,7 @@
   {
     "created_at": "2018-01-02T00:00:00.000Z",
     "description": "Finance",
-    "image": "www.capitalone.com.jpg",
+    "image": "www.capitalone.com.webp",
     "name": "Capital One",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -443,7 +443,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Sports",
-    "image": "www.goarmyedge.com.jpg",
+    "image": "www.goarmyedge.com.webp",
     "name": "GoArmy Edge",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -452,7 +452,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.universalorlando.com.jpg",
+    "image": "www.universalorlando.com.webp",
     "name": "Universal Orlando",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -461,7 +461,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Google",
-    "image": "waymo.com.jpg",
+    "image": "waymo.com.webp",
     "name": "Waymo",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -470,7 +470,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Medical",
-    "image": "nit.kaplan.com.jpg",
+    "image": "nit.kaplan.com.webp",
     "name": "Kaplan Nursing",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -479,7 +479,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Lifestyle",
-    "image": "www.freelancer.com.jpg",
+    "image": "www.freelancer.com.webp",
     "name": "Freelancer",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -488,7 +488,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.republicservices.com.jpg",
+    "image": "www.republicservices.com.webp",
     "name": "Republic Services",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -497,7 +497,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Transportation",
-    "image": "www.bmwusa.com.jpg",
+    "image": "www.bmwusa.com.webp",
     "name": "BMW USA",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -506,7 +506,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Food & Drink",
-    "image": "order.dennys.com.jpg",
+    "image": "order.dennys.com.webp",
     "name": "Denny's Online Ordering",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -515,7 +515,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "support.hp.com.jpg",
+    "image": "support.hp.com.webp",
     "name": "HP Customer Support",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -524,7 +524,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "News & Weather",
-    "image": "www.wunderground.com.jpg",
+    "image": "www.wunderground.com.webp",
     "name": "Weather Underground",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -533,7 +533,7 @@
   {
     "created_at": "2018-01-01T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.searsoutlet.com.jpg",
+    "image": "www.searsoutlet.com.webp",
     "name": "Sears Outlet",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -542,7 +542,7 @@
   {
     "created_at": "2017-09-12T00:00:00.000Z",
     "description": "Travel",
-    "image": "uk.megabus.com.jpg",
+    "image": "uk.megabus.com.webp",
     "name": "Megabus Journey Planner",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -551,7 +551,7 @@
   {
     "created_at": "2017-05-17T00:00:00.000Z",
     "description": "Google",
-    "image": "ai.google.jpg",
+    "image": "ai.google.webp",
     "name": "Google AI",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -560,7 +560,7 @@
   {
     "created_at": "2016-06-14T00:00:00.000Z",
     "description": "Google",
-    "image": "fonts.google.com.jpg",
+    "image": "fonts.google.com.webp",
     "name": "Google Fonts",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -569,7 +569,7 @@
   {
     "created_at": "2016-06-13T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.carnival.com.jpg",
+    "image": "www.carnival.com.webp",
     "name": "Carnival Cruise Line",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -578,7 +578,7 @@
   {
     "created_at": "2016-06-13T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.flynas.com.jpg",
+    "image": "www.flynas.com.webp",
     "name": "Flynas",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -587,7 +587,7 @@
   {
     "created_at": "2016-06-13T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.cvs.com.jpg",
+    "image": "www.cvs.com.webp",
     "name": "CVS Pharmacy",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -596,7 +596,7 @@
   {
     "created_at": "2016-06-13T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.aerlingus.com.jpg",
+    "image": "www.aerlingus.com.webp",
     "name": "Aer Lingus",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -605,7 +605,7 @@
   {
     "created_at": "2016-05-02T00:00:00.000Z",
     "description": "Google",
-    "image": "smallbusiness.withgoogle.com.jpg",
+    "image": "smallbusiness.withgoogle.com.webp",
     "name": "Google for Small Business",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -614,7 +614,7 @@
   {
     "created_at": "2016-04-28T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "www.landsend.com.jpg",
+    "image": "www.landsend.com.webp",
     "name": "Lands' End",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -623,7 +623,7 @@
   {
     "created_at": "2016-03-09T00:00:00.000Z",
     "description": "Google",
-    "image": "musiclab.chromeexperiments.com.jpg",
+    "image": "musiclab.chromeexperiments.com.webp",
     "name": "Chrome Music Lab",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -632,7 +632,7 @@
   {
     "created_at": "2016-02-08T00:00:00.000Z",
     "description": "Communication",
-    "image": "www.virginmobile.ca.jpg",
+    "image": "www.virginmobile.ca.webp",
     "name": "Virgin Mobile Canada",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -641,7 +641,7 @@
   {
     "created_at": "2016-01-29T00:00:00.000Z",
     "description": "Food & Drink",
-    "image": "www.seamless.com.jpg",
+    "image": "www.seamless.com.webp",
     "name": "Seamless",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -650,7 +650,7 @@
   {
     "created_at": "2016-01-29T00:00:00.000Z",
     "description": "Food & Drink",
-    "image": "www.grubhub.com.jpg",
+    "image": "www.grubhub.com.webp",
     "name": "GrubHub",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -659,7 +659,7 @@
   {
     "created_at": "2016-01-11T00:00:00.000Z",
     "description": "News & Weather",
-    "image": "www.pulitzer.org.jpg",
+    "image": "www.pulitzer.org.webp",
     "name": "The Pulitzer Prizes",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -668,7 +668,7 @@
   {
     "created_at": "2015-12-27T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.australia.com.jpg",
+    "image": "www.australia.com.webp",
     "name": "Australia.com",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -677,7 +677,7 @@
   {
     "created_at": "2015-12-25T00:00:00.000Z",
     "description": "Communication",
-    "image": "telcel.com.jpg",
+    "image": "telcel.com.webp",
     "name": "Telcel",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -686,7 +686,7 @@
   {
     "created_at": "2015-11-30T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "mysolarcity.com.jpg",
+    "image": "mysolarcity.com.webp",
     "name": "Solar City",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -695,7 +695,7 @@
   {
     "created_at": "2015-11-22T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "search.cisco.com.jpg",
+    "image": "search.cisco.com.webp",
     "name": "Cisco Search",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -704,7 +704,7 @@
   {
     "created_at": "2015-10-13T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.ryanair.com.jpg",
+    "image": "www.ryanair.com.webp",
     "name": "Ryanair",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -713,7 +713,7 @@
   {
     "created_at": "2015-10-12T00:00:00.000Z",
     "description": "Health & Fitness",
-    "image": "www.bodybuilding.com.jpg",
+    "image": "www.bodybuilding.com.webp",
     "name": "Bodybuilding.com",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -722,7 +722,7 @@
   {
     "created_at": "2015-10-09T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "exchange.xforce.ibmcloud.com.jpg",
+    "image": "exchange.xforce.ibmcloud.com.webp",
     "name": "IBM X-Force Exchange",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -731,7 +731,7 @@
   {
     "created_at": "2015-10-06T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.jetblue.com.jpg",
+    "image": "www.jetblue.com.webp",
     "name": "JetBlue",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -740,7 +740,7 @@
   {
     "created_at": "2015-10-06T00:00:00.000Z",
     "description": "Travel",
-    "image": "www.hawaiianairlines.com.jpg",
+    "image": "www.hawaiianairlines.com.webp",
     "name": "Hawaiian Airlines",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -749,7 +749,7 @@
   {
     "created_at": "2015-10-05T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "developer.apple.com.jpg",
+    "image": "developer.apple.com.webp",
     "name": "Apple Developer Search",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -758,7 +758,7 @@
   {
     "created_at": "2015-09-12T00:00:00.000Z",
     "description": "News & Weather",
-    "image": "www.gettyimages.com.jpg",
+    "image": "www.gettyimages.com.webp",
     "name": "Getty Images",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -767,7 +767,7 @@
   {
     "created_at": "2015-07-25T00:00:00.000Z",
     "description": "Google",
-    "image": "www.google.com.jpg",
+    "image": "www.google.com.webp",
     "name": "Google Cast",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -776,7 +776,7 @@
   {
     "created_at": "2015-07-03T00:00:00.000Z",
     "description": "News & Weather",
-    "image": "www.istockphoto.com.jpg",
+    "image": "www.istockphoto.com.webp",
     "name": "iStockphoto",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
@@ -785,7 +785,7 @@
   {
     "created_at": "2015-06-23T00:00:00.000Z",
     "description": "Fortune 500",
-    "image": "tradein.bestbuy.com.jpg",
+    "image": "tradein.bestbuy.com.webp",
     "name": "Best Buy Trade-In",
     "submitter": "lalithpolepeddi",
     "updated_at": "2024-02-17T00:00:00.000Z",
