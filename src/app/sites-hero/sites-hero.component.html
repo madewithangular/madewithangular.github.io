@@ -12,7 +12,7 @@
       <div class="hidden sm:mb-8 sm:flex sm:justify-center">
         <div class="bg-white relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10">
           <strong class="font-semibold">
-            <time [dateTime]="status.date | date:'yyyy-MM-dd'" class="text-gray-600">{{ status.date | date:'longDate' }}</time>:
+            Updated <time [dateTime]="status.date | date:'yyyy-MM-dd'" class="text-gray-600">{{ status.date | date:'longDate' }}</time>:
           </strong>
           
           <ng-container *ngIf="status.changed !== ''">
