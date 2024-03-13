@@ -11,7 +11,13 @@
               <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25" />
             </svg>
         </h3>
-        <p class="line-clamp-3 text-sm leading-6 text-gray-500">{{ site.description }}</p>
+        <div class="flex items-center gap-x-2 text-xs">
+          <p class="line-clamp-3 text-sm leading-6 text-gray-500">{{ site.description }}</p>
+          <ng-container *ngIf="site.version !== ''">
+            <span>&middot;</span>
+            <p class="line-clamp-3 text-sm leading-6 text-gray-500">Angular version {{ site.version }}</p>
+          </ng-container>
+        </div>
       </div>
     </div>
   </a>
