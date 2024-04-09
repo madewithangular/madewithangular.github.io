@@ -1,5 +1,14 @@
 [
   {
+    "created_at": "2024-04-09T00:00:00.000Z",
+    "description": "",
+    "image": "otter.ai.jpg",
+    "name": "Otter.ai",
+    "submitter": "nartc",
+    "updated_at": "2024-04-09T00:00:00.000Z",
+    "url": "https://otter.ai/signin"
+  },
+  {
     "created_at": "2024-03-12T00:00:00.000Z",
     "description": "Entertainment",
     "image": "us.shop.battle.net.webp",
