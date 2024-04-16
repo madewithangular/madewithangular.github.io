@@ -11,7 +11,7 @@ import { NgIf } from '@angular/common';
 export class SiteComponent {
   @Input() site!: { 
     name: string; 
-    description: string;
+    category: string;
     url: string;
     image: string;
     version: string;

@@ -12,10 +12,10 @@
             </svg>
         </h3>
         <div class="flex items-center gap-x-2 text-xs">
-          <p class="line-clamp-3 text-sm leading-6 text-gray-500">{{ site.description }}</p>
+          <p class="line-clamp-3 text-sm leading-6 text-gray-500">{{ site.category }}</p>
           <ng-container *ngIf="site.version !== ''">
             <span>&middot;</span>
-            <p class="line-clamp-3 text-sm leading-6 text-gray-500">Angular version {{ site.version }}</p>
+            <p class="line-clamp-3 text-sm leading-6 text-gray-500">Angular v{{ site.version }}</p>
           </ng-container>
         </div>
       </div>

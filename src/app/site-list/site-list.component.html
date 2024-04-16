@@ -6,12 +6,15 @@
         <ng-container *ngIf="i !== 2; else adTemplate">
           <app-site [site]="site"></app-site>
         </ng-container>
+
+        <ng-template #adTemplate>
+          <app-ad></app-ad>
+          <app-site [site]="site"></app-site>
+        </ng-template>
+
       </ng-container>
       
     </div>
   </div>
 </div>
 
-<ng-template #adTemplate>
-  <app-ad></app-ad>
-</ng-template>
