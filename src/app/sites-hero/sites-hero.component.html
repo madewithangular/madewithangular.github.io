@@ -27,6 +27,14 @@
             {{ status.added }} new apps added.
           </ng-container>
 
+          <ng-container *ngIf="status.removed === 1">
+            {{ status.removed }} app removed.
+          </ng-container>
+
+          <ng-container *ngIf="status.removed > 1">
+            {{ status.removed }} apps removed.
+          </ng-container>
+
           <ng-container *ngIf="status.checked > 0">
             All apps checked and confirmed to be made with Angular.
           </ng-container>
