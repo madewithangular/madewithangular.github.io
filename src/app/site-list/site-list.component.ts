@@ -18,4 +18,22 @@ import { sites } from '../sites';
 })
 export class SiteListComponent {
   sites: Array<any> = sites;
+  filteredSites: Array<any> = sites;
+
+  filterSites(searchText: string) {
+    if (!searchText) {
+      this.filteredSites = this.sites;
+    } else {
+      const lowerCaseSearchText = searchText.toLowerCase();
+      this.filteredSites = this.sites.filter(site => 
+        site.name.toLowerCase().includes(lowerCaseSearchText) || 
+        site.category.toLowerCase().includes(lowerCaseSearchText)
+      );
+    }
+  }
+
+  onSearch(event: Event) {
+    const searchText = (event.target as HTMLInputElement).value;
+    this.filterSites(searchText);
+  }
 }
