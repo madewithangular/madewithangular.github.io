@@ -1,5 +1,15 @@
 [
   {
+    "created_at": "2024-07-20T00:00:00.000Z",
+    "category": "Developer Tools",
+    "image": "sycl.tech.jpg",
+    "name": "SYCL",
+    "submitter": "lalithpolepeddi",
+    "updated_at": "2024-07-20T00:00:00.000Z",
+    "url": "https://sycl.tech/",
+    "version": "18.1.0"
+  },
+  {
     "created_at": "2024-07-09T00:00:00.000Z",
     "category": "Utilities",
     "image": "www.namecheap.com.jpg",
