@@ -1,5 +1,35 @@
 [
   {
+    "created_at": "2025-03-05T00:00:00.000Z",
+    "category": "Utilities",
+    "image": "vault.bitwarden.com.jpg",
+    "name": "Bitwarden Vault",
+    "submitter": "michael-small",
+    "updated_at": "2025-03-05T00:00:00.000Z",
+    "url": "https://vault.bitwarden.com/#/login",
+    "version": "18.2.13"
+  },  
+  {
+    "created_at": "2025-03-05T00:00:00.000Z",
+    "category": "Medical",
+    "image": "www.ebi.ac.uk.jpg",
+    "name": "European Bioinformatics Institute (EMBL-EBI)",
+    "submitter": "lawaldare",
+    "updated_at": "2025-03-05T00:00:00.000Z",
+    "url": "https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/sti",
+    "version": "18.2.1"
+  },
+  {
+    "created_at": "2025-03-05T00:00:00.000Z",
+    "category": "Finance",
+    "image": "payme.uz.jpg",
+    "name": "Payme",
+    "submitter": "MansurIsakov",
+    "updated_at": "2025-03-05T00:00:00.000Z",
+    "url": "https://payme.uz/",
+    "version": "10.2.4"
+  },
+  {
     "created_at": "2025-02-19T00:00:00.000Z",
     "category": "Developer Tools",
     "image": "console.cloud.google.com.jpg",
