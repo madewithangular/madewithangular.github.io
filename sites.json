@@ -2,6 +2,16 @@
   {
     "created_at": "2025-03-05T00:00:00.000Z",
     "category": "Utilities",
+    "image": "scoredash.xyz.webp",
+    "name": "OpenSSF Explorer",
+    "submitter": "scottstraughan",
+    "updated_at": "2025-05-15T11:05:00.000Z",
+    "url": "https://www.scoredash.xyz",
+    "version": "1.0.0"
+  },
+  {
+    "created_at": "2025-03-05T00:00:00.000Z",
+    "category": "Utilities",
     "image": "vault.bitwarden.com.jpg",
     "name": "Bitwarden Vault",
     "submitter": "michael-small",
