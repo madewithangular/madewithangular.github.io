@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { NgFor, NgIf } from '@angular/common';
 import { SiteComponent } from '../site/site.component';
@@ -15,7 +14,6 @@ import { sites } from '../sites';
     AdComponent,
     NgFor,
     NgIf,
-    HttpClientModule,
     CommonModule,
   ],
   templateUrl: './site-list.component.html',
