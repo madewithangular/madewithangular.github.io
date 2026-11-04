@@ -14,30 +14,30 @@
           <strong class="font-semibold">
             Updated <time [dateTime]="status.date | date:'yyyy-MM-dd'" class="text-gray-600">{{ status.date | date:'longDate' }}</time>:
           </strong>
-          
-          <ng-container *ngIf="status.changed !== ''">
+
+          @if (status.changed !== '') {
             {{ status.changed }}
-          </ng-container>
+          }
 
-          <ng-container *ngIf="status.added === 1">
+          @if (status.added === 1) {
             {{ status.added }} new app added.
-          </ng-container>
+          }
 
-          <ng-container *ngIf="status.added > 1">
+          @if (status.added > 1) {
             {{ status.added }} new apps added.
-          </ng-container>
+          }
 
-          <ng-container *ngIf="status.removed === 1">
+          @if (status.removed === 1) {
             {{ status.removed }} app removed.
-          </ng-container>
+          }
 
-          <ng-container *ngIf="status.removed > 1">
+          @if (status.removed > 1) {
             {{ status.removed }} apps removed.
-          </ng-container>
+          }
 
-          <ng-container *ngIf="status.checked > 0">
+          @if (status.checked > 0) {
             All apps checked and confirmed to be made with Angular.
-          </ng-container>
+          }
         </div>
       </div>
       <div class="mx-auto max-w-2xl text-center">

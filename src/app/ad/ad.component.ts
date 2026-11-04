@@ -2,7 +2,6 @@ import { Component, Renderer2, ElementRef, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-ad',
-  standalone: true,
   imports: [],
   templateUrl: './ad.component.html',
   styleUrl: './ad.component.css'

@@ -1,10 +1,9 @@
 import { Component, Input } from '@angular/core';
-import { NgIf } from '@angular/common';
+
 
 @Component({
   selector: 'app-site',
-  standalone: true,
-  imports: [NgIf],
+  imports: [],
   templateUrl: './site.component.html',
   styleUrl: './site.component.css'
 })

@@ -6,12 +6,11 @@ import { SiteListComponent } from '../site-list/site-list.component';
 
 @Component({
   selector: 'app-sites',
-  standalone: true,
-  imports: [ 
+  imports: [
     HeaderComponent,
     SitesHeroComponent,
     SiteListComponent,
-    FooterComponent, 
+    FooterComponent,
   ],
   templateUrl: './sites.component.html',
   styleUrl: './sites.component.css'

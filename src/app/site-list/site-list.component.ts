@@ -1,20 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { CommonModule } from '@angular/common';
-import { NgFor, NgIf } from '@angular/common';
+
+
 import { SiteComponent } from '../site/site.component';
 import { AdComponent } from '../ad/ad.component';
 import { sites } from '../sites';
 
 @Component({
   selector: 'app-site-list',
-  standalone: true,
   imports: [
-    SiteComponent,
-    AdComponent,
-    NgFor,
-    NgIf,
-    CommonModule,
+  SiteComponent,
+  AdComponent
   ],
   templateUrl: './site-list.component.html',
   styleUrl: './site-list.component.css'
